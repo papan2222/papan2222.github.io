@@ -4,50 +4,52 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>The Plushverse</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
-      font-family: sans-serif;
-      background: url('https://github.com/papan2222/papan2222.github.io/blob/main/280525Image_fx%20(43).jpg?raw=true') no-repeat center center fixed;
+      font-family: 'Noto Sans JP', sans-serif;
+      background-image: url('https://github.com/papan2222/papan2222.github.io/blob/main/280525Image_fx%20(43).jpg?raw=true');
       background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
       color: #333;
     }
 
     .container {
-      background-color: rgba(255, 255, 255, 0.9);
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 20px;
-      border-radius: 20px;
-      box-shadow: 0 0 20px rgba(0,0,0,0.2);
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 30px 20px;
     }
 
-    .site-intro {
+    .site-card {
       text-align: center;
       margin-bottom: 40px;
     }
 
-    .site-intro img {
+    .site-card img {
       width: 200px;
       height: auto;
-      border-radius: 50% / 30%;
-      object-fit: cover;
-      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+      border-radius: 50%/30%;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
     }
 
-    .site-intro h2 {
-      margin: 10px 0 5px;
-      font-size: 1.5em;
+    .site-card h1 {
+      font-size: 24px;
+      margin: 15px 0 5px;
     }
 
-    .site-intro p {
+    .site-card p {
       margin: 5px 0;
     }
 
-    .site-intro a {
+    .site-link {
       display: inline-block;
       margin-top: 10px;
-      color: #007bff;
+      padding: 8px 16px;
+      color: white;
+      background-color: #007bff;
+      border-radius: 6px;
       text-decoration: none;
       font-weight: bold;
     }
@@ -62,73 +64,88 @@
     .card {
       background: white;
       border-radius: 16px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      padding: 16px;
-      width: 260px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      width: 280px;
+      padding: 20px;
       text-align: center;
     }
 
     .card img {
-      max-width: 160px;
-      height: auto;
-      margin-bottom: 10px;
-      border-radius: 10px;
+      width: 100%;
+      border-radius: 12px;
     }
 
-    .price-tag {
-      background-color: #ff9800;
-      color: white;
+    .price-label {
       display: inline-block;
-      padding: 4px 8px;
-      border-radius: 10px;
-      font-size: 0.8em;
-      margin-bottom: 6px;
+      background: orange;
+      color: white;
+      padding: 4px 10px;
+      border-radius: 20px;
+      margin-top: 10px;
+      font-size: 14px;
     }
 
-    .card h3 {
-      margin: 10px 0 5px;
-      font-size: 1.2em;
-    }
-
-    .card p {
-      font-size: 0.9em;
-      margin: 0 0 10px;
-    }
-
-    .card a {
-      color: #007bff;
+    .card-title {
+      font-size: 18px;
       font-weight: bold;
-      text-decoration: none;
+      margin: 15px 0 8px;
+    }
+
+    .card-desc {
+      font-size: 14px;
+    }
+
+    @media screen and (max-width: 600px) {
+      .cards {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .card {
+        width: 90%;
+      }
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <div class="site-intro">
-      <img src="https://github.com/papan2222/papan2222.github.io/blob/main/270525Image_fx%20(18).jpg?raw=true" alt="PandaLife Image">
-      <h2>🌐 PandaLife</h2>
+
+    <!-- PandaLife サイト紹介 -->
+    <div class="site-card">
+      <img src="https://github.com/papan2222/papan2222.github.io/blob/main/270525Image_fx%20(18).jpg?raw=true" alt="PandaLife">
+      <h1>🌐 PandaLife</h1>
       <p><strong>A Diary Penned by a Plush Panda's Heart</strong></p>
-      <p>ぬいぐるみパンダが想いを絢る日記</p>
-      <a href="https://sites.google.com/view/pandalife22">→ サイトを見る</a>
+      <p>ぬいぐるみパンダが想いを綴る日記</p>
+      <a class="site-link" href="https://sites.google.com/view/pandalife22" target="_blank">→ サイトを見る</a>
     </div>
 
+    <!-- Kindle本 カード一覧 -->
     <div class="cards">
+      <!-- 英単語300 -->
       <div class="card">
-        <img src="https://github.com/papan2222/papan2222.github.io/blob/main/%E8%A1%A8%E7%B4%99.jpg?raw=true" alt="英単語300 表紙">
-        <div class="price-tag">¥99／Kindle Unlimited</div>
-        <h3>英単語300 -動物たちと楽しく-</h3>
-        <p>動物キャラたちの楽しい会話で、単語を楽しく覚えられる英語学習本！</p>
-        <a href="https://www.amazon.co.jp/dp/B0FDW792M5">Amazonで見る →</a>
+        <a href="https://www.amazon.co.jp/dp/B0FDW792M5" target="_blank">
+          <img src="https://github.com/papan2222/papan2222.github.io/blob/main/%E8%A1%A8%E7%B4%99.jpg?raw=true" alt="英単語300 表紙">
+        </a>
+        <div class="price-label">¥99／Kindle Unlimited</div>
+        <div class="card-title">英単語300 - 動物たちと楽しく！</div>
+        <div class="card-desc">
+          動物キャラたちの楽しい会話で、単語を楽しく覚えられる英語学習本！
+        </div>
       </div>
 
+      <!-- ぬいぐるみの福音 -->
       <div class="card">
-        <img src="https://github.com/papan2222/papan2222.github.io/blob/main/aaaChatGPT%20Image%202025%E5%B9%B46%E6%9C%882%E6%97%A5%2011_58_56.png?raw=true" alt="ぬいぐるみの福音 表紙">
-        <div class="price-tag">¥99／Kindle Unlimited</div>
-        <h3>ぬいぐるみの福音：The Gospel of Plush</h3>
-        <p>ぬいぐるみの視点から絢られる、静かでやさしい対訳の物語です。Japanese-English Bilingual Edition</p>
-        <a href="https://www.amazon.co.jp/dp/B0FBW1X1HN">Amazonで見る →</a>
+        <a href="https://www.amazon.co.jp/dp/B0FBW1X1HN" target="_blank">
+          <img src="https://github.com/papan2222/papan2222.github.io/blob/main/aaaChatGPT%20Image%202025%E5%B9%B46%E6%9C%882%E6%97%A5%2011_58_56.png?raw=true" alt="ぬいぐるみの福音 表紙">
+        </a>
+        <div class="price-label">¥99／Kindle Unlimited</div>
+        <div class="card-title">ぬいぐるみの福音：<br>The Gospel of Plush</div>
+        <div class="card-desc">
+          ぬいぐるみの視点から綴られる、静かでやさしい対訳の物語です。<br>Japanese-English Bilingual Edition
+        </div>
       </div>
     </div>
+
   </div>
 </body>
 </html>
