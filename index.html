@@ -1,52 +1,77 @@
-body {
-  margin: 0;
-  font-family: sans-serif;
-  background-image: url('https://github.com/papan2222/papan2222.github.io/blob/main/280525Image_fx%20(43).jpg?raw=true');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  color: #222;
-}
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ぬいぐるみ作家 plush.dev</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-image: url('280525Image_fx%20(43).jpg');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+    }
 
-.container {
-  max-width: 800px;
-  margin: 60px auto;
-  background: rgba(255, 255, 255, 0.7); /* ← 透明度を下げた白 */
-  padding: 40px 30px;
-  border-radius: 16px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
-  backdrop-filter: blur(8px); /* ← 背景にぼかし効果 */
-}
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.5);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 40px 20px;
+    }
 
-.book-img {
-  max-width: 180px;
-  margin-bottom: 12px;
-  border-radius: 10px;
-  box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
-}
+    .card-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      max-width: 900px;
+    }
 
-.button-link {
-  display: inline-block;
-  padding: 12px 24px;
-  margin: 12px;
-  background-color: #007bff;
-  color: white;
-  text-decoration: none;
-  font-size: 18px;
-  border-radius: 8px;
-  box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
-  transition: background-color 0.3s ease;
-}
+    .card-box {
+      background: rgba(255, 255, 255, 0.7);
+      padding: 24px;
+      border-radius: 12px;
+      width: 280px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      transition: transform 0.2s;
+    }
 
-.button-link:hover {
-  background-color: #0056b3;
-}
+    .card-box:hover {
+      transform: scale(1.03);
+    }
 
-.card-box {
-  background: rgba(255, 255, 255, 0.8);
-  border-radius: 12px;
-  padding: 24px;
-  margin-top: 24px;
-  box-shadow: 2px 2px 8px rgba(0,0,0,0.08);
-}
+    h2 {
+      margin-top: 0;
+      font-size: 1.2em;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 12px 20px;
+      background-color: #1976d2;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+
+    .button:hover {
+      background-color: #145aa3;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <div class="card-grid">
+      <div class="card-box">
+        <h2>📘 Kindle本を紹介</h2>
+        <p>ぬいぐるみパンダと英語を学ぶ、やさしくユニークな一冊。</p>
+        <a href="https://www.amazon.co.jp/dp/B0D4X1CXYZ" class="button" target="_blank">Amazonで見る</a>
+      </div>
+
+      <div cl
