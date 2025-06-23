@@ -4,6 +4,28 @@
   <meta charset="UTF-8">
   <title>My Kindle Books</title>
   <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-image: url('https://github.com/papan2222/papan2222.github.io/blob/main/280525Image_fx%20(43).jpg?raw=true');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: rgba(255, 255, 255, 0.94);
+      padding: 40px 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .book-img {
+      max-width: 200px;
+      margin-bottom: 10px;
+    }
     .button-link {
       display: inline-block;
       padding: 12px 24px;
@@ -20,47 +42,46 @@
       background-color: #0056b3;
     }
     .card-box {
-      display: inline-block;
-      padding: 20px;
-      margin: 15px;
-      width: 280px;
       border: 1px solid #ccc;
       border-radius: 10px;
-      box-shadow: 3px 3px 8px rgba(0,0,0,0.1);
-      text-align: center;
+      padding: 20px;
+      margin-top: 20px;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.08);
     }
   </style>
 </head>
-<body style="font-family: sans-serif; text-align: center; padding: 40px;">
+<body>
 
-  <h1>📘 ぬいぐるみ作家 plush.dev</h1>
-  <p>Kindleで英語学習本を出版しています。</p>
+  <div class="container">
+    <h1>📘 ぬいぐるみ作家 plush.dev</h1>
+    <p>Kindleで英語学習本を出版しています。</p>
 
-  <hr style="margin: 30px 0;">
+    <hr style="margin: 30px 0;">
 
-  <h2>🐼 動物たちの英会話300単語</h2>
-  <img src="https://example.com/cover1.jpg" alt="Book 1 Cover" style="max-width: 200px;">
-  <p>ぬいぐるみの動物たちが、英単語を使って楽しく会話！<br>子どもから大人まで使える、ユニークな英語学習本です。</p>
-  <p><a href="https://www.amazon.co.jp/dp/XXXXXXXXXX" target="_blank">▶ Amazonで見る</a></p>
+    <h2>🐼 動物たちの英会話300単語</h2>
+    <img src="https://example.com/cover1.jpg" alt="Book 1 Cover" class="book-img">
+    <p>ぬいぐるみの動物たちが、英単語を使って楽しく会話！<br>子どもから大人まで使える、ユニークな英語学習本です。</p>
+    <p><a href="https://www.amazon.co.jp/dp/XXXXXXXXXX" target="_blank">▶ Amazonで見る</a></p>
 
-  <hr style="margin: 30px 0;">
+    <hr style="margin: 30px 0;">
 
-  <h2>🧸 英語フレーズで学ぶ ぬいぐるみ日記</h2>
-  <img src="https://example.com/cover2.jpg" alt="Book 2 Cover" style="max-width: 200px;">
-  <p>ぬいぐるみが書いた英語の日記を通して、日常英会話のフレーズを学べる1冊。</p>
-  <p><a href="https://www.amazon.co.jp/dp/YYYYYYYYYY" target="_blank">▶ Amazonで見る</a></p>
+    <h2>🧸 英語フレーズで学ぶ ぬいぐるみ日記</h2>
+    <img src="https://example.com/cover2.jpg" alt="Book 2 Cover" class="book-img">
+    <p>ぬいぐるみが書いた英語の日記を通して、日常英会話のフレーズを学べる1冊。</p>
+    <p><a href="https://www.amazon.co.jp/dp/YYYYYYYYYY" target="_blank">▶ Amazonで見る</a></p>
 
-  <hr style="margin: 30px 0;">
+    <hr style="margin: 30px 0;">
 
-  <h2>🌐 他のWebページ</h2>
-  <div class="card-box">
-    <h3>🐼 PandaLife（ぬいぐるみたちの暮らし）</h3>
-    <p>ぬいぐるみたちの日常を紹介する外部サイトです。</p>
-    <a href="https://sites.google.com/view/pandalife22" class="button-link" target="_blank">▶ PandaLife を見る</a>
+    <h2>🌐 他のWebページ</h2>
+    <div class="card-box">
+      <h3>🐼 PandaLife（ぬいぐるみたちの暮らし）</h3>
+      <p>ぬいぐるみたちの日常を紹介する外部サイトです。</p>
+      <a href="https://sites.google.com/view/pandalife22" class="button-link" target="_blank">▶ PandaLife を見る</a>
+    </div>
+
+    <hr style="margin: 30px 0;">
+    <p>📫 ご連絡は GitHub の Issue または X（旧Twitter）まで。</p>
   </div>
-
-  <hr style="margin: 30px 0;">
-  <p>📫 ご連絡は GitHub の Issue または X（旧Twitter）まで。</p>
 
 </body>
 </html>
