@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>The Plushverse</title>
   <style>
     body {
@@ -12,90 +13,119 @@
       background-size: cover;
       color: #fff;
       text-align: center;
+      position: relative;
+      min-height: 100vh;
+      z-index: 0;
     }
+
     .section {
       margin: 40px auto;
       max-width: 1000px;
       padding: 20px;
-      backdrop-filter: blur(5px);
+      background-color: rgba(255, 255, 255, 0.88);
+      border-radius: 16px;
+      color: #222;
+      z-index: 1;
+      position: relative;
     }
+
     .site-card img {
-      border-radius: 50%/30%;
+      border-radius: 50% / 30%;
       width: 200px;
       height: auto;
+      object-fit: cover;
     }
-    .site-card h2 {
-      margin-top: 10px;
-      font-size: 24px;
-      color: #fff;
-    }
+
     .site-card a {
-      color: #fff;
       text-decoration: none;
+      color: #007bff;
+      font-weight: bold;
     }
-    .visit-link {
+
+    .button {
       display: inline-block;
-      margin-top: 12px;
-      padding: 10px 24px;
+      padding: 10px 20px;
       background-color: #007bff;
       color: #fff;
-      border-radius: 8px;
+      border-radius: 10px;
       text-decoration: none;
-      font-weight: bold;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      font-size: 18px;
+      margin-top: 10px;
     }
+
     .cards {
       display: flex;
-      justify-content: center;
       flex-wrap: wrap;
+      justify-content: center;
       gap: 30px;
-      margin-top: 40px;
+      margin-top: 30px;
     }
+
     .card {
-      background-color: rgba(255, 255, 255, 0.9);
-      color: #333;
-      border-radius: 20px;
+      background-color: #fff;
+      border-radius: 16px;
+      width: 280px;
       padding: 20px;
-      width: 300px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-      transition: transform 0.2s;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
       text-align: center;
+      color: #222;
     }
-    .card:hover {
-      transform: translateY(-5px);
-    }
+
     .card img {
       width: 100%;
-      border-radius: 10px;
+      height: auto;
+      border-radius: 12px;
     }
-    .price-tag {
+
+    .price-label {
       display: inline-block;
-      margin: 10px 0;
-      background-color: #ff9900;
+      background-color: orange;
       color: white;
       font-weight: bold;
-      padding: 6px 14px;
+      padding: 5px 10px;
       border-radius: 20px;
+      margin-top: 10px;
       font-size: 14px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
     }
-    .kindle-label {
-      background-color: #000;
-      color: #fff;
-      font-size: 12px;
-      padding: 2px 8px;
-      border-radius: 5px;
-      margin-top: 6px;
-      display: inline-block;
-    }
-    a.card-link {
-      color: inherit;
+
+    .card a {
       text-decoration: none;
+      color: inherit;
     }
   </style>
 </head>
-<body>
 
-  <!-- Website Section -->
+<body>
   <div class="section site-card">
-    <a href="https://sites.googl
+    <a href="https://sites.google.com/view/pandalife22" target="_blank">
+      <img src="https://github.com/papan2222/papan2222.github.io/blob/main/280525Image_fx%20(43).jpg?raw=true" alt="PandaLife" />
+      <h2>🌐 PandaLife</h2>
+      <h3>A Diary Penned by a Plush Panda's Heart</h3>
+      <p>ぬいぐるみパンダが想いを綴る日記</p>
+      <div class="button">WebSite</div>
+    </a>
+  </div>
+
+  <div class="section">
+    <div class="cards">
+      <div class="card">
+        <a href="https://www.amazon.co.jp/dp/B0FDW792M5" target="_blank">
+          <img src="https://github.com/papan2222/papan2222.github.io/blob/main/%E8%A1%A8%E7%B4%99.jpg?raw=true" alt="英単語300" />
+          <div class="price-label">¥99 / Kindle Unlimited</div>
+          <h3>英単語300 - 動物たちと楽しく!</h3>
+          <p>動物キャラたちの楽しい会話で、単語を楽しく覚えられる英語学習本！</p>
+        </a>
+      </div>
+      <div class="card">
+        <a href="https://www.amazon.co.jp/dp/B0FBW1X1HN" target="_blank">
+          <img src="https://github.com/papan2222/papan2222.github.io/blob/main/aaaChatGPT%20Image%202025%E5%B9%B46%E6%9C%882%E6%97%A5%2011_58_56.png?raw=true" alt="ぬいぐるみの福音" />
+          <div class="price-label">¥99 / Kindle Unlimited</div>
+          <h3>ぬいぐるみの福音：The Gospel of Plush</h3>
+          <p>ぬいぐるみの視点から綴られる、静かでやさしい対訳の物語。Japanese-English Bilingual Edition</p>
+        </a>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
