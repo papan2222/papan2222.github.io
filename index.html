@@ -1,125 +1,122 @@
 <!DOCTYPE html>
 <html lang="ja">
-
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Plushverse</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
-      margin: 0;
-      font-family: "Segoe UI", sans-serif;
+      font-family: 'Noto Sans JP', sans-serif;
       background: url('https://github.com/papan2222/papan2222.github.io/blob/main/270525Image_fx%20(18).jpg?raw=true') no-repeat center center fixed;
       background-size: cover;
-      color: #fff;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .main-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2em 1em;
+    }
+    .site-intro {
+      background: rgba(255, 255, 255, 0.85);
+      border-radius: 20px;
+      padding: 1.5em;
+      max-width: 500px;
       text-align: center;
-      position: relative;
-      min-height: 100vh;
-      z-index: 0;
+      margin-bottom: 2em;
     }
-
-    .section {
-      margin: 40px auto;
-      max-width: 1000px;
-      padding: 20px;
-      background-color: rgba(255, 255, 255, 0.88);
-      border-radius: 16px;
-      color: #222;
-      z-index: 1;
-      position: relative;
-    }
-
-    .site-card img {
+    .site-intro img {
+      width: 160px;
       border-radius: 50% / 30%;
-      width: 200px;
-      height: auto;
-      object-fit: cover;
+      display: block;
+      margin: 0 auto 1em;
     }
-
-    .site-card a {
-      text-decoration: none;
+    .site-intro a {
       color: #007bff;
       font-weight: bold;
-    }
-
-    .button {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #007bff;
-      color: #fff;
-      border-radius: 10px;
       text-decoration: none;
-      font-size: 18px;
-      margin-top: 10px;
     }
-
-    .cards {
+    .site-intro a.button {
+      display: inline-block;
+      background: #007bff;
+      color: white;
+      padding: 0.5em 1.2em;
+      border-radius: 10px;
+      margin-top: 1em;
+    }
+    .book-section {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 30px;
-      margin-top: 30px;
+      gap: 2em;
+      margin-top: 1em;
     }
-
-    .card {
-      background-color: #fff;
-      border-radius: 16px;
-      width: 280px;
-      padding: 20px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    .book-card {
+      background: white;
+      border-radius: 20px;
+      padding: 1em;
+      width: 260px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
       text-align: center;
-      color: #222;
     }
-
-    .card img {
+    .book-card img {
       width: 100%;
-      height: auto;
       border-radius: 12px;
     }
-
-    .price-label {
-      display: inline-block;
-      background-color: orange;
+    .book-card .price-tag {
+      background: orange;
       color: white;
       font-weight: bold;
-      padding: 5px 10px;
-      border-radius: 20px;
-      margin-top: 10px;
-      font-size: 14px;
+      padding: 0.3em 0.7em;
+      border-radius: 999px;
+      display: inline-block;
+      margin: 0.5em 0;
+      font-size: 0.9em;
     }
-
-    .card a {
-      text-decoration: none;
-      color: inherit;
+    .book-card h3 {
+      margin: 0.5em 0 0.3em;
+      font-size: 1.1em;
+    }
+    .book-card p {
+      font-size: 0.9em;
+      color: #555;
+    }
+    @media screen and (max-width: 600px) {
+      .book-card {
+        width: 90%;
+      }
     }
   </style>
 </head>
-
 <body>
-  <div class="section site-card">
-    <a href="https://sites.google.com/view/pandalife22" target="_blank">
-      <img src="https://github.com/papan2222/papan2222.github.io/blob/main/280525Image_fx%20(43).jpg?raw=true" alt="PandaLife" />
-      <h2>🌐 PandaLife</h2>
-      <h3>A Diary Penned by a Plush Panda's Heart</h3>
-      <p>ぬいぐるみパンダが想いを綴る日記</p>
-      <div class="button">WebSite</div>
-    </a>
-  </div>
+  <div class="main-container">
+    <div class="site-intro">
+      <a href="https://sites.google.com/view/pandalife22" target="_blank">
+        <img src="https://github.com/papan2222/papan2222.github.io/blob/main/aaaChatGPT%20Image%202025%E5%B9%B46%E6%9C%882%E6%97%A5%2011_58_56.png?raw=true" alt="PandaLife logo">
+        <h2>🌐 PandaLife</h2>
+        <h3>A Diary Penned by a Plush Panda's Heart</h3>
+        <p>ぬいぐるみパンダが想いを綴る日記</p>
+        <div class="button">WebSite</div>
+      </a>
+    </div>
 
-  <div class="section">
-    <div class="cards">
-      <div class="card">
+    <div class="book-section">
+      <div class="book-card">
         <a href="https://www.amazon.co.jp/dp/B0FDW792M5" target="_blank">
-          <img src="https://github.com/papan2222/papan2222.github.io/blob/main/%E8%A1%A8%E7%B4%99.jpg?raw=true" alt="英単語300" />
-          <div class="price-label">¥99 / Kindle Unlimited</div>
-          <h3>英単語300 - 動物たちと楽しく!</h3>
+          <img src="https://github.com/papan2222/papan2222.github.io/blob/main/%E8%A1%A8%E7%B4%99.jpg?raw=true" alt="英単語300">
+          <div class="price-tag">¥99 / Kindle Unlimited</div>
+          <h3>英単語300 - 動物たちと楽しく -</h3>
           <p>動物キャラたちの楽しい会話で、単語を楽しく覚えられる英語学習本！</p>
         </a>
       </div>
-      <div class="card">
+
+      <div class="book-card">
         <a href="https://www.amazon.co.jp/dp/B0FBW1X1HN" target="_blank">
-          <img src="https://github.com/papan2222/papan2222.github.io/blob/main/aaaChatGPT%20Image%202025%E5%B9%B46%E6%9C%882%E6%97%A5%2011_58_56.png?raw=true" alt="ぬいぐるみの福音" />
-          <div class="price-label">¥99 / Kindle Unlimited</div>
+          <img src="https://github.com/papan2222/papan2222.github.io/blob/main/aaaChatGPT%20Image%202025%E5%B9%B46%E6%9C%882%E6%97%A5%2011_58_56.png?raw=true" alt="ぬいぐるみの福音">
+          <div class="price-tag">¥99 / Kindle Unlimited</div>
           <h3>ぬいぐるみの福音：The Gospel of Plush</h3>
           <p>ぬいぐるみの視点から綴られる、静かでやさしい対訳の物語。Japanese-English Bilingual Edition</p>
         </a>
@@ -127,5 +124,4 @@
     </div>
   </div>
 </body>
-
 </html>
