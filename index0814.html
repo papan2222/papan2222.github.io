@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>パンダの英語名言｜英日対訳</title>
+  <meta name="description" content="英語と日本語（対訳）の名言を、モノトーンの読みやすいレイアウトで一覧表示します。" />
+  <meta property="og:title" content="パンダの英語名言" />
+  <meta property="og:description" content="英語と日本語（対訳）の名言を、モノトーンの読みやすいレイアウトで一覧表示。作者一覧付き。" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="" />
+  <style>
+    /* ==== 配色（モノトーン中心・ダーク基調） ==== */
+    :root{
+      --bg:#0b0f14;          /* 背景：ごく暗い藍黒 */
+      --panel:#0f1620;       /* セクション背景 */
+      --text:#e5e7eb;        /* 主要テキスト（薄い灰白） */
+      --muted:#a1a1aa;       /* 補助テキスト */
+      --line:#1f2937;        /* 罫線 */
+      --accent:#d1d5db;      /* リンク・微アクセント（控えめな灰） */
+      --link-hover:#ffffff;  /* ホバー時 */
+      --chip-bg:#111827;     /* 著者チップ背景 */
+    }
+
+    /* ==== ベース ==== */
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+      background:var(--bg);
+      color:var(--text);
+      -webkit-font-smoothing:antialiased;
+      text-rendering:optimizeLegibility;
+    }
+
+    a{color:var(--accent); text-decoration:none; border-bottom:1px solid transparent}
+    a:hover{color:var(--link-hover); border-bottom-color:var(--link-hover)}
+
+    .wrap{max-width:900px; margin:0 auto; padding:20px}
+
+    /* ==== ヘッダー ==== */
+    header{
+      position:sticky; top:0; z-index:10;
+      backdrop-filter: blur(6px);
+      background: color-mix(in oklab, var(--bg) 85%, transparent);
+      border-bottom:1px solid var(--line);
+    }
+    .header-inner{display:flex; align-items:center; gap:12px; padding:14px 20px}
+    .brand{font-weight:700; letter-spacing:0.2px}
+    .brand .ja{font-size:18px}
+    .brand .en{font-size:12px; color:var(--muted)}
+    nav{margin-left:auto; display:flex; align-items:center; gap:12px}
+    .btn{display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid var(--line); border-radius:10px; background:var(--panel); color:var(--text); cursor:pointer}
+    .btn:hover{border-color:var(--accent)}
+
+    /* ==== インフォ ==== */
+    .info{font-size:12px; color:var(--muted); margin-top:6px}
+
+    /* ==== 著者チップ列（任意・横スクロール） ==== */
+    .authors-strip{display:flex; gap:8px; overflow-x:auto; padding:10px 20px 14px; border-bottom:1px solid var(--line)}
+    .chip{white-space:nowrap; font-size:12px; padding:6px 10px; border:1px solid var(--line); border-radius:999px; background:var(--chip-bg)}
+
+    /* ==== セクション ==== */
+    section{padding:20px}
+    .section-title{font-size:14px; color:var(--muted); margin:8px 0 14px}
+
+    /* ==== 名言リスト（カードではなく、できるだけ多くを同時表示） ==== */
+    .q-list{display:grid; grid-template-columns:1fr; gap:16px}
+    .quote{padding:14px 0; border-bottom:1px dashed var(--line)}
+    .q-en{font-size:18px; line-height:1.6}
+    .q-jp{font-size:15px; color:var(--muted); line-height:1.7; margin-top:4px}
+    .q-author{margin-top:6px; font-size:13px; color:var(--accent)}
+
+    /* ==== 作者一覧（簡易目次） ==== */
+    .authors-grid{display:grid; grid-template-columns:repeat(auto-fit, minmax(160px,1fr)); gap:10px}
+    .author-item{padding:10px; border:1px solid var(--line); border-radius:12px; background:var(--panel)}
+
+    /* ==== フッター ==== */
+    footer{border-top:1px solid var(--line); padding:20px; color:var(--muted); font-size:12px}
+
+    @media (min-width: 880px){
+      .q-en{font-size:20px}
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-inner wrap">
+      <div class="brand">
+        <div class="ja">パンダの英語名言</div>
+        <div class="en">English–Japanese Quotes</div>
+      </div>
+      <nav>
+        <a href="#quotes" class="btn" title="名言一覧へ">名言</a>
+        <a href="#authors" class="btn" title="作者一覧へ">作者一覧</a>
+        <button id="btn-shuffle" class="btn" title="並びをランダムにする">ランダム表示</button>
+      </nav>
+    </div>
+    <div class="authors-strip" id="authors-strip" aria-label="収録作者の一部"></div>
+  </header>
+
+  <main class="wrap">
+    <p class="info">※ 日本語訳はAIを利用して作成しております（必要に応じて調整）。</p>
+
+    <section id="quotes" aria-label="名言一覧">
+      <h2 class="section-title">名言一覧（英日対訳・同時表示）</h2>
+      <div id="q-list" class="q-list" role="list"></div>
+    </section>
+
+    <section id="authors" aria-label="作者一覧">
+      <h2 class="section-title">作者一覧</h2>
+      <div id="authors-grid" class="authors-grid"></div>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <div>© 2025 papan2222</div>
+    <div>日本語訳はAIを利用して作成しております。</div>
+  </footer>
+
+  <script>
+    // ============================
+    // 外部 JSON 版（quotes.json を同じリポジトリ直下に置く）
+    // ============================
+    let QUOTES_RAW = [];
+    let QUOTES_SHUFFLED = [];
+
+    // ランダム並び替え
+    function shuffle(array){
+      for(let i=array.length-1;i>0;i--){
+        const j = Math.floor(Math.random()*(i+1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    function uniqueAuthors(data){
+      return [...new Set(data.map(q => (q.author||"Unknown").trim()))].sort((a,b)=>a.localeCompare(b));
+    }
+
+    function renderQuotes(target, data){
+      target.innerHTML = data.map(q => `
+        <article class="quote" role="listitem">
+          <div class="q-en">${escapeHTML(q.en||"")}</div>
+          <div class="q-jp">${escapeHTML(q.jp||"")}</div>
+          <div class="q-author">— ${escapeHTML(q.author||"Unknown")}</div>
+        </article>
+      `).join("");
+    }
+
+    function renderAuthors(target, names){
+      target.innerHTML = names.map(name => `
+        <div class="author-item"><a href="#quotes" data-author="${escapeHTML(name)}">${escapeHTML(name)}</a></div>
+      `).join("");
+
+      target.querySelectorAll('a[data-author]').forEach(a=>{
+        a.addEventListener('click', (ev)=>{
+          const author = ev.currentTarget.dataset.author;
+          const idx = QUOTES_SHUFFLED.findIndex(q => (q.author||"Unknown").trim()===author);
+          if(idx>=0){
+            const el = document.querySelectorAll('.quote')[idx];
+            if(el){ el.scrollIntoView({behavior:'smooth', block:'start'}); }
+          }
+        });
+      });
+    }
+
+    function renderAuthorsStrip(target, names){
+      const MAX = 20;
+      target.innerHTML = names.slice(0, MAX).map(n=>`<a class="chip" href="#authors">${escapeHTML(n)}</a>`).join("");
+    }
+
+    function escapeHTML(str){
+      return String(str).replace(/[&<>"']/g, s => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'}[s]));
+    }
+
+    const listEl = document.getElementById('q-list');
+    const authorsEl = document.getElementById('authors-grid');
+    const stripEl = document.getElementById('authors-strip');
+
+    async function init(){
+      try{
+        const res = await fetch('quotes.json', { cache: 'no-store' });
+        if(!res.ok) throw new Error('HTTP '+res.status);
+        const data = await res.json();
+        if(!Array.isArray(data)) throw new Error('JSON は配列である必要があります');
+        // 正規化（余計なキーがあっても無視）
+        QUOTES_RAW = data.map(item => ({
+          en: String(item.en||'').trim(),
+          jp: String(item.jp||'').trim(),
+          author: String(item.author||'Unknown').trim()
+        })).filter(q => q.en && q.jp);
+
+        QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
+        renderQuotes(listEl, QUOTES_SHUFFLED);
+        const names = uniqueAuthors(QUOTES_SHUFFLED);
+        renderAuthors(authorsEl, names);
+        renderAuthorsStrip(stripEl, names);
+      }catch(err){
+        console.error(err);
+        listEl.innerHTML = `<div style="color:#fca5a5">quotes.json の読み込みに失敗しました。リポジトリ直下に quotes.json を置いてください。<br>エラー: ${escapeHTML(err.message)}</div>`;
+      }
+    }
+
+    document.getElementById('btn-shuffle').addEventListener('click', ()=>{
+      if(!QUOTES_RAW.length) return;
+      QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
+      renderQuotes(listEl, QUOTES_SHUFFLED);
+      const names2 = uniqueAuthors(QUOTES_SHUFFLED);
+      renderAuthors(authorsEl, names2);
+    });
+
+    init();
+  </script>
+</body>
+</html>
