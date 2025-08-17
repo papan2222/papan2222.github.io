@@ -6,13 +6,15 @@ title: パンダのリアル日記
 # パンダのリアル日記
 
 ## 上野動物園
-🐰　
+🐰
 あなた、そろそろ出稼ぎにいってもらわないと..
+
 🐼
 あぁ、わかってる。上野動物園が日給いいらしいんだ
 
 🐰
-You know… it’s about time you went out to make some money. 
+You know… it’s about time you went out to make some money.
+
 🐼
 Yeah, I know. They say Ueno Zoo pays pretty well per day.
 
