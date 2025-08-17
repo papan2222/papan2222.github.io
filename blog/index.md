@@ -5,6 +5,29 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 波動拳
+波動拳出ない。毛が邪魔してる 
+
+Can't pull off a Hadoken — my fur's in the way 
+
+![今日のパンダ](/images/2025-08-18-2.jpg)
+
+## キャベツ
+🐼
+すみません、このキャベツ、笹の味はしますか？
+
+👨
+しないねぇ.. どこをどう食べてもキャベツだねぇ
+
+🐼
+Excuse me, does this cabbage taste like bamboo leaves?
+
+👨
+No… it will only ever taste like cabbage.
+
+![今日のパンダ](/images/2025-08-18.jpg)
+
+
 ## 上野動物園
 🐰
 あなた、そろそろ出稼ぎにいってもらわないと..
