@@ -70,6 +70,16 @@ minimum wage
 [ˈmɪnɪməm weɪdʒ]  
 ![今日のパンダ](/images/panda-20250817.jpg)
 
+## ベンチプレス
+
+俺はクマだ... 俺はクマだ... 
+いける、いけるぞ
+
+I’m a bear… I’m a bear…
+I can do this. I can do this! 
+
+![今日のパンダ](/images/2025-08-18-3.jpg)
+
 ---
 
 
