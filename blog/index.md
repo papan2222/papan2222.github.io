@@ -8,11 +8,13 @@ title: パンダの苦悩
 ## 呑み屋にて
 🧔　
 何にします？
+
 🐼
 若竹煮と... たけのこの土佐煮、あとメンマももらおうかな
 
 🧔
 What’ll you have?
+
 🐼
 Hmm… the bamboo with wakame, the braised bamboo shoots… and yeah, throw in some menma too.
 
