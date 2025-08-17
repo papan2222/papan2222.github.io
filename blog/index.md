@@ -18,7 +18,7 @@ What’ll you have?
 🐼
 Hmm… the bamboo with wakame, the braised bamboo shoots… and yeah, throw in some menma too.
 
-![今日のパンダ](/images/panda-20250817.jpg)
+![今日のパンダ](/images/panda-20250817-2.jpg)
 
 ## 訴え
 🐼
