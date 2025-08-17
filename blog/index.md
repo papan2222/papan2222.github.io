@@ -5,6 +5,36 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## ナイトズー
+🐼 上野動物園までお願いします
+
+🧔 え、こんな時間からですか？
+
+🐼 えぇ。ナイトズー ってやつです。夜勤ですよ
+
+🐼 To Ueno Zoo, please.
+
+🧔 At this hour?
+
+🐼 Yes. The Night Zoo doesn’t work without me.
+
+![今日のパンダ](/images/2025-08-18-5.jpg)
+
+## 診察
+🐼
+先生、最近どうも眠くて…
+
+👨‍⚕️
+パンダだからでしょうね
+
+🐼
+Doctor, I’ve been feeling really sleepy lately…
+
+👨‍⚕️
+That’s because you’re a panda.
+
+![今日のパンダ](/images/2025-08-18-4.jpg)
+
 ## 波動拳
 波動拳出ない。毛が邪魔してる 
 
