@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ぬいぐるみ日記
+title: パンダの苦悩
 ---
 
 # ぬいぐるみ日記
