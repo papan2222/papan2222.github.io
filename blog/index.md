@@ -31,7 +31,7 @@ Panda, you sure eat a lot!
 👨
 That’s my share, you know…
 
-![今日のパンダ](/images/2025-08-19-2.jpg)
+![今日のパンダ](/images/2025-0819-2.jpg)
 
 ## コストコ
 🐼
