@@ -4,6 +4,35 @@ title: パンダのリアル日記
 ---
 
 # パンダのリアル日記
+
+## 食卓
+
+👩
+ちょっと.. 狭いって..パンダ！
+
+🐼
+先にタケノコとらせてよ
+
+👦
+パンダ、よくたべるねぇ
+
+👨
+わたしの分だぞ..
+
+👩
+Hey… it’s too crowded, Panda!
+
+🐼
+Let me grab the bamboo shoots first.
+
+👦
+Panda, you sure eat a lot!
+
+👨
+That’s my share, you know…
+
+![今日のパンダ](/images/2025-08-19-2.jpg)
+
 ## コストコ
 🐼
 コストコ...きょうはずっと試食だぞ！
