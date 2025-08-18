@@ -4,6 +4,20 @@ title: パンダのリアル日記
 ---
 
 # パンダのリアル日記
+## コストコ
+🐼
+コストコ...きょうはずっと試食だぞ！
+
+🦝
+だね！年会費を1日で取り返そう！
+
+🐼 
+Costco... today we’ll eat samples all day!
+
+🦝
+Yeah! We’ll get back the membership with our tummies!
+
+![今日のパンダ](/images/2025-08-19.jpg)
 
 ## ナイトズー
 🐼 上野動物園までお願いします
