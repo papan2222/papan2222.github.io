@@ -5,6 +5,21 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## フレンチ
+👩
+フレンチって特別感あるわよね
+
+🐼
+はい、特別に少ないです
+
+👩
+French cuisine really feels special, doesn’t it?
+
+🐼
+Yes… especially small.
+
+![今日のパンダ](/images/2025-0819-4.jpg)
+
 ## iPad
 肉球、認証しない... 
 
