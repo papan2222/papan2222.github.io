@@ -28,7 +28,7 @@ Apple won’t recognize my paw pad…
 わたしの分だぞ..
 
 👩
-Hey… it’s too crowded, Panda!
+Move over a bit, Panda!
 
 🐼
 Let me grab the bamboo shoots first.
