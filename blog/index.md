@@ -5,6 +5,13 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## スタバ
+笹のスムージーをグランデでお願いしたいんですが。
+
+May I have a bamboo leaf smoothie in a grande size, please?
+
+![今日のパンダ](/images/2025-0819-5.jpg)
+
 ## フレンチ
 👩
 フレンチって特別感あるわよね
