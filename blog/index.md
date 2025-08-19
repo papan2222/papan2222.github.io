@@ -5,6 +5,14 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## iPad
+肉球、認証しない... 
+
+Apple won’t recognize my paw pad…
+
+![今日のパンダ](/images/2025-0819-3.jpg)
+
+
 ## 食卓
 
 👩
