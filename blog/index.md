@@ -5,6 +5,19 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 入園式
+👨 今日から入園するパンダ君だ。みんな、仲良くな。
+
+🐼 よろしくお願いします！
+（…おい園長、前列ライオン率高すぎだろ！キリンも！）
+
+👨 This panda joins us today. Be friendly.
+
+🐼 Nice to meet you! 
+(…Front row’s all lions… and giraffes!) 
+
+![今日のパンダ](/images/2025-0820-13.jpg)
+
 ## 旅立ち
 🐼 それじゃ、しばらく上野にいってきます
 
