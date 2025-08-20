@@ -5,6 +5,17 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 滑り台
+🐼 見ろ、お尻から滑れるぜ！
+
+👦 ママに怒られるよ..
+
+🐼 Look, I can slide down on my butt!
+
+👦 Careful… Mom won’t like it.
+
+![今日のパンダ](/images/2025-0820-08.jpg)
+
 ## 宿題
 🐼
 宿題まだ終わんないの？
