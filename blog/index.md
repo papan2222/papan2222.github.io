@@ -48,7 +48,7 @@ Why did you come here?
 🐼
 If a lion calls me at night, how could I refuse?
 
-![今日のパンダ](/images/2025-0820-5.jpg)
+![今日のパンダ](/images/2025-0820-05.jpg)
 
 ## フレンチ
 👩
