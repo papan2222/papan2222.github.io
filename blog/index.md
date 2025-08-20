@@ -21,6 +21,13 @@ For me, they’re mostly food.
 ![今日のパンダ](/images/2025-0820-1.jpg)
 
 
+## 主張
+おい、にんじん。ちょっとオレンジ主張しすぎじゃない？
+
+Hey, carrot… don’t you think you’re showing off that orange a bit too much?
+
+![今日のパンダ](/images/2025-0820-2.jpg)
+
 ## スタバ
 笹のスムージーをグランデでお願いしたいんですが。
 
