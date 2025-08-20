@@ -35,6 +35,21 @@ May I have a bamboo leaf smoothie in a grande size, please?
 
 ![今日のパンダ](/images/2025-0819-5.jpg)
 
+## 誘い
+🦁 
+なんでここに来た？
+
+🐼
+ライオンが誘う夜は断れません。
+
+🦁
+Why did you come here?
+
+🐼
+If a lion calls me at night, how could I refuse?
+
+![今日のパンダ](/images/2025-0820-5.jpg)
+
 ## フレンチ
 👩
 フレンチって特別感あるわよね
