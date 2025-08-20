@@ -5,6 +5,20 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## リモコン
+🐼
+リモコン、君がお尻で踏んでる 
+
+👧
+えっ、じゃあ今テレビはお尻が操作してるってこと？
+
+🐼 
+The remote… you’re sitting on it.
+👧
+Wait, so my butt is running the TV right now?
+
+![今日のパンダ](/images/2025-0820-10.jpg)
+
 ## 滑り台
 🐼 見ろ、お尻から滑れるぜ！
 
