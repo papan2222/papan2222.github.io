@@ -5,6 +5,22 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 見覚え
+👵　
+あら、どこかで見たことあるわねぇ..
+
+🐼
+きっとNHKの自然番組です。再放送によく出ますので。
+
+👵
+Oh my, I feel like I’ve seen you somewhere before...
+
+🐼
+Probably on an NHK nature program. I show up a lot in the reruns.
+
+![今日のパンダ](/images/2025-0820-11.jpg)
+
+
 ## リモコン
 🐼
 リモコン、君がお尻で踏んでる 
