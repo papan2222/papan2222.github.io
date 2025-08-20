@@ -16,7 +16,7 @@ title: パンダのリアル日記
 🐼 Nice to meet you! 
 (…Front row’s all lions… and giraffes!) 
 
-![今日のパンダ](/images/2025-0820-13.jpg)
+![今日のパンダ](/images/2025-08-20-13.jpg)
 
 ## 旅立ち
 🐼 それじゃ、しばらく上野にいってきます
