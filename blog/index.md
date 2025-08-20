@@ -5,6 +5,21 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 上野
+👩
+物価が上がってたいへんなのよ.. あなたの笹だってねぇ..
+
+🐼
+上野は家賃高いけど.. 社宅付きなら考えるよ
+
+👩
+The cost of living keeps going up… even your bamboo, you know.
+
+🐼
+Rent in Ueno is high… but if it comes with free housing, I’m in.
+
+![今日のパンダ](/images/2025-0820-06.jpg)
+
 ## 誘い
 🦁 
 なんでここに来た？
