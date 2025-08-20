@@ -5,6 +5,21 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 旅立ち
+🐼　それじゃ、しばらく上野にいってきます
+
+👦　すぐ戻るよね！？
+
+👩　戻るわ、心配しないで
+
+🐼 My path takes me to Ueno for some time.
+
+👦 You’ll come back… right?
+
+👩 He will. The panda always finds his way home. 
+
+![今日のパンダ](/images/2025-0820-12.jpg)
+
 ## 見覚え
 👵
 あら、どこかで見たことあるわねぇ..
