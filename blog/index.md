@@ -5,6 +5,21 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 誘い
+🦁 
+なんでここに来た？
+
+🐼
+ライオンが誘う夜は断れません。
+
+🦁
+Why did you come here?
+
+🐼
+If a lion calls me at night, how could I refuse?
+
+![今日のパンダ](/images/2025-0820-05.jpg)
+
 ## 学校
 👦 
 植物に詳しいんだね。先生、驚いてた
@@ -34,21 +49,6 @@ Hey, carrot… don’t you think you’re showing off that orange a bit too much
 May I have a bamboo leaf smoothie in a grande size, please?
 
 ![今日のパンダ](/images/2025-0819-5.jpg)
-
-## 誘い
-🦁 
-なんでここに来た？
-
-🐼
-ライオンが誘う夜は断れません。
-
-🦁
-Why did you come here?
-
-🐼
-If a lion calls me at night, how could I refuse?
-
-![今日のパンダ](/images/2025-0820-05.jpg)
 
 ## フレンチ
 👩
