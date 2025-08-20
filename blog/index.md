@@ -8,11 +8,13 @@ title: パンダのリアル日記
 ## 学校
 👦 
 植物に詳しいんだね。先生、驚いてた
+
 🐼
 僕にとっては半分ご飯だからね
 
 👦
 You really know plants. Our teacher was amazed.
+
 🐼
 For me, they’re mostly food.
 
