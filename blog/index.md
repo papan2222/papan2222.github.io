@@ -14,6 +14,7 @@ title: パンダのリアル日記
 
 🐼 
 The remote… you’re sitting on it.
+
 👧
 Wait, so my butt is running the TV right now?
 
