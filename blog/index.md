@@ -5,6 +5,21 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 宿題
+🐼
+宿題まだ終わんないの？
+
+👦
+パンダが見てたら集中できないよ
+
+🐼
+Still not done with your homework?
+
+👦
+I can’t focus with a panda watching me.
+
+![今日のパンダ](/images/2025-0820-07.jpg)
+
 ## 上野
 👩
 物価が上がってたいへんなのよ.. あなたの竹だってねぇ..
