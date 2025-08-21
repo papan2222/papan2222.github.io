@@ -10,7 +10,7 @@ title: パンダのリアル日記
 
 🐼　あざっす！吉野家あるんですね！すごいなぁ..上野動物園
 
-🐧 How about a beef bowl? It’s on me.
+🐧 How about beef bowls? It’s on me.
 
 🐼 Thanks! Can’t believe there’s a Yoshinoya here… Ueno Zoo is amazing.
 
