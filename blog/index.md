@@ -4,10 +4,28 @@ title: パンダのリアル日記
 ---
 
 # パンダのリアル日記
-## 行方
-📺️　本日より上野動物園では、正体不明のパンダが現れ、来園者を喜ばせています… 
 
-👩　ごめんね..もっと収入があったら..まだ一緒にいられたのに。
+##ナポレオン
+🐷　新入りブー？俺はナポレオンだブー
+
+🐼　その姿は..あの動物農場の！
+
+🐷　ブー。俺に逆らわない方がいいブー
+
+🐼　...（緊張）
+
+🐷 New here, oink? I’m Napoleon.
+
+🐼 What—like in Animal Farm?!
+
+🐷 That’s right. Best not cross me, oink.
+
+![今日のパンダ](/images/2025-0821-05.jpg)
+
+## 行方
+📺️ 本日より上野動物園では、正体不明のパンダが現れ、来園者を喜ばせています… 
+
+👩 ごめんね..もっと収入があったら..まだ一緒にいられたのに。
 
 📺️ Starting today, an unknown panda has appeared at Ueno Zoo, delighting visitors…
 
