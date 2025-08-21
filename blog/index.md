@@ -4,6 +4,18 @@ title: パンダのリアル日記
 ---
 
 # パンダのリアル日記
+## 行方
+📺️　本日より上野動物園では、正体不明のパンダが現れ、来園者を喜ばせています… 
+
+👩　ごめんね..もっと収入があったら..まだ一緒にいられたのに。
+
+📺️ Starting today, an unknown panda has appeared at Ueno Zoo, delighting visitors…
+
+👩 I’m sorry… if I’d earned more, we could still be together.
+
+![今日のパンダ](/images/2025-0821-04.jpg)
+
+
 ## 食堂
 🦤 …………（じーっ）
 
