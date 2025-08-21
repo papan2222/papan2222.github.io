@@ -5,6 +5,17 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 吉野家
+🐧　牛丼食ってくか？おごるぜ
+
+🐼　あざっす！吉野家あるんですね！すごいなぁ..上野動物園
+
+🐧 How about a beef bowl? It’s on me.
+
+🐼 Thanks! Can’t believe there’s a Yoshinoya here… Ueno Zoo is amazing.
+
+![今日のパンダ](/images/2025-0821-07.jpg)
+
 ## 食事
 🦁　慣れたか？ここは飯はうまいぞ。都の税収があるからな。
 
