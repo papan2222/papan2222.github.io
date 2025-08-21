@@ -5,6 +5,26 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## 食堂
+🦁　慣れたか？ここは飯はうまいぞ。都の税収があるからな。
+
+🐼　あ、はい... ライオンさんはいつから？
+
+🦁　...
+
+🐧　パンダ、余計なことは聞くな
+
+🦁 Getting used to it? The food’s good here—city taxes pay for it.
+
+🐼 Oh… since when, Mr. Lion?
+
+🦁 …
+
+🐧 Panda, don’t ask too much.
+
+
+![今日のパンダ](/images/2025-0821-06.jpg)
+
 ## ナポレオン
 
 🐷　新入りブー？俺はナポレオンだブー
