@@ -8,11 +8,13 @@ title: パンダのリアル日記
 ## 寮
 🐧
 俺と同室だ。室温は常に10℃。
+
 🐼
 …はい。（パンダにはちょっと冷たすぎない？）
 
 🐧
 Room with me. Always 10°C.
+
 🐼 
 …Right. (Cold deal for a panda…)
 
