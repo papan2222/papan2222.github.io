@@ -5,6 +5,22 @@ title: パンダのリアル日記
 
 # パンダのリアル日記
 
+## ウォンバットとの出会い
+🐼 君が四角いうんちで有名なウォンバットくん？
+
+🦔 ちがう。僕がうんちで、ウォンバットが僕を出してるんだ。
+
+🐼 ……え？
+
+🐼 Are you the wombat who’s famous for square poop?
+
+🦔 No. I am the poop — the wombat is just the one who produced me.
+
+🐼 …What?
+
+![今日のパンダ](/images/2025-0821-09.jpg)
+
+
 ## 吉野家
 🐧　牛丼食ってくか？おごるぜ
 
