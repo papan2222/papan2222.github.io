@@ -5,6 +5,20 @@ show_title: false
 ---
 
 # パンダのリアル日記
+## 作業
+🐼　ふぅ... 
+
+🐧　積み込み、おつかれさま。
+
+🐼 （こいつ、鮭食っただけじゃねぇか..）
+
+🐼 Phew...
+
+🐧 Good job loading it all up.
+
+🐼 (This guy only ate the salmon...)
+
+![今日のパンダ](/images/2025-0823-02.jpg)
 
 ## 道すがら
 🐼　鮭のヒモ、肩からズレてきた..
