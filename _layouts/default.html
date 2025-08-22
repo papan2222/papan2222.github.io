@@ -5,10 +5,10 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- minima のCSSを読み込む -->
+  <!-- minima のCSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
-  <!-- 保険: 画像が画面をはみ出さない -->
+  <!-- 画像のはみ出し防止（保険） -->
   <style>
     img { max-width: 100%; height: auto; }
   </style>
@@ -23,18 +23,38 @@
   </script>
 </head>
 <body>
+  <!-- ★ minima互換のヘッダー（Home復活＆site.titleをロゴとして） -->
   <header class="site-header" role="banner">
-    <h1 class="site-title">{{ page.title }}</h1>
+    <div class="wrapper">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
+        {%- comment -%}
+          必要なら、フロントマターに nav: true を付けたページをナビに追加
+        {%- endcomment -%}
+        {%- for p in site.pages -%}
+          {%- if p.nav == true and p.title -%}
+            <a class="page-link" href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      </nav>
+    </div>
   </header>
 
+  <!-- ★ コンテンツ。タイトルはここで（重複防止のため条件付き） -->
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
+      {%- if page.show_title != false and page.title -%}
+        <h1 class="page-title">{{ page.title }}</h1>
+      {%- endif -%}
       {{ content }}
     </div>
   </main>
 
   <footer class="site-footer">
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    <div class="wrapper">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </div>
   </footer>
 </body>
 </html>
