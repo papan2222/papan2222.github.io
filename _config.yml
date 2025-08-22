@@ -2,9 +2,6 @@ title: Home
 description: Official Site
 theme: minima
 
-plugins:
-  - jekyll-redirect-from
-
 # 右上メニューに出す“ページだけ”を列挙（Homeは入れない）
 header_pages:
   - pandalife22.html
