@@ -15,7 +15,7 @@ show_title: false
 
 🐧 Ibaraki’s a long ride…
 
-![今日のパンダ](/images/2025-0822-02.jpg)
+![今日のパンダ](/images/2025-08-22-02.jpg)
 
 
 ## 試着
