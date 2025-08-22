@@ -1,29 +1,40 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y16VXXSRC6"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      gtag('config', 'G-Y16VXXSRC6');
-    </script>
+  <!-- minima のCSSを読み込む -->
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+  <!-- 保険: 画像が画面をはみ出さない -->
+  <style>
+    img { max-width: 100%; height: auto; }
+  </style>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y16VXXSRC6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Y16VXXSRC6');
+  </script>
 </head>
 <body>
-    <header>
-        <h1>{{ page.title }}</h1>
-    </header>
+  <header class="site-header" role="banner">
+    <h1 class="site-title">{{ page.title }}</h1>
+  </header>
 
-    <main>
-        {{ content }}
-    </main>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
 
-    <footer>
-        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
-    </footer>
+  <footer class="site-footer">
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+  </footer>
 </body>
 </html>
