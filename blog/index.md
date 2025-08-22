@@ -6,6 +6,17 @@ show_title: false
 
 # パンダのリアル日記
 
+## 道すがら
+🐼　鮭のヒモ、肩からズレてきた..
+
+🐧　あとちょっとで竹林だから、そこで降ろしてお昼にしよう
+
+🐼 The salmon’s slipping off my shoulder...
+
+🐧 Almost at the bamboo grove—let’s eat there.
+
+![今日のパンダ](/images/2025-0823-01.jpg)
+
 ## 茨城
 🐼　竹、食べ放題かと思ってたら 伐採を命じられるとはな..
 
