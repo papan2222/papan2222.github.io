@@ -1,6 +1,7 @@
 ---
 layout: default
 title: パンダのリアル日記
+show_title: false
 ---
 
 # パンダのリアル日記
