@@ -6,6 +6,18 @@ show_title: false
 
 # パンダのリアル日記
 
+## 茨城
+🐼　竹、食べ放題かと思ってたら 伐採を命じられるとはな..
+
+🐧　茨城って、遠いな
+
+🐼 Thought it was bamboo buffet… turns out it’s logging duty.
+
+🐧 Ibaraki’s a long ride…
+
+![今日のパンダ](/images/2025-0822-02.jpg)
+
+
 ## 試着
 このニューバランス、ひとつ上のサイズも出してもらえますか？ちょっときつくて.. 
 
