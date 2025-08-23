@@ -5,6 +5,21 @@ show_title: false
 ---
 
 # パンダのリアル日記
+## 口喧嘩
+🐼　飛べないくせに鳥ヅラすんな！
+
+🐧　AIの時代にモノクロってなんだよ！大人しく絶滅してろ！
+
+🐼　...（こいつ強ぇ..）
+
+🐼 Can’t fly, so quit acting like a bird!
+
+🐧 Black-and-white in the age of AI? Just go extinct!
+
+🐼 ...(…Ugh, he’s tough…)
+
+![今日のパンダ](/images/2025-0823-03.jpg)
+
 ## 作業
 🐼　ふぅ... 
 
