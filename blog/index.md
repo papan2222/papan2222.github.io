@@ -6,6 +6,17 @@ show_title: false
 
 # パンダのリアル日記
 
+## 市営プール
+🐧　泳げないやつは、自然淘汰されるんだ。
+
+🐼　なんでプールに誘った？
+
+🐧 If you can’t swim, nature takes you out.
+
+🐼 So… why did you bring me here?
+
+![今日のパンダ](/images/2025-0823-07.jpg)
+
 ## UberEats
 🐧　昼は動物園で、夜はUberEatsとは忙しいな
 
