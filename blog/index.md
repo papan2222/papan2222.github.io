@@ -6,6 +6,21 @@ show_title: false
 
 # パンダのリアル日記
 
+## UberEats
+🐧　昼は動物園で、夜はUberEatsとは忙しいな
+
+🐼　あぁ。お金が必要なんだ。
+
+🐧　ポリ公に気をつけてな
+
+🐧 Busy life, huh—zoo by day, UberEats by night.
+
+🐼 Yeah. I need the money.
+
+🐧 Watch out for the cops. 
+
+![今日のパンダ](/images/2025-0823-06.jpg)
+
 ## 実家
 🐧 パンダ…泣いてるのか？　川越の家が恋しいんだな..
 
