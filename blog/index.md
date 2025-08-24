@@ -8,23 +8,15 @@ show_title: false
 ## 帰舎
 俺は動物園に戻った。
 
-変わらぬ景色のなかで、
+変わらぬ景色のなかで、胸の奥だけが空洞のまま。
 
-胸の奥だけが空洞のまま。
-
-冷たい孤独が息づき、
-
-日々は影となって消えていく。
+冷たい孤独が息づき、日々は影となって消えていく。
 
 I returned to the zoo.
 
-Amidst an unchanged scene,
+Amidst an unchanged scene, only my heart remains hollow.
 
-only my heart remains hollow.
-
-Cold solitude breathes within,
-
-and the days fade away like shadows.
+Cold solitude breathes within, and the days fade away like shadows.
 
 ![今日のパンダ](/images/2025-0825-03.jpg)
 
