@@ -222,31 +222,23 @@ permalink: /quotes/
         });
       });
     }
-    <!-- ここから追記：renderAuthors(...) の閉じカッコの直後に貼る -->
-<script>
-// UIをまとめて更新
-function updateUI(){
-  const source = QUOTES_SHUFFLED.length ? QUOTES_SHUFFLED : QUOTES_RAW;
-  const items  = getFiltered(source);
-  if (listEl)   renderQuotes(listEl, items);
-  renderFilterBar();
-}
-
-// JSON読み込み後の初期化
+  
+// ===== JSON読み込みと初期化を追加（renderAuthorsStrip の直後に貼る）=====
 function initFromJson(data){
-  // 期待形式: [{author:"...", en:"...", jp:"..."}, ...]
+  // 期待形式: [{author:"...", en:"...", jp:"..."}] もしくは {quotes:[...]}
   QUOTES_RAW = Array.isArray(data) ? data : (data.quotes || []);
   QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
 
   const names = uniqueAuthors(QUOTES_RAW);
-  if (authorsEl) renderAuthors(authorsEl, names);  // グリッド
-  if (stripEl)   renderAuthors(stripEl, names);    // 横並びストリップ
-
+  if (authorsEl) renderAuthors(authorsEl, names);   // 著者グリッド
+  if (stripEl)   renderAuthors(stripEl, names);     // 著者ストリップ
   CURRENT_FILTER = null;
+
+  // 既存の updateUI() を呼ぶ（※ updateUI の定義はこの下に既にあるはず）
   updateUI();
 }
 
-// JSONを絶対パスで取得（/quotes/ 配下でも確実に取れる）
+// ルート直下の quotes.json を取得（/quotes/ 配下でも確実に取れる）
 fetch('/quotes.json')
   .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
   .then(initFromJson)
@@ -255,8 +247,8 @@ fetch('/quotes.json')
     const box = document.getElementById('quotes-error');
     if (box) box.textContent = 'quotes.json の読み込みに失敗しました: ' + err.message;
   });
-</script>
-<!-- ここまで追記 -->
+// ===== ここまで追加 =====
+
 
 
     function updateUI(){
