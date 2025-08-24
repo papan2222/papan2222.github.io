@@ -6,6 +6,17 @@ show_title: false
 
 # パンダのリアル日記
 
+## 盗んだバイク
+🐼　盗んだバイクで、行き先は川越… ちょっと尾崎っぽいだろ？
+
+🐧　俺は幼児のリュックサックじゃねーんだぞ！AIめ！
+
+🐼 On a stolen bike, heading for Kawagoe… Feels a bit Ozaki, huh?
+
+🐧 I’m not some toddler’s backpack, you AI fool!
+
+![今日のパンダ](/images/2025-0824-02.jpg)
+
 ## 臨時ニュース
 📺️  上野動物園よりパンダが脱走..
 　　御徒町方面に走り去ったという目撃情報もあり、警察は確認を..
