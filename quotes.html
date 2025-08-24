@@ -151,7 +151,7 @@ permalink: /quotes/
     function shuffle(array){ for(let i=array.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [array[i],array[j]]=[array[j],array[i]]; } return array; }
     function uniqueAuthors(data){ return [...new Set(data.map(q => (q.author||"Unknown").trim()))].sort((a,b)=>a.localeCompare(b)); }
     function escapeHTML(str){ return String(str).replace(/[&<>"']/g, s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'}[s])); }
-
+    document.addEventListener('DOMContentLoaded', () => {
     // 要素参照
     const listEl = document.getElementById('q-list');
     const authorsEl = document.getElementById('authors-grid');
@@ -287,9 +287,8 @@ fetch('/quotes.json')
       if(!QUOTES_RAW.length) return;
       QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
       updateUI();
-    });
-
     init();
+      }); // DOMContentLoaded
   </script>
 </body>
 </html>
