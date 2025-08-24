@@ -5,6 +5,18 @@ show_title: false
 ---
 
 # パンダのリアル日記
+## バレない
+🐧　ポリ公め... 数が いやがる 
+
+🐼　ぬいぐるみのふりで バレないだろ
+
+🐧 Damn cops… there’s too many of them.
+
+🐼 If we just pretend to be stuffed animals, they’ll never notice. 
+
+![今日のパンダ](/images/2025-0825-02.jpg)
+
+
 
 ## 再会
 
