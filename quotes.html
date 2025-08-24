@@ -222,6 +222,42 @@ permalink: /quotes/
         });
       });
     }
+    <!-- ここから追記：renderAuthors(...) の閉じカッコの直後に貼る -->
+<script>
+// UIをまとめて更新
+function updateUI(){
+  const source = QUOTES_SHUFFLED.length ? QUOTES_SHUFFLED : QUOTES_RAW;
+  const items  = getFiltered(source);
+  if (listEl)   renderQuotes(listEl, items);
+  renderFilterBar();
+}
+
+// JSON読み込み後の初期化
+function initFromJson(data){
+  // 期待形式: [{author:"...", en:"...", jp:"..."}, ...]
+  QUOTES_RAW = Array.isArray(data) ? data : (data.quotes || []);
+  QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
+
+  const names = uniqueAuthors(QUOTES_RAW);
+  if (authorsEl) renderAuthors(authorsEl, names);  // グリッド
+  if (stripEl)   renderAuthors(stripEl, names);    // 横並びストリップ
+
+  CURRENT_FILTER = null;
+  updateUI();
+}
+
+// JSONを絶対パスで取得（/quotes/ 配下でも確実に取れる）
+fetch('/quotes.json')
+  .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(initFromJson)
+  .catch(err => {
+    console.error('quotes.json 読み込みエラー:', err);
+    const box = document.getElementById('quotes-error');
+    if (box) box.textContent = 'quotes.json の読み込みに失敗しました: ' + err.message;
+  });
+</script>
+<!-- ここまで追記 -->
+
 
     function updateUI(){
       const data = getFiltered(QUOTES_SHUFFLED);
