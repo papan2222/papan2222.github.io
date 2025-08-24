@@ -6,6 +6,23 @@ show_title: false
 
 # パンダのリアル日記
 
+## 再会
+
+👩　ごめんね.. 
+
+🐼　ここに長くは いられないんだ.. 追われてて..
+
+🐧　ポリのサイレンが近づいている！
+
+
+👩 Panda… I’m so sorry.
+
+🐼 I can’t stay here long… I’m being chased.
+
+🐧 The police sirens are getting closer! 
+
+![今日のパンダ](/images/2025-0825-01.jpg)
+
 ## 盗んだバイク
 🐼　盗んだバイクで、行き先は川越… ちょっと尾崎っぽいだろ？
 
