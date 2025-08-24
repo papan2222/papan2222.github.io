@@ -139,156 +139,147 @@ permalink: /quotes/
   <div><a href="policy.html">著作権・引用ポリシー</a> / <a href="contact.html">連絡先</a></div>
 </footer>
 
-  <script>
-    // ============================
-    // 外部 JSON 版 ＋ 作者クリックで絞り込み対応
-    // ============================
-    let QUOTES_RAW = [];
-    let QUOTES_SHUFFLED = [];
-    let CURRENT_FILTER = null; // 現在の作者フィルタ（nullで全件）
+ <script>
+/* ===== Quotes page - drop-in script (2025-08-25) ===== */
+(function(){
+  // ---- state ----
+  let QUOTES_RAW = [];
+  let QUOTES_SHUFFLED = [];
+  let CURRENT_FILTER = null;
 
-    // ユーティリティ
-    function shuffle(array){ for(let i=array.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [array[i],array[j]]=[array[j],array[i]]; } return array; }
-    function uniqueAuthors(data){ return [...new Set(data.map(q => (q.author||"Unknown").trim()))].sort((a,b)=>a.localeCompare(b)); }
-    function escapeHTML(str){ return String(str).replace(/[&<>"']/g, s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'}[s])); }
-    document.addEventListener('DOMContentLoaded', () => {
-    // 要素参照
-    const listEl = document.getElementById('q-list');
-    const authorsEl = document.getElementById('authors-grid');
-    const stripEl = document.getElementById('authors-strip');
-    const filterBar = document.getElementById('filter-bar');
+  // ---- utils ----
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+  const shuffle = a => { for (let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]];} return a; };
+  const uniqAuthors = data => [...new Set(data.map(q => (q.author||'Unknown').trim()))].sort((a,b)=>a.localeCompare(b));
 
-    // 描画
-    function renderQuotes(target, data){
-      target.innerHTML = data.map(q => `
-        <article class="quote" role="listitem">
-          <div class="q-en">${escapeHTML(q.en||"")}</div>
-          <div class="q-jp">${escapeHTML(q.jp||"")}</div>
-          <div class="q-author">— ${escapeHTML(q.author||"Unknown")}</div>
-        </article>
-      `).join("");
-    }
+  // ---- DOM refs ----
+  let listEl, authorsEl, stripEl, filterBar, errEl;
 
-    function getFiltered(list){
-      if(!CURRENT_FILTER) return list;
-      return list.filter(q => (q.author||"Unknown").trim() === CURRENT_FILTER);
-    }
+  document.addEventListener('DOMContentLoaded', init);
 
-    function renderFilterBar(){
-      if(CURRENT_FILTER){
-        filterBar.style.display='flex';
-        filterBar.innerHTML = `<span class="pill">絞り込み：${escapeHTML(CURRENT_FILTER)} <button id="clear-filter" aria-label="フィルタ解除">×</button></span>`;
-        document.getElementById('clear-filter').onclick = ()=>{
-          CURRENT_FILTER=null; updateUI(); highlightAuthor(null);
-        };
-      }else{
-        filterBar.style.display='none';
-        filterBar.innerHTML='';
-      }
-    }
+  function init(){
+    listEl    = document.getElementById('q-list');
+    authorsEl = document.getElementById('authors-grid');
+    stripEl   = document.getElementById('authors-strip');
+    filterBar = document.getElementById('filter-bar');
+    errEl     = document.getElementById('quotes-error');
 
-    function highlightAuthor(name){
-      document.querySelectorAll('a[data-author]').forEach(a=>{
-        if((name||'') === (a.dataset.author||'')) a.classList.add('active'); else a.classList.remove('active');
-      });
-    }
+    // ルート直下の JSON を取得（キャッシュ回避付き）
+    const url = '/quotes.json?v=' + Date.now();
+    fetch(url, { cache: 'no-store' })
+      .then(r => { if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(normalizeData)   // キー名の揺れを吸収
+      .then(setupUI)
+      .catch(showError);
+  }
 
-    function renderAuthors(target, names){
-      target.innerHTML = names.map(name => `
-        <div class="author-item"><a href="#quotes" data-author="${escapeHTML(name)}">${escapeHTML(name)}</a></div>
-      `).join("");
-      target.querySelectorAll('a[data-author]').forEach(a=>{
-        a.addEventListener('click', (ev)=>{
-          ev.preventDefault();
-          CURRENT_FILTER = ev.currentTarget.dataset.author;
-          updateUI();
-          highlightAuthor(CURRENT_FILTER);
-          document.getElementById('quotes').scrollIntoView({behavior:'smooth', block:'start'});
-        });
-      });
-    }
+  // いろいろなキー名に対応（en/english、jp/ja/japanese 等）
+  function normalizeData(raw){
+    const arr = Array.isArray(raw) ? raw : (raw.quotes || []);
+    return arr.map(it => ({
+      en:     String(it.en || it.english || it.quote_en || it.text_en || '').trim(),
+      jp:     String(it.jp || it.ja || it.japanese || it.quote_ja || it.text_ja || '').trim(),
+      author: String(it.author || it.by || it.writer || 'Unknown').trim()
+    })).filter(q => q.en && q.jp);
+  }
 
-    function renderAuthorsStrip(target, names){
-      const MAX = 20;
-      target.innerHTML = `<a class="chip" data-author="">全員</a>` + names.slice(0, MAX).map(n=>`<a class="chip" data-author="${escapeHTML(n)}">${escapeHTML(n)}</a>`).join("");
-      target.querySelectorAll('a.chip').forEach(a=>{
-        a.addEventListener('click', (ev)=>{
-          ev.preventDefault();
-          const author = ev.currentTarget.dataset.author || null;
-          CURRENT_FILTER = author;
-          updateUI();
-          highlightAuthor(author);
-          document.getElementById('quotes').scrollIntoView({behavior:'smooth', block:'start'});
-        });
-      });
-    }
-  
-// ===== JSON読み込みと初期化を追加（renderAuthorsStrip の直後に貼る）=====
-function initFromJson(data){
-  // 期待形式: [{author:"...", en:"...", jp:"..."}] もしくは {quotes:[...]}
-  QUOTES_RAW = Array.isArray(data) ? data : (data.quotes || []);
-  QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
+  function setupUI(data){
+    QUOTES_RAW = data;
+    QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
 
-  const names = uniqueAuthors(QUOTES_RAW);
-  if (authorsEl) renderAuthors(authorsEl, names);   // 著者グリッド
-  if (stripEl)   renderAuthors(stripEl, names);     // 著者ストリップ
-  CURRENT_FILTER = null;
+    const names = uniqAuthors(QUOTES_RAW);
+    if (authorsEl) renderAuthors(authorsEl, names);
+    if (stripEl)   renderAuthors(stripEl,   names);
 
-  // 既存の updateUI() を呼ぶ（※ updateUI の定義はこの下に既にあるはず）
-  updateUI();
-}
-
-// ルート直下の quotes.json を取得（/quotes/ 配下でも確実に取れる）
-fetch('/quotes.json')
-  .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-  .then(initFromJson)
-  .catch(err => {
-    console.error('quotes.json 読み込みエラー:', err);
-    const box = document.getElementById('quotes-error');
-    if (box) box.textContent = 'quotes.json の読み込みに失敗しました: ' + err.message;
-  });
-// ===== ここまで追加 =====
-
-
-
-    function updateUI(){
-      const data = getFiltered(QUOTES_SHUFFLED);
-      renderQuotes(listEl, data);
-      renderFilterBar();
-    }
-
-    async function init(){
-      try{
-        const res = await fetch('quotes.json', { cache: 'no-store' });
-        if(!res.ok) throw new Error('HTTP '+res.status);
-        const data = await res.json();
-        if(!Array.isArray(data)) throw new Error('JSON は配列である必要があります');
-
-        QUOTES_RAW = data.map(item => ({
-          en: String(item.en||'').trim(),
-          jp: String(item.jp||'').trim(),
-          author: String(item.author||'Unknown').trim()
-        })).filter(q => q.en && q.jp);
-
-        QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
-        updateUI();
-
-        const names = uniqueAuthors(QUOTES_SHUFFLED);
-        renderAuthors(authorsEl, names);
-        renderAuthorsStrip(stripEl, names);
-        highlightAuthor(null);
-      }catch(err){
-        console.error(err);
-        listEl.innerHTML = `<div style="color:#fca5a5">quotes.json の読み込みに失敗しました。<br>リポジトリ直下に quotes.json を置いてください。<br>エラー: ${escapeHTML(err.message)}</div>`;
-      }
-    }
-
-    document.getElementById('btn-shuffle').addEventListener('click', ()=>{
-      if(!QUOTES_RAW.length) return;
+    // シャッフルボタン（もし存在すれば）
+    const btn = document.getElementById('btn-shuffle');
+    if (btn) btn.addEventListener('click', () => {
       QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
+      CURRENT_FILTER = null;
+      highlightAuthor(null);
       updateUI();
-    init();
-      }); // DOMContentLoaded
-  </script>
+    });
+
+    CURRENT_FILTER = null;
+    updateUI();
+  }
+
+  function renderQuotes(target, data){
+    if (!target) return;
+    if (!data.length){
+      target.innerHTML = '<p style="opacity:.7">該当する名言がありません。</p>';
+      return;
+    }
+    target.innerHTML = data.map(q => `
+      <article class="quote" role="listitem">
+        <div class="q-en">${esc(q.en)}</div>
+        <div class="q-jp">${esc(q.jp)}</div>
+        <div class="q-author">— ${esc(q.author || 'Unknown')}</div>
+      </article>
+    `).join('');
+  }
+
+  function renderAuthors(target, names){
+    target.innerHTML = names.map(n =>
+      `<div class="author-item"><a href="#quotes" class="chip" data-author="${esc(n)}">${esc(n)}</a></div>`
+    ).join('');
+    // クリックでフィルタ＆スクロール
+    target.querySelectorAll('a[data-author]').forEach(a=>{
+      a.addEventListener('click', ev=>{
+        ev.preventDefault();
+        CURRENT_FILTER = ev.currentTarget.dataset.author || null;
+        highlightAuthor(CURRENT_FILTER);
+        updateUI();
+        const anchor = document.getElementById('quotes');
+        if (anchor) anchor.scrollIntoView({behavior:'smooth', block:'start'});
+      });
+    });
+  }
+
+  function getFiltered(list){
+    if (!CURRENT_FILTER) return list;
+    return list.filter(q => (q.author||'Unknown').trim() === CURRENT_FILTER);
+  }
+
+  function renderFilterBar(){
+    if (!filterBar) return;
+    if (CURRENT_FILTER){
+      filterBar.style.display = 'flex';
+      filterBar.innerHTML = `<span class="pill">絞り込み：${esc(CURRENT_FILTER)} <button id="clear-filter" aria-label="フィルタ解除">×</button></span>`;
+      document.getElementById('clear-filter').onclick = ()=>{
+        CURRENT_FILTER = null;
+        highlightAuthor(null);
+        updateUI();
+      };
+    }else{
+      filterBar.style.display = 'none';
+      filterBar.innerHTML = '';
+    }
+  }
+
+  function highlightAuthor(name){
+    document.querySelectorAll('a[data-author]').forEach(a=>{
+      if ((name||'') === (a.dataset.author||'')) a.classList.add('active');
+      else a.classList.remove('active');
+    });
+  }
+
+  function updateUI(){
+    const src = QUOTES_SHUFFLED.length ? QUOTES_SHUFFLED : QUOTES_RAW;
+    const items = getFiltered(src);
+    renderQuotes(listEl, items);
+    renderFilterBar();
+  }
+
+  function showError(err){
+    console.error(err);
+    if (errEl){
+      errEl.textContent = 'quotes.json の読み込みに失敗しました: ' + err.message;
+      errEl.style.color = 'tomato';
+    }
+  }
+})();
+</script>
+
 </body>
 </html>
