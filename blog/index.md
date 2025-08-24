@@ -6,6 +6,18 @@ show_title: false
 
 # パンダのリアル日記
 
+## 臨時ニュース
+📺️  上野動物園よりパンダが脱走..
+　　御徒町方面に走り去ったという目撃情報もあり、警察は確認を..
+
+👩　...あの子！
+
+📺 Breaking News! Panda escaped Ueno Zoo… Seen with a penguin near Okachimachi!
+
+👩 …Is that him!? 
+
+![今日のパンダ](/images/2025-0824-01.jpg)
+
 ## 市営プール
 🐧　泳げないやつは、自然淘汰されるんだ。
 
