@@ -10,7 +10,7 @@ show_title: false
 
 🐼 👩❤ 動物園のゲートまで、このまま抱っこでお願いします
 
-🐧 Panda boss… this is our end. Let’s go out with style…
+🐧 Panda boss… this is our end. Let’s go down with style…
 
 🐼 👩❤ Just carry me to the zoo gate.
 
