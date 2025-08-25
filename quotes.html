@@ -100,6 +100,40 @@ permalink: /quotes/
     .filter-bar{ display:none; gap:8px; align-items:center; margin:8px 0 12px }
     .filter-bar .pill{ font-size:12px; padding:6px 10px; border:1px solid var(--line); border-radius:999px; background:var(--chip-bg); display:inline-flex; align-items:center; gap:8px }
     .filter-bar .pill button{ border:none; background:none; cursor:pointer; color:var(--accent); font-size:12px }
+    /* ====== モバイル最適化（quotes.html 専用） ====== */
+
+/* 1) Minimaの自動見出し(ページタイトル)をこのページでは非表示→二重の“Quotes”を解消 */
+.post-header { display: none; }
+
+/* 2) 上部の白い「Home」ボタンはスマホでは隠す（あればどれかに当たります） */
+@media (max-width: 560px) {
+  .home-btn, .home-cta, .homebutton, .btn-home { display: none !important; }
+  /* H1や余白を少しタイトに */
+  h1, .page-title { font-size: clamp(1.4rem, 6vw, 2rem); margin: .25rem 0 .75rem; }
+}
+
+/* 3) 著者の横スクロールをスマホ向けにチューニング（スクロールバー非表示） */
+#authors-strip {
+  display: flex;
+  gap: .5rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x proximity;
+  padding: .25rem 0 .5rem;
+  margin-bottom: .5rem;
+}
+#authors-strip::-webkit-scrollbar { display: none; }  /* Chrome/Safari */
+#authors-strip { -ms-overflow-style: none; scrollbar-width: none; } /* Edge/Firefox */
+
+/* 4) チップを少し小さめにして詰めやすく */
+#authors-strip .chip, #authors-grid a,
+.author-item a {
+  padding: .5rem .75rem;
+  border-radius: 999px;
+  white-space: nowrap;
+  scroll-snap-align: start;
+}
+
   </style>
 </head>
 <body>
