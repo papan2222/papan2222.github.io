@@ -8,11 +8,11 @@ show_title: false
 ## 捕まる
 🐧 パンダよ…俺達もここで終いか…。散り際ぐらい、粋にいこうぜ…
 
-🐼 お姉さん..❤ 動物園のゲートまで、このまま抱っこでお願いします
+🐼 👩❤ 動物園のゲートまで、このまま抱っこでお願いします
 
 🐧 Panda boss… this is our end. Let’s go out with style…
 
-🐼 Ma’am… ❤ Just carry me to the zoo gate.
+🐼 👩❤ Just carry me to the zoo gate.
 
 ![今日のパンダ](/images/2025-0825-04.jpg)
 
