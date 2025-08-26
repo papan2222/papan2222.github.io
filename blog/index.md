@@ -5,6 +5,21 @@ show_title: false
 ---
 
 # パンダのリアル日記
+## 変な服
+🐧　その奇妙なベストはどうした？
+
+🐼　動物園のお客さんにもらった
+
+🐧　処分するやつじゃ..
+
+🐧 Where’d you get that strange vest?
+
+🐼 A zoo visitor gave it to me.
+
+🐧 Wasn’t that meant to be thrown away…?
+
+![今日のパンダ](/images/2025-0826-02.jpg)
+
 ## 捕まる
 🐧 
 パンダよ…俺達もここで終いか…。散り際ぐらい、粋にいこうぜ…
