@@ -5,6 +5,24 @@ show_title: false
 ---
 
 # パンダのリアル日記
+## 帰りたい
+
+もう帰りたい... 
+
+でも、あいつがあんなに喜んでいる...
+
+なんだろう..この気持ちは..
+
+
+I just want to go home…
+
+But seeing him so happy, I can’t look away.
+
+What is this feeling inside me?
+
+![今日のパンダ](/images/2025-0826-03.jpg)
+
+
 ## 変な服
 🐧　その奇妙なベストはどうした？
 
