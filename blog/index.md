@@ -6,6 +6,16 @@ show_title: false
 
 # パンダのリアル日記
 
+## おばちゃん
+
+あんた、パンダやんか！
+縁起もんやわ、握手しなさい！
+
+Well look at ya—you’re a panda! 
+That’s good luck right here, now gimme a handshake!
+
+![今日のパンダ](/images/2025-0827-01.jpg)
+
 ## 相談
 🧔　動物園の暮らしにも慣れたか？
 
