@@ -515,7 +515,7 @@ Apple won’t recognize my paw pad…
 Move over a bit, Panda!
 
 🐼
-Let me grab the bamboo shoots first.
+Let me pick up the bamboo shoots first.
 
 👦
 Panda, you sure eat a lot!
