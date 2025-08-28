@@ -6,6 +6,13 @@ show_title: false
 
 # パンダのリアル日記
 
+## 白浜
+次は、終点、白浜... アドベンチャーワールドの最寄り駅でございます。自然と動物たちの世界を、心ゆくまでお楽しみください..
+
+Arriving at our final stop, Shirahama. Adventure World awaits with nature and animals to delight you.
+
+![今日のパンダ](/images/2025-0828-02.jpg)
+
 ## おばちゃん
 
 あんた、パンダやんか！
