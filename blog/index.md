@@ -11,9 +11,9 @@ show_title: false
 
 自然と動物たちの世界を、心ゆくまでお楽しみください..
 
-Arriving at our final stop, Shirahama. 
+Next stop, Shirahama, the final station. 
 
-Next stop, Shirahama, the final station. Gateway to Adventure World—enjoy the wonders of nature and animals.
+Gateway to Adventure World—enjoy the wonders of nature and animals.
 
 ![今日のパンダ](/images/2025-0828-02.jpg)
 
