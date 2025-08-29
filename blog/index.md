@@ -6,6 +6,16 @@ show_title: false
 
 # パンダのリアル日記
 
+## 魚屋
+👨　いいアジが入ったんですよ！どう？ 
+
+🐧　３匹くらい丸飲みさせてもらっていい？試食で。
+
+👨 Fresh mackerel today! How about it?
+🐧 Can I swallow three whole ones? For tasting.
+
+![今日のパンダ](/images/2025-0829-02.jpg)
+
 ## 水族館
 🐼 動物は無料ですよね？　  
 　  ペンギンは友達です。保護希望じゃありません。 
