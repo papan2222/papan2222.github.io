@@ -6,6 +6,19 @@ show_title: false
 
 # パンダのリアル日記
 
+## 水族館
+🐼 動物は無料ですよね？　  
+ペンギンは友達です。保護希望じゃありません。 
+
+🐧 深海魚、余ってない？
+
+🐼 Animals get in free, right?
+The penguin’s my friend, not for rescue.
+
+🐧 Got any spare sardines? I’m starving.
+
+![今日のパンダ](/images/2025-0829-01.jpg)
+
 ## 白浜
 次は、終点、白浜... アドベンチャーワールドの最寄り駅でございます。
 
