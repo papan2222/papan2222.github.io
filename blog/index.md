@@ -10,7 +10,7 @@ show_title: false
 🐼 動物は無料ですよね？　  
 　　ペンギンは友達です。保護希望じゃありません。 
 
-🐧 イワシ、余ってない？腹減ってて
+🐧 イワシ余ってない？腹減ってて
 
 🐼 Animals get in free, right?
 The penguin’s my friend, not for rescue.
