@@ -13,8 +13,10 @@ show_title: false
 
 👧 何もってきたの？
 
-👧 Good morning, Panda-chan!
+👧 Good morning, Panda!
+
 🐼 Ah… good morning.
+
 👧 What did you bring with you?
 
 ![今日のパンダ](/images/2025-0830-04.jpg)
