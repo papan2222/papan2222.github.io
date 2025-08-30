@@ -6,6 +6,19 @@ show_title: false
 
 # パンダのリアル日記
 
+## 出勤
+👧 おはよう、パンちゃん！
+
+🐼 あ...おはようございます。
+
+👧 何もってきたの？
+
+👧 Good morning, Pan-chan!
+🐼 Ah… good morning.
+👧 What did you bring with you?
+
+![今日のパンダ](/images/2025-0830-04.jpg)
+
 ## バス
 👧 上野動物園前で降りるの？
 
