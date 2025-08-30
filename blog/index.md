@@ -13,6 +13,13 @@ Panda, you’ll be leaving for the zoo this April, won’t you? I’ll get an an
 
 ![今日のパンダ](/images/2025-0829-03.jpg)
 
+## レスリング
+🧔　毛... 目に入る...
+
+🧔　Fur... it's getting in my eyes...
+
+![今日のパンダ](/images/2025-0830-01.jpg)
+
 ## 魚屋
 👨　いいアジが入ってるよ！どう？ 
 
