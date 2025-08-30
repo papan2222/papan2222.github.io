@@ -6,6 +6,22 @@ show_title: false
 
 # パンダのリアル日記
 
+## レッサーパンダ
+🦝 レッサーパンダって、パンダ以下って意味だろ？納得できない！
+
+🐼 わかるよ... 僕とは全然似てないし...
+
+🦝 モアパンダならな！ハハハ！
+
+🐼 ...
+
+🦝 Does ‘lesser panda’ mean I’m below panda? I can’t accept that!
+🐼 I get it… we don’t even look alike…
+🦝 Then call me ‘More Panda!’ Hahaha!
+🐼 ...
+
+![今日のパンダ](/images/2025-0830-05.jpg)
+
 ## 出勤
 👧 おはよう、パンダちゃん！
 
