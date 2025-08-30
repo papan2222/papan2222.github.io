@@ -14,7 +14,9 @@ show_title: false
 👧 どこから通ってるの？
 
 👧 Do you get off at Ueno Zoo?
+
 🐼 Uh... yeah.
+
 👧 Which stop are you coming from?
 
 ![今日のパンダ](/images/2025-0830-03.jpg)
