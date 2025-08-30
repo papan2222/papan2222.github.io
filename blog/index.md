@@ -7,9 +7,13 @@ show_title: false
 # パンダのリアル日記
 
 ## バレンタイン
-パンダさ、4月から動物園に行っちゃんだよね.. わたし、年パス買って、毎日行くからね..
+パンダさ、4月から動物園に行っちゃんだよね.. 
 
-Panda, you’ll be leaving for the zoo this April, won’t you? I’ll get an annual pass so I can visit you every day.
+わたし、年パス買って、毎日行くからね..
+
+Panda, you’ll be leaving for the zoo this April, won’t you?
+
+I’ll get an annual pass so I can visit you every day.
 
 ![今日のパンダ](/images/2025-0829-03.jpg)
 
