@@ -7,13 +7,13 @@ show_title: false
 # パンダのリアル日記
 
 ## 出勤
-👧 おはよう、パンちゃん！
+👧 おはよう、パンダちゃん！
 
 🐼 あ...おはようございます。
 
 👧 何もってきたの？
 
-👧 Good morning, Pan-chan!
+👧 Good morning, Panda-chan!
 🐼 Ah… good morning.
 👧 What did you bring with you?
 
