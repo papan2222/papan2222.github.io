@@ -6,16 +6,18 @@ show_title: false
 
 # パンダのリアル日記
 
-## バレンタイン
-パンダさ、4月から動物園に行っちゃんだよね.. 
+## バス
+👧 上野動物園前で降りるの？
 
-わたし、年パス買って、毎日行くからね..
+🐼 あ... うん。
 
-Panda, you’ll be leaving for the zoo this April, won’t you?
+👧 どこから通ってるの？
 
-I’ll get an annual pass so I can visit you every day.
+👧 Do you get off at Ueno Zoo?
+🐼 Uh... yeah.
+👧 Which stop are you coming from?
 
-![今日のパンダ](/images/2025-0829-03.jpg)
+![今日のパンダ](/images/2025-0830-03.jpg)
 
 ## レスリング
 🧔　毛... 目に入る...
