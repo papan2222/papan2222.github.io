@@ -6,6 +6,15 @@ show_title: false
 
 # パンダのリアル日記
 
+## 冷蔵庫
+
+桃屋のメンマ、切らしてたか...
+
+Did I run out of Momoya’s seasoned menma…?
+
+![今日のパンダ](/images/2025-0831-04.jpg)
+
+
 ## 職質
 👮　パンダ...か？
 
