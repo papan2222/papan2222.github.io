@@ -6,6 +6,18 @@ show_title: false
 
 # パンダのリアル日記
 
+## 相談
+🐼　はなしって、なによ？
+
+👧　実はね、わたし昨日までハトだったの。まだパンくず拾おうとしちゃって..
+
+🐼 What’s this talk about?
+
+👧 Well… I was a pigeon until yesterday, so I still look for bread crumbs on the ground.
+
+![今日のパンダ](/images/2025-0831-01.jpg)
+
+
 ## レッサーパンダ
 🦝 レッサーパンダって、パンダ以下って意味だろ？納得できない！
 
