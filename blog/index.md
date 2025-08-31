@@ -6,6 +6,19 @@ show_title: false
 
 # パンダのリアル日記
 
+## 職質
+👮　パンダ...か？
+
+🐼　はい。上野動物園の非常勤です。
+
+
+👮 Panda…?
+
+🐼 Correct. Seasonal staff, Ueno Zoo.
+
+![今日のパンダ](/images/2025-0831-02.jpg)
+
+
 ## 相談
 🐼　はなしって、なによ？
 
