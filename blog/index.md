@@ -6,6 +6,18 @@ show_title: false
 
 # パンダのリアル日記
 
+## たぬき
+🐼　いま絶対カンチョーすんなよ、たぬき
+
+🐼 Seriously, no kanchō right now, raccoon dog.
+
+
+カンチョー：指でおしりを突く子どものいたずら
+kanchō, a prank similar to giving a wedgie, but with fingers
+
+![今日のパンダ](/images/2025-0901-01.jpg)
+
+
 ## 冷蔵庫
 
 桃屋のメンマ、切らしてたか...
