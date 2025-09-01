@@ -6,6 +6,18 @@ show_title: false
 
 # パンダのリアル日記
 
+## 休日
+月曜日は、上野動物園がお休み。
+
+ぼくは、総武線で千葉に行って、落花生をひとつ食べます。
+
+Monday is the day Ueno Zoo is closed.
+
+I’m taking the Sobu Line to Chiba to eat just one peanut.
+
+![今日のパンダ](/images/2025-0901-04.jpg)
+
+
 ## ガチャガチャ
 🐼　同じのが２個つづいたんです。替えてくれませんか。
 
