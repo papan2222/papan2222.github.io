@@ -13,6 +13,7 @@ show_title: false
 
 
 カンチョー：指でおしりを突く子どものいたずら
+
 kanchō, a prank similar to giving a wedgie, but with fingers
 
 ![今日のパンダ](/images/2025-0901-01.jpg)
