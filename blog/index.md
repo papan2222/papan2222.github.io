@@ -15,7 +15,7 @@ show_title: false
 
 👧 Sorry, I’m afraid we can’t do that.
 
-![今日のパンダ](/images/2025-0901-02.jpg)
+![今日のパンダ](/images/2025-0901-03.jpg)
 
 ## たぬき
 🐼　いま絶対カンチョーすんなよ、たぬき
