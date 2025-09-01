@@ -6,6 +6,17 @@ show_title: false
 
 # パンダのリアル日記
 
+## ガチャガチャ
+🐼　同じのが２個つづいたんです。替えてくれませんか。
+
+👧　それはできないんですよぅ
+
+🐼 I got two of the same ones. Could you exchange one?
+
+👧 Sorry, I’m afraid we can’t do that.
+
+![今日のパンダ](/images/2025-0901-02.jpg)
+
 ## たぬき
 🐼　いま絶対カンチョーすんなよ、たぬき
 
