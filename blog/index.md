@@ -9,7 +9,7 @@ show_title: false
 ## オフィス
 👨　なんで片足をあげるんだ！？
 
-👨 Why are you lifting one leg?!
+👨  Why are you lifting one leg?!
 
 ![今日のパンダ](/images/2025-0902-01.jpg)
 
