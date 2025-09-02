@@ -31,22 +31,22 @@
     }
 
     .card {
-      background-color: rgba(255, 255, 255, 0.92);
-      border-radius: 1em;
-      padding: 1.5em 2em;
-      margin-bottom: 2em;
-      text-align: center;
-      max-width: 600px;
-      margin-left: auto;
-      margin-right: auto;
-    }
+  background-color: rgba(255, 255, 255, 0.92);
+  border-radius: 1em;
+  padding: 1em 1.2em;     /* 余白を減らす */
+  margin-bottom: 1.5em;   /* 下の余白も縮小 */
+  text-align: center;
+  max-width: 480px;       /* 幅を狭くする（600→480） */
+  margin-left: auto;
+  margin-right: auto;
+}
 
-    .rounded-image {
-      width: 200px;
-      height: auto;
-      border-radius: 100px 100px / 60px 60px;
-      object-fit: cover;
-    }
+.rounded-image {
+  width: 150px;           /* 画像を小さめに（200→150） */
+  height: auto;
+  border-radius: 75px 75px / 45px 45px;
+  object-fit: cover;
+}
 
     .site-link {
       display: inline-block;
