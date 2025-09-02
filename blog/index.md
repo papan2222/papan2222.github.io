@@ -6,6 +6,13 @@ show_title: false
 
 # パンダのリアル日記
 
+## オフィス
+👨　なんで片足をあげるんだ！？
+
+👨 Why are you lifting one leg?!
+
+![今日のパンダ](/images/2025-0902-01.jpg)
+
 ## 休日
 月曜日は、上野動物園がお休み。
 
