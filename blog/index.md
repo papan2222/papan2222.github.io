@@ -10,6 +10,8 @@ show_title: false
 
 👩　お客様... 毛の付着が気になっておりまして...
 
+👩 Sir… we’re a bit concerned about all the fur you’re leaving behind…
+
 ![今日のパンダ](/images/2025-0902-02.jpg)
 
 ## オフィス
