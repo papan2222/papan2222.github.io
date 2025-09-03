@@ -13,7 +13,7 @@ show_title: false
 
 🐼 Heeey! It’s Panda-chan! Did you miss meee?!
 
-👥 YEEEESSSS!!!
+👨 YEEEESSSS!!!
 
 ![今日のパンダ](/images/2025-0903-01.jpg)
 
