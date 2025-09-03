@@ -6,8 +6,19 @@ show_title: false
 
 # パンダのリアル日記
 
-## マッサージチェア
+## 地下アイドル
+🐼 はぁい♡ パンダちゃんだよ〜！みんな会いたかったぁ？
 
+👨 会いたかったーー！！
+
+🐼 Heeey! It’s Panda-chan! Did you miss meee?!
+
+👥 YEEEESSSS!!!
+
+![今日のパンダ](/images/2025-0903-01.jpg)
+
+
+## マッサージチェア
 👩　お客様... 毛の付着が気になっておりまして...
 
 👩 Sir… we’re a bit concerned about all the fur you’re leaving behind…
