@@ -11,7 +11,7 @@ show_title: false
 
 👨 会いたかったーー！！
 
-🐼 Heeey! It’s Panda-chan! Did you miss meee?!
+🐼 Heeey! I’m Panda-chan! Did you miss meee?!
 
 👨 YEEEESSSS!!!
 
