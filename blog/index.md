@@ -6,6 +6,22 @@ show_title: false
 
 # パンダのリアル日記
 
+## 改札
+👧
+あら、かわいい... 迷子？
+
+🐼
+改札で、横腹が擦れるんですよ。
+
+幅を広げてもらえませんか？
+
+👧 Oh, how cute... Are you lost?
+
+🐼 Could you widen the ticket gate a little? My belly keeps scraping the sides.
+
+![今日のパンダ](/images/2025-0904-01.jpg)
+
+
 ## 地下アイドル
 🐼 はぁい♡ パンダちゃんだよ〜！みんな会いたかったぁ？
 
