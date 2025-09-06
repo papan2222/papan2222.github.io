@@ -6,6 +6,21 @@ show_title: false
 
 # パンダのリアル日記
 
+## 奈良公園
+
+🐼
+実は...自分用に買ったビスコでした～！
+
+🦌
+角のある先輩、呼んでくる
+
+
+🐼  Actually… I bought these biscuits for myself!
+
+🦌  I’ll go call the senior with the antlers.
+
+![今日のパンダ](/images/2025-0906-01.jpg)
+
 ## 改札
 👧
 あら、かわいい... 迷子？
