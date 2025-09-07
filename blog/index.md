@@ -1,6 +1,7 @@
 ---
 layout: default
-title: パンダのリアル日記
+title: パンダのリアル日記｜papan2222
+description: パンダの現代社会での暮らしを、日記風に綴っています。英語も併記しており、英会話や英語学習にもぜひ。フィクションです。
 show_title: false
 ---
 
