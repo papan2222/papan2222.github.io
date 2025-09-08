@@ -8,6 +8,22 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 自販機
+👦
+ごめんね。ジュース買えないから、どいてくれる？
+
+🐼
+君は知らないだろうけど、この自販機は僕の兄なんだ。
+
+👦
+Sorry… I can’t buy a drink. Could you move a little?
+
+🐼
+You don’t know this, but this vending machine is actually my brother.
+
+![今日のパンダ](/images/2025-0908-01.jpg)
+
+
 ## 河原
 👧
 だから...あなたが好きだって..
