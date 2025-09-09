@@ -8,6 +8,28 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## タケノコ掘り
+
+👧
+帰りさ、いっしょにタケノコ取りにいこ❤
+
+🐼
+うっせぇな。ひとりのほうがはかどるんだよ。服も汚れんだろ
+
+👧
+（...やさしい❤）
+
+👧
+On the way back, let’s go pick some bamboo shoots together. ❤
+
+🐼
+Geez… you’re better off not coming. Your clothes will just get dirty.
+
+👧
+(...he’s so kind ❤)
+
+![今日のパンダ](/images/2025-0909-01.jpg)
+
 ## 自販機
 👦
 ごめんね。ジュース買えないから、どいてくれる？
