@@ -8,6 +8,22 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## ペンギン
+🐼
+ペンギンの容態は!?
+
+👧
+無理な鯖の丸呑みによる腸閉塞です。大丈夫です
+
+🐼
+How’s the penguin!?
+
+👧
+It swallowed a whole mackerel. Intestinal blockage, but it’ll be fine.
+
+![今日のパンダ](/images/2025-0910-01.jpg)
+
+
 ## タケノコ掘り
 
 👧
