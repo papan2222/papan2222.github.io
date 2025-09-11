@@ -16,7 +16,8 @@ show_title: false
 あれはチョコよ。たけのこ風味じゃないの。
 
 🐼
-Mom, did you get ChocoCones?
+Mom, did you get Bamboo Shoot Village?
+
 👩
 That’s chocolate. It doesn’t taste like bamboo shoots.
 
