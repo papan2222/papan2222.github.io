@@ -8,6 +8,21 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## たけのこの里
+🐼
+お母さん、たけのこの里 買ってくれた？
+
+👩
+あれはチョコよ。たけのこ風味じゃないの。
+
+🐼
+Mom, did you get ChocoCones?
+👩
+That’s chocolate. It doesn’t taste like bamboo shoots.
+
+
+![今日のパンダ](/images/2025-0911-01.jpg)
+
 ## UFOキャッチャー
 🐼
 あのパンダ、俺の方を見てる！
