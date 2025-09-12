@@ -12,6 +12,9 @@ show_title: false
 🐼
 タイミーから来ました！３時間だけですが、よろしくお願いします！
 
+🐼
+I’m from Timee. I’ll be working here for three hours, nice to meet you! 
+
 ![今日のパンダ](/images/2025-0912-01.jpg)
 
 ## たけのこの里
