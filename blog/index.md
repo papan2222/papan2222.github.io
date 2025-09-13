@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 婆さん家
+👵　あんた、この家にすっかり懐いてるけど... 
+
+🐼　ただの野良パンダですよ。羊羹、おいしいです。
+
+👵 You’ve really made yourself at home here…
+
+🐼 I’m just a stray panda, that’s all. But this yokan is delicious.
+
+![今日のパンダ](/images/2025-0913-01.jpg)
+
+
 ## スキマバイト
 🐼
 タイミーから来ました！３時間だけですが、よろしくお願いします！
