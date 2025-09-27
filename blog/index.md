@@ -8,6 +8,20 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## アート
+
+🐼
+そういうのはヤンキーがスプレーでやるもんだぞ。
+
+👦
+パンダにわかってたまるか。
+
+🐼 That’s the kind of thing punks do with spray cans.
+
+👦 What would a panda know about that?
+
+![今日のパンダ](/images/2025-0927-02.jpg)
+
 ## オーダー
 
 🦲
