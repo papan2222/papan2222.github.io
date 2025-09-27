@@ -8,6 +8,19 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 流さない
+🐼
+パンダのうんちって、ほんとに良い匂いなんだ。植物の香り。
+
+だから、流してないよ。
+
+🐼
+Takahashi, you know, panda poop actually smells nice—like plants.
+
+So… I didn’t flush.
+
+![今日のパンダ](/images/2025-0927-04.jpg)
+
 ## アート
 
 🐼
