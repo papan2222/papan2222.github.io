@@ -8,6 +8,16 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 虎党
+
+🐼
+ワシ虎党やけど、分類はクマ科やで？
+
+🐼
+I'm a die-hard Tigers fan… but biologically, I'm still a bear, you know?
+
+![今日のパンダ](/images/2025-11-18-0.jpg)
+
 ## 流さない
 🐼
 パンダのうんちって、ほんとに良い匂いなんだ。植物の香り。
