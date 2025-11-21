@@ -8,6 +8,22 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 掃除機
+
+👩
+掃除機かけるからどいてくれる？
+
+🐼
+あ、お母さん。お昼はもうすぐ？
+
+👩
+Can you move a bit? I’m trying to vacuum.
+
+🐼
+Oh, ma’am… is it almost lunchtime?
+
+![今日のパンダ](/images/2025-11-20-0.jpg)
+
 ## 虎党
 
 🐼
