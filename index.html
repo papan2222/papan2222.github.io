@@ -13,12 +13,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- 🔎 SEO基本 -->
+  <!-- 🔎 SEO -->
   <title>papan2222｜パンダの詩・名言集と英語学習（英単語／TOEIC／英検）</title>
   <meta name="description" content="papan2222の公式サイト。Kindle本の紹介や、パンダやぬいぐるみを題材にした詩・ポエム・名言集、英単語・TOEIC・英検に役立つ英語学習コンテンツを発信しています。">
   <link rel="canonical" href="https://papan2222.github.io/">
 
-  <!-- 📱 OGP / SNSシェア -->
+  <!-- OGP -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="papan2222">
   <meta property="og:title" content="papan2222｜パンダの詩・名言集と英語学習">
@@ -27,10 +27,10 @@
   <meta property="og:image" content="https://papan2222.github.io/images/og-image.jpg">
   <meta name="twitter:card" content="summary_large_image">
 
-  <!-- 検索エンジン向けヒント -->
+  <!-- robots -->
   <meta name="robots" content="index, follow">
 
-  <!-- 構造化データ（JSON-LD形式） -->
+  <!-- JSON-LD -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -42,14 +42,14 @@
   }
   </script>
 
-  <!-- フォント -->
+  <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap" rel="stylesheet">
 
-  <!-- ファビコン -->
+  <!-- Icon -->
   <link rel="icon" href="images/animal-site-icon.jpg" type="image/jpeg">
 
-  <!-- 🎨 あなたが書いたCSSはそのまま残す -->
+  <!-- CSS -->
   <style>
     body {
       margin: 0;
@@ -140,31 +140,26 @@
       font-size: 0.8em;
     }
 
-    a {
-      text-decoration: none;
-      color: inherit;
-    }
-
-    /* H1専用スタイル：さわらび明朝（小さめ） */
     .intro-title {
-  font-family: 'Sawarabi Mincho', serif !important;
-  font-size: 1rem !important;
-  line-height: 1.4 !important;
-  text-align: center !important;
-  margin: 0.5em 0 0.8em !important;
-  font-weight: normal !important;
-  color: white !important;           /* 白文字に変更 */
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.4); /* 黒っぽい影で読みやすく */
-}
+      font-family: 'Sawarabi Mincho', serif !important;
+      font-size: 1rem !important;
+      line-height: 1.4 !important;
+      text-align: center !important;
+      margin: 0.5em 0 0.8em !important;
+      font-weight: normal !important;
+      color: white !important;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+    }
   </style>
 </head>
 <body>
   <div class="container">
-    <!-- ▼ここを追加（または既存H1に class を付与）▼ -->
-  <h1 class="intro-title">
-    パンダの詩や日記、偉人の英語名言、英単語、Kindle本など...
-  </h1>
-  <!-- ▲ここまで▲ -->
+
+    <h1 class="intro-title">
+      パンダの詩や日記、偉人の英語名言、英単語、Kindle本など...
+    </h1>
+
+    <!-- Panda's Poems -->
     <div class="card">
       <a href="https://sites.google.com/view/pandalife22">
         <img class="rounded-image" src="270525Image_fx (18).jpg" alt="Panda writing a diary">
@@ -179,58 +174,77 @@
       <a href="https://sites.google.com/view/pandalife22" class="site-link">WebSite</a>
     </div>
 
-    <div class="book-section">
-     <div style="text-align: center; margin-bottom: 1.5em;">
-  <a href="https://sites.google.com/view/pandaenglish" target="_blank" style="display: inline-block; text-decoration: none;">
-    <img src="https://papan2222.github.io/animal-site-icon.jpg" 
-         alt="どうぶつ英単語" 
-         style="width: 60px; height: 60px; border-radius: 50%; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-    <div style="font-size: 13px; color: #fff; background-color: rgba(0,0,0,0.6); padding: 2px 8px; border-radius: 10px; margin-top: 6px; display: inline-block;">
-      どうぶつ英単語
+    <!-- パンダのリアル日記（ここに移動） -->
+    <div style="text-align:center; padding:24px 0;">
+      <a href="/blog/"
+         style="display:inline-flex; flex-direction:column; align-items:center; gap:8px; text-decoration:none;">
+        <img src="/images/rr-icon-0817.jpg" alt="パンダのリアル日記"
+             width="200" height="200"
+             style="width:200px; height:200px; border-radius:50%; object-fit:cover; box-shadow:0 6px 16px rgba(0,0,0,0.15);">
+        <span style="font:600 16px/1.4 system-ui,'Noto Sans JP',sans-serif; color:#fff;">
+          パンダのリアル日記
+        </span>
+      </a>
     </div>
-  </a>
-</div>
-      <a href="https://www.amazon.co.jp/dp/B0FDW792M5?ref_=ast_author_dp&th=1&psc=1" class="book">
+
+    <!-- Kindle本：3冊 -->
+    <div class="book-section">
+
+      <!-- どうぶつ英単語 -->
+      <div style="text-align: center; margin-bottom: 1.5em; width:100%;">
+        <a href="https://sites.google.com/view/pandaenglish" target="_blank" style="display: inline-block; text-decoration: none;">
+          <img src="https://papan2222.github.io/animal-site-icon.jpg" 
+               alt="どうぶつ英単語" 
+               style="width: 60px; height: 60px; border-radius: 50%; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+          <div style="font-size: 13px; color: #fff; background-color: rgba(0,0,0,0.6); padding: 2px 8px; border-radius: 10px; margin-top: 6px; display: inline-block;">
+            どうぶつ英単語
+          </div>
+        </a>
+      </div>
+
+      <!-- 1冊目 -->
+      <a href="https://www.amazon.co.jp/dp/B0FDW792M5" class="book">
         <img src="表紙.jpg" alt="英単語300">
         <div class="label">¥99 / Kindle Unlimited</div>
         <h3>英単語300 - 動物たちと楽しく！</h3>
         <p>TOEIC700を目指すあなたに。ぬいぐるみ動物たちの会話で学べる英単語帳。</p>
       </a>
 
+      <!-- 2冊目（新刊） -->
+      <a href="https://www.amazon.co.jp/dp/B0G399QT9Y" class="book">
+        <img src="new-book-cover.jpg" alt="新刊ぬいぐるみ英語フレーズ集">
+        <div class="label">¥99 / Kindle Unlimited</div>
+        <h3>ぬいぐるみ英語フレーズ集</h3>
+        <p>ぬいぐるみの世界で英語フレーズをやさしく学べる新しい一冊。</p>
+      </a>
+
+      <!-- 3冊目 -->
       <a href="https://www.amazon.co.jp/dp/B0FBW1X1HN" class="book">
         <img src="aaaChatGPT Image 2025年6月2日 11_58_56.png" alt="ぬいぐるみの福音">
         <div class="label">¥99 / Kindle Unlimited</div>
         <h3>ぬいぐるみの福音：The Gospel of Plush</h3>
         <p>ぬいぐるみの視点から紡がれる、静かで深い、ちいさな魂の物語。Bilingual Japanese-English format.</p>
       </a>
+
     </div>
+
+  </div> <!-- /.container -->
+
+  <!-- ▼ 最下部：パンダの英語名言 -->
+  <div style="text-align:center; padding:24px 0;">
+    <a href="/quotes/"
+       style="display:inline-flex; flex-direction:column; align-items:center; gap:8px; text-decoration:none;">
+      <img src="/panda-btn.png" alt="パンダの英語名言"
+           width="200" height="200"
+           style="width:200px; height:200px; border-radius:50%; object-fit:cover; box-shadow:0 6px 16px rgba(0,0,0,.15)">
+      <span style="font:600 16px/1.4 system-ui,'Noto Sans JP',sans-serif; color:#fff;">パンダの英語名言</span>
+    </a>
   </div>
-  <!-- ▼パンダの英語名言：丸ボタン（</body> の直前） -->
-<div style="text-align:center; padding:24px 0;">
-  <a href="/quotes/"
-     style="display:inline-flex; flex-direction:column; align-items:center; gap:8px; text-decoration:none;">
-    <img src="/panda-btn.png" alt="パンダの英語名言"
-         width="200" height="200"
-         style="width:200px; height:200px; border-radius:50%; object-fit:cover; box-shadow:0 6px 16px rgba(0,0,0,.15)">
-    <span style="font:600 16px/1.4 system-ui,'Noto Sans JP',sans-serif; color:#fff;">パンダの英語名言</span>
-  </a>
-</div>
-<!-- ▲ここまで -->
-  <!-- パンダのリアル日記：丸ボタン（</body>の直前） -->
-<div style="text-align:center; padding:24px 0;">
-  <a href="/blog/"
-     style="display:inline-flex; flex-direction:column; align-items:center; gap:8px; text-decoration:none;">
-    <img src="/images/rr-icon-0817.jpg" alt="パンダのリアル日記"
-         width="200" height="200"
-         style="width:200px; height:200px; border-radius:50%; object-fit:cover; box-shadow:0 6px 16px rgba(0,0,0,0.15);">
-    <span style="font:600 16px/1.4 system-ui,'Noto Sans JP',sans-serif; color:#fff;">
-      パンダのリアル日記
-    </span>
-  </a>
-</div>
+
   <footer style="background:#f5f5f5; padding:1em; margin-top:2em; font-size:0.5rem; text-align:center; color:#555;">
-  papan2222の公式サイト。パンダがささやく詩、ポエムや、個性的な日記、また偉人の英語名言、英単語、Kindle本などなど…すべて英語併記です。<br>
-  英語学習やTOEIC、英検対策に役立つコンテンツを随時作っていきます。
-</footer>
+    papan2222の公式サイト。パンダがささやく詩、ポエムや、個性的な日記、また偉人の英語名言、英単語、Kindle本などなど…すべて英語併記です。<br>
+    英語学習やTOEIC、英検対策に役立つコンテンツを随時作っていきます。
+  </footer>
+
 </body>
 </html>
