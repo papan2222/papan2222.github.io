@@ -10,16 +10,12 @@ show_title: false
 
 ## 出前
 
-もしもし。来来軒？
-
+🐼 もしもし。来来軒？
 三丁目のパンダです。
-
 八宝菜５つ、たけのこ２倍でお願いします。
 
-Hi, Rairaiken?
-
+🐼 Hi, Rairaiken?
 Panda from Third Street.
-
 Five Eight-Treasure stir-fries, double bamboo shoots.
 
 ![今日のパンダ](/images/2025-11-28-0.jpg)
