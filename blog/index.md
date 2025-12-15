@@ -8,6 +8,14 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 生き様
+
+白黒の人生を生きてやる、俺の視界に『グレー』なんて色はねぇ
+
+Living life in black and white, No shades of gray in my sight.
+
+![今日のパンダ](/images/2025-12-15-1.png)
+
 ## 孔雀
 
 🦚
