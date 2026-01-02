@@ -8,6 +8,17 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 箱根駅伝
+箱根駅伝、花の２区！
+
+動物大学のパンダ、健闘しています！
+
+It’s the famous Section 2 of the Hakone Ekiden.
+
+The panda from Animal University is putting up a great fight!
+
+![今日のパンダ](/images/2026-01-02-0.png)
+
 ## 馴染む
 🐼
 この焼き魚、とてもおいしいです。
