@@ -8,6 +8,23 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 焼き芋
+🐼
+焼いた芋も 美味しいものですね。
+ただ、失敬ですが、おならがでそうです。
+
+👵
+あら、人間と同じなのねぇ
+
+🐼
+Roasted sweet potatoes are really good.
+Sorry to say this, but I think I’m about to fart.
+
+👵
+Oh my. Just like a human, then.
+
+![今日のパンダ](/images/2026-01-05-0.png)
+
 ## 箱根駅伝
 箱根駅伝、花の２区！
 
