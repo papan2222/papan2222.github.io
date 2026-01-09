@@ -8,6 +8,21 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## チーズケーキ
+👧
+パンダちゃん❤ チーズケーキっていうのよ、これ。
+
+🐼
+難しい名前のおやつは、だいたいおいしい。
+
+👧
+Panda, this is called cheesecake.
+
+🐼
+Snacks with hard names are usually tasty.
+
+![今日のパンダ](/images/2026-01-09-1.png)
+
 ## 嵯峨野
 
 👵
