@@ -8,6 +8,23 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 嵯峨野
+
+👵
+上野動物園から逃げて、これからどうするの？
+
+🐼
+モグモグ... 京都の嵯峨野の竹林は見事らしいんです。そこに潜伏します
+
+👵
+You escaped from Ueno Zoo. What now?
+
+🐼
+Nom nom… I hear Kyoto’s Sagano bamboo grove is nice.
+I might hide there.
+
+![今日のパンダ](/images/2026-01-09-0.png)
+
 ## 焼き芋
 🐼
 焼いた芋も 美味しいものですね。
