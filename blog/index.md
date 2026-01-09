@@ -21,7 +21,7 @@ Panda, this is called cheesecake.
 🐼
 Snacks with hard names are usually tasty.
 
-![今日のパンダ](/images/2026-01-09-1.png)
+![今日のパンダ](/images/2026-01-06-1.png)
 
 ## 嵯峨野
 
