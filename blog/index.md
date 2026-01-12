@@ -8,6 +8,21 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## シャトレーゼ
+🐼
+これ、シャトレーゼのやつでしょう？わかりますよ、菊栄さん。
+
+👵
+何が言いたいのかしら？
+
+🐼
+This is from Châteraisé, right? I can tell, Mrs. Kikue.
+
+👵
+And what exactly are you trying to say? 
+
+![今日のパンダ](/images/2026-01-12-1.png)
+
 ## 牛丼屋
 🐼
 親父さん！瓶ビールと、おつまみメンマ３つ追加で！
