@@ -10,16 +10,29 @@ show_title: false
 
 ## ハンバーガー 
 🐼
-お前のハンバーガー、小さくない？
+お前のバーガー、小さくない？
 
 🐧
-丸飲み用にしてもらった。俺は咀嚼しないんだ。
+丸飲み用だ。俺は咀嚼しないんだ。
+
+🐼
+そっか。俺のポテト、食べていいよ。
+
+🐧
+喉に詰まるだろ！
 
 🐼
 Isn’t your burger kind of small?
 
 🐧
 It’s for swallowing. I don’t chew.
+
+
+🐼
+Oh. You can have my fries, then.
+
+🐧
+They’d get stuck.
 
 ![今日のパンダ](/images/2026-01-12-0.png)
 
