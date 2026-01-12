@@ -8,6 +8,21 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 牛丼屋
+🐼
+親父さん！瓶ビールと、おつまみメンマ３つ追加で！
+
+👨‍🍳
+あいよっ！シャオシャオ、いつもありがとね！
+
+🐼
+Boss! One bottled beer, and three orders of menma on the side!
+
+👨‍🍳
+You got it! Thanks as always, Shao Shao!
+
+![今日のパンダ](/images/2026-01-12-2.png)
+
 ## ハンバーガー 
 🐼
 お前のバーガー、小さくない？
