@@ -7,16 +7,25 @@ title: 川柳
 
 <div class="cards">
 
-<div class="card"><p class="poem">雨の日だけ
+<div class="card">
+  <img class="card-img" src="/images/senryu/rain.jpg" alt="雨の日">
+  <p class="poem">雨の日だけ
 パンダが少し
-哲学者</p></div>
+哲学者</p>
+</div>
 
-<div class="card"><p class="poem">竹の香り
+<div class="card">
+  <img class="card-img" src="/images/senryu/bamboo.jpg" alt="竹の香り">
+  <p class="poem">竹の香り
 考えごとも
-ほどけてく</p></div>
+ほどけてく</p>
+</div>
 
-<div class="card"><p class="poem">白と黒
+<div class="card">
+  <img class="card-img" src="/images/senryu/nap.jpg" alt="昼寝">
+  <p class="poem">白と黒
 その間にある
-昼寝癖</p></div>
+昼寝癖</p>
+</div>
 
 </div>
