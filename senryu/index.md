@@ -32,10 +32,15 @@ and a quiet sigh.
 </div>
 
 <div class="card">
-  <img class="card-img" src="/images/senryu/nap.jpg" alt="昼寝">
-  <p class="poem">白と黒
-その間にある
-昼寝癖</p>
+  <img class="card-img" src="/images/senryu/2026-0114-0.jpg" alt="愛情">
+  <p class="poem">
+テディベア
+あの子の愛情
+持ってった
+Teddy bear,
+you carried away
+the love meant for me.
+</p>
 </div>
 
 </div>
