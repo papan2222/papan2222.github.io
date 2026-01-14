@@ -20,10 +20,15 @@ Such quiet ache.
 </div>
 
 <div class="card">
-  <img class="card-img" src="/images/senryu/bamboo.jpg" alt="竹の香り">
-  <p class="poem">竹の香り
-考えごとも
-ほどけてく</p>
+  <img class="card-img" src="/images/senryu/forecast.jpg" alt="雨予報">
+  <p class="poem">
+雨予報
+パンをかじって
+ため息を
+Rain in the forecast.
+A bite of bread
+and a quiet sigh.
+  </p>
 </div>
 
 <div class="card">
