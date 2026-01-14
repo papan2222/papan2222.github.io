@@ -1,9 +1,9 @@
 ---
 layout: senryu
-title: パンダの川柳
+title: パンダの英語川柳
 ---
 
-## 川柳の部屋
+## パンダの英語川柳
 
 <div class="cards">
 
