@@ -4,16 +4,47 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
+
   <style>
-    body {
-      max-width: 720px;
+    body{
+      max-width: 900px;
       margin: 40px auto;
       padding: 0 16px;
       line-height: 1.9;
       font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      background: #fafafa;
     }
-    h2 { margin-top: 0; }
-    .senryu { white-space: pre-line; font-size: 1.15rem; }
+    h2{ margin: 0 0 18px; }
+
+    /* カード一覧 */
+    .cards{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 14px;
+    }
+
+    /* 1枚のカード */
+    .card{
+      background: #fff;
+      border: 1px solid #e7e7e7;
+      border-radius: 12px;
+      padding: 14px 16px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+
+    /* 川柳本文（改行をそのまま表示） */
+    .poem{
+      white-space: pre-line;
+      font-size: 1.08rem;
+      margin: 0;
+    }
+
+    /* 任意：日付やタグ用 */
+    .meta{
+      font-size: 0.85rem;
+      color: #666;
+      margin-top: 10px;
+    }
   </style>
 </head>
 <body>
