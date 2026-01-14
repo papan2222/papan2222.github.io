@@ -45,10 +45,23 @@
       color: #666;
       margin-top: 10px;
     }
+    .home-only{
+  margin: 0 0 18px;
+}
+.home-only a{
+  text-decoration: none;
+  color: inherit;
+  font-weight: 600;
+}
+.home-only a:hover{
+  text-decoration: underline;
+}
   </style>
 </head>
 <body>
-  {% include header.html %}
+  <nav class="home-only">
+  <a href="/">Home</a>
+</nav>
   {{ content }}
 </body>
 </html>
