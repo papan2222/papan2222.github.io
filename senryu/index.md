@@ -1,6 +1,6 @@
 ---
 layout: senryu
-title: 川柳
+title: パンダの川柳
 ---
 
 ## 川柳の部屋
