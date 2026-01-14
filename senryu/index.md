@@ -1,4 +1,5 @@
 ---
+layout: senryu
 title: 川柳
 ---
 
