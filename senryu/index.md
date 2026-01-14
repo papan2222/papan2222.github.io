@@ -9,9 +9,14 @@ title: パンダの英語川柳
 
 <div class="card">
   <img class="card-img" src="/images/senryu/rain.jpg" alt="雨の日">
-  <p class="poem">雨の日だけ
-パンダが少し
-哲学者</p>
+  <p class="poem">
+来ぬ友を
+待ち続けている
+切なさよ 
+Waiting still
+for friends who never come.
+Such quiet ache.
+</p>
 </div>
 
 <div class="card">
