@@ -5,6 +5,18 @@ title: パンダの英語川柳
 
 ## パンダの英語川柳
 
+<div class="card">
+  <img class="card-img" src="/images/senryu/2026-0120-0.png" alt="炬燵">
+  <p class="poem">
+背中ふたつ
+話さぬことで
+近くなる
+Two backs together,
+saying nothing,
+growing closer.
+  </p>
+</div>
+
 <div class="cards">
 
 <div class="card">
