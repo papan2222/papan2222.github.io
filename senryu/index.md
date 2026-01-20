@@ -5,6 +5,8 @@ title: パンダの英語川柳
 
 ## パンダの英語川柳
 
+<div class="cards">
+
 <div class="card">
   <img class="card-img" src="/images/senryu/2026-0120-0.png" alt="炬燵">
   <p class="poem">
@@ -16,8 +18,6 @@ saying nothing,
 growing closer.
   </p>
 </div>
-
-<div class="cards">
 
 <div class="card">
   <img class="card-img" src="/images/senryu/rain.jpg" alt="雨の日">
