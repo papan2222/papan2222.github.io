@@ -8,6 +8,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/senryu/2026-0121-1.png" alt="雪しんしん">
+  <p class="poem">
+雪しんしん
+パンダペンギン
+うれしそう
+Soft, steady snow. 
+Panda and penguin,
+full of joy.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/senryu/2026-0120-0.png" alt="炬燵">
   <p class="poem">
 背ふたつ
