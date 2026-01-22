@@ -8,6 +8,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/senryu/2026-0122-2.png" alt="肉まん">
+  <p class="poem">
+帰り道 
+買うのは肉まん
+ぬくもりも
+Heading home,
+the thought of steamed buns,
+and warmth.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/senryu/2026-0122-0.png" alt="背中">
   <p class="poem">
 待つ背中
