@@ -8,6 +8,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/senryu/2026-0122-0.png" alt="背中">
+  <p class="poem">
+待つ背中
+竹の子の香り
+先に来る
+Waiting back,
+the scent of bamboo shoots
+arrives first.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/senryu/2026-0121-1.png" alt="雪しんしん">
   <p class="poem">
 雪しんしん
