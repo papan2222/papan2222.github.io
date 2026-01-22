@@ -8,6 +8,21 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 夕飯
+👩　今日は竹の子ハンバーグよ
+
+🐼　もう鼻で食べてます
+
+👦　お腹すいたぁ
+
+👩 We’re having bamboo shoot hamburg steaks today.
+
+🐼 I’m eating with my nose for now.
+
+👦 I’m hungry!
+
+![今日のパンダ](/images/2026-0122-0.png)
+
 ## シャトレーゼ
 🐼
 これ、シャトレーゼのやつでしょう？わかりますよ、菊栄さん。
