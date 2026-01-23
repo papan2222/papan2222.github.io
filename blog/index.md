@@ -11,6 +11,17 @@ A plush panda’s daily life, told through simple English and Japanese.
 
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+#待てない
+👦 まだ頂上じゃないんだよ、パンダ
+
+🐼 小腹空いて.. おにぎり一つだけだよ
+
+👦 We’re not at the top yet, Panda.
+
+🐼 I know… just a little hungry. I’ll just have one rice ball. 
+
+![お弁当｜lunch time,bento](/images/2026-0123-0.png)
+
 ## 夕飯
 👩 今日は竹の子ハンバーグよ
 
