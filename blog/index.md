@@ -11,7 +11,7 @@ A plush panda’s daily life, told through simple English and Japanese.
 
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
-#待てない
+## 待てない
 👦 まだ頂上じゃないんだよ、パンダ
 
 🐼 小腹空いて.. おにぎり一つだけだよ
