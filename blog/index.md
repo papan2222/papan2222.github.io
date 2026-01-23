@@ -20,7 +20,7 @@ A plush panda’s daily life, told through simple English and Japanese.
 
 🐼 I know… just a little hungry. I’ll just have one rice ball. 
 
-![お弁当｜lunch time,bento](/images/2026-0123-0.png)
+![お弁当｜lunch time, bento](/images/2026-0123-0.png)
 
 ## 夕飯
 👩 今日は竹の子ハンバーグよ
