@@ -8,6 +8,19 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0122-2.png" alt="弁当, lunch time, bento">
+  <p class="poem">
+頂上より
+弁当たべるの
+本気だす
+Before the summit,
+I open my lunchbox.
+Serious mode: on.
+  </p>
+</div>
+
+
+<div class="card">
   <img class="card-img" src="/images/senryu/2026-0122-2.png" alt="肉まん">
   <p class="poem">
 帰り道 
