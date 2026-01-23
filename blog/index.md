@@ -1,6 +1,6 @@
 ---
 layout: default
-title: パンダのリアル日記｜papan2222
+title: パンダの笑える英語日記｜papan2222
 description: ぬいぐるみパンダの暮らしを綴った英語学習日記。英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 show_title: false
 ---
