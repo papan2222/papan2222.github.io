@@ -8,6 +8,7 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
 ## 夕飯
