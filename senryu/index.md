@@ -8,6 +8,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/senryu/2026-0124-0.png" alt="雪だるま, snowman, panda making snowman">
+  <p class="poem">
+雪だるま
+俺の弟
+パンダは思う
+A snowman,
+my little brother,
+the panda thinks.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0123-0.png" alt="弁当, lunch time, bento">
   <p class="poem">
 頂上より
