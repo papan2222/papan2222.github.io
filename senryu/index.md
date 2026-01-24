@@ -5,6 +5,8 @@ title: パンダの英語川柳
 
 ## パンダの英語川柳
 
+*Gentle English Haiku Inspired by a Plush Panda*
+
 <div class="cards">
 
 <div class="card">
