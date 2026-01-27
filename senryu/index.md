@@ -10,7 +10,7 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
-  <img class="card-img" src="/images/senryu/2026-0127-0.png" alt="竹の子のお菓子, bamboo shoot-flavored snacks">
+  <img class="card-img" src="/images/2026-0127-0.png" alt="竹の子のお菓子, bamboo shoot-flavored snacks">
   <p class="poem">
 竹の子の
 お菓子はないのと
