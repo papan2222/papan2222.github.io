@@ -11,6 +11,18 @@ A plush panda’s daily life, told through simple English and Japanese.
 
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## お菓子
+
+👦 竹の子のお菓子ってありますか？
+
+🐼 厚切りのチップスがベストです。
+
+👦 Do you have any bamboo-shoot snacks?
+
+🐼 Thick-cut chips would be best.
+
+![竹の子のお菓子｜bamboo shoots, snacks](/images/2026-0127-0.png)
+
 ## 待てない
 👦 まだ頂上じゃないんだよ、パンダ
 
