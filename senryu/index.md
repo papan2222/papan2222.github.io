@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/senryu/2026-0127-0.png" alt="竹の子のお菓子, bamboo shoot-flavored snacks">
+  <p class="poem">
+竹の子の
+お菓子はないのと
+パンダ連れ
+Bamboo shoots at the counter —
+asking for snacks like these,
+a panda in tow
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/senryu/2026-0124-0.png" alt="雪だるま, snowman, panda making snowman">
   <p class="poem">
 雪だるま
