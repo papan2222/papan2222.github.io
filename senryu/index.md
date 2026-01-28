@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0128-0.png" alt="怪獣,ゴジラ,大決戦, a final showdown, tatami-floor,snow">
+  <p class="poem">
+雪深し
+畳の上の
+大決戦
+Deep in winter snow,
+the tatami floor becomes
+a final showdown.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0127-0.png" alt="竹の子のお菓子, bamboo shoot-flavored snacks">
   <p class="poem">
 竹の子の
