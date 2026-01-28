@@ -14,11 +14,13 @@ A plush panda’s daily life, told through simple English and Japanese.
 ## 駆け出す
 
 ウサギのバイクで逃げ出そう
+
 枯れ葉を舞い上げて
 
 -- スピッツ「ウサギのバイク」
 
 Let’s flee on the rabbit’s bike,
+
 dry leaves rising behind us.
 
 ![ウサギのバイク｜rabbit’s bike, spitzs](/images/2026-01-28-1.png)
