@@ -21,7 +21,7 @@ A plush panda’s daily life, told through simple English and Japanese.
 Let’s flee on the rabbit’s bike,
 dry leaves rising behind us.
 
-![ウサギのバイク｜rabbit’s bike, spitzs](/images/2026-0128-1.png)
+![ウサギのバイク｜rabbit’s bike, spitzs](/images/2026-01-28-1.png)
 
 ## お菓子
 
