@@ -10,6 +10,21 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0130-1.png" alt="たけのこ, パンダ, たけのこカレー, Bamboo shoot, panda, japanese-curry">
+  <p class="poem">
+たけのこは
+ちゃんと入れたの
+パンダは問う
+Did you remember
+to add the bamboo shoots?
+the panda asks.
+  </p>
+</div>
+
+
+<div class="cards">
+
+<div class="card">
   <img class="card-img" src="/images/2026-0130-0.png" alt="たけのこ, パンダ, Bamboo shoot, panda, in my palm">
   <p class="poem">
 たけのこや
