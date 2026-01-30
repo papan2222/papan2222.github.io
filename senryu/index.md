@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0130-3.png" alt="パンダ漕ぐ, 猫の観察, cats watching closely, A panda pedaling">
+  <p class="poem">
+漕げぬ熊
+教えるは五歳
+猫ら見てる
+A panda won’t pedal,
+taught by a five-year-old —
+cats watching closely.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0130-1.png" alt="たけのこ, パンダ, たけのこカレー, Bamboo shoot, panda, japanese-curry">
   <p class="poem">
 たけのこは
