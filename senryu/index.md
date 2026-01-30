@@ -21,9 +21,6 @@ the panda asks.
   </p>
 </div>
 
-
-<div class="cards">
-
 <div class="card">
   <img class="card-img" src="/images/2026-0130-0.png" alt="たけのこ, パンダ, Bamboo shoot, panda, in my palm">
   <p class="poem">
