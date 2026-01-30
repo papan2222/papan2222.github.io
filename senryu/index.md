@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0130-0.png" alt="たけのこ, パンダ, Bamboo shoot, panda, in my palm">
+  <p class="poem">
+たけのこや
+土のぬくもり
+掌に
+Bamboo shoot —
+the warmth of the soil
+rests in my palm
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0128-0.png" alt="怪獣,ゴジラ,大決戦, a final showdown, tatami-floor,snow">
   <p class="poem">
 雪深し
