@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0202-1.png" alt="ネギ, 猫, kindred souls, green onions">
+  <p class="poem">
+葱抱え
+似た者同士が
+言葉ひらり
+Holding green onions,
+kindred souls —
+words drift lightly.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0130-3.png" alt="パンダ漕ぐ, 猫の観察, cats watching closely, A panda pedaling">
   <p class="poem">
 漕げぬ熊
