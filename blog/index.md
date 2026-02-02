@@ -11,6 +11,18 @@ A plush panda’s daily life, told through simple English and Japanese.
 
 英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
 
+## 鍋
+
+🐼 鍋にするけど、一緒にどうだい？
+
+🐱 （こいつ白黒ニャ... 親近感あるニャ...） 
+
+🐼 Hot pot tonight. Care to join?
+
+🐱 (Black and white… huh. Oddly relatable.)
+
+![葱、ネギ、鍋、親近感｜green onions, Black and white, cat, relatable](/images/2026-0202-0.png)
+
 ## 駆け出す
 
 ウサギのバイクで逃げ出そう
