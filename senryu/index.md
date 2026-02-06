@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0206-0.png" alt="砂場, 砂遊び, playtime, evening with a panda">
+  <p class="poem">
+遊び終え
+言葉のいらぬ
+夕間暮れ
+Playtime finished,
+silence says enough —
+evening’s thin edge.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0202-1.png" alt="ネギ, 猫, kindred souls, green onions">
   <p class="poem">
 葱抱え
