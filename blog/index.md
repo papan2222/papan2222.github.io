@@ -8,8 +8,17 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## 冥土の土産
 
-英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
+👵パンダと一緒なんて.. すごい冥土の土産ができたわ 
+
+🐼このまま直行じゃないですよね..冥土に.. 
+
+👵 A panda, of all things… what an afterlife souvenir.
+
+🐼 We’re not going straight there, right…?
+
+![ボート、老婆とパンダ｜an afterlife souvenir, an old woman and a panda](/images/2026-0206-1.png)
 
 ## 鍋
 
