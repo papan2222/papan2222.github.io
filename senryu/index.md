@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0206-1.png" alt="老婆とパンダ, boat, playtime, an old woman and a panda">
+  <p class="poem">
+夕焼けの
+ 水を割りゆく
+ 老婆と熊
+ At sunset,
+ cutting through the water—
+ an old woman and a panda.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0206-0.png" alt="砂場, 砂遊び, playtime, evening with a panda">
   <p class="poem">
 遊び終え
