@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0210-1.png" alt="お寺のパンダ, 仏教とパンダ, small backs, a boy and a panda sitting in silence">
+  <p class="poem">
+灯る堂
+黙して座る
+小さき背ら
+A lit hall—
+sitting in silence,
+small backs.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0206-1.png" alt="老婆とパンダ, boat, playtime, an old woman and a panda">
   <p class="poem">
 夕焼けの
