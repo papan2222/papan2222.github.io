@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## 猫と兜
+
+🐻 ケーキ、一口でいける。...その兜 ひこにゃん意識してんの？
+
+🐱 うっせぇ。偶然セカストにあった
+
+🐻 I’ll finish this cake in one bite. By the way… that helmet’s a Hikonyan thing, right?
+
+🐱 Shut up. I just found it at a thrift store.
+
+![ひこにゃんもどきの猫、熊とケーキ｜a Hikonyan thing, a bear and a cat](/images/2026-0211-2.png)
+
 ## リュック
 
 👦　これが鼓門！金沢駅って大きいねぇ
