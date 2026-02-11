@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## リュック
+
+👦　これが鼓門！金沢駅って大きいねぇ
+
+🐼　うん…でも、僕のリュックのほうが目立ってる気がする
+
+👦   This is the Tsuzumi Gate! Kanazawa Station is huge, isn’t it?
+
+🐼　Yeah…but I think my backpack is louder.
+
+![パンダのリュック、パンダとリュックサック｜a panda at Tsuzumi Gate, a panda at Kanazawa Station](/images/2026-0211-1.png)
+
 ## 冥土の土産
 
 👵パンダと一緒なんて.. すごい冥土の土産ができたわ 
