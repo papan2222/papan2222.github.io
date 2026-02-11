@@ -14,7 +14,7 @@ A plush panda’s daily life, told through simple English and Japanese.
 
 🐼　うん…でも、僕のリュックのほうが目立ってる気がする
 
-👦   This is the Tsuzumi Gate! Kanazawa Station is huge, isn’t it?
+👦  This is the Tsuzumi Gate! Kanazawa Station is huge, isn’t it?
 
 🐼　Yeah…but I think my backpack is louder.
 
