@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0216-0.png" alt="パンダと犬, パンダの帰り道, small backs, a dog and a panda walking together">
+  <p class="poem">
+暮れ空に
+話し足りない
+背中かな
+Dusk overhead,
+words not quite enough,
+only their backs.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0210-1.png" alt="お寺のパンダ, 仏教とパンダ, small backs, a boy and a panda sitting in silence">
   <p class="poem">
 灯る堂
