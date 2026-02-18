@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0218-0.png" alt="パンダとキャラ弁, character bento with a panda">
+  <p class="poem">
+見てるだけ
+食べる前から
+うれしいね
+Just looking—
+already happy
+before eating.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0216-0.png" alt="パンダと犬, パンダの帰り道, small backs, a dog and a panda walking together">
   <p class="poem">
 暮れ空に
