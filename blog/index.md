@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## 弁当
+
+👧 自分の顔のお弁当って、ずいぶん自信家ね。
+
+🐼 自己承認欲求を、昼で満たすんだよ。
+
+👧 Your face in a bento? That’s confident.
+
+🐼 Lunch is when I handle my self-validation.
+
+![パンダのキャラ弁｜character bento with a panda](/images/2026-0218-0.png)
+
 ## 猫と兜
 
 🐻 ケーキ、一口でいける。...その兜 ひこにゃん意識してんの？
