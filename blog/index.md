@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## suica
+
+🐼　Suicaの新しいキャラに応募したパンダといいます！
+
+🐧　ほぅ。私の代わりが君に務まるかな？
+
+🐼 I’m a panda applying to be the new Suica character.
+
+🐧 Oh? Think you can replace me?
+
+![suicaとパンダ｜a panda applying to be the new Suica character](/images/2026-0219-1.png)
+
 ## 弁当
 
 👧 自分の顔のお弁当って、ずいぶん自信家ね。
