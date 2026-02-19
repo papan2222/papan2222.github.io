@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0219-0.png" alt="パンダと猫, shoulder to shoulder with a cat, panda">
+  <p class="poem">
+吹雪見つ
+猫と肩寄せ
+パンダ照れ
+Snow blowing hard
+shoulder to shoulder with a cat—
+the panda blushes
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0218-0.png" alt="パンダとキャラ弁, character bento with a panda">
   <p class="poem">
 見てるだけ
