@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## サーティワン
+
+🐼 俺 ラブラブポーションサーティワンとベリーベリーストロベリーのレギュラーダブルでワッフルコーンにする
+
+👧 目一杯きたね..あんた
+
+🐼 I’ll get a double. Love Potion and Very Berry Strawberry, waffle cone.
+
+👧 You’re really going all the way.
+
+![サーティワンとパンダ｜Very Berry Strawberry and a panda](/images/2026-0225-0.png)
+
 ## suica
 
 🐼　Suicaの新しいキャラに応募したパンダといいます！
