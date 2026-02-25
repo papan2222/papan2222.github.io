@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0225-0.png" alt="パンダとサーティワン, the world turns sweet, panda">
+  <p class="poem">
+ケース越し
+世界は甘く
+静まりぬ
+Through the glass,
+the world turns sweet
+and goes quiet.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0219-0.png" alt="パンダと猫, shoulder to shoulder with a cat, panda">
   <p class="poem">
 吹雪見つ
