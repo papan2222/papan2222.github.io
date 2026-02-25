@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0225-1.png" alt="パンダの友だち, a panda walking">
+  <p class="poem">
+森しんと
+友を思ひて
+足取り軽く
+Forest stillness.
+Thinking of my friend,
+my steps feel light.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0225-0.png" alt="パンダとサーティワン, the world turns sweet, panda">
   <p class="poem">
 ケース越し
