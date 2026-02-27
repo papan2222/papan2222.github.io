@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0227-0.png" alt="渋谷パンダ, バイクに乗るパンダ, Tokyo night and a panda riding a motorbike">
+  <p class="poem">
+渋谷夜
+ネオンの波に
+毛並み揺れ
+Tokyo night—
+in neon waves
+fur sways
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0225-1.png" alt="パンダの友だち, a panda walking">
   <p class="poem">
 森しんと
