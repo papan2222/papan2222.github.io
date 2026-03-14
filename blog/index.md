@@ -8,6 +8,19 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## サラダバー
+
+👧 お客様、トレーごとはちょっと..
+
+🐼 どうせ全部たべるよ。たけのこ入ってる？
+
+👧 Sir… not the whole tray, please.
+
+🐼 I’ll eat it all anyway. Any bamboo shoots in here?
+
+![サラダバーとパンダ｜salada buffet and a panda](/images/2026-0314-0.png)
+
+
 ## サーティワン
 
 🐼 俺 ラブラブポーションサーティワンとベリーベリーストロベリーのレギュラーダブルでワッフルコーンにする
