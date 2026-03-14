@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0314-2.png" alt="夕日とパンダ, 駆け出すパンダ, a panda and a boy running down the beach, a panda and a boy chasing the sunset">
+  <p class="poem">
+夕日追う
+パンダと子ども
+駆けてゆく 
+Chasing the sunset—
+panda and child
+running down the beach
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0227-0.png" alt="渋谷パンダ, バイクに乗るパンダ, Tokyo night and a panda riding a motorbike">
   <p class="poem">
 渋谷夜
