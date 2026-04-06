@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## フルポン
+
+🐻 この店のフルーツポンチ、うまいんだよ。
+
+🐼 ポンチってどの色のやつ？おくれよ
+
+🐻 The fruit punch here is really good.
+
+🐼 Which one’s the “punch”? I want that one.
+
+![フルーツポンチとパンダ｜fruit punch and a panda](/images/2026-04-06.png)
+
 ## サラダバー
 
 👧 お客様、トレーごとはちょっと..
