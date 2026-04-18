@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## シロクマ
+
+🐻‍❄️ いちご極盛り氷。これが楽しみで生きてる。
+
+🐼 シロクマくん.. やっぱり、ニチレイの焼売も凍ったままいく？
+
+🐻‍❄️ Strawberry shaved ice. I live for this.
+
+🐼 Polar bear… so, do you eat frozen dumplings straight from the freezer too?
+
+![シロクマとパンダ｜a polar bear and a panda](/images/2026-0418-0.png)
+
 ## フルポン
 
 🐻 この店のフルーツポンチ、うまいんだよ。
