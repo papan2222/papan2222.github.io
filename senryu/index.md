@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-0425-0.png" alt="ナマケモノとパンダ, 話しかけるパンダ, a panda and a sloth talking">
+  <p class="poem">
+森深く
+急がぬ者の
+正しさよ
+Deep in the forest,
+those who do not hurry
+feel most in tune. 
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0314-2.png" alt="夕日とパンダ, 駆け出すパンダ, a panda and a boy running down the beach, a panda and a boy chasing the sunset">
   <p class="poem">
 夕日追う
