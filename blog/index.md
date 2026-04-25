@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## 怠け自慢
+
+🐼 今日なにした？
+
+🦥 “何もしなかった”をやり切った
+
+🐼 What did you do today?
+
+🦥 I fully committed to doing nothing.
+
+![ナマケモノとパンダ｜a sloth and a panda](/images/2026-0425-1.png)
+
 ## シロクマ
 
 🐻‍❄️ いちご極盛り氷。これが楽しみで生きてる。
