@@ -10,6 +10,18 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card">
+  <img class="card-img" src="/images/2026-1118-0.jpg" alt="パンダ, 大相撲, grand sumo">
+  <p class="poem">
+大相撲
+見つめるパンダ
+腹を撫で
+Grand sumo on TV,
+The panda watches closely,
+Patting his round belly.
+  </p>
+</div>
+
+<div class="card">
   <img class="card-img" src="/images/2026-0425-0.png" alt="ナマケモノとパンダ, 話しかけるパンダ, a panda and a sloth talking">
   <p class="poem">
 森深く
