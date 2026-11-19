@@ -8,6 +8,22 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## 蕎麦
+
+🐼 こんなに大盛りにしてもらっていいんですか？
+
+👨 腹減ってんだろ？遠慮すんない
+
+🐼 ありがとうございます..
+
+🐼 Isn't this a bit much?
+
+👨 You look hungry. Eat up.
+
+🐼 Thank you... sniff
+
+![蕎麦とパンダ｜soba noodle and a panda](/images/2026_1119_0.jpg)
+
 ## 怠け自慢
 
 🐼 今日なにした？
