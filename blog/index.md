@@ -8,6 +8,18 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## 手を振る
+
+🐼 列車さーん！パンダはここでーす！
+
+🐱 このクマ...
+
+🐼 Hey, train! Over here! I'm right here!
+
+🐱 This bear...
+
+![猫とパンダ｜a cat and a panda](/images/2026-1120-0.jpg)
+
 ## 蕎麦
 
 🐼 こんなに大盛りにしてもらっていいんですか？
