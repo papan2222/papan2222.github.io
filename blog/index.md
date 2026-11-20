@@ -8,6 +8,14 @@ show_title: false
 # -ぬいぐるみパンダの暮らし-  英語学習日記
 A plush panda’s daily life, told through simple English and Japanese.
 
+## 新米
+
+🐼 おぉ..笹にも劣らぬ味よ。これが新米のコシヒカリか..
+
+🐼 Mmm... Just as tasty as bamboo! So this is freshly harvested rice!
+
+![米とパンダ｜a panda having rice](/images/2026-1120-1.jpg)
+
 ## 手を振る
 
 🐼 列車さーん！パンダはここでーす！
