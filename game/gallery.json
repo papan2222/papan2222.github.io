@@ -3,21 +3,41 @@
     "file": "images/2026-1122-0.jpg",
     "title": "霧の神社でパンダ対忍者",
     "captionJa": "忍びの里に、最強のパンダ現る。",
-    "captionEn": "A Legendary Panda Enters the Ninja Realm."
+    "captionEn": "A Legendary Panda Enters the Ninja Realm.",
+    "study": [
+      "legendary：伝説的な",
+      "realm：領域、世界",
+      "enter は「〜に入る」。ここでは前置詞なしで the Ninja Realm が続きます。"
+    ]
   },
   {
     "file": "images/2026-1122-1.jpg",
     "captionJa": "銀河の命運は、この背中に託された。",
-    "captionEn": "The fate of the galaxy rests on one panda."
+    "captionEn": "The fate of the galaxy rests on one panda.",
+    "study": [
+      "fate：運命、命運",
+      "galaxy：銀河",
+      "rest on ～：～にかかっている、～に委ねられている。"
+    ]
   },
   {
     "file": "images/2026-1122-2.png",
     "captionJa": "お化けは怖い。でも、コインは拾いたい。",
-    "captionEn": "Ghosts are scary, but coins are worth the risk."
+    "captionEn": "Ghosts are scary, but coins are worth the risk.",
+    "study": [
+      "scary：怖い",
+      "be worth ～：～の価値がある",
+      "be worth the risk：危険を冒す価値がある。"
+    ]
   },
   {
     "file": "images/2026-1122-3.jpg",
     "captionJa": "闇の奥に、何かいる。パンダはまだ気づいていない。",
-    "captionEn": "Something lurks in the darkness. The panda has no idea."
+    "captionEn": "Something lurks in the darkness. The panda has no idea.",
+    "study": [
+      "lurk：潜む、ひそむ",
+      "darkness：暗闇",
+      "have no idea：まったく知らない、見当もつかない。"
+    ]
   }
 ]
