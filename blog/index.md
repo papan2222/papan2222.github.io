@@ -1,1490 +1,288 @@
 ---
-layout: default
-title: パンダの笑える英語日記｜papan2222
-description: ぬいぐるみパンダの暮らしを綴った英語学習日記。英会話や英語学習にもぜひ。印象に残ったシーンは記憶に定着しやすいです。
-show_title: false
+layout: null
+title: パンダの笑える英語日記｜イラストで楽しむ英会話
+description: ぬいぐるみパンダのユーモラスな日常を日本語と英語で楽しむ英語学習日記。英会話フレーズ、発音記号、英語音声付き。
+permalink: /blog/
 ---
-
-# -ぬいぐるみパンダの暮らし-  英語学習日記
-A plush panda’s daily life, told through simple English and Japanese.
-
-## 新米
-
-🐼 おぉ..笹にも劣らぬ味よ。これが新米のコシヒカリか..
-
-🐼 Mmm... Just as tasty as bamboo! So this is freshly harvested rice!
-
-![米とパンダ｜a panda having rice](/images/2026-1120-1.jpg)
-
-## 手を振る
-
-🐼 列車さーん！パンダはここでーす！
-
-🐱 このクマ...
-
-🐼 Hey, train! Over here! I'm right here!
-
-🐱 This bear...
-
-![猫とパンダ｜a cat and a panda](/images/2026-1120-0.jpg)
-
-## 蕎麦
-
-🐼 こんなに大盛りにしてもらっていいんですか？
-
-👨 腹減ってんだろ？遠慮すんない
-
-🐼 ありがとうございます..
-
-🐼 Isn't this a bit much?
-
-👨 You look hungry. Eat up.
-
-🐼 Thank you... sniff
-
-![蕎麦とパンダ｜soba noodle and a panda](/images/2026_1119_0.jpg)
-
-## 怠け自慢
-
-🐼 今日なにした？
-
-🦥 “何もしなかった”をやり切った
-
-🐼 What did you do today?
-
-🦥 I fully committed to doing nothing.
-
-![ナマケモノとパンダ｜a sloth and a panda](/images/2026-0425-1.png)
-
-## シロクマ
-
-🐻‍❄️ いちご極盛り氷。これが楽しみで生きてる。
-
-🐼 シロクマくん.. やっぱり、ニチレイの焼売も凍ったままいく？
-
-🐻‍❄️ Strawberry shaved ice. I live for this.
-
-🐼 Polar bear… so, do you eat frozen dumplings straight from the freezer too?
-
-![シロクマとパンダ｜a polar bear and a panda](/images/2026-0418-0.png)
-
-## フルポン
-
-🐻 この店のフルーツポンチ、うまいんだよ。
-
-🐼 ポンチってどの色のやつ？おくれよ
-
-🐻 The fruit punch here is really good.
-
-🐼 Which one’s the “punch”? I want that one.
-
-![フルーツポンチとパンダ｜fruit punch and a panda](/images/2026-04-06.png)
-
-## サラダバー
-
-👧 お客様、トレーごとはちょっと..
-
-🐼 どうせ全部たべるよ。たけのこ入ってる？
-
-👧 Sir… not the whole tray, please.
-
-🐼 I’ll eat it all anyway. Any bamboo shoots in here?
-
-![サラダバーとパンダ｜salada buffet and a panda](/images/2026-0314-0.png)
-
-
-## サーティワン
-
-🐼 俺 ラブラブポーションサーティワンとベリーベリーストロベリーのレギュラーダブルでワッフルコーンにする
-
-👧 目一杯きたね..あんた
-
-🐼 I’ll get a double. Love Potion and Very Berry Strawberry, waffle cone.
-
-👧 You’re really going all the way.
-
-![サーティワンとパンダ｜Very Berry Strawberry and a panda](/images/2026-0225-0.png)
-
-## suica
-
-🐼　Suicaの新しいキャラに応募したパンダといいます！
-
-🐧　ほぅ。私の代わりが君に務まるかな？
-
-🐼 I’m a panda applying to be the new Suica character.
-
-🐧 Oh? Think you can replace me?
-
-![suicaとパンダ｜a panda applying to be the new Suica character](/images/2026-0219-1.png)
-
-## 弁当
-
-👧 自分の顔のお弁当って、ずいぶん自信家ね。
-
-🐼 自己承認欲求を、昼で満たすんだよ。
-
-👧 Your face in a bento? That’s confident.
-
-🐼 Lunch is when I handle my self-validation.
-
-![パンダのキャラ弁｜character bento with a panda](/images/2026-0218-0.png)
-
-## 猫と兜
-
-🐻 ケーキ、一口でいける。...その兜 ひこにゃん意識してんの？
-
-🐱 うっせぇ。偶然セカストにあった
-
-🐻 I’ll finish this cake in one bite. By the way… that helmet’s a Hikonyan thing, right?
-
-🐱 Shut up. I just found it at a thrift store.
-
-![ひこにゃんもどきの猫、熊とケーキ｜a Hikonyan thing, a bear and a cat](/images/2026-0211-2.png)
-
-## リュック
-
-👦　これが鼓門！金沢駅って大きいねぇ
-
-🐼　うん…でも、僕のリュックのほうが目立ってる気がする
-
-👦　This is the Tsuzumi Gate! Kanazawa Station is huge, isn’t it?
-
-🐼　Yeah…but I think my backpack is louder.
-
-![パンダのリュック、パンダとリュックサック｜a panda at Tsuzumi Gate, a panda at Kanazawa Station](/images/2026-0211-1.png)
-
-## 冥土の土産
-
-👵パンダと一緒なんて.. すごい冥土の土産ができたわ 
-
-🐼このまま直行じゃないですよね..冥土に.. 
-
-👵 A panda, of all things… what an afterlife souvenir.
-
-🐼 We’re not going straight there, right…?
-
-![ボート、老婆とパンダ｜an afterlife souvenir, an old woman and a panda](/images/2026-0206-1.png)
-
-## 鍋
-
-🐼 鍋にするけど、一緒にどうだい？
-
-🐱 （こいつ白黒ニャ... 親近感あるニャ...） 
-
-🐼 Hot pot tonight. Care to join?
-
-🐱 (Black and white… huh. Oddly relatable.)
-
-![葱、ネギ、鍋、親近感｜green onions, Black and white, cat, relatable](/images/2026-0202-0.png)
-
-## 駆け出す
-
-ウサギのバイクで逃げ出そう
-
-枯れ葉を舞い上げて
-
--- スピッツ「ウサギのバイク」
-
-Let’s flee on the rabbit’s bike,
-
-dry leaves rising behind us.
-
-![ウサギのバイク｜rabbit’s bike, spitzs](/images/2026-01-28-1.png)
-
-## お菓子
-
-👦 竹の子のお菓子ってありますか？
-
-🐼 厚切りのチップスがベストです。
-
-👦 Do you have any bamboo-shoot snacks?
-
-🐼 Thick-cut chips would be best.
-
-![竹の子のお菓子｜bamboo shoots, snacks](/images/2026-0127-0.png)
-
-## 待てない
-👦 まだ頂上じゃないんだよ、パンダ
-
-🐼 小腹空いて.. おにぎり一つだけだよ
-
-👦 We’re not at the top yet, Panda.
-
-🐼 I know… just a little hungry. I’ll just have one rice ball. 
-
-![お弁当｜lunch time, bento](/images/2026-0123-0.png)
-
-## 夕飯
-👩 今日は竹の子ハンバーグよ
-
-🐼 もう鼻で食べてます
-
-👦 お腹すいたぁ
-
-👩 We’re having bamboo shoot hamburg steaks today.
-
-🐼 I’m eating with my nose for now.
-
-👦 I’m hungry!
-
-![今日のパンダ](/images/2026-0122-0.png)
-
-## シャトレーゼ
-🐼
-これ、シャトレーゼのやつでしょう？わかりますよ、菊栄さん。
-
-👵
-何が言いたいのかしら？
-
-🐼
-This is from Châteraisé, right? I can tell, Mrs. Kikue.
-
-👵
-And what exactly are you trying to say? 
-
-![今日のパンダ](/images/2026-01-12-1.png)
-
-## 牛丼屋
-🐼
-親父さん！瓶ビールと、おつまみメンマ３つ追加で！
-
-👨‍🍳
-あいよっ！シャオシャオ、いつもありがとね！
-
-🐼
-Boss! One bottled beer, and three orders of menma on the side!
-
-👨‍🍳
-You got it! Thanks as always, Shao Shao!
-
-![今日のパンダ](/images/2026-01-12-2.png)
-
-## ハンバーガー 
-🐼
-お前のバーガー、小さくない？
-
-🐧
-丸飲み用だ。俺は咀嚼しないんだ。
-
-🐼
-そっか。俺のポテト、食べていいよ。
-
-🐧
-喉に詰まるだろ！
-
-🐼
-Isn’t your burger kind of small?
-
-🐧
-It’s for swallowing. I don’t chew.
-
-
-🐼
-Oh. You can have my fries, then.
-
-🐧
-They’d get stuck.
-
-![今日のパンダ](/images/2026-01-12-0.png)
-
-## チーズケーキ
-👧
-パンダちゃん❤ チーズケーキっていうのよ、これ。
-
-🐼
-難しい名前のおやつは、だいたいおいしい。
-
-👧
-Panda, this is called cheesecake.
-
-🐼
-Snacks with hard names are usually tasty.
-
-![今日のパンダ](/images/2026-01-06-1.png)
-
-## 嵯峨野
-
-👵
-上野動物園から逃げて、これからどうするの？
-
-🐼
-モグモグ... 京都の嵯峨野の竹林は見事らしいんです。そこに潜伏します
-
-👵
-You escaped from Ueno Zoo. What now?
-
-🐼
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>パンダの笑える英語日記｜イラストで楽しむ英会話</title><meta name="description" content="ぬいぐるみパンダのユーモラスな日常を日本語と英語で楽しむ英語学習日記。英会話フレーズ、発音記号、英語音声付き。"><link rel="canonical" href="https://papan2222.github.io/blog/"><meta property="og:title" content="パンダの笑える英語日記"><meta property="og:description" content="パンダの珍生活を日本語と英語で。音声と英会話フレーズ付き。"><meta property="og:type" content="website"><meta property="og:url" content="https://papan2222.github.io/blog/"><meta property="og:image" content="https://papan2222.github.io/images/2026-1120-1.jpg"><meta name="twitter:card" content="summary_large_image"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Yusei+Magic&display=swap" rel="stylesheet"><style>
+*{box-sizing:border-box}body{margin:0;background:#f4e9cf;color:#29251f;font:16px/1.7 system-ui,sans-serif}header{text-align:center;padding:14px 12px 20px;border-bottom:5px double #29251f;background:#fff5df}header a{color:inherit;font-size:13px}.mast{font:800 11px system-ui;letter-spacing:.24em;margin:9px auto;color:#fff5df;background:#29251f;max-width:720px;padding:6px}h1{font:400 clamp(25px,5vw,54px)/1.4 "Dela Gothic One",sans-serif;margin:10px 0;letter-spacing:-.045em;transform:rotate(-2deg)}h1 span{color:#b53629;display:inline-block}header p{font:400 17px "Yusei Magic",sans-serif;margin:5px}.enline{font:700 11px system-ui;letter-spacing:.12em}main{max-width:1180px;margin:auto;padding:15px}.tools{display:flex;gap:8px;flex-wrap:wrap}button,input,select{font:inherit;color:inherit;background:#fffaf0;border:1px solid #29251f;border-radius:4px;padding:7px 10px}button{cursor:pointer}button:hover{background:#f1d69a}input{flex:1;min-width:130px}.random{background:#b53629;color:white;font-weight:bold}.feature{margin:15px 0 22px;border:2px solid #29251f;background:#fffaf0;box-shadow:4px 4px #29251f}.feature-label{background:#29251f;color:white;padding:6px 12px;font:400 18px "Yusei Magic",sans-serif}.feature .work{display:grid;grid-template-columns:1.15fr 1fr;border:0;box-shadow:none}.feature .work>a{grid-row:span 3;align-self:center}.gallery{columns:3 290px;column-gap:15px}.work{break-inside:avoid;background:#fffdf6;border:1px solid #29251f;margin:0 0 15px;box-shadow:3px 3px #c5ad7b;overflow:hidden;scroll-margin-top:10px}.work:target{outline:3px solid #b53629}.work img{width:100%;height:auto;display:block}.copy{padding:12px 14px}.copy p{white-space:pre-wrap;margin:0 0 8px;overflow-wrap:anywhere}.copy p.en{font-size:15px;color:#4b4439}.copy p.ja+.en{border-top:1px dashed #b8a888;padding-top:10px;margin-top:10px}.audio,.wordaudio{display:flex;gap:5px;flex-wrap:wrap;padding:0 12px 10px}.audio button,.wordaudio button{font-size:12px;padding:5px 7px}.audio span{font-size:12px;width:100%}.tip{border-top:1px solid #b8a888;padding:9px 12px;font-size:14px}.tip summary{font-weight:800;letter-spacing:.12em;color:#b53629;cursor:pointer}.tip p{margin:5px 0}.ipa{color:#665e52}.wordaudio{padding:4px 0}.status{font-size:13px}body[data-mode=en] .ja,body[data-mode=ja] .en{display:none}@media(max-width:600px){main{padding:10px 5px}.gallery{columns:1}.feature .work{display:block}h1{font-size:clamp(25px,7vw,39px)}.copy p.en{font-size:16px}}
+</style></head><body><header><a href="/">← ホーム</a><div class="mast">THE PANDA COMEDY CLUB</div><h1>パンダの<span>笑える英語日記</span></h1><p>まじめに生きて、なぜか笑える。</p><div class="enline">SERIOUS PANDA. RIDICULOUS LIFE.</div></header><main><div class="tools"><input id="search" type="search" placeholder="英単語で検索" aria-label="英単語で検索"><button id="random" class="random">🎲 おまかせ一話</button><select id="order" aria-label="表示順"><option value="original">登録順</option><option value="random">ランダム</option></select><select id="mode" aria-label="表示言語"><option value="both">日本語＋英語</option><option value="en">英語だけ</option><option value="ja">日本語だけ</option></select></div><section class="feature" id="feature"><div class="feature-label">本日の珍場面</div><div id="featured"></div></section><p class="status" id="status" role="status"></p><div class="gallery" id="gallery">
+<article class="work" id="2026-1120-1"><a href="#2026-1120-1"><img loading="lazy" src="/images/2026-1120-1.jpg" alt="米とパンダ｜a panda having rice"></a><div class="copy"><p class="ja">🐼 おぉ..笹にも劣らぬ味よ。これが新米のコシヒカリか..</p><p class="en">🐼 Mmm... Just as tasty as bamboo! So this is freshly harvested rice!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">freshly harvested</strong> <span class="ipa">/ˈfreʃli ˈhɑrvəstɪd/</span></p><p>収穫したばかりの</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-1120-0"><a href="#2026-1120-0"><img loading="lazy" src="/images/2026-1120-0.jpg" alt="猫とパンダ｜a cat and a panda"></a><div class="copy"><p class="ja">🐼 列車さーん！パンダはここでーす！</p><p class="ja">🐱 このクマ...</p><p class="en">🐼 Hey, train! Over here! I'm right here!</p><p class="en">🐱 This bear...</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">over here</strong> <span class="ipa">/ˈoʊvər hɪr/</span></p><p>こっちだよ</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026_1119_0"><a href="#2026_1119_0"><img loading="lazy" src="/images/2026_1119_0.jpg" alt="蕎麦とパンダ｜soba noodle and a panda"></a><div class="copy"><p class="ja">🐼 こんなに大盛りにしてもらっていいんですか？</p><p class="ja">👨 腹減ってんだろ？遠慮すんない</p><p class="ja">🐼 ありがとうございます..</p><p class="en">🐼 Isn't this a bit much?</p><p class="en">👨 You look hungry. Eat up.</p><p class="en">🐼 Thank you... sniff</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">eat up</strong> <span class="ipa">/it ʌp/</span></p><p>残さず食べる、さあ食べて</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0425-1"><a href="#2026-0425-1"><img loading="lazy" src="/images/2026-0425-1.png" alt="ナマケモノとパンダ｜a sloth and a panda"></a><div class="copy"><p class="ja">🐼 今日なにした？</p><p class="ja">🦥 “何もしなかった”をやり切った</p><p class="en">🐼 What did you do today?</p><p class="en">🦥 I fully committed to doing nothing.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">commit to</strong> <span class="ipa">/kəˈmɪt tu/</span></p><p>～に専念する。to の後は名詞や動名詞。</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0418-0"><a href="#2026-0418-0"><img loading="lazy" src="/images/2026-0418-0.png" alt="シロクマとパンダ｜a polar bear and a panda"></a><div class="copy"><p class="ja">🐻‍❄️ いちご極盛り氷。これが楽しみで生きてる。</p><p class="ja">🐼 シロクマくん.. やっぱり、ニチレイの焼売も凍ったままいく？</p><p class="en">🐻‍❄️ Strawberry shaved ice. I live for this.</p><p class="en">🐼 Polar bear… so, do you eat frozen dumplings straight from the freezer too?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">straight from</strong> <span class="ipa">/streɪt frəm/</span></p><p>～から直接</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-04-06"><a href="#2026-04-06"><img loading="lazy" src="/images/2026-04-06.png" alt="フルーツポンチとパンダ｜fruit punch and a panda"></a><div class="copy"><p class="ja">🐻 この店のフルーツポンチ、うまいんだよ。</p><p class="ja">🐼 ポンチってどの色のやつ？おくれよ</p><p class="en">🐻 The fruit punch here is really good.</p><p class="en">🐼 Which one’s the “punch”? I want that one.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">fruit punch</strong> <span class="ipa">/frut pʌntʃ/</span></p><p>フルーツ入りの飲み物</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0314-0"><a href="#2026-0314-0"><img loading="lazy" src="/images/2026-0314-0.png" alt="サラダバーとパンダ｜salada buffet and a panda"></a><div class="copy"><p class="ja">👧 お客様、トレーごとはちょっと..</p><p class="ja">🐼 どうせ全部たべるよ。たけのこ入ってる？</p><p class="en">👧 Sir… not the whole tray, please.</p><p class="en">🐼 I’ll eat it all anyway. Any bamboo shoots in here?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">anyway</strong> <span class="ipa">/ˈeniweɪ/</span></p><p>いずれにせよ</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0225-0"><a href="#2026-0225-0"><img loading="lazy" src="/images/2026-0225-0.png" alt="サーティワンとパンダ｜Very Berry Strawberry and a panda"></a><div class="copy"><p class="ja">🐼 俺 ラブラブポーションサーティワンとベリーベリーストロベリーのレギュラーダブルでワッフルコーンにする</p><p class="ja">👧 目一杯きたね..あんた</p><p class="en">🐼 I’ll get a double. Love Potion and Very Berry Strawberry, waffle cone.</p><p class="en">👧 You’re really going all the way.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">go all the way</strong> <span class="ipa">/ɡoʊ ɔl ðə weɪ/</span></p><p>徹底的にやる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0219-1"><a href="#2026-0219-1"><img loading="lazy" src="/images/2026-0219-1.png" alt="suicaとパンダ｜a panda applying to be the new Suica character"></a><div class="copy"><p class="ja">🐼　Suicaの新しいキャラに応募したパンダといいます！</p><p class="ja">🐧　ほぅ。私の代わりが君に務まるかな？</p><p class="en">🐼 I’m a panda applying to be the new Suica character.</p><p class="en">🐧 Oh? Think you can replace me?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">replace</strong> <span class="ipa">/rɪˈpleɪs/</span></p><p>取って代わる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0218-0"><a href="#2026-0218-0"><img loading="lazy" src="/images/2026-0218-0.png" alt="パンダのキャラ弁｜character bento with a panda"></a><div class="copy"><p class="ja">👧 自分の顔のお弁当って、ずいぶん自信家ね。</p><p class="ja">🐼 自己承認欲求を、昼で満たすんだよ。</p><p class="en">👧 Your face in a bento? That’s confident.</p><p class="en">🐼 Lunch is when I handle my self-validation.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">self-validation</strong> <span class="ipa">/self ˌvælɪˈdeɪʃən/</span></p><p>自己肯定</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0211-2"><a href="#2026-0211-2"><img loading="lazy" src="/images/2026-0211-2.png" alt="ひこにゃんもどきの猫、熊とケーキ｜a Hikonyan thing, a bear and a cat"></a><div class="copy"><p class="ja">🐻 ケーキ、一口でいける。...その兜 ひこにゃん意識してんの？</p><p class="ja">🐱 うっせぇ。偶然セカストにあった</p><p class="en">🐻 I’ll finish this cake in one bite. By the way… that helmet’s a Hikonyan thing, right?</p><p class="en">🐱 Shut up. I just found it at a thrift store.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">in one bite</strong> <span class="ipa">/ɪn wʌn baɪt/</span></p><p>一口で</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0211-1"><a href="#2026-0211-1"><img loading="lazy" src="/images/2026-0211-1.png" alt="パンダのリュック、パンダとリュックサック｜a panda at Tsuzumi Gate, a panda at Kanazawa Station"></a><div class="copy"><p class="ja">👦　これが鼓門！金沢駅って大きいねぇ</p><p class="ja">🐼　うん…でも、僕のリュックのほうが目立ってる気がする</p><p class="en">👦　This is the Tsuzumi Gate! Kanazawa Station is huge, isn’t it?</p><p class="en">🐼　Yeah…but I think my backpack is louder.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">backpack</strong> <span class="ipa">/ˈbækpæk/</span></p><p>リュック</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0206-1"><a href="#2026-0206-1"><img loading="lazy" src="/images/2026-0206-1.png" alt="ボート、老婆とパンダ｜an afterlife souvenir, an old woman and a panda"></a><div class="copy"><p class="ja">👵パンダと一緒なんて.. すごい冥土の土産ができたわ</p><p class="ja">🐼このまま直行じゃないですよね..冥土に..</p><p class="en">👵 A panda, of all things… what an afterlife souvenir.</p><p class="en">🐼 We’re not going straight there, right…?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">of all things</strong> <span class="ipa">/əv ɔl θɪŋz/</span></p><p>よりによって</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0202-0"><a href="#2026-0202-0"><img loading="lazy" src="/images/2026-0202-0.png" alt="葱、ネギ、鍋、親近感｜green onions, Black and white, cat, relatable"></a><div class="copy"><p class="ja">🐼 鍋にするけど、一緒にどうだい？</p><p class="ja">🐱 （こいつ白黒ニャ... 親近感あるニャ...）</p><p class="en">🐼 Hot pot tonight. Care to join?</p><p class="en">🐱 (Black and white… huh. Oddly relatable.)</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">care to join</strong> <span class="ipa">/ker tə dʒɔɪn/</span></p><p>ご一緒しませんか</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-01-28-1"><a href="#2026-01-28-1"><img loading="lazy" src="/images/2026-01-28-1.png" alt="ウサギのバイク｜rabbit’s bike, spitzs"></a><div class="copy"><p class="ja">ウサギのバイクで逃げ出そう</p><p class="ja">枯れ葉を舞い上げて</p><p class="ja">-- スピッツ「ウサギのバイク」</p><p class="en">Let’s flee on the rabbit’s bike,</p><p class="en">dry leaves rising behind us.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">flee</strong> <span class="ipa">/fli/</span></p><p>逃げる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0127-0"><a href="#2026-0127-0"><img loading="lazy" src="/images/2026-0127-0.png" alt="竹の子のお菓子｜bamboo shoots, snacks"></a><div class="copy"><p class="ja">👦 竹の子のお菓子ってありますか？</p><p class="ja">🐼 厚切りのチップスがベストです。</p><p class="en">👦 Do you have any bamboo-shoot snacks?</p><p class="en">🐼 Thick-cut chips would be best.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">thick-cut</strong> <span class="ipa">/θɪk kʌt/</span></p><p>厚切りの</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0123-0"><a href="#2026-0123-0"><img loading="lazy" src="/images/2026-0123-0.png" alt="お弁当｜lunch time, bento"></a><div class="copy"><p class="ja">👦 まだ頂上じゃないんだよ、パンダ</p><p class="ja">🐼 小腹空いて.. おにぎり一つだけだよ</p><p class="en">👦 We’re not at the top yet, Panda.</p><p class="en">🐼 I know… just a little hungry. I’ll just have one rice ball.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">not yet</strong> <span class="ipa">/nɑt jet/</span></p><p>まだ～していない</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-0122-0"><a href="#2026-0122-0"><img loading="lazy" src="/images/2026-0122-0.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩 今日は竹の子ハンバーグよ</p><p class="ja">🐼 もう鼻で食べてます</p><p class="ja">👦 お腹すいたぁ</p><p class="en">👩 We’re having bamboo shoot hamburg steaks today.</p><p class="en">🐼 I’m eating with my nose for now.</p><p class="en">👦 I’m hungry!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">for now</strong> <span class="ipa">/fər naʊ/</span></p><p>とりあえず今は</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-01-12-1"><a href="#2026-01-12-1"><img loading="lazy" src="/images/2026-01-12-1.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+これ、シャトレーゼのやつでしょう？わかりますよ、菊栄さん。</p><p class="ja">👵
+何が言いたいのかしら？</p><p class="en">🐼
+This is from Châteraisé, right? I can tell, Mrs. Kikue.</p><p class="en">👵
+And what exactly are you trying to say?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">I can tell</strong> <span class="ipa">/aɪ kən tel/</span></p><p>見ればわかる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-01-12-2"><a href="#2026-01-12-2"><img loading="lazy" src="/images/2026-01-12-2.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+親父さん！瓶ビールと、おつまみメンマ３つ追加で！</p><p class="ja">👨‍🍳
+あいよっ！シャオシャオ、いつもありがとね！</p><p class="en">🐼
+Boss! One bottled beer, and three orders of menma on the side!</p><p class="en">👨‍🍳
+You got it! Thanks as always, Shao Shao!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">on the side</strong> <span class="ipa">/ɑn ðə saɪd/</span></p><p>付け合わせとして</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-01-12-0"><a href="#2026-01-12-0"><img loading="lazy" src="/images/2026-01-12-0.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+お前のバーガー、小さくない？</p><p class="ja">🐧
+丸飲み用だ。俺は咀嚼しないんだ。</p><p class="ja">🐼
+そっか。俺のポテト、食べていいよ。</p><p class="ja">🐧
+喉に詰まるだろ！</p><p class="en">🐼
+Isn’t your burger kind of small?</p><p class="en">🐧
+It’s for swallowing. I don’t chew.</p><p class="en">🐼
+Oh. You can have my fries, then.</p><p class="en">🐧
+They’d get stuck.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">get stuck</strong> <span class="ipa">/ɡet stʌk/</span></p><p>引っかかる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-01-06-1"><a href="#2026-01-06-1"><img loading="lazy" src="/images/2026-01-06-1.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">👧
+パンダちゃん❤ チーズケーキっていうのよ、これ。</p><p class="ja">🐼
+難しい名前のおやつは、だいたいおいしい。</p><p class="en">👧
+Panda, this is called cheesecake.</p><p class="en">🐼
+Snacks with hard names are usually tasty.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">usually</strong> <span class="ipa">/ˈjuʒuəli/</span></p><p>たいてい</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-01-09-0"><a href="#2026-01-09-0"><img loading="lazy" src="/images/2026-01-09-0.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">👵
+上野動物園から逃げて、これからどうするの？</p><p class="ja">🐼
+モグモグ... 京都の嵯峨野の竹林は見事らしいんです。そこに潜伏します</p><p class="en">👵
+You escaped from Ueno Zoo. What now?</p><p class="en">🐼
 Nom nom… I hear Kyoto’s Sagano bamboo grove is nice.
-I might hide there.
-
-![今日のパンダ](/images/2026-01-09-0.png)
-
-## 焼き芋
-🐼
+I might hide there.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">grove</strong> <span class="ipa">/ɡroʊv/</span></p><p>小さな林</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-01-05-0"><a href="#2026-01-05-0"><img loading="lazy" src="/images/2026-01-05-0.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
 焼いた芋も 美味しいものですね。
-ただ、失敬ですが、おならがでそうです。
-
-👵
-あら、人間と同じなのねぇ
-
-🐼
+ただ、失敬ですが、おならがでそうです。</p><p class="ja">👵
+あら、人間と同じなのねぇ</p><p class="en">🐼
 Roasted sweet potatoes are really good.
-Sorry to say this, but I think I’m about to fart.
-
-👵
-Oh my. Just like a human, then.
-
-![今日のパンダ](/images/2026-01-05-0.png)
-
-## 箱根駅伝
-箱根駅伝、花の２区！
-
-動物大学のパンダ、健闘しています！
-
-It’s the famous Section 2 of the Hakone Ekiden.
-
-The panda from Animal University is putting up a great fight!
-
-![今日のパンダ](/images/2026-01-02-0.png)
-
-## 馴染む
-🐼
-この焼き魚、とてもおいしいです。
-
-👩
-そうでしょう！たけのこ以外にもおいしいものはたくさんあるのよ。
-
-🐼
-This grilled fish is delicious.
-
-👩
-See? There’s plenty of good food besides bamboo.
-
-![今日のパンダ](/images/2025-12-21-1.png)
-
-## 生き様
-
-白黒の人生を生きてやる、俺の視界に『グレー』なんて色はねぇ
-
-Living life in black and white, No shades of gray in my sight.
-
-![今日のパンダ](/images/2025-12-15-1.png)
-
-## 孔雀
-
-🦚
-クククッ... おまえ、動揺しているだろう？
-
-🐼
-いや、畳むの面倒くさそうだなって思ってる
-
-🦚
-Heh… you’re shaken, aren’t you?
-
-🐼
-Nope. I was just thinking how annoying that must be to fold.
-
-![今日のパンダ](/images/2025-12-15-0.jpg)
-
-## 出前
-
-🐼 もしもし。来来軒？
+Sorry to say this, but I think I’m about to fart.</p><p class="en">👵
+Oh my. Just like a human, then.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">be about to</strong> <span class="ipa">/bi əˈbaʊt tu/</span></p><p>今にも～しそう</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2026-01-02-0"><a href="#2026-01-02-0"><img loading="lazy" src="/images/2026-01-02-0.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">箱根駅伝、花の２区！</p><p class="ja">動物大学のパンダ、健闘しています！</p><p class="en">It’s the famous Section 2 of the Hakone Ekiden.</p><p class="en">The panda from Animal University is putting up a great fight!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">put up a fight</strong> <span class="ipa">/pʊt ʌp ə faɪt/</span></p><p>健闘する</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-12-21-1"><a href="#2025-12-21-1"><img loading="lazy" src="/images/2025-12-21-1.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+この焼き魚、とてもおいしいです。</p><p class="ja">👩
+そうでしょう！たけのこ以外にもおいしいものはたくさんあるのよ。</p><p class="en">🐼
+This grilled fish is delicious.</p><p class="en">👩
+See? There’s plenty of good food besides bamboo.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">besides</strong> <span class="ipa">/bɪˈsaɪdz/</span></p><p>～に加えて</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-12-15-1"><a href="#2025-12-15-1"><img loading="lazy" src="/images/2025-12-15-1.png" alt="今日のパンダ"></a><div class="copy"><p class="ja">白黒の人生を生きてやる、俺の視界に『グレー』なんて色はねぇ</p><p class="en">Living life in black and white, No shades of gray in my sight.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">shade</strong> <span class="ipa">/ʃeɪd/</span></p><p>色合い、陰影</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-12-15-0"><a href="#2025-12-15-0"><img loading="lazy" src="/images/2025-12-15-0.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🦚
+クククッ... おまえ、動揺しているだろう？</p><p class="ja">🐼
+いや、畳むの面倒くさそうだなって思ってる</p><p class="en">🦚
+Heh… you’re shaken, aren’t you?</p><p class="en">🐼
+Nope. I was just thinking how annoying that must be to fold.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">annoying</strong> <span class="ipa">/əˈnɔɪɪŋ/</span></p><p>面倒な、いらいらさせる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-11-28-0"><a href="#2025-11-28-0"><img loading="lazy" src="/images/2025-11-28-0.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼 もしもし。来来軒？
 三丁目のパンダです。
-八宝菜５つ、たけのこ２倍でお願いします。
-
-🐼 Hi, Rairaiken?
+八宝菜５つ、たけのこ２倍でお願いします。</p><p class="en">🐼 Hi, Rairaiken?
 Panda from Third Street.
-Five Eight-Treasure stir-fries, double bamboo shoots.
-
-![今日のパンダ](/images/2025-11-28-0.jpg)
-
-## 掃除機
-
-👩
-掃除機かけるからどいてくれる？
-
-🐼
-あ、お母さん。お昼はもうすぐ？
-
-👩
-Can you move a bit? I’m trying to vacuum.
-
-🐼
-Oh, ma’am… is it almost lunchtime?
-
-![今日のパンダ](/images/2025-11-20-0.jpg)
-
-## 虎党
-
-🐼
-ワシ虎党やけど、分類はクマ科やで？
-
-🐼
-I'm a die-hard Tigers fan… but biologically, I'm still a bear, you know?
-
-![今日のパンダ](/images/2025-11-18-0.jpg)
-
-## 流さない
-🐼
-パンダのうんちって、ほんとに良い匂いなんだ。植物の香り。
-
-だから、流してないよ。
-
-🐼
-Takahashi, you know, panda poop actually smells nice—like plants.
-
-So… I didn’t flush.
-
-![今日のパンダ](/images/2025-0927-04.jpg)
-
-## アート
-
-🐼
-そういうのはヤンキーがスプレーでやるもんだぞ。
-
-👦
-パンダにわかってたまるか。
-
-🐼 That’s the kind of thing punks do with spray cans.
-
-👦 What would a panda know about that?
-
-![今日のパンダ](/images/2025-0927-02.jpg)
-
-## オーダー
-
-🦲
-あなたはダブチ３つでいいんですね？
-
-🐼
-おぅ！あと、マイメロのマックフルーリーも！
-
-🦲 So, three Double Cheeseburgers for you?
-
-🐼 Yeah! And one My Melody McFlurry, too!
-
-![今日のパンダ](/images/2025-0927-01.jpg)
-
-
-## 風呂
-👩　どうして、勝手にお風呂に入るのよ？
-
-🐼　だって... 一番風呂に入ってみたくて...
-
-👩 Why did you sneak into the bath?
-
-🐼 Because… I wanted to be the first one in.
-
-![今日のパンダ](/images/2025-0921-02.jpg)
-
-## メイク
-👩　メイクしたら、あなたもっと可愛くなるわ。わたしにまかせて。
-
-👩 With a little makeup, you’ll look even cuter. Trust me.
-
-![今日のパンダ](/images/2025-0921-01.jpg)
-
-## カラオケ
-🐼 改札に立ち尽くし…君を待ち続ける～ ♪
-
-👨 よっ！
-
-🐼 I stand at the ticket gate… still waiting for you ♪
-
-👨 Hey!
-
-![今日のパンダ](/images/2025-0919-01.jpg)
-
-## 婆さん家
-👵　あんた、この家にすっかり懐いてるけど... 
-
-🐼　ただの野良パンダですよ。羊羹、おいしいです。
-
-👵 You’ve really made yourself at home here…
-
-🐼 I’m just a stray panda, that’s all. But this yokan is delicious.
-
-![今日のパンダ](/images/2025-0913-01.jpg)
-
-
-## スキマバイト
-🐼
-タイミーから来ました！３時間だけですが、よろしくお願いします！
-
-🐼
-I’m from Timee. I’ll be working here for three hours, nice to meet you! 
-
-![今日のパンダ](/images/2025-0912-01.jpg)
-
-## たけのこの里
-🐼
-お母さん、たけのこの里 買ってくれた？
-
-👩
-あれはチョコよ。たけのこ風味じゃないの。
-
-🐼
-Mom, did you get Bamboo Shoot Village?
-
-👩
-That’s chocolate. It doesn’t taste like bamboo shoots.
-
-
-![今日のパンダ](/images/2025-0911-01.jpg)
-
-## UFOキャッチャー
-🐼
-あのパンダ、俺の方を見てる！
-
-おい、500円くれ！
-
-🐼
-That panda’s staring at me! Hey, give me 500 yen!
-
-
-![今日のパンダ](/images/2025-0910-02.jpg)
-
-## ペンギン
-🐼
-ペンギンの容態は!?
-
-👧
-無理な鯖の丸呑みによる腸閉塞です。大丈夫です
-
-🐼
-How’s the penguin!?
-
-👧
-It swallowed a whole mackerel. Intestinal blockage, but it’ll be fine.
-
-![今日のパンダ](/images/2025-0910-01.jpg)
-
-
-## タケノコ掘り
-
-👧
-帰りさ、いっしょにタケノコ取りにいこ❤
-
-🐼
-うっせぇな。ひとりのほうがはかどるんだよ。服も汚れんだろ
-
-👧
-（...やさしい❤）
-
-👧
-On the way back, let’s go pick some bamboo shoots together. ❤
-
-🐼
-Geez… you’re better off not coming. Your clothes will just get dirty.
-
-👧
-(...he’s so kind ❤)
-
-![今日のパンダ](/images/2025-0909-01.jpg)
-
-## 自販機
-👦
-ごめんね。ジュース買えないから、どいてくれる？
-
-🐼
-君は知らないだろうけど、この自販機は僕の兄なんだ。
-
-👦
-Sorry… I can’t buy a drink. Could you move a little?
-
-🐼
-You don’t know this, but this vending machine is actually my brother.
-
-![今日のパンダ](/images/2025-0908-01.jpg)
-
-
-## 河原
-👧
-だから...あなたが好きだって..
-
-🐼
-僕が珍獣だからでしょ？ パンダだったら、誰でもいいんでしょ..
-
-👧
-Because… I really do love you.
-
-🐼
-No… you only love me because I’m rare. It could be any panda, right?
-
-![今日のパンダ](/images/2025-0907-02.jpg)
-
-
-## ファン
-👧
-パンダちゃーん、握手してー！❤
-
-🐼
-はい順番ね、順番ねー。
-
-
-👧 Panda-chan, shake my hand! ❤
-
-🐼 Okay, one at a time, one at a time.
-
-![今日のパンダ](/images/2025-0907-01.jpg)
-
-## 奈良公園
-
-🐼
-実は...自分用に買ったビスコでした～！
-
-🦌
-角のある先輩、呼んでくる
-
-
-🐼  Actually… I bought these biscuits for myself!
-
-🦌  I’ll go call the senior with the antlers.
-
-![今日のパンダ](/images/2025-0906-01.jpg)
-
-## 改札
-👧
-あら、かわいい... 迷子？
-
-🐼
-改札で、横腹が擦れるんですよ。
-
-幅を広げてもらえませんか？
-
-👧 Oh, how cute... Are you lost?
-
-🐼 Could you widen the ticket gate a little? My belly keeps scraping the sides.
-
-![今日のパンダ](/images/2025-0904-01.jpg)
-
-
-## 地下アイドル
-🐼 はぁい♡ パンダちゃんだよ〜！みんな会いたかったぁ？
-
-👨 会いたかったーー！！
-
-🐼 Heeey! I’m Panda-chan! Did you miss meee?!
-
-👨 YEEEESSSS!!!
-
-![今日のパンダ](/images/2025-0903-01.jpg)
-
-
-## マッサージチェア
-👩　お客様... 毛の付着が気になっておりまして...
-
-👩 Sir… we’re a bit concerned about all the fur you’re leaving behind…
-
-![今日のパンダ](/images/2025-0902-02.jpg)
-
-## オフィス
-👨　なんで片足をあげるんだ！？
-
-👨  Why are you lifting one leg?!
-
-![今日のパンダ](/images/2025-0902-01.jpg)
-
-## 休日
-月曜日は、上野動物園がお休み。
-
-ぼくは、総武線で千葉に行って、落花生をひとつ食べます。
-
-Monday is the day Ueno Zoo is closed.
-
-I’m taking the Sobu Line to Chiba to eat just one peanut.
-
-![今日のパンダ](/images/2025-0901-04.jpg)
-
-
-## ガチャガチャ
-🐼　同じのが２個つづいたんです。替えてくれませんか。
-
-👧　それはできないんですよぅ
-
-🐼 I got two of the same ones. Could you exchange one?
-
-👧 Sorry, I’m afraid we can’t do that.
-
-![今日のパンダ](/images/2025-0901-03.jpg)
-
-## たぬき
-🐼　いま絶対カンチョーすんなよ、たぬき
-
-🐼 Seriously, no kanchō right now, raccoon dog.
-
-
-カンチョー：指でおしりを突く子どものいたずら
-
-kanchō, a prank similar to giving a wedgie, but with fingers
-
-![今日のパンダ](/images/2025-0901-01.jpg)
-
-
-## 冷蔵庫
-
-桃屋のメンマ、切らしてたか...
-
-Did I run out of Momoya’s seasoned menma…?
-
-![今日のパンダ](/images/2025-0831-04.jpg)
-
-
-## 職質
-👮　パンダ...か？
-
-🐼　はい。上野動物園の非常勤です。
-
-
-👮 Panda…?
-
-🐼 Correct. Seasonal staff, Ueno Zoo.
-
-![今日のパンダ](/images/2025-0831-02.jpg)
-
-
-## 相談
-🐼　はなしって、なによ？
-
-👧　実はね、わたし昨日までハトだったの。まだパンくず拾おうとしちゃって..
-
-🐼 What’s this talk about?
-
-👧 Well… I was a pigeon until yesterday, so I still look for bread crumbs on the ground.
-
-![今日のパンダ](/images/2025-0831-01.jpg)
-
-
-## レッサーパンダ
-🦝 レッサーパンダって、パンダ以下って意味だろ？納得できない！
-
-🐼 わかるよ... 僕とは全然似てないし...
-
-🦝 モアパンダならな！ハハハ！
-
-🐼 ...
-
-🦝 Does ‘lesser panda’ mean I’m below panda? I can’t accept that!
-
-🐼 I get it… we don’t even look alike…
-
-🦝 Then call me ‘More Panda!’ Hahaha!
-
-🐼 ...
-
-![今日のパンダ](/images/2025-0830-05.jpg)
-
-## 出勤
-👧 おはよう、パンダちゃん！
-
-🐼 あ...おはようございます。
-
-👧 何もってきたの？
-
-👧 Good morning, Panda!
-
-🐼 Ah… good morning.
-
-👧 What did you bring with you?
-
-![今日のパンダ](/images/2025-0830-04.jpg)
-
-## バス
-👧 上野動物園前で降りるの？
-
-🐼 あ... うん。
-
-👧 どこから通ってるの？
-
-👧 Do you get off at Ueno Zoo?
-
-🐼 Uh... yeah.
-
-👧 Which stop are you coming from?
-
-![今日のパンダ](/images/2025-0830-03.jpg)
-
-## レスリング
-🧔　毛... 目に入る...
-
-🧔　Fur... it's getting in my eyes...
-
-![今日のパンダ](/images/2025-0830-01.jpg)
-
-## 魚屋
-👨　いいアジが入ってるよ！どう？ 
-
-🐧　３匹くらい丸飲みしていい？試食で。
-
-👨 Fresh mackerel today! How about it?
-
-🐧 Can I swallow three whole ones? For tasting.
-
-![今日のパンダ](/images/2025-0829-02.jpg)
-
-## 水族館
-🐼 動物は無料ですよね？　  
-　  ペンギンは友達です。保護希望じゃありません。 
-
-🐧 イワシ余ってない？腹減ってて
-
-🐼 Animals get in free, right?
-The penguin’s my friend, not for rescue.
-
-🐧 Got any spare sardines? I’m starving.
-
-![今日のパンダ](/images/2025-0829-01.jpg)
-
-## 白浜
-次は、終点、白浜... アドベンチャーワールドの最寄り駅でございます。
-
-自然と動物たちの世界を、心ゆくまでお楽しみください..
-
-Next stop, Shirahama, the final station. 
-
-Gateway to Adventure World—enjoy the wonders of nature and animals.
-
-![今日のパンダ](/images/2025-0828-02.jpg)
-
-## おばちゃん
-
-あんた、パンダやんか！
-縁起もんやわ、握手しなさい！
-
-Well look at ya—you’re a panda! 
-That’s good luck right here, now gimme a handshake!
-
-![今日のパンダ](/images/2025-0827-01.jpg)
-
-## 相談
-🧔　動物園の暮らしにも慣れたか？
-
-🐼　椅子の下に落ちてるピーナッツ、食べてもいいですか？
-
-🧔 Have you gotten used to life in the zoo?
-
-🐼 Can I eat the peanuts that fell under the chair?
-
-![今日のパンダ](/images/2025-0826-04.jpg)
-
-## ウォータースライダー
-
-もう帰りたい... 
-
-でも、あいつ🐧があんなに喜んでいる...
-
-なんだろう..この気持ちは..
-
-
-I just want to go home…
-
-But seeing him so happy, I can’t look away.
-
-What is this feeling inside me?
-
-![今日のパンダ](/images/2025-0826-03.jpg)
-
-
-## 変な服
-🐧　その奇妙なベストはどうした？
-
-🐼　動物園のお客さんにもらった
-
-🐧　処分するやつじゃ..
-
-🐧 Where’d you get that strange vest?
-
-🐼 A zoo visitor gave it to me.
-
-🐧 Wasn’t that meant to be thrown away…?
-
-![今日のパンダ](/images/2025-0826-02.jpg)
-
-## 捕まる
-🐧 
-パンダよ…俺達もここで終いか…。散り際ぐらい、粋にいこうぜ…
-
-🐼 
-👩❤ 動物園のゲートまで、このまま抱っこでお願いします
-
-🐧 
-Panda boss… this is our end. Let’s go down with style…
-
-🐼 
-👩❤ Just carry me to the zoo gate.
-
-![今日のパンダ](/images/2025-0825-04.jpg)
-
-## バレない
-🐧　ポリ公め... 数が いやがる 
-
-🐼　ぬいぐるみのふりで バレないだろ
-
-🐧 Damn cops… there’s too many of them.
-
-🐼 If we just pretend to be stuffed animals, they’ll never notice. 
-
-![今日のパンダ](/images/2025-0825-02.jpg)
-
-
-
-## 再会
-
-👩　ごめんね.. 
-
-🐼　ここに長くは いられないんだ.. 追われてて..
-
-🐧　ポリのサイレンが近づいている！
-
-
-👩 Panda… I’m so sorry.
-
-🐼 I can’t stay here long… I’m being chased.
-
-🐧 The police sirens are getting closer! 
-
-![今日のパンダ](/images/2025-0825-01.jpg)
-
-## 盗んだバイク
-🐼　盗んだバイクで、行き先は川越… ちょっと尾崎っぽいだろ？
-
-🐧　俺は幼児のリュックサックじゃねーんだぞ！AIめ！
-
-🐼 On a stolen bike, heading for Kawagoe… Feels a bit Ozaki, huh?
-
-🐧 I’m not some toddler’s backpack, you AI fool!
-
-![今日のパンダ](/images/2025-0824-02.jpg)
-
-## 臨時ニュース
-📺️  上野動物園よりパンダが脱走..
-　　御徒町方面に走り去ったという目撃情報もあり、警察は確認を..
-
-👩　...あの子！
-
-📺 Breaking News! Panda escaped Ueno Zoo… Seen with a penguin near Okachimachi!
-
-👩 …Is that him!? 
-
-![今日のパンダ](/images/2025-0824-01.jpg)
-
-## 市営プール
-🐧　泳げないやつは、自然淘汰されるんだ。
-
-🐼　なんでプールに誘った？
-
-🐧 If you can’t swim, nature takes you out.
-
-🐼 So… why did you bring me here?
-
-![今日のパンダ](/images/2025-0823-07.jpg)
-
-## UberEats
-🐧　昼は動物園で、夜はUberEatsとは忙しいな
-
-🐼　あぁ。お金が必要なんだ。
-
-🐧　ポリ公に気をつけてな
-
-🐧 Busy life, huh—zoo by day, UberEats by night.
-
-🐼 Yeah. I need the money.
-
-🐧 Watch out for the cops. 
-
-![今日のパンダ](/images/2025-0823-06.jpg)
-
-## 実家
-🐧 パンダ…泣いてるのか？　川越の家が恋しいんだな..
-
-🐼 ほっとけよ…ﾋｯｸ…
-
-🐧 Panda... are you crying? Thinking about your family home back in Kawagoe?
-
-🐼 Shut up... sniff...
-
-![今日のパンダ](/images/2025-0823-05.jpg)
-
-## 口喧嘩
-🐼　飛べないくせに鳥ヅラすんな！
-
-🐧　AIの時代にモノクロってなんだよ！大人しく絶滅してろ！
-
-🐼　...（こいつ強ぇ..）
-
-🐼 Can’t fly, so quit acting like a bird!
-
-🐧 Black-and-white in the age of AI? Just go extinct!
-
-🐼 ...(…Ugh, he’s tough…)
-
-![今日のパンダ](/images/2025-0823-03.jpg)
-
-## 作業
-🐼　ふぅ... 
-
-🐧　積み込み、おつかれさま。
-
-🐼 （こいつ、鮭食っただけじゃねぇか..）
-
-🐼 Phew...
-
-🐧 Good job loading it all up.
-
-🐼 (This guy only ate the salmon...)
-
-![今日のパンダ](/images/2025-0823-02.jpg)
-
-## 道すがら
-🐼　鮭のヒモ、肩からズレてきた..
-
-🐧　あとちょっとで竹林だから、そこで降ろしてお昼にしよう
-
-🐼 The salmon’s slipping off my shoulder...
-
-🐧 Almost at the bamboo grove—let’s eat there.
-
-![今日のパンダ](/images/2025-0823-01.jpg)
-
-## 茨城
-🐼　竹、食べ放題かと思ってたら 伐採を命じられるとはな..
-
-🐧　茨城って、遠いな
-
-🐼 Thought it was bamboo buffet… turns out it’s logging duty.
-
-🐧 Ibaraki’s a long ride…
-
-![今日のパンダ](/images/2025-08-22-02.jpg)
-
-
-## 試着
-このニューバランス、ひとつ上のサイズも出してもらえますか？ちょっときつくて.. 
-
-Could I try these New Balance in the next size up? They feel a little tight. 
-
-![今日のパンダ](/images/2025-0822-01.jpg)
-
-
-## ウォンバット
-🐼 君が四角いうんちで有名なウォンバットくん？
-
-🦔 ちがう。僕がうんちで、ウォンバットが僕を出してるんだ。
-
-🐼 ……え？
-
-🐼 Are you the wombat who’s famous for square poop?
-
-🦔 No. I am the poop — the wombat is just the one who produced me.
-
-🐼 …What?
-
-![今日のパンダ](/images/2025-0821-09.jpg)
-
-
-## 吉野家
-🐧　牛丼食ってくか？おごるぜ
-
-🐼　あざっす！吉野家あるんですね！すごいなぁ..上野動物園
-
-🐧 How about beef bowls? It’s on me.
-
-🐼 Thanks! Can’t believe there’s a Yoshinoya here… Ueno Zoo is amazing.
-
-![今日のパンダ](/images/2025-0821-07.jpg)
-
-## 食事
-🦁　慣れたか？ここは飯はうまいぞ。都の税収があるからな。
-
-🐼　あ、はい... ライオンさんはいつから？
-
-🦁　...
-
-🐧　パンダ、余計なことは聞くな
-
-🦁 Getting used to it? The food’s good here—city taxes pay for it.
-
-🐼 Oh… since when, Mr. Lion?
-
-🦁 …
-
-🐧 Panda, don’t ask too much.
-
-
-![今日のパンダ](/images/2025-0821-06.jpg)
-
-## ナポレオン
-
-🐷　新入りブー？俺はナポレオンだブー
-
-🐼　その姿は..あの動物農場の！
-
-🐷　ブー。俺に逆らわない方がいいブー
-
-🐼　...（緊張）
-
-🐷 New here, oink? I’m Napoleon.
-
-🐼 What—like in Animal Farm?!
-
-🐷 That’s right. Best not cross me, oink.
-
-![今日のパンダ](/images/2025-0821-05.jpg)
-
-## 行方
-📺️ 本日より上野動物園では、正体不明のパンダが現れ、来園者を喜ばせています… 
-
-👩 ごめんね..もっと収入があったら..まだ一緒にいられたのに。
-
-📺️ Starting today, an unknown panda has appeared at Ueno Zoo, delighting visitors…
-
-👩 I’m sorry… if I’d earned more, we could still be together.
-
-![今日のパンダ](/images/2025-0821-04.jpg)
-
-
-## 食堂
-🦤 …………（じーっ）
-
-🐼　あの.. ぼく魚たべないんで...どうぞ...
-
-🦤 ………… (stares)
-
-🐼 Uh… I don’t eat fish, so… please, go ahead…
-
-![今日のパンダ](/images/2025-0821-03.jpg)
-
-## 寮
-🐧
-俺と同室だ。室温は常に10℃。
-
-🐼
-…はい。（パンダにしちゃ"冷遇"されてない？？）
-
-🐧
-Room with me. Always 10°C.
-
-🐼 
-…Right. (Cold deal for a panda…)
-
-![今日のパンダ](/images/2025-0821-1.jpg)
-
-## 入園式
-👨 今日から入園するパンダ君だ。みんな、仲良くな。
-
-🐼 よろしくお願いします！
-（…おい園長、前列ライオン率高すぎだろ！キリンも！）
-
-👨 This panda joins us today. Be friendly.
-
-🐼 Nice to meet you! 
-(…Front row’s all lions… and giraffes!) 
-
-![今日のパンダ](/images/2025-08-20-13.jpg)
-
-## 旅立ち
-🐼 それじゃ、しばらく上野にいってきます
-
-👦 すぐ戻るよね！？
-
-👩 戻るわ、心配しないで
-
-🐼 My path takes me to Ueno for some time.
-
-👦 You’ll come back… right?
-
-👩 He will. The panda always finds his way home. 
-
-![今日のパンダ](/images/2025-0820-12.jpg)
-
-## 見覚え
-👵
-あら、どこかで見たことあるわねぇ..
-
-🐼
-きっとNHKの自然番組です。再放送によく出ますので。
-
-👵
-Oh my, I feel like I’ve seen you somewhere before...
-
-🐼
-Probably on an NHK nature program. I show up a lot in the reruns.
-
-![今日のパンダ](/images/2025-0820-11.jpg)
-
-
-## リモコン
-🐼
-リモコン、君がお尻で踏んでる 
-
-👧
-えっ、じゃあ今テレビはお尻が操作してるってこと？
-
-🐼 
-The remote… you’re sitting on it.
-
-👧
-Wait, so my butt is running the TV right now?
-
-![今日のパンダ](/images/2025-0820-10.jpg)
-
-## 滑り台
-🐼 見ろ、お尻から滑れるぜ！
-
-👦 ママに怒られるよ..
-
-🐼 Look, I can slide down on my butt!
-
-👦 Careful… Mom won’t like it.
-
-![今日のパンダ](/images/2025-0820-08.jpg)
-
-## 宿題
-🐼
-宿題まだ終わんないの？
-
-👦
-パンダが見てたら集中できないよ
-
-🐼
-Still not done with your homework?
-
-👦
-I can’t focus with a panda watching me.
-
-![今日のパンダ](/images/2025-0820-07.jpg)
-
-## 上野
-👩
-物価が上がってたいへんなのよ.. あなたの竹だってねぇ..
-
-🐼
-上野は家賃高いけど.. 社宅付きなら考えるよ
-
-👩
-The cost of living keeps going up… even your bamboo, you know.
-
-🐼
-Rent in Ueno is high… but if it comes with free housing, I’m in.
-
-![今日のパンダ](/images/2025-0820-06.jpg)
-
-## 誘い
-🦁 
-なんでここに来た？
-
-🐼
-ライオンが誘う夜は断れません。
-
-🦁
-Why did you come here?
-
-🐼
-If a lion calls me at night, how could I refuse?
-
-![今日のパンダ](/images/2025-0820-05.jpg)
-
-## 学校
-👦 
-植物に詳しいんだね。先生、驚いてた
-
-🐼
-僕にとっては半分ご飯だからね
-
-👦
-You really know plants. Our teacher was amazed.
-
-🐼
-For me, they’re mostly food.
-
-![今日のパンダ](/images/2025-0820-1.jpg)
-
-
-## 主張
-おい、にんじん。ちょっとオレンジ主張しすぎじゃない？
-
-Hey, carrot… don’t you think you’re showing off that orange a bit too much?
-
-![今日のパンダ](/images/2025-0820-2.jpg)
-
-## スタバ
-笹のスムージーをグランデでお願いしたいんですが。
-
-May I have a bamboo leaf smoothie in a grande size, please?
-
-![今日のパンダ](/images/2025-0819-5.jpg)
-
-## フレンチ
-👩
-フレンチって特別感あるわよね
-
-🐼
-はい、特別に少ないです
-
-👩
-French cuisine really feels special, doesn’t it?
-
-🐼
-Yes… especially small.
-
-![今日のパンダ](/images/2025-0819-4.jpg)
-
-## iPad
-肉球、認証しない... 
-
-Apple won’t recognize my paw pad…
-
-![今日のパンダ](/images/2025-0819-3.jpg)
-
-
-## 食卓
-
-👩
-ちょっと.. 狭いって..パンダ！
-
-🐼
-先にタケノコとらせてよ
-
-👦
-パンダ、よくたべるねぇ
-
-👨
-わたしの分だぞ..
-
-👩
-Move over a bit, Panda!
-
-🐼
-Let me pick up the bamboo shoots first.
-
-👦
-Panda, you sure eat a lot!
-
-👨
-That’s my share, you know…
-
-![今日のパンダ](/images/2025-0819-2.jpg)
-
-## コストコ
-🐼
-コストコ...きょうはずっと試食だぞ！
-
-🦝
-だね！年会費を1日で取り返そう！
-
-🐼 
-Costco... today we’ll eat samples all day!
-
-🦝
-Yeah! We’ll get back the membership with our tummies!
-
-![今日のパンダ](/images/2025-08-19.jpg)
-
-## ナイトズー
-🐼 上野動物園までお願いします
-
-🧔 え、こんな時間からですか？
-
-🐼 えぇ。ナイトズー ってやつです。夜勤ですよ
-
-🐼 To Ueno Zoo, please.
-
-🧔 At this hour?
-
-🐼 Yes. The Night Zoo doesn’t work without me.
-
-![今日のパンダ](/images/2025-08-18-5.jpg)
-
-## 診察
-🐼
-先生、最近どうも眠くて…
-
-👨‍⚕️
-パンダだからでしょうね
-
-🐼
-Doctor, I’ve been feeling really sleepy lately…
-
-👨‍⚕️
-That’s because you’re a panda.
-
-![今日のパンダ](/images/2025-08-18-4.jpg)
-
-## 波動拳
-波動拳出ない。毛が邪魔してる 
-
-Can't pull off a Hadoken — my fur's in the way 
-
-![今日のパンダ](/images/2025-08-18-2.jpg)
-
-## キャベツ
-🐼
-すみません、このキャベツ、笹の味はしますか？
-
-👨
-しないねぇ.. どこをどう食べてもキャベツだねぇ
-
-🐼
-Excuse me, does this cabbage taste like bamboo leaves?
-
-👨
-No… it will only ever taste like cabbage.
-
-![今日のパンダ](/images/2025-08-18.jpg)
-
-
-## 上野動物園
-🐰
-あなた、そろそろ出稼ぎにいってもらわないと..
-
-🐼
-あぁ、わかってる。上野動物園が日給いいらしいんだ
-
-🐰
-You know… it’s about time you went out to make some money.
-
-🐼
-Yeah, I know. They say Ueno Zoo pays pretty well per day.
-
-![今日のパンダ](/images/panda-20250817-3.jpg)
-
-## 呑み屋にて
-🧔
-何にします？
-
-🐼
-若竹煮と... たけのこの土佐煮、あとメンマももらおうかな
-
-🧔
-What’ll you have?
-
-🐼
-Hmm… the bamboo with wakame, the braised bamboo shoots… and yeah, throw in some menma too.
-
-![今日のパンダ](/images/panda-20250817-2.jpg)
-
-## 訴え
-🐼
-パンダに最低賃金が適用されないって、どういうことですか！？　ずっと楽しみにしてたのに！
-
-🐼
-What do you mean pandas don’t get minimum wage!? I’d been looking forward to this! 
-
-minimum wage
+Five Eight-Treasure stir-fries, double bamboo shoots.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">stir-fry</strong> <span class="ipa">/ˈstɜr fraɪ/</span></p><p>炒め物</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-11-20-0"><a href="#2025-11-20-0"><img loading="lazy" src="/images/2025-11-20-0.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩
+掃除機かけるからどいてくれる？</p><p class="ja">🐼
+あ、お母さん。お昼はもうすぐ？</p><p class="en">👩
+Can you move a bit? I’m trying to vacuum.</p><p class="en">🐼
+Oh, ma’am… is it almost lunchtime?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">vacuum</strong> <span class="ipa">/ˈvækjuəm/</span></p><p>掃除機をかける</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-11-18-0"><a href="#2025-11-18-0"><img loading="lazy" src="/images/2025-11-18-0.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+ワシ虎党やけど、分類はクマ科やで？</p><p class="en">🐼
+I'm a die-hard Tigers fan… but biologically, I'm still a bear, you know?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">die-hard</strong> <span class="ipa">/ˈdaɪ hɑrd/</span></p><p>熱烈な</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0927-04"><a href="#2025-0927-04"><img loading="lazy" src="/images/2025-0927-04.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+パンダのうんちって、ほんとに良い匂いなんだ。植物の香り。</p><p class="ja">だから、流してないよ。</p><p class="en">🐼
+Takahashi, you know, panda poop actually smells nice—like plants.</p><p class="en">So… I didn’t flush.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">flush</strong> <span class="ipa">/flʌʃ/</span></p><p>トイレの水を流す</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0927-02"><a href="#2025-0927-02"><img loading="lazy" src="/images/2025-0927-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+そういうのはヤンキーがスプレーでやるもんだぞ。</p><p class="ja">👦
+パンダにわかってたまるか。</p><p class="en">🐼 That’s the kind of thing punks do with spray cans.</p><p class="en">👦 What would a panda know about that?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">spray can</strong> <span class="ipa">/spreɪ kæn/</span></p><p>スプレー缶</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0927-01"><a href="#2025-0927-01"><img loading="lazy" src="/images/2025-0927-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🦲
+あなたはダブチ３つでいいんですね？</p><p class="ja">🐼
+おぅ！あと、マイメロのマックフルーリーも！</p><p class="en">🦲 So, three Double Cheeseburgers for you?</p><p class="en">🐼 Yeah! And one My Melody McFlurry, too!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">for you</strong> <span class="ipa">/fər ju/</span></p><p>あなたの分として</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0921-02"><a href="#2025-0921-02"><img loading="lazy" src="/images/2025-0921-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩　どうして、勝手にお風呂に入るのよ？</p><p class="ja">🐼　だって... 一番風呂に入ってみたくて...</p><p class="en">👩 Why did you sneak into the bath?</p><p class="en">🐼 Because… I wanted to be the first one in.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">sneak into</strong> <span class="ipa">/snik ˈɪntu/</span></p><p>こっそり入り込む</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0921-01"><a href="#2025-0921-01"><img loading="lazy" src="/images/2025-0921-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩　メイクしたら、あなたもっと可愛くなるわ。わたしにまかせて。</p><p class="en">👩 With a little makeup, you’ll look even cuter. Trust me.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">trust me</strong> <span class="ipa">/trʌst mi/</span></p><p>私を信じて</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0919-01"><a href="#2025-0919-01"><img loading="lazy" src="/images/2025-0919-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼 改札に立ち尽くし…君を待ち続ける～ ♪</p><p class="ja">👨 よっ！</p><p class="en">🐼 I stand at the ticket gate… still waiting for you ♪</p><p class="en">👨 Hey!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">ticket gate</strong> <span class="ipa">/ˈtɪkɪt ɡeɪt/</span></p><p>改札口</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0913-01"><a href="#2025-0913-01"><img loading="lazy" src="/images/2025-0913-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👵　あんた、この家にすっかり懐いてるけど...</p><p class="ja">🐼　ただの野良パンダですよ。羊羹、おいしいです。</p><p class="en">👵 You’ve really made yourself at home here…</p><p class="en">🐼 I’m just a stray panda, that’s all. But this yokan is delicious.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">make yourself at home</strong> <span class="ipa">/meɪk jərˈself ət hoʊm/</span></p><p>くつろぐ</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0912-01"><a href="#2025-0912-01"><img loading="lazy" src="/images/2025-0912-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+タイミーから来ました！３時間だけですが、よろしくお願いします！</p><p class="en">🐼
+I’m from Timee. I’ll be working here for three hours, nice to meet you!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">nice to meet you</strong> <span class="ipa">/naɪs tə mit ju/</span></p><p>はじめまして</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0911-01"><a href="#2025-0911-01"><img loading="lazy" src="/images/2025-0911-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+お母さん、たけのこの里 買ってくれた？</p><p class="ja">👩
+あれはチョコよ。たけのこ風味じゃないの。</p><p class="en">🐼
+Mom, did you get Bamboo Shoot Village?</p><p class="en">👩
+That’s chocolate. It doesn’t taste like bamboo shoots.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">taste like</strong> <span class="ipa">/teɪst laɪk/</span></p><p>～の味がする</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0910-02"><a href="#2025-0910-02"><img loading="lazy" src="/images/2025-0910-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+あのパンダ、俺の方を見てる！</p><p class="ja">おい、500円くれ！</p><p class="en">🐼
+That panda’s staring at me! Hey, give me 500 yen!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">stare at</strong> <span class="ipa">/ster æt/</span></p><p>じっと見つめる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0910-01"><a href="#2025-0910-01"><img loading="lazy" src="/images/2025-0910-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+ペンギンの容態は!?</p><p class="ja">👧
+無理な鯖の丸呑みによる腸閉塞です。大丈夫です</p><p class="en">🐼
+How’s the penguin!?</p><p class="en">👧
+It swallowed a whole mackerel. Intestinal blockage, but it’ll be fine.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">swallow</strong> <span class="ipa">/ˈswɑloʊ/</span></p><p>飲み込む</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0909-01"><a href="#2025-0909-01"><img loading="lazy" src="/images/2025-0909-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👧
+帰りさ、いっしょにタケノコ取りにいこ❤</p><p class="ja">🐼
+うっせぇな。ひとりのほうがはかどるんだよ。服も汚れんだろ</p><p class="ja">👧
+（...やさしい❤）</p><p class="en">👧
+On the way back, let’s go pick some bamboo shoots together. ❤</p><p class="en">🐼
+Geez… you’re better off not coming. Your clothes will just get dirty.</p><p class="en">👧
+(...he’s so kind ❤)</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">better off</strong> <span class="ipa">/ˈbetər ɔf/</span></p><p>～した方がよい</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0908-01"><a href="#2025-0908-01"><img loading="lazy" src="/images/2025-0908-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👦
+ごめんね。ジュース買えないから、どいてくれる？</p><p class="ja">🐼
+君は知らないだろうけど、この自販機は僕の兄なんだ。</p><p class="en">👦
+Sorry… I can’t buy a drink. Could you move a little?</p><p class="en">🐼
+You don’t know this, but this vending machine is actually my brother.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">vending machine</strong> <span class="ipa">/ˈvendɪŋ məˈʃin/</span></p><p>自動販売機</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0907-02"><a href="#2025-0907-02"><img loading="lazy" src="/images/2025-0907-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👧
+だから...あなたが好きだって..</p><p class="ja">🐼
+僕が珍獣だからでしょ？ パンダだったら、誰でもいいんでしょ..</p><p class="en">👧
+Because… I really do love you.</p><p class="en">🐼
+No… you only love me because I’m rare. It could be any panda, right?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">rare</strong> <span class="ipa">/rer/</span></p><p>珍しい</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0907-01"><a href="#2025-0907-01"><img loading="lazy" src="/images/2025-0907-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👧
+パンダちゃーん、握手してー！❤</p><p class="ja">🐼
+はい順番ね、順番ねー。</p><p class="en">👧 Panda-chan, shake my hand! ❤</p><p class="en">🐼 Okay, one at a time, one at a time.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">one at a time</strong> <span class="ipa">/wʌn ət ə taɪm/</span></p><p>一人ずつ、一つずつ</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0906-01"><a href="#2025-0906-01"><img loading="lazy" src="/images/2025-0906-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+実は...自分用に買ったビスコでした～！</p><p class="ja">🦌
+角のある先輩、呼んでくる</p><p class="en">🐼  Actually… I bought these biscuits for myself!</p><p class="en">🦌  I’ll go call the senior with the antlers.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">antler</strong> <span class="ipa">/ˈæntlər/</span></p><p>鹿の枝角</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0904-01"><a href="#2025-0904-01"><img loading="lazy" src="/images/2025-0904-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👧
+あら、かわいい... 迷子？</p><p class="ja">🐼
+改札で、横腹が擦れるんですよ。</p><p class="ja">幅を広げてもらえませんか？</p><p class="en">👧 Oh, how cute... Are you lost?</p><p class="en">🐼 Could you widen the ticket gate a little? My belly keeps scraping the sides.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">scrape</strong> <span class="ipa">/skreɪp/</span></p><p>こする</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0903-01"><a href="#2025-0903-01"><img loading="lazy" src="/images/2025-0903-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼 はぁい♡ パンダちゃんだよ〜！みんな会いたかったぁ？</p><p class="ja">👨 会いたかったーー！！</p><p class="en">🐼 Heeey! I’m Panda-chan! Did you miss meee?!</p><p class="en">👨 YEEEESSSS!!!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">miss</strong> <span class="ipa">/mɪs/</span></p><p>会えなくて寂しく思う</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0902-02"><a href="#2025-0902-02"><img loading="lazy" src="/images/2025-0902-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩　お客様... 毛の付着が気になっておりまして...</p><p class="en">👩 Sir… we’re a bit concerned about all the fur you’re leaving behind…</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">leave behind</strong> <span class="ipa">/liv bɪˈhaɪnd/</span></p><p>後に残す</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0902-01"><a href="#2025-0902-01"><img loading="lazy" src="/images/2025-0902-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👨　なんで片足をあげるんだ！？</p><p class="en">👨  Why are you lifting one leg?!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">lift</strong> <span class="ipa">/lɪft/</span></p><p>持ち上げる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0901-04"><a href="#2025-0901-04"><img loading="lazy" src="/images/2025-0901-04.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">月曜日は、上野動物園がお休み。</p><p class="ja">ぼくは、総武線で千葉に行って、落花生をひとつ食べます。</p><p class="en">Monday is the day Ueno Zoo is closed.</p><p class="en">I’m taking the Sobu Line to Chiba to eat just one peanut.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">take the line</strong> <span class="ipa">/teɪk ðə laɪn/</span></p><p>路線を利用する</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0901-03"><a href="#2025-0901-03"><img loading="lazy" src="/images/2025-0901-03.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼　同じのが２個つづいたんです。替えてくれませんか。</p><p class="ja">👧　それはできないんですよぅ</p><p class="en">🐼 I got two of the same ones. Could you exchange one?</p><p class="en">👧 Sorry, I’m afraid we can’t do that.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">exchange</strong> <span class="ipa">/ɪksˈtʃeɪndʒ/</span></p><p>交換する</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0901-01"><a href="#2025-0901-01"><img loading="lazy" src="/images/2025-0901-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼　いま絶対カンチョーすんなよ、たぬき</p><p class="en">🐼 Seriously, no kanchō right now, raccoon dog.</p><p class="ja">カンチョー：指でおしりを突く子どものいたずら</p><p class="en">kanchō, a prank similar to giving a wedgie, but with fingers</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">prank</strong> <span class="ipa">/præŋk/</span></p><p>いたずら</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0831-04"><a href="#2025-0831-04"><img loading="lazy" src="/images/2025-0831-04.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">桃屋のメンマ、切らしてたか...</p><p class="en">Did I run out of Momoya’s seasoned menma…?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">run out of</strong> <span class="ipa">/rʌn aʊt əv/</span></p><p>～を使い切る</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0831-02"><a href="#2025-0831-02"><img loading="lazy" src="/images/2025-0831-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👮　パンダ...か？</p><p class="ja">🐼　はい。上野動物園の非常勤です。</p><p class="en">👮 Panda…?</p><p class="en">🐼 Correct. Seasonal staff, Ueno Zoo.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">seasonal staff</strong> <span class="ipa">/ˈsizənəl stæf/</span></p><p>季節雇用の職員</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0831-01"><a href="#2025-0831-01"><img loading="lazy" src="/images/2025-0831-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼　はなしって、なによ？</p><p class="ja">👧　実はね、わたし昨日までハトだったの。まだパンくず拾おうとしちゃって..</p><p class="en">🐼 What’s this talk about?</p><p class="en">👧 Well… I was a pigeon until yesterday, so I still look for bread crumbs on the ground.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">bread crumbs</strong> <span class="ipa">/bred krʌmz/</span></p><p>パンくず</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0830-05"><a href="#2025-0830-05"><img loading="lazy" src="/images/2025-0830-05.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🦝 レッサーパンダって、パンダ以下って意味だろ？納得できない！</p><p class="ja">🐼 わかるよ... 僕とは全然似てないし...</p><p class="ja">🦝 モアパンダならな！ハハハ！</p><p class="ja">🐼 ...</p><p class="en">🦝 Does ‘lesser panda’ mean I’m below panda? I can’t accept that!</p><p class="en">🐼 I get it… we don’t even look alike…</p><p class="en">🦝 Then call me ‘More Panda!’ Hahaha!</p><p class="ja">🐼 ...</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">look alike</strong> <span class="ipa">/lʊk əˈlaɪk/</span></p><p>似ている</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0830-04"><a href="#2025-0830-04"><img loading="lazy" src="/images/2025-0830-04.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👧 おはよう、パンダちゃん！</p><p class="ja">🐼 あ...おはようございます。</p><p class="ja">👧 何もってきたの？</p><p class="en">👧 Good morning, Panda!</p><p class="en">🐼 Ah… good morning.</p><p class="en">👧 What did you bring with you?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">bring</strong> <span class="ipa">/brɪŋ/</span></p><p>持ってくる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0830-03"><a href="#2025-0830-03"><img loading="lazy" src="/images/2025-0830-03.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👧 上野動物園前で降りるの？</p><p class="ja">🐼 あ... うん。</p><p class="ja">👧 どこから通ってるの？</p><p class="en">👧 Do you get off at Ueno Zoo?</p><p class="en">🐼 Uh... yeah.</p><p class="en">👧 Which stop are you coming from?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">get off</strong> <span class="ipa">/ɡet ɔf/</span></p><p>乗り物から降りる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0830-01"><a href="#2025-0830-01"><img loading="lazy" src="/images/2025-0830-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🧔　毛... 目に入る...</p><p class="en">🧔　Fur... it's getting in my eyes...</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">fur</strong> <span class="ipa">/fɜr/</span></p><p>動物の毛</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0829-02"><a href="#2025-0829-02"><img loading="lazy" src="/images/2025-0829-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👨　いいアジが入ってるよ！どう？</p><p class="ja">🐧　３匹くらい丸飲みしていい？試食で。</p><p class="en">👨 Fresh mackerel today! How about it?</p><p class="en">🐧 Can I swallow three whole ones? For tasting.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">mackerel</strong> <span class="ipa">/ˈmækərəl/</span></p><p>サバ</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0829-01"><a href="#2025-0829-01"><img loading="lazy" src="/images/2025-0829-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼 動物は無料ですよね？　  
+　  ペンギンは友達です。保護希望じゃありません。</p><p class="ja">🐧 イワシ余ってない？腹減ってて</p><p class="en">🐼 Animals get in free, right?
+The penguin’s my friend, not for rescue.</p><p class="en">🐧 Got any spare sardines? I’m starving.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">spare</strong> <span class="ipa">/sper/</span></p><p>余分の</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0828-02"><a href="#2025-0828-02"><img loading="lazy" src="/images/2025-0828-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">次は、終点、白浜... アドベンチャーワールドの最寄り駅でございます。</p><p class="ja">自然と動物たちの世界を、心ゆくまでお楽しみください..</p><p class="en">Next stop, Shirahama, the final station.</p><p class="en">Gateway to Adventure World—enjoy the wonders of nature and animals.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">gateway</strong> <span class="ipa">/ˈɡeɪtweɪ/</span></p><p>玄関口</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0827-01"><a href="#2025-0827-01"><img loading="lazy" src="/images/2025-0827-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">あんた、パンダやんか！
+縁起もんやわ、握手しなさい！</p><p class="en">Well look at ya—you’re a panda! 
+That’s good luck right here, now gimme a handshake!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">handshake</strong> <span class="ipa">/ˈhændʃeɪk/</span></p><p>握手</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0826-04"><a href="#2025-0826-04"><img loading="lazy" src="/images/2025-0826-04.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🧔　動物園の暮らしにも慣れたか？</p><p class="ja">🐼　椅子の下に落ちてるピーナッツ、食べてもいいですか？</p><p class="en">🧔 Have you gotten used to life in the zoo?</p><p class="en">🐼 Can I eat the peanuts that fell under the chair?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">get used to</strong> <span class="ipa">/ɡet just tu/</span></p><p>～に慣れる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0826-03"><a href="#2025-0826-03"><img loading="lazy" src="/images/2025-0826-03.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">もう帰りたい...</p><p class="ja">でも、あいつ🐧があんなに喜んでいる...</p><p class="ja">なんだろう..この気持ちは..</p><p class="en">I just want to go home…</p><p class="en">But seeing him so happy, I can’t look away.</p><p class="en">What is this feeling inside me?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">look away</strong> <span class="ipa">/lʊk əˈweɪ/</span></p><p>目をそらす</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0826-02"><a href="#2025-0826-02"><img loading="lazy" src="/images/2025-0826-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐧　その奇妙なベストはどうした？</p><p class="ja">🐼　動物園のお客さんにもらった</p><p class="ja">🐧　処分するやつじゃ..</p><p class="en">🐧 Where’d you get that strange vest?</p><p class="en">🐼 A zoo visitor gave it to me.</p><p class="en">🐧 Wasn’t that meant to be thrown away…?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">throw away</strong> <span class="ipa">/θroʊ əˈweɪ/</span></p><p>捨てる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0825-04"><a href="#2025-0825-04"><img loading="lazy" src="/images/2025-0825-04.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐧 
+パンダよ…俺達もここで終いか…。散り際ぐらい、粋にいこうぜ…</p><p class="ja">🐼 
+👩❤ 動物園のゲートまで、このまま抱っこでお願いします</p><p class="en">🐧 
+Panda boss… this is our end. Let’s go down with style…</p><p class="en">🐼 
+👩❤ Just carry me to the zoo gate.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">with style</strong> <span class="ipa">/wɪð staɪl/</span></p><p>格好よく</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0825-02"><a href="#2025-0825-02"><img loading="lazy" src="/images/2025-0825-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐧　ポリ公め... 数が いやがる</p><p class="ja">🐼　ぬいぐるみのふりで バレないだろ</p><p class="en">🐧 Damn cops… there’s too many of them.</p><p class="en">🐼 If we just pretend to be stuffed animals, they’ll never notice.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">pretend to be</strong> <span class="ipa">/prɪˈtend tə bi/</span></p><p>～のふりをする</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0825-01"><a href="#2025-0825-01"><img loading="lazy" src="/images/2025-0825-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩　ごめんね..</p><p class="ja">🐼　ここに長くは いられないんだ.. 追われてて..</p><p class="ja">🐧　ポリのサイレンが近づいている！</p><p class="en">👩 Panda… I’m so sorry.</p><p class="en">🐼 I can’t stay here long… I’m being chased.</p><p class="en">🐧 The police sirens are getting closer!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">be chased</strong> <span class="ipa">/bi tʃeɪst/</span></p><p>追われる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0824-02"><a href="#2025-0824-02"><img loading="lazy" src="/images/2025-0824-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼　盗んだバイクで、行き先は川越… ちょっと尾崎っぽいだろ？</p><p class="ja">🐧　俺は幼児のリュックサックじゃねーんだぞ！AIめ！</p><p class="en">🐼 On a stolen bike, heading for Kawagoe… Feels a bit Ozaki, huh?</p><p class="en">🐧 I’m not some toddler’s backpack, you AI fool!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">head for</strong> <span class="ipa">/hed fər/</span></p><p>～へ向かう</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0824-01"><a href="#2025-0824-01"><img loading="lazy" src="/images/2025-0824-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">📺️  上野動物園よりパンダが脱走..
+　　御徒町方面に走り去ったという目撃情報もあり、警察は確認を..</p><p class="ja">👩　...あの子！</p><p class="en">📺 Breaking News! Panda escaped Ueno Zoo… Seen with a penguin near Okachimachi!</p><p class="en">👩 …Is that him!?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">breaking news</strong> <span class="ipa">/ˈbreɪkɪŋ nuz/</span></p><p>速報</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0823-07"><a href="#2025-0823-07"><img loading="lazy" src="/images/2025-0823-07.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐧　泳げないやつは、自然淘汰されるんだ。</p><p class="ja">🐼　なんでプールに誘った？</p><p class="en">🐧 If you can’t swim, nature takes you out.</p><p class="en">🐼 So… why did you bring me here?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">take out</strong> <span class="ipa">/teɪk aʊt/</span></p><p>取り除く、倒す</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0823-06"><a href="#2025-0823-06"><img loading="lazy" src="/images/2025-0823-06.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐧　昼は動物園で、夜はUberEatsとは忙しいな</p><p class="ja">🐼　あぁ。お金が必要なんだ。</p><p class="ja">🐧　ポリ公に気をつけてな</p><p class="en">🐧 Busy life, huh—zoo by day, UberEats by night.</p><p class="en">🐼 Yeah. I need the money.</p><p class="en">🐧 Watch out for the cops.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">watch out for</strong> <span class="ipa">/wɑtʃ aʊt fər/</span></p><p>～に気をつける</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0823-05"><a href="#2025-0823-05"><img loading="lazy" src="/images/2025-0823-05.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐧 パンダ…泣いてるのか？　川越の家が恋しいんだな..</p><p class="ja">🐼 ほっとけよ…ﾋｯｸ…</p><p class="en">🐧 Panda... are you crying? Thinking about your family home back in Kawagoe?</p><p class="en">🐼 Shut up... sniff...</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">family home</strong> <span class="ipa">/ˈfæməli hoʊm/</span></p><p>実家</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0823-03"><a href="#2025-0823-03"><img loading="lazy" src="/images/2025-0823-03.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼　飛べないくせに鳥ヅラすんな！</p><p class="ja">🐧　AIの時代にモノクロってなんだよ！大人しく絶滅してろ！</p><p class="ja">🐼　...（こいつ強ぇ..）</p><p class="en">🐼 Can’t fly, so quit acting like a bird!</p><p class="en">🐧 Black-and-white in the age of AI? Just go extinct!</p><p class="en">🐼 ...(…Ugh, he’s tough…)</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">go extinct</strong> <span class="ipa">/ɡoʊ ɪkˈstɪŋkt/</span></p><p>絶滅する</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0823-02"><a href="#2025-0823-02"><img loading="lazy" src="/images/2025-0823-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼　ふぅ...</p><p class="ja">🐧　積み込み、おつかれさま。</p><p class="ja">🐼 （こいつ、鮭食っただけじゃねぇか..）</p><p class="en">🐼 Phew...</p><p class="en">🐧 Good job loading it all up.</p><p class="en">🐼 (This guy only ate the salmon...)</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">load up</strong> <span class="ipa">/loʊd ʌp/</span></p><p>積み込む</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0823-01"><a href="#2025-0823-01"><img loading="lazy" src="/images/2025-0823-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼　鮭のヒモ、肩からズレてきた..</p><p class="ja">🐧　あとちょっとで竹林だから、そこで降ろしてお昼にしよう</p><p class="en">🐼 The salmon’s slipping off my shoulder...</p><p class="en">🐧 Almost at the bamboo grove—let’s eat there.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">slip off</strong> <span class="ipa">/slɪp ɔf/</span></p><p>滑り落ちる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-08-22-02"><a href="#2025-08-22-02"><img loading="lazy" src="/images/2025-08-22-02.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼　竹、食べ放題かと思ってたら 伐採を命じられるとはな..</p><p class="ja">🐧　茨城って、遠いな</p><p class="en">🐼 Thought it was bamboo buffet… turns out it’s logging duty.</p><p class="en">🐧 Ibaraki’s a long ride…</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">turn out</strong> <span class="ipa">/tɜrn aʊt/</span></p><p>～だと判明する</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0822-01"><a href="#2025-0822-01"><img loading="lazy" src="/images/2025-0822-01.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">このニューバランス、ひとつ上のサイズも出してもらえますか？ちょっときつくて..</p><p class="en">Could I try these New Balance in the next size up? They feel a little tight.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">size up</strong> <span class="ipa">/saɪz ʌp/</span></p><p>ここでは一つ上のサイズを指す</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0821-09"><a href="#2025-0821-09"><img loading="lazy" src="/images/2025-0821-09.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼 君が四角いうんちで有名なウォンバットくん？</p><p class="ja">🦔 ちがう。僕がうんちで、ウォンバットが僕を出してるんだ。</p><p class="ja">🐼 ……え？</p><p class="en">🐼 Are you the wombat who’s famous for square poop?</p><p class="en">🦔 No. I am the poop — the wombat is just the one who produced me.</p><p class="en">🐼 …What?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">produce</strong> <span class="ipa">/prəˈdus/</span></p><p>生み出す</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0821-07"><a href="#2025-0821-07"><img loading="lazy" src="/images/2025-0821-07.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐧　牛丼食ってくか？おごるぜ</p><p class="ja">🐼　あざっす！吉野家あるんですね！すごいなぁ..上野動物園</p><p class="en">🐧 How about beef bowls? It’s on me.</p><p class="en">🐼 Thanks! Can’t believe there’s a Yoshinoya here… Ueno Zoo is amazing.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">It's on me</strong> <span class="ipa">/ɪts ɑn mi/</span></p><p>私のおごりです</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0821-06"><a href="#2025-0821-06"><img loading="lazy" src="/images/2025-0821-06.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🦁　慣れたか？ここは飯はうまいぞ。都の税収があるからな。</p><p class="ja">🐼　あ、はい... ライオンさんはいつから？</p><p class="ja">🦁　...</p><p class="ja">🐧　パンダ、余計なことは聞くな</p><p class="en">🦁 Getting used to it? The food’s good here—city taxes pay for it.</p><p class="en">🐼 Oh… since when, Mr. Lion?</p><p class="ja">🦁 …</p><p class="en">🐧 Panda, don’t ask too much.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">since when</strong> <span class="ipa">/sɪns wen/</span></p><p>いつから</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0821-05"><a href="#2025-0821-05"><img loading="lazy" src="/images/2025-0821-05.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐷　新入りブー？俺はナポレオンだブー</p><p class="ja">🐼　その姿は..あの動物農場の！</p><p class="ja">🐷　ブー。俺に逆らわない方がいいブー</p><p class="ja">🐼　...（緊張）</p><p class="en">🐷 New here, oink? I’m Napoleon.</p><p class="en">🐼 What—like in Animal Farm?!</p><p class="en">🐷 That’s right. Best not cross me, oink.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">cross</strong> <span class="ipa">/krɔs/</span></p><p>逆らう</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0821-04"><a href="#2025-0821-04"><img loading="lazy" src="/images/2025-0821-04.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">📺️ 本日より上野動物園では、正体不明のパンダが現れ、来園者を喜ばせています…</p><p class="ja">👩 ごめんね..もっと収入があったら..まだ一緒にいられたのに。</p><p class="en">📺️ Starting today, an unknown panda has appeared at Ueno Zoo, delighting visitors…</p><p class="en">👩 I’m sorry… if I’d earned more, we could still be together.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">delight</strong> <span class="ipa">/dɪˈlaɪt/</span></p><p>喜ばせる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0821-03"><a href="#2025-0821-03"><img loading="lazy" src="/images/2025-0821-03.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🦤 …………（じーっ）</p><p class="ja">🐼　あの.. ぼく魚たべないんで...どうぞ...</p><p class="en">🦤 ………… (stares)</p><p class="en">🐼 Uh… I don’t eat fish, so… please, go ahead…</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">go ahead</strong> <span class="ipa">/ɡoʊ əˈhed/</span></p><p>どうぞ</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0821-1"><a href="#2025-0821-1"><img loading="lazy" src="/images/2025-0821-1.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐧
+俺と同室だ。室温は常に10℃。</p><p class="ja">🐼
+…はい。（パンダにしちゃ&quot;冷遇&quot;されてない？？）</p><p class="en">🐧
+Room with me. Always 10°C.</p><p class="en">🐼 
+…Right. (Cold deal for a panda…)</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">deal</strong> <span class="ipa">/dil/</span></p><p>取引、扱い</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-08-20-13"><a href="#2025-08-20-13"><img loading="lazy" src="/images/2025-08-20-13.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👨 今日から入園するパンダ君だ。みんな、仲良くな。</p><p class="ja">🐼 よろしくお願いします！
+（…おい園長、前列ライオン率高すぎだろ！キリンも！）</p><p class="en">👨 This panda joins us today. Be friendly.</p><p class="en">🐼 Nice to meet you! 
+(…Front row’s all lions… and giraffes!)</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">front row</strong> <span class="ipa">/frʌnt roʊ/</span></p><p>最前列</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-12"><a href="#2025-0820-12"><img loading="lazy" src="/images/2025-0820-12.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼 それじゃ、しばらく上野にいってきます</p><p class="ja">👦 すぐ戻るよね！？</p><p class="ja">👩 戻るわ、心配しないで</p><p class="en">🐼 My path takes me to Ueno for some time.</p><p class="en">👦 You’ll come back… right?</p><p class="en">👩 He will. The panda always finds his way home.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">find one's way home</strong> <span class="ipa">/faɪnd wʌnz weɪ hoʊm/</span></p><p>家に帰る道を見つける</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-11"><a href="#2025-0820-11"><img loading="lazy" src="/images/2025-0820-11.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👵
+あら、どこかで見たことあるわねぇ..</p><p class="ja">🐼
+きっとNHKの自然番組です。再放送によく出ますので。</p><p class="en">👵
+Oh my, I feel like I’ve seen you somewhere before...</p><p class="en">🐼
+Probably on an NHK nature program. I show up a lot in the reruns.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">rerun</strong> <span class="ipa">/ˈriˌrʌn/</span></p><p>再放送</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-10"><a href="#2025-0820-10"><img loading="lazy" src="/images/2025-0820-10.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+リモコン、君がお尻で踏んでる</p><p class="ja">👧
+えっ、じゃあ今テレビはお尻が操作してるってこと？</p><p class="en">🐼 
+The remote… you’re sitting on it.</p><p class="en">👧
+Wait, so my butt is running the TV right now?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">remote</strong> <span class="ipa">/rɪˈmoʊt/</span></p><p>リモコン</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-08"><a href="#2025-0820-08"><img loading="lazy" src="/images/2025-0820-08.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼 見ろ、お尻から滑れるぜ！</p><p class="ja">👦 ママに怒られるよ..</p><p class="en">🐼 Look, I can slide down on my butt!</p><p class="en">👦 Careful… Mom won’t like it.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">slide down</strong> <span class="ipa">/slaɪd daʊn/</span></p><p>滑り降りる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-07"><a href="#2025-0820-07"><img loading="lazy" src="/images/2025-0820-07.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+宿題まだ終わんないの？</p><p class="ja">👦
+パンダが見てたら集中できないよ</p><p class="en">🐼
+Still not done with your homework?</p><p class="en">👦
+I can’t focus with a panda watching me.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">focus</strong> <span class="ipa">/ˈfoʊkəs/</span></p><p>集中する</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-06"><a href="#2025-0820-06"><img loading="lazy" src="/images/2025-0820-06.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩
+物価が上がってたいへんなのよ.. あなたの竹だってねぇ..</p><p class="ja">🐼
+上野は家賃高いけど.. 社宅付きなら考えるよ</p><p class="en">👩
+The cost of living keeps going up… even your bamboo, you know.</p><p class="en">🐼
+Rent in Ueno is high… but if it comes with free housing, I’m in.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">cost of living</strong> <span class="ipa">/kɔst əv ˈlɪvɪŋ/</span></p><p>生活費</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-05"><a href="#2025-0820-05"><img loading="lazy" src="/images/2025-0820-05.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🦁 
+なんでここに来た？</p><p class="ja">🐼
+ライオンが誘う夜は断れません。</p><p class="en">🦁
+Why did you come here?</p><p class="en">🐼
+If a lion calls me at night, how could I refuse?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">refuse</strong> <span class="ipa">/rɪˈfjuz/</span></p><p>断る</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-1"><a href="#2025-0820-1"><img loading="lazy" src="/images/2025-0820-1.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👦 
+植物に詳しいんだね。先生、驚いてた</p><p class="ja">🐼
+僕にとっては半分ご飯だからね</p><p class="en">👦
+You really know plants. Our teacher was amazed.</p><p class="en">🐼
+For me, they’re mostly food.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">amazed</strong> <span class="ipa">/əˈmeɪzd/</span></p><p>驚いた</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0820-2"><a href="#2025-0820-2"><img loading="lazy" src="/images/2025-0820-2.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">おい、にんじん。ちょっとオレンジ主張しすぎじゃない？</p><p class="en">Hey, carrot… don’t you think you’re showing off that orange a bit too much?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">show off</strong> <span class="ipa">/ʃoʊ ɔf/</span></p><p>見せびらかす</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0819-5"><a href="#2025-0819-5"><img loading="lazy" src="/images/2025-0819-5.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">笹のスムージーをグランデでお願いしたいんですが。</p><p class="en">May I have a bamboo leaf smoothie in a grande size, please?</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">May I have</strong> <span class="ipa">/meɪ aɪ hæv/</span></p><p>～をいただけますか</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0819-4"><a href="#2025-0819-4"><img loading="lazy" src="/images/2025-0819-4.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩
+フレンチって特別感あるわよね</p><p class="ja">🐼
+はい、特別に少ないです</p><p class="en">👩
+French cuisine really feels special, doesn’t it?</p><p class="en">🐼
+Yes… especially small.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">especially</strong> <span class="ipa">/ɪˈspeʃəli/</span></p><p>特に</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0819-3"><a href="#2025-0819-3"><img loading="lazy" src="/images/2025-0819-3.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">肉球、認証しない...</p><p class="en">Apple won’t recognize my paw pad…</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">recognize</strong> <span class="ipa">/ˈrekəɡnaɪz/</span></p><p>認識する</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-0819-2"><a href="#2025-0819-2"><img loading="lazy" src="/images/2025-0819-2.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">👩
+ちょっと.. 狭いって..パンダ！</p><p class="ja">🐼
+先にタケノコとらせてよ</p><p class="ja">👦
+パンダ、よくたべるねぇ</p><p class="ja">👨
+わたしの分だぞ..</p><p class="en">👩
+Move over a bit, Panda!</p><p class="en">🐼
+Let me pick up the bamboo shoots first.</p><p class="en">👦
+Panda, you sure eat a lot!</p><p class="en">👨
+That’s my share, you know…</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">move over</strong> <span class="ipa">/muv ˈoʊvər/</span></p><p>少し横にずれる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-08-19"><a href="#2025-08-19"><img loading="lazy" src="/images/2025-08-19.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+コストコ...きょうはずっと試食だぞ！</p><p class="ja">🦝
+だね！年会費を1日で取り返そう！</p><p class="en">🐼 
+Costco... today we’ll eat samples all day!</p><p class="en">🦝
+Yeah! We’ll get back the membership with our tummies!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">membership</strong> <span class="ipa">/ˈmembərʃɪp/</span></p><p>会員資格</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-08-18-5"><a href="#2025-08-18-5"><img loading="lazy" src="/images/2025-08-18-5.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼 上野動物園までお願いします</p><p class="ja">🧔 え、こんな時間からですか？</p><p class="ja">🐼 えぇ。ナイトズー ってやつです。夜勤ですよ</p><p class="en">🐼 To Ueno Zoo, please.</p><p class="en">🧔 At this hour?</p><p class="en">🐼 Yes. The Night Zoo doesn’t work without me.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">at this hour</strong> <span class="ipa">/ət ðɪs ˈaʊər/</span></p><p>こんな時間に</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-08-18-4"><a href="#2025-08-18-4"><img loading="lazy" src="/images/2025-08-18-4.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+先生、最近どうも眠くて…</p><p class="ja">👨‍⚕️
+パンダだからでしょうね</p><p class="en">🐼
+Doctor, I’ve been feeling really sleepy lately…</p><p class="en">👨‍⚕️
+That’s because you’re a panda.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">lately</strong> <span class="ipa">/ˈleɪtli/</span></p><p>最近</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-08-18-2"><a href="#2025-08-18-2"><img loading="lazy" src="/images/2025-08-18-2.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">波動拳出ない。毛が邪魔してる</p><p class="en">Can't pull off a Hadoken — my fur's in the way</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">pull off</strong> <span class="ipa">/pʊl ɔf/</span></p><p>難しいことをやり遂げる</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-08-18"><a href="#2025-08-18"><img loading="lazy" src="/images/2025-08-18.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+すみません、このキャベツ、笹の味はしますか？</p><p class="ja">👨
+しないねぇ.. どこをどう食べてもキャベツだねぇ</p><p class="en">🐼
+Excuse me, does this cabbage taste like bamboo leaves?</p><p class="en">👨
+No… it will only ever taste like cabbage.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">ever</strong> <span class="ipa">/ˈevər/</span></p><p>いつであっても</p><div class="wordaudio"></div></details></article>
+<article class="work" id="panda-20250817-3"><a href="#panda-20250817-3"><img loading="lazy" src="/images/panda-20250817-3.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐰
+あなた、そろそろ出稼ぎにいってもらわないと..</p><p class="ja">🐼
+あぁ、わかってる。上野動物園が日給いいらしいんだ</p><p class="en">🐰
+You know… it’s about time you went out to make some money.</p><p class="en">🐼
+Yeah, I know. They say Ueno Zoo pays pretty well per day.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">it's about time</strong> <span class="ipa">/ɪts əˈbaʊt taɪm/</span></p><p>そろそろ～すべき時だ</p><div class="wordaudio"></div></details></article>
+<article class="work" id="panda-20250817-2"><a href="#panda-20250817-2"><img loading="lazy" src="/images/panda-20250817-2.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🧔
+何にします？</p><p class="ja">🐼
+若竹煮と... たけのこの土佐煮、あとメンマももらおうかな</p><p class="en">🧔
+What’ll you have?</p><p class="en">🐼
+Hmm… the bamboo with wakame, the braised bamboo shoots… and yeah, throw in some menma too.</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">throw in</strong> <span class="ipa">/θroʊ ɪn/</span></p><p>追加する</p><div class="wordaudio"></div></details></article>
+<article class="work" id="panda-20250817"><a href="#panda-20250817"><img loading="lazy" src="/images/panda-20250817.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">🐼
+パンダに最低賃金が適用されないって、どういうことですか！？　ずっと楽しみにしてたのに！</p><p class="en">🐼
+What do you mean pandas don’t get minimum wage!? I’d been looking forward to this!</p><p class="ja">minimum wage
 最低賃金
-[ˈmɪnɪməm weɪdʒ]  
-![今日のパンダ](/images/panda-20250817.jpg)
-
-## ベンチプレス
-
-俺はクマだ... 俺はクマだ... 
-いける、いけるぞ
-
-I’m a bear… I’m a bear…
-I can do this. I can do this! 
-
-![今日のパンダ](/images/2025-08-18-3.jpg)
-
----
-
-
+[ˈmɪnɪməm weɪdʒ]</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">minimum wage</strong> <span class="ipa">/ˈmɪnɪməm weɪdʒ/</span></p><p>最低賃金</p><div class="wordaudio"></div></details></article>
+<article class="work" id="2025-08-18-3"><a href="#2025-08-18-3"><img loading="lazy" src="/images/2025-08-18-3.jpg" alt="今日のパンダ"></a><div class="copy"><p class="ja">俺はクマだ... 俺はクマだ... 
+いける、いけるぞ</p><p class="en">I’m a bear… I’m a bear…
+I can do this. I can do this!</p></div><div class="audio"></div><details class="tip"><summary>ENGLISH TIP</summary><p><strong class="term">I can do this</strong> <span class="ipa">/aɪ kən du ðɪs/</span></p><p>自分ならできる</p><div class="wordaudio"></div></details></article>
+</div></main><script>
+const $=id=>document.getElementById(id),gallery=$('gallery'),works=[...gallery.querySelectorAll('.work')];let active,statusNode;function stop(){if('speechSynthesis' in window)speechSynthesis.cancel();if(statusNode)statusNode.textContent='';active=null}function speak(text,rate,status){if(!('speechSynthesis' in window)||!text)return;stop();const u=new SpeechSynthesisUtterance(text);active=u;statusNode=status;u.lang='en-US';u.rate=rate;const v=speechSynthesis.getVoices().find(v=>v.lang==='en-US');if(v)u.voice=v;u.onstart=()=>{if(active===u)status.textContent='再生中…'};u.onend=()=>{if(active===u)status.textContent=''};u.onerror=e=>{if(active===u&&e.error!=='canceled'&&e.error!=='interrupted')status.textContent='音声を再生できませんでした。'};speechSynthesis.speak(u)}function button(label,fn){const b=document.createElement('button');b.type='button';b.textContent=label;b.onclick=fn;return b}function setup(w){const bar=w.querySelector('.audio'),word=w.querySelector('.wordaudio'),status=document.createElement('span');status.setAttribute('role','status');const english=[...w.querySelectorAll('.copy .en')].map(p=>p.textContent.replace(/^[^\p{L}“‘"']+/u,'')).join('\n');bar.replaceChildren(button('🔊 英語を聞く',()=>speak(english,1,status)),button('ゆっくり',()=>speak(english,.75,status)),button('停止',stop),status);word.replaceChildren(button('🔊 '+w.querySelector('.term').textContent,()=>speak(w.querySelector('.term').textContent,1,status)));if(!('speechSynthesis' in window)){for(const b of w.querySelectorAll('button'))b.disabled=true;status.textContent='音声非対応のブラウザです。'}}works.forEach(setup);function filtered(){const q=$('search').value.toLowerCase().trim();return works.filter(w=>w.textContent.toLowerCase().includes(q))}function feature(){const list=filtered();$('featured').replaceChildren();$('feature').hidden=!list.length;if(!list.length)return;const w=list[Math.floor(Math.random()*list.length)].cloneNode(true);w.removeAttribute('id');setup(w);$('featured').append(w)}function render(){stop();const list=filtered();const ordered=$('order').value==='random'?[...list]:list;if($('order').value==='random')for(let i=ordered.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[ordered[i],ordered[j]]=[ordered[j],ordered[i]]}for(const w of works)w.hidden=!list.includes(w);for(const w of ordered)gallery.append(w);$('status').textContent=list.length+' 話';feature()}$('search').oninput=render;$('order').onchange=render;$('mode').onchange=()=>{document.body.dataset.mode=$('mode').value;stop()};$('random').onclick=()=>{stop();feature();$('feature').scrollIntoView({behavior:'smooth'})};render();
+</script></body></html>
