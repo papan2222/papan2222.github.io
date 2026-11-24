@@ -3140,7 +3140,10 @@
       "ぼくの、にんげんのともだちだよ。じゃあ、またね。",
       "He is my friend. See you"
     ],
-    "study": []
+    "study": [
+      "friend /frɛnd/：友達。",
+      "See you /si ju/：またね。See you later. とも言える。"
+    ]
   },
   {
     "id": "h-be7bd55752ac8fd_49",
@@ -3152,7 +3155,11 @@
       "ハリネズミ君、春だねぇ。ぬい界では春が続いているよ。",
       "It's spring, hedgehog! Spring is continuing in the stuffed animal world."
     ],
-    "study": []
+    "study": [
+      "hedgehog /ˈhɛdʒhɑɡ/：ハリネズミ。",
+      "continue /kənˈtɪnju/：続く、続ける。",
+      "stuffed animal /stʌft ˈænəməl/：動物のぬいぐるみ。"
+    ]
   },
   {
     "id": "h-be7bd55752ac8fd_39",
@@ -3164,7 +3171,10 @@
       "たぬきちのおうちでおとまり。おふとんなんだ。ナイトナイト",
       "Staying overnight at Tanukichi's house. Night Night"
     ],
-    "study": []
+    "study": [
+      "stay overnight /steɪ ˌoʊvərˈnaɪt/：一晩泊まる。",
+      "Night-night /ˈnaɪt naɪt/：おやすみ（親しみのある表現）。"
+    ]
   },
   {
     "id": "h-be7bd55752ac8fd_29",
@@ -3176,7 +3186,10 @@
       "たぬきち とあそぶのはほんと、たのしいなぁ！",
       "Playing with Tanukichi is so much fun!"
     ],
-    "study": []
+    "study": [
+      "play with /pleɪ wɪð/：～と遊ぶ。",
+      "so much fun：とても楽しい。Playing with ... は動名詞を使った主語。"
+    ]
   },
   {
     "id": "h-be7bd55752ac8fd_10",
@@ -3188,7 +3201,11 @@
       "ひとがおおいなぁ..　えぇと...たぬきちのおうちは、信楽駅だったな..",
       "There are a lot of people... Umm...Tanukichi's house was near Shigaraki Station..."
     ],
-    "study": []
+    "study": [
+      "a lot of /ə lɑt əv/：たくさんの。",
+      "near /nɪr/：～の近くに。",
+      "Umm：ええと、という考え中の間投詞。"
+    ]
   },
   {
     "id": "h-be7bd55752ac8fd_0",
@@ -3200,7 +3217,11 @@
       "やきたてのパンにまにあった！",
       "Just in time for freshly baked bread!"
     ],
-    "study": []
+    "study": [
+      "just in time /dʒʌst ɪn taɪm/：ぎりぎり間に合って。",
+      "freshly /ˈfrɛʃli/：できたばかりの状態で。",
+      "baked /beɪkt/：焼いた。freshly baked bread は焼きたてのパン。"
+    ]
   },
   {
     "id": "h-58976271a7836190_0",
@@ -3212,7 +3233,11 @@
       "おはよう。ねむいけど、おきなきゃ...",
       "Good morning. I'm sleepy, but I have to get up..."
     ],
-    "study": []
+    "study": [
+      "sleepy /ˈslipi/：眠い。",
+      "get up /ɡɛt ʌp/：起きる。",
+      "have to ～：～しなければならない。"
+    ]
   },
   {
     "id": "h-717616fa59f2f834_0",
@@ -3224,7 +3249,9 @@
       "ジャジャーン！",
       "Tadah!"
     ],
-    "study": []
+    "study": [
+      "ta-da /təˈdɑ/：ジャジャーン！何かを披露するときの感嘆詞。Tadah はその表記の一つ。"
+    ]
   },
   {
     "id": "h-4bc71b497c7d218a_0",
@@ -3236,7 +3263,11 @@
       "きょうはとても楽しかった。ぼくがレースでいちばんだったよ。ナイトナイト",
       "Today was a lot of fun. I was the best in the race. Night Night"
     ],
-    "study": []
+    "study": [
+      "race /reɪs/：競走、レース。",
+      "the best /ðə bɛst/：最も優れた、最高の。",
+      "a lot of fun：とても楽しいこと。"
+    ]
   },
   {
     "id": "h-5b863bce0d79480b_0",
@@ -3248,7 +3279,11 @@
       "爆走のパンダ、3rdラップを首位通過！",
       "The fast-paced Panda takes the lead on the 3rd lap! But it's dangerous to let it go."
     ],
-    "study": []
+    "study": [
+      "fast-paced /ˌfæst ˈpeɪst/：テンポの速い。",
+      "take the lead /teɪk ðə lid/：首位に立つ。",
+      "lap /læp/：競走の一周。3rd は third の略記。"
+    ]
   },
   {
     "id": "h-6d03bcc1cf6268cb_0",
@@ -3260,7 +3295,11 @@
       "これ、傘は合ってるの？ぬい界はある意味、無法地帯とも言える。",
       "Is this umbrella the right choice? In some ways, the stuffed animal world can be considered a lawless zone."
     ],
-    "study": []
+    "study": [
+      "umbrella /ʌmˈbrɛlə/：傘。",
+      "lawless /ˈlɔləs/：無法の。zone /zoʊn/：区域。",
+      "in some ways：ある意味では。"
+    ]
   },
   {
     "id": "h-6a61ee45f71eb46e_0",
@@ -3272,7 +3311,11 @@
       "きょうは土曜！カフェのモーニングサービスのため走る！ぼくたちヒーローみたい！",
       "Today is Saturday! We're running for the cafe's morning service! We're like heroes!"
     ],
-    "study": []
+    "study": [
+      "hero /ˈhɪroʊ/：英雄。複数形は heroes。",
+      "run for /rʌn fɔr/：～を求めて走る。",
+      "morning service は日本の喫茶店の朝食サービスを指す文脈。英語では breakfast special なども使える。"
+    ]
   },
   {
     "id": "h-571a7574c944801d_0",
@@ -3284,7 +3327,10 @@
       "ぼくら、もう寝る。おやすみ",
       "We're going to bed now. Good night."
     ],
-    "study": []
+    "study": [
+      "go to bed /ɡoʊ tə bɛd/：寝る、床につく。",
+      "Good night /ɡʊd naɪt/：おやすみなさい。"
+    ]
   },
   {
     "id": "h-af0054f88cd055e_19",
@@ -3296,7 +3342,11 @@
       "オスナの次の内山壮真にまわればなぁ.. スワローズが負けてしまって、しょんぼりして帰途につくパンダファミリー",
       "I hope that Uchiyama Souma will be at bat at the end. The Swallows lost, and the Panda Family heads home in a depressed mood."
     ],
-    "study": []
+    "study": [
+      "at bat /æt bæt/：打席に立って。",
+      "head home /hɛd hoʊm/：帰宅の途につく。",
+      "depressed /dɪˈprɛst/：落ち込んだ。"
+    ]
   },
   {
     "id": "h-af0054f88cd055e_0",
@@ -3308,7 +3358,11 @@
       "スタジアムに応援に来たパンダファミリー！内山壮真の初回ホームランに大興奮！",
       "The panda family came to the stadium to cheer on the team! They were so excited when Uchiyama Souma hit a home run in the first inning!"
     ],
-    "study": []
+    "study": [
+      "cheer on /tʃɪr ɑn/：～を応援する。",
+      "home run /ˈhoʊm rʌn/：本塁打。",
+      "inning /ˈɪnɪŋ/：野球の回。the first inning は初回。"
+    ]
   },
   {
     "id": "h-418faa3f79b3e2ee_10",
@@ -3320,7 +3374,11 @@
       "お父さん、世界観を壊さないで。僕ならファンタジーさ！",
       "Dad, don't destroy my worldview. I prefer fantasy!"
     ],
-    "study": []
+    "study": [
+      "destroy /dɪˈstrɔɪ/：壊す。",
+      "worldview /ˈwɜrldvju/：世界観。",
+      "prefer /prɪˈfɜr/：～のほうを好む。"
+    ]
   },
   {
     "id": "h-418faa3f79b3e2ee_0",
@@ -3332,7 +3390,11 @@
       "父パンダは、さいきん、腹のたるみが気になってしょうがありません。運動に励むぞぅ！",
       "Father Panda has been really worried about his sagging belly lately. He's going to start exercising!"
     ],
-    "study": []
+    "study": [
+      "sagging /ˈsæɡɪŋ/：たるんでいる。",
+      "belly /ˈbɛli/：お腹。",
+      "be worried about ～：～を心配している。"
+    ]
   },
   {
     "id": "h-11c2de1a85c14782_0",
@@ -3344,7 +3406,11 @@
       "仲間に支えられながら、がんばってアンパンを焼き上げました。おひとつ、どうぞ",
       "With the support of my friends, I worked hard to bake the sweet bean buns. Please have one."
     ],
-    "study": []
+    "study": [
+      "support /səˈpɔrt/：支援、支えること。",
+      "bake /beɪk/：オーブンなどで焼く。",
+      "bun /bʌn/：小さな丸いパン。Please have one. は一つどうぞ。"
+    ]
   },
   {
     "id": "h-865130bdefd88de_0",
@@ -3356,7 +3422,10 @@
       "へへ、おこづかいで買ったよ。できたてのあんぱんはおいしいねぇ。",
       "Hehe, I bought it with my pocket money. Freshly baked anpan is delicious."
     ],
-    "study": []
+    "study": [
+      "pocket money /ˈpɑkət ˌmʌni/：お小遣い。米国では allowance /əˈlaʊəns/ もよく使う。",
+      "freshly baked /ˈfrɛʃli beɪkt/：焼きたての。"
+    ]
   },
   {
     "id": "h-410ff5a4a7f9b29d_10",
@@ -3368,7 +3437,11 @@
       "くいしんぼうの子パンダは、よい匂いにがまんできなくなって、パン屋さんに入ったよ",
       "The greedy baby panda couldn't resist the delicious smell and went into the bakery."
     ],
-    "study": []
+    "study": [
+      "greedy /ˈɡridi/：欲張りな、食い意地の張った。",
+      "resist /rɪˈzɪst/：抵抗する、我慢する。",
+      "couldn't resist ～：～を我慢できなかった。"
+    ]
   },
   {
     "id": "h-410ff5a4a7f9b29d_0",
@@ -3380,7 +3453,11 @@
       "きょうのシチューには、にんじんをたくさん入れよう。市場で良い野菜が手に入りました。",
       "We'll put lots of carrots in today's stew. We found some good vegetables at the market."
     ],
-    "study": []
+    "study": [
+      "stew /stu/：シチュー、煮込み料理。",
+      "carrot /ˈkærət/：ニンジン。",
+      "market /ˈmɑrkət/：市場。"
+    ]
   },
   {
     "id": "h-13caafa9b1d62c90_0",
@@ -3392,7 +3469,11 @@
       "きょうはピクニックです。母パンダは、ウィッグをつけてみました。どうかしら？",
       "Today is a picnic. Mother Panda is wearing a wig. What do you think?"
     ],
-    "study": []
+    "study": [
+      "picnic /ˈpɪknɪk/：ピクニック。",
+      "wig /wɪɡ/：かつら。",
+      "What do you think?：どう思う？"
+    ]
   },
   {
     "id": "h-dcf577fcd3696db_20",
@@ -3404,7 +3485,10 @@
       "きょうもおだやかに過ごせたな。良い日だった。",
       "Today was another calm day. It was a good day."
     ],
-    "study": []
+    "study": [
+      "calm /kɑm/：穏やかな。l は発音しない。",
+      "another /əˈnʌðər/：もう一つの、また別の。another calm day は今日も穏やかな一日という意味。"
+    ]
   },
   {
     "id": "h-dcf577fcd3696db_10",
@@ -3416,7 +3500,11 @@
       "なんとか帰宅して、ミルクでホッとひと息。落ち着くなぁ",
       "We somehow made it home and took a break with some milk. It calmed us down."
     ],
-    "study": []
+    "study": [
+      "somehow /ˈsʌmhaʊ/：なんとか、どういうわけか。",
+      "make it home /meɪk ɪt hoʊm/：無事に帰宅する。",
+      "calm down /kɑm daʊn/：落ち着く、落ち着かせる。"
+    ]
   },
   {
     "id": "h-dcf577fcd3696db_0",
@@ -3428,7 +3516,11 @@
       "雨の中、僕らは急いで帰宅します。早く温かいミルクでも飲もう。",
       "We rush home in the rain. Let's have some warm milk."
     ],
-    "study": []
+    "study": [
+      "rush /rʌʃ/：急ぐ。",
+      "warm /wɔrm/：温かい。",
+      "Let's have ～：～を食べよう、飲もう。"
+    ]
   },
   {
     "id": "h-492e1c9d8badd43b_29",
@@ -3440,7 +3532,11 @@
       "ちょっと太めのダンくんは、野球を観るのが大好き！ポップコーンも手放せない。",
       "Dan, who is a little on the chubby side, loves watching baseball games and can't let go of popcorn."
     ],
-    "study": []
+    "study": [
+      "chubby /ˈtʃʌbi/：ぽっちゃりした。",
+      "on the chubby side：ややぽっちゃり気味。on the ... side は「やや～寄り」。",
+      "let go of /lɛt ɡoʊ əv/：手放す。"
+    ]
   },
   {
     "id": "h-492e1c9d8badd43b_0",
@@ -3452,7 +3548,11 @@
       "えへへ、こっそりお小遣いでラーメンを食べに来たよ。内緒だよ。",
       "Ehehe, I secretly came here to eat ramen with my pocket money. Don't tell anyone."
     ],
-    "study": []
+    "study": [
+      "secretly /ˈsikrətli/：こっそり、秘密に。",
+      "pocket money /ˈpɑkət ˌmʌni/：お小遣い。",
+      "Don't tell anyone.：誰にも言わないで。"
+    ]
   },
   {
     "id": "h-56c559f2df10c4ba_10",
@@ -3464,7 +3564,11 @@
       "おはようございます！きょうは天気がいいね。まずは腹ごしらえ。",
       "Good morning! The weather is nice today. First, let's fill our stomachs."
     ],
-    "study": []
+    "study": [
+      "weather /ˈwɛðər/：天気。",
+      "stomach /ˈstʌmək/：胃、お腹。",
+      "fill our stomachs：お腹を満たす、腹ごしらえする。"
+    ]
   },
   {
     "id": "h-56c559f2df10c4ba_0",
@@ -3475,7 +3579,11 @@
     "text": [
       "隣村のいとこも来て、話し込んで夜も遅くなったから、泊まっていってもらうことにしたよ。ナイトキャップたくさんもってるぜ。耳ちょい出しがマイブーム。おやすみ My cousin from the next village came over and we talked until late, so I decided to let him stay over. I have a lot of nightcaps. I'm into wearing nightcaps with my ears showing. Goodnight."
     ],
-    "study": []
+    "study": [
+      "cousin /ˈkʌzən/：いとこ。",
+      "come over /kʌm ˈoʊvər/：家などに遊びに来る。stay over /steɪ ˈoʊvər/：泊まっていく。",
+      "nightcap /ˈnaɪtkæp/：寝るときの帽子。I'm into ～ は～に夢中だ。"
+    ]
   },
   {
     "id": "h-1de99c9f02d9e598_0",
@@ -3487,7 +3595,11 @@
       "母パンダが部屋に入ってくる前に、こっそり冷蔵庫からもってきたミルクを全部飲んでしまおうか、悩んでいる寝る前の子パンダ。",
       "Before going to bed, the baby panda worries about whether he should drink all the milk he has secretly brought from the fridge before his mother comes into the room."
     ],
-    "study": []
+    "study": [
+      "whether /ˈwɛðər/：～かどうか。",
+      "fridge /frɪdʒ/：冷蔵庫。refrigerator の口語的な略称。",
+      "worry about whether ～：～すべきかどうか悩む。"
+    ]
   },
   {
     "id": "h-361802f252011461_0",
@@ -3499,7 +3611,11 @@
       "早めに帰宅した父パンダは、お隣のたぬきたちを誘って、家族でバドミントンに出かけました。母パンダの尻尾は、アクセサリーです。",
       "Father Panda came home early and invited the raccoons next door to go play badminton with his family. Mother Panda's tail is an accessory."
     ],
-    "study": []
+    "study": [
+      "invite /ɪnˈvaɪt/：誘う、招待する。",
+      "next door /nɛkst dɔr/：隣に、隣の。",
+      "badminton /ˈbædmɪntən/：バドミントン。raccoon はアライグマで、タヌキは raccoon dog。"
+    ]
   },
   {
     "id": "h-207d0642587ecd2_0",
@@ -3510,7 +3626,11 @@
     "text": [
       "おはよう！まだ少し眠いけど、なんとか起きたよ。きょうは朝一番の笹を取りに行きたくて。 Good morning! I'm still a little sleepy, but I managed to get up. I want to go and pick bamboo early this morning."
     ],
-    "study": []
+    "study": [
+      "manage to /ˈmænɪdʒ tu/：なんとか～する。",
+      "pick /pɪk/：摘む、採る。",
+      "early this morning：今朝早く。"
+    ]
   },
   {
     "id": "h-457ef465c716e3c8_0",
@@ -3523,7 +3643,11 @@
       "きょうも無事に１日を終え、ベッドに入る前にふと考え込むパンダ。",
       "Having safely finished today, the panda is lost in thought before going to bed."
     ],
-    "study": []
+    "study": [
+      "safely /ˈseɪfli/：安全に、無事に。",
+      "lost in thought /lɔst ɪn θɔt/：物思いにふけって。",
+      "Having finished ...：～を終えてから。完了形の分詞構文。"
+    ]
   },
   {
     "id": "h-3074ee5e02856d13_0",
@@ -3536,7 +3660,11 @@
       "ホテルでスーツに着替えた父パンダは、高崎市のたぬき商事へ。なかなか良い雰囲気で商談が進んでいるようです。",
       "After changing into a suit at the hotel, Father Panda heads to Tanuki Shoji in Takasaki City. The business negotiations seem to be going well."
     ],
-    "study": []
+    "study": [
+      "change into /tʃeɪndʒ ˈɪntu/：～に着替える。",
+      "negotiation /nɪˌɡoʊʃiˈeɪʃən/：交渉、商談。",
+      "seem to be going well：順調に進んでいるようだ。"
+    ]
   },
   {
     "id": "h-f116be9a2617585_40",
@@ -3549,7 +3677,11 @@
       "父パンダが商談で出張だよ！笹ジュースの話、まとまるといいなぁ",
       "Father Panda is on a business trip! He hopes the bamboo juice deal goes through."
     ],
-    "study": []
+    "study": [
+      "business trip /ˈbɪznəs trɪp/：出張。",
+      "deal /dil/：取引、契約。",
+      "go through /ɡoʊ θru/：取引などが成立する。"
+    ]
   },
   {
     "id": "h-f116be9a2617585_31",
@@ -3562,7 +3694,11 @@
       "母パンダと子パンダがスーパーに来たよ！おいしいタケノコあるかなぁ",
       "Mother and baby pandas have come to the supermarket! I wonder if they have any tasty bamboo shoots?"
     ],
-    "study": []
+    "study": [
+      "supermarket /ˈsupərˌmɑrkət/：スーパーマーケット。",
+      "tasty /ˈteɪsti/：おいしい。",
+      "I wonder if ～：～なのかな。"
+    ]
   },
   {
     "id": "h-56a070c67b9e559_7",
@@ -3575,7 +3711,11 @@
       "クマのタイソン君がたけのこ料理をごちそうしてくれるって！たのしみだなぁ",
       "Tyson the Bear is going to treat me to some bamboo shoot dishes! I'm looking forward to it!"
     ],
-    "study": []
+    "study": [
+      "treat /trit/：ごちそうする。treat A to B はAにBをごちそうする。",
+      "dish /dɪʃ/：料理、皿。",
+      "look forward to /lʊk ˈfɔrwərd tu/：～を楽しみにする。to の後は名詞か動名詞。"
+    ]
   },
   {
     "id": "h-56a070c67b9e559_3",
@@ -3587,6 +3727,10 @@
       "9/5/2025",
       "今日はビーチでご馳走だよ！クマのタイソン君は、わざわざコスプレしてきたよ。すごい張り切りようだよ🐼 Today we're having a treat at the beach! Tyson the bear came all the way here in cosplay. He looks really excited."
     ],
-    "study": []
+    "study": [
+      "treat /trit/：ごちそう、特別な楽しみ。",
+      "all the way /ɔl ðə weɪ/：はるばる、わざわざ。",
+      "cosplay /ˈkɑspleɪ/：コスプレ。excited /ɪkˈsaɪtɪd/：わくわくしている。"
+    ]
   }
 ]
