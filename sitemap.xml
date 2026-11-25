@@ -15,4 +15,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://papan2222.github.io/pandalife/</loc>
+  </url>
+  <url>
+    <loc>https://papan2222.github.io/game/</loc>
+  </url>
+  <url>
+    <loc>https://papan2222.github.io/senryu/</loc>
+  </url>
 </urlset>
