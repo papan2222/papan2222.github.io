@@ -10,6 +10,10 @@ on:
       - 'scripts/generate_audio.py'
       - 'scripts/generate_animal_audio.py'
       - 'animalenglish/index.html'
+      - 'animalenglish/lessons.json'
+      - 'animalenglish/template.html'
+      - 'animalenglish/master.tsv'
+      - 'scripts/build_animalenglish.py'
       - '.github/workflows/audio.yml'
 permissions:
   contents: write
@@ -27,6 +31,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - run: python scripts/build_animalenglish.py
       - run: python scripts/generate_audio.py
       - name: Generate Animal English MP3
         shell: pwsh
@@ -38,7 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add audio animalenglish/audio
+          git add audio animalenglish/audio animalenglish/index.html
           git diff --cached --quiet
           if ($LASTEXITCODE -eq 0) { exit 0 }
           git commit -m "Automatically update panda audio"
