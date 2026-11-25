@@ -6,7 +6,7 @@ from xml.sax.saxutils import escape
 ROOT=Path(__file__).resolve().parent
 BASE="https://papan2222.github.io"
 def h(s): return html.escape(str(s), quote=True)
-urls=[BASE+x for x in ("/","/blog/","/quotes/","/senryu/","/pandalife/","/game/")]
+urls=[BASE+x for x in ("/","/blog/","/quotes/","/senryu/","/pandalife/","/game/","/animalenglish/")]
 for section, source in (("pandalife","works.json"),("game","gallery.json")):
     rows=json.loads((ROOT/section/source).read_text(encoding="utf-8"))
     seen=set()
@@ -34,4 +34,4 @@ for section, source in (("pandalife","works.json"),("game","gallery.json")):
         urls.append(url)
 xml='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f"  <url><loc>{escape(u)}</loc></url>\n" for u in urls)+"</urlset>\n"
 (ROOT/"sitemap.xml").write_text(xml,encoding="utf-8")
-print(f"Generated {len(urls)-6} work pages")
+print(f"Generated {len(urls)-7} work pages")
