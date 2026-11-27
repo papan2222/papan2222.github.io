@@ -143,6 +143,7 @@ permalink: /quotes/
 }
 
   .q-source{font-size:12px;color:var(--muted);margin-top:9px;line-height:1.7}.q-source a{text-decoration:underline}
+.quote-search{display:flex;gap:8px;align-items:center}.quote-search input{flex:1;min-width:0;padding:10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--text);font-size:16px}.quote-pagination{display:flex;justify-content:center;gap:10px;align-items:center;margin:20px 0}.quote-pagination select{background:var(--panel);color:var(--text);padding:8px;border:1px solid var(--line);border-radius:8px}.btn:disabled{opacity:.35;cursor:default}#quotes{scroll-margin-top:160px}@media(max-width:560px){.header-inner{flex-wrap:wrap;padding:8px}.header-inner nav{margin-left:0;gap:5px}.header-inner .btn{font-size:12px;padding:6px}.wrap{padding:8px}section{padding:8px}.q-en{font-size:18px}}
 </style>
 </head>
 <body>
@@ -165,9 +166,10 @@ permalink: /quotes/
     <p class="info">※ 日本語訳はAIを利用して作成しております（必要に応じて調整）。名言の原典・作者への帰属は個別に確認していないものを含みます。</p>
 
     <section id="quotes" aria-label="名言一覧">
-      <h2 id="quotes" class="visually-hidden">名言一覧</h2>
+      <h2 class="visually-hidden">名言一覧</h2>
+      <div class="quote-search"><input id="quote-search" type="search" placeholder="英語・日本語・作者名で検索" aria-label="名言検索"><button class="btn" id="search-clear" type="button">クリア</button></div><p id="quote-count" class="info" aria-live="polite"></p>
       <div id="filter-bar" class="filter-bar" aria-live="polite"></div>
-      <div id="q-list" class="q-list" role="list"></div>
+      <div id="q-list" class="q-list" role="list"></div><div class="quote-pagination"><button class="btn" id="quote-prev">前へ</button><select id="quote-page" aria-label="ページ選択"></select><button class="btn" id="quote-next">次へ</button></div>
     </section>
 
     <section id="authors" aria-label="作者一覧">
@@ -189,6 +191,7 @@ permalink: /quotes/
   let QUOTES_RAW = [];
   let QUOTES_SHUFFLED = [];
   let CURRENT_FILTER = null;
+  let PAGE = 1, QUERY = ""; const PAGE_SIZE = 50;
 
   // ---- utils ----
   const esc = s => String(s ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
@@ -231,6 +234,13 @@ permalink: /quotes/
 
   function setupUI(data){
     QUOTES_RAW = data;
+    const search = document.getElementById("quote-search");
+    search.addEventListener("input",()=>{QUERY=search.value.trim().toLowerCase();PAGE=1;updateUI();});
+    document.getElementById("search-clear").onclick=()=>{search.value="";QUERY="";PAGE=1;updateUI();};
+    const go=p=>{PAGE=p;updateUI();document.getElementById("quotes").scrollIntoView({block:"start"});};
+    document.getElementById("quote-prev").onclick=()=>go(PAGE-1);
+    document.getElementById("quote-next").onclick=()=>go(PAGE+1);
+    document.getElementById("quote-page").onchange=e=>go(Number(e.target.value));
     QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
 
     const names = uniqAuthors(QUOTES_RAW);
@@ -243,7 +253,7 @@ permalink: /quotes/
       QUOTES_SHUFFLED = shuffle([...QUOTES_RAW]);
       CURRENT_FILTER = null;
       highlightAuthor(null);
-      updateUI();
+      PAGE=1; updateUI();
     });
 
     CURRENT_FILTER = null;
@@ -275,7 +285,7 @@ permalink: /quotes/
         ev.preventDefault();
         CURRENT_FILTER = ev.currentTarget.dataset.author || null;
         highlightAuthor(CURRENT_FILTER);
-        updateUI();
+        PAGE=1; updateUI();
         const anchor = document.getElementById('quotes');
         if (anchor) anchor.scrollIntoView({behavior:'smooth', block:'start'});
       });
@@ -312,8 +322,12 @@ permalink: /quotes/
 
   function updateUI(){
     const src = QUOTES_SHUFFLED.length ? QUOTES_SHUFFLED : QUOTES_RAW;
-    const items = getFiltered(src);
-    renderQuotes(listEl, items);
+    const items = getFiltered(src).filter(q=>!QUERY || (q.en+" "+q.jp+" "+q.author).toLowerCase().includes(QUERY));
+    const pages=Math.max(1,Math.ceil(items.length/PAGE_SIZE)); PAGE=Math.max(1,Math.min(PAGE,pages));
+    renderQuotes(listEl, items.slice((PAGE-1)*PAGE_SIZE,PAGE*PAGE_SIZE));
+    document.getElementById("quote-count").textContent=items.length+"件 ／ 全"+QUOTES_RAW.length+"件";
+    const select=document.getElementById("quote-page");select.innerHTML=Array.from({length:pages},(_,i)=>`<option value="${i+1}">${i+1} / ${pages}</option>`).join("");select.value=String(PAGE);
+    document.getElementById("quote-prev").disabled=PAGE<=1;document.getElementById("quote-next").disabled=PAGE>=pages;
     renderFilterBar();
   }
 
