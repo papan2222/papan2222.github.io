@@ -1,0 +1,72 @@
+[
+  {
+    "number": 136,
+    "word": "chicken",
+    "pos": "名詞",
+    "ipa": "/ˈtʃɪkɪn/",
+    "example": "A fox watched a chicken in the garden.",
+    "translation": "キツネが庭にいるニワトリを見ていた。",
+    "imagePrompt": "A chicken in a garden with a fox watching from a distance.",
+    "status": "awaiting_image"
+  },
+  {
+    "number": 154,
+    "word": "come",
+    "pos": "動詞",
+    "ipa": "/kʌm/",
+    "example": "A little rabbit came to visit the panda.",
+    "translation": "小さなウサギがパンダに会いに来た。",
+    "imagePrompt": "A rabbit arriving at a panda's front door.",
+    "status": "awaiting_image"
+  },
+  {
+    "number": 155,
+    "word": "common",
+    "pos": "形容詞",
+    "ipa": "/ˈkɒmən/",
+    "example": "Sparrows are common in this park.",
+    "translation": "この公園ではスズメがよく見られる。",
+    "imagePrompt": "Many sparrows in a green park.",
+    "status": "awaiting_image"
+  },
+  {
+    "number": 156,
+    "word": "company",
+    "pos": "名詞",
+    "ipa": "/ˈkʌmpəni/",
+    "example": "A bear started a small honey company.",
+    "translation": "クマが小さな蜂蜜の会社を始めた。",
+    "imagePrompt": "A bear running a tiny honey business with jars.",
+    "status": "awaiting_image"
+  },
+  {
+    "number": 158,
+    "word": "complete",
+    "pos": "動詞",
+    "ipa": "/kəmˈpliːt/",
+    "example": "A beaver worked hard to complete its dam.",
+    "translation": "ビーバーはダムを完成させるために懸命に働いた。",
+    "imagePrompt": "A beaver placing the final branch on a dam.",
+    "status": "awaiting_image"
+  },
+  {
+    "number": 159,
+    "word": "computer",
+    "pos": "名詞",
+    "ipa": "/kəmˈpjuːtə(r)/",
+    "example": "A cat fell asleep beside a computer.",
+    "translation": "ネコがコンピューターのそばで眠ってしまった。",
+    "imagePrompt": "A sleeping cat beside a desktop computer.",
+    "status": "awaiting_image"
+  },
+  {
+    "number": 160,
+    "word": "concert",
+    "pos": "名詞",
+    "ipa": "/ˈkɒnsət/",
+    "example": "The animals held a concert in the forest.",
+    "translation": "動物たちは森でコンサートを開いた。",
+    "imagePrompt": "Forest animals performing music together on a small stage.",
+    "status": "awaiting_image"
+  }
+]
