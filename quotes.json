@@ -778,181 +778,328 @@
     "author": "Eric Hoffer",
     "en": "I hang onto my prejudices, they are the testicles of my mind.",
     "jp": "私は偏見を手放さない。それは私の心の睾丸だからだ。",
-    "id": "q0071"
+    "id": "q0071",
+    "tips": [
+      "hang onto：〜を手放さずにいる",
+      "prejudice：偏見",
+      "testicles：精巣（ここでは偏見を身体の一部にたとえた比喩）"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Call not that man wretched, who whatever ills he suffers, has a child to love.",
     "jp": "どんな不幸にあっても、愛する子がいる人を惨めだとは呼ぶな。",
-    "id": "q0072"
+    "id": "q0072",
+    "tips": [
+      "Call not：〜と呼ぶな（古風な否定命令）",
+      "wretched：惨めな",
+      "whatever ills he suffers：どんな苦難を経験していても"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It sometimes seems that intense desire creates not only its own opportunities, but its own talents.",
     "jp": "強い欲望は、自分のチャンスだけでなく、自分の才能まで生み出すことがある。",
-    "id": "q0073"
+    "id": "q0073",
+    "tips": [
+      "intense desire：強い欲求",
+      "not only A but B：AだけでなくBも",
+      "opportunity：機会"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Whenever you trace the origin of a skill or practices which played a crucial role in the ascent of man, we usually reach the realm of play.",
     "jp": "人類の発展に重要な役割を果たした技術や習慣の起源をたどると、たいてい遊びの領域に行き着く。",
-    "id": "q0074"
+    "id": "q0074",
+    "tips": [
+      "trace the origin of：〜の起源をたどる",
+      "play a crucial role in：〜で重要な役割を果たす",
+      "realm：領域、世界"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "There would be no society if living together depended upon understanding each other.",
     "jp": "お互いを理解することが共同生活の条件なら、社会は存在しないだろう。",
-    "id": "q0075"
+    "id": "q0075",
+    "tips": [
+      "There would be no ... if ...：もし〜なら…は存在しない（仮定法）",
+      "depend upon：〜に依存する",
+      "each other：互いに"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is by its promise of a sense of power that evil often attracts the weak.",
     "jp": "力を持てるという約束によって、悪はしばしば弱者を引き寄せる。",
-    "id": "q0076"
+    "id": "q0076",
+    "tips": [
+      "It is ... that ...：〜こそが…だ（強調構文）",
+      "a sense of power：力を持つ感覚",
+      "the weak：弱い人々"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "A nation without dregs and malcontents is orderly, peaceful and pleasant, but perhaps without the seed of things to come.",
     "jp": "はみ出し者や不満分子のいない国は秩序があり平和で快適だが、未来を生み出す種がないかもしれない。",
-    "id": "q0077"
+    "id": "q0077",
+    "tips": [
+      "dregs：社会の底辺と見なされる人々（侮蔑的表現）",
+      "malcontent：不満を抱く人",
+      "things to come：これから起こること"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The misery of a child is interesting to a mother, the misery of a young man is interesting to a young woman, the misery of an old man is interesting to nobody.",
     "jp": "子どもの不幸は母親の関心を引き、若者の不幸は若い女性の関心を引くが、老人の不幸は誰の関心も引かない。",
-    "id": "q0078"
+    "id": "q0078",
+    "tips": [
+      "misery：苦しみ、不幸",
+      "be interesting to：〜にとって関心を引く",
+      "nobody：誰も〜ない"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Every intense desire is perhaps a desire to be different from what we are.",
     "jp": "強い願望は、おそらく今の自分とは違う自分になりたいという願いだ。",
-    "id": "q0079"
+    "id": "q0079",
+    "tips": [
+      "intense：強烈な",
+      "different from：〜とは異なる",
+      "what we are：現在の私たちのあり方"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We have rudiments of reverence for the human body, but we consider as nothing the rape of the human mind.",
     "jp": "私たちは人間の肉体にはある程度の敬意を払うが、人の心を踏みにじることには無頓着だ。",
-    "id": "q0080"
+    "id": "q0080",
+    "tips": [
+      "rudiments of：〜の初歩、萌芽",
+      "reverence for：〜への敬意",
+      "rape：強姦、ここでは精神への暴力的侵害の比喩"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We can be absolutely certain only about things we do not understand.",
     "jp": "私たちが絶対に確信できるのは、理解していないことだけだ。",
-    "id": "q0081"
+    "id": "q0081",
+    "tips": [
+      "absolutely certain：完全に確信している",
+      "things we do not understand：私たちが理解していないこと（関係代名詞の省略）"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is the awareness of unfulfilled desires which gives a nation the feeling that it has a mission and a destiny.",
     "jp": "満たされない願望の自覚こそが、国に使命感や運命意識を与える。",
-    "id": "q0082"
+    "id": "q0082",
+    "tips": [
+      "awareness of：〜についての認識",
+      "unfulfilled：満たされていない",
+      "destiny：運命"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Animals often strike us as passionate machines.",
     "jp": "動物はしばしば情熱的な機械のように映る。",
-    "id": "q0083"
+    "id": "q0083",
+    "tips": [
+      "strike A as B：AにBという印象を与える",
+      "passionate：情熱的な、激しい感情を持つ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "When we believe ourselves in possession of the only truth, we are likely to be indifferent to common everyday truths.",
     "jp": "自分だけが唯一の真理を持っていると信じると、日常的な真実には無関心になりがちだ。",
-    "id": "q0084"
+    "id": "q0084",
+    "tips": [
+      "in possession of：〜を所有して",
+      "be likely to do：〜しそうである",
+      "be indifferent to：〜に無関心である"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "When people are bored it is primarily with themselves.",
     "jp": "人が退屈するのは、主に自分自身に退屈しているからだ。",
-    "id": "q0085"
+    "id": "q0085",
+    "tips": [
+      "be bored with：〜に退屈する",
+      "primarily：主として",
+      "themselves：彼ら自身（再帰代名詞）"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "There are no chaste minds. Minds copulate wherever they meet.",
     "jp": "純潔な心などない。心は出会えばどこでも交わる。",
-    "id": "q0086"
+    "id": "q0086",
+    "tips": [
+      "chaste：貞潔な",
+      "copulate：交尾する（ここでは思考同士の交わりの比喩）",
+      "wherever：〜するところならどこでも"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Facts are counterrevolutionary.",
     "jp": "事実は革命の敵だ。",
-    "id": "q0087"
+    "id": "q0087",
+    "tips": [
+      "counterrevolutionary：反革命的な",
+      "counter-：反対・対抗を表す接頭辞"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Wise living consists perhaps less in acquiring good habits than in acquiring as few habits as possible.",
     "jp": "賢く生きるとは、良い習慣を身につけることより、習慣をできるだけ少なくすることだ。",
-    "id": "q0088"
+    "id": "q0088",
+    "tips": [
+      "consist in：〜に本質がある",
+      "less A than B：AというよりB",
+      "as few ... as possible：できるだけ少ない〜"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "To spell out the obvious is often to call it in question.",
     "jp": "当たり前のことをあえて説明すると、それが疑問視されることが多い。",
-    "id": "q0089"
+    "id": "q0089",
+    "tips": [
+      "spell out：明確に説明する",
+      "the obvious：明白なこと",
+      "call ... in question：〜に疑問を呈する"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Many of the insights of the saint stem from their experience as sinners.",
     "jp": "聖人の洞察の多くは、罪人としての経験から生まれる。",
-    "id": "q0090"
+    "id": "q0090",
+    "tips": [
+      "insight：洞察",
+      "stem from：〜に由来する",
+      "sinner：罪人"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Social improvement is attained more readily by a concern with the quality of results than with the purity of motives.",
     "jp": "社会の改善は、動機の純粋さよりも結果の質に関心を持つことで、より容易に達成される。",
-    "id": "q0091"
+    "id": "q0091",
+    "tips": [
+      "attain：達成する",
+      "readily：容易に",
+      "purity of motives：動機の純粋さ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Far more crucial than what we know or do not know is what we do not want to know.",
     "jp": "知っていることや知らないことよりも、知りたくないことのほうが重要だ。",
-    "id": "q0092"
+    "id": "q0092",
+    "tips": [
+      "far more crucial than：〜よりはるかに重要な",
+      "what we do not want to know：私たちが知りたくないこと",
+      "比較表現の前置による倒置：主語は文末の what 節"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Men weary as much of not doing the things they want to do as of doing the things they do not want to do.",
     "jp": "人は、やりたくないことをするのと同じくらい、やりたいことをしないことにも疲れる。",
-    "id": "q0093"
+    "id": "q0093",
+    "tips": [
+      "weary of：〜にうんざりする（ここでは動詞）",
+      "as much A as B：Bと同じくらいA",
+      "not doing：〜しないこと"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The leader has to be practical and a realist, yet must talk the language of the visionary and the idealist.",
     "jp": "指導者は現実的で実務的でなければならないが、同時に理想家や夢想家の言葉も語らねばならない。",
-    "id": "q0094"
+    "id": "q0094",
+    "tips": [
+      "practical：現実的な、実際的な",
+      "realist：現実主義者",
+      "visionary：先見の明を持つ人、理想を描く人"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is often the failure who is the pioneer in new lands, new undertakings, and new forms of expression.",
     "jp": "新しい土地、新しい事業、新しい表現の先駆者となるのは、しばしば失敗者だ。",
-    "id": "q0095"
+    "id": "q0095",
+    "tips": [
+      "failure：ここでは失敗した人",
+      "pioneer：先駆者",
+      "undertaking：事業、企て"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "One of the marks of a truly vigorous society is the ability to dispense with passion as a midwife of action - the ability to pass directly from thought to action.",
     "jp": "真に活力ある社会の特徴の一つは、情熱を介さずに、思考から直接行動へ移せることだ。",
-    "id": "q0096"
+    "id": "q0096",
+    "tips": [
+      "vigorous：活力のある",
+      "dispense with：〜なしで済ませる",
+      "midwife：助産師（ここでは行動を生み出すものの比喩）"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We do not really feel grateful toward those who make our dreams come true; they ruin our dreams.",
     "jp": "夢を叶えてくれた人に本当の感謝を感じることは少ない。夢が壊れてしまうからだ。",
-    "id": "q0097"
+    "id": "q0097",
+    "tips": [
+      "feel grateful toward：〜に感謝する",
+      "make one's dreams come true：夢を実現させる",
+      "ruin：台無しにする"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Every new adjustment is a crisis in self-esteem.",
     "jp": "新たな適応は、自尊心にとっての試練である。",
-    "id": "q0098"
+    "id": "q0098",
+    "tips": [
+      "adjustment：適応、調整",
+      "crisis：危機",
+      "self-esteem：自尊心"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is not actual suffering but the taste of better things which excites people to revolt.",
     "jp": "人々を反乱に駆り立てるのは、実際の苦しみではなく、より良いものを味わった経験だ。",
-    "id": "q0099"
+    "id": "q0099",
+    "tips": [
+      "not A but B：AではなくB",
+      "taste of：〜を少し経験すること",
+      "revolt：反抗する、反乱を起こす"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is a sign of creeping inner death when we can no longer praise the living.",
     "jp": "生きている人を称えられなくなったとき、それは内なる死が忍び寄っている証拠だ。",
-    "id": "q0100"
+    "id": "q0100",
+    "tips": [
+      "a sign of：〜の兆候",
+      "creeping：徐々に進行する",
+      "the living：生きている人々"
+    ]
   },
   {
     "author": "Eric Hoffer",
