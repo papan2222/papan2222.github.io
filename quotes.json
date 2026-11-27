@@ -125,181 +125,328 @@
     "author": "Eric Hoffer",
     "en": "Creativity is the ability to introduce order into the randomness of nature.",
     "jp": "創造とは、自然の中の混沌に秩序を持ち込む力だ。",
-    "id": "q0011"
+    "id": "q0011",
+    "tips": [
+      "creativity：創造性",
+      "introduce A into B：BにAを取り入れる",
+      "randomness：無秩序、ランダム性"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Faith in a holy cause is to a considerable extent a substitute for lost faith in ourselves.",
     "jp": "自分への信頼を失ったとき、人は崇高な大義への信仰でそれを埋め合わせる。",
-    "id": "q0012"
+    "id": "q0012",
+    "tips": [
+      "faith in：〜への信頼・信仰",
+      "to a considerable extent：かなりの程度まで",
+      "a substitute for：〜の代わりとなるもの"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "You can discover what your enemy fears most by observing the means he uses to frighten you.",
     "jp": "敵があなたを脅すために使う手段を見れば、敵が何を最も恐れているかがわかる。",
-    "id": "q0013"
+    "id": "q0013",
+    "tips": [
+      "by observing：観察することによって",
+      "means：手段（単複同形）",
+      "frighten：怖がらせる"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "When people are free to do as they please, they usually imitate each other.",
     "jp": "人は自由にできるとき、たいてい互いを真似する。",
-    "id": "q0014"
+    "id": "q0014",
+    "tips": [
+      "do as one pleases：好きなようにする",
+      "imitate：まねる",
+      "each other：互いに"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It still holds true that man is most uniquely human when he turns obstacles into opportunities.",
     "jp": "人は困難をチャンスに変えるとき、もっとも人間らしくなる。",
-    "id": "q0015"
+    "id": "q0015",
+    "tips": [
+      "hold true：当てはまる",
+      "obstacle：障害",
+      "turn A into B：AをBに変える"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is easier to love humanity as a whole than to love one’s neighbor.",
     "jp": "隣人ひとりを愛するより、人類全体を愛する方が簡単だ。",
-    "id": "q0016"
+    "id": "q0016",
+    "tips": [
+      "humanity：人類",
+      "as a whole：全体として",
+      "It is easier to A than to B：BするよりAする方が容易だ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The only way to predict the future is to have power to shape the future.",
     "jp": "未来を予測する唯一の方法は、それを自分でつくる力を持つことだ。",
-    "id": "q0017"
+    "id": "q0017",
+    "tips": [
+      "predict：予測する",
+      "the only way to do：〜する唯一の方法",
+      "shape：形作る"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is futile to judge a kind deed by its motives. Kindness can become its own motive. We are made kind by being kind.",
     "jp": "親切を動機で評価するのは意味がない。親切はそれ自体が理由になり、人は親切であることで優しくなれる。",
-    "id": "q0018"
+    "id": "q0018",
+    "tips": [
+      "futile：無益な",
+      "deed：行為",
+      "judge A by B：BによってAを判断する"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "A great man’s greatest good luck is to die at the right time.",
     "jp": "偉大な人にとっての最大の幸運は、ちょうど良い時に死ぬことだ。",
-    "id": "q0019"
+    "id": "q0019",
+    "tips": [
+      "good luck：幸運",
+      "at the right time：適切な時に"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Our greatest pretenses are built up not to hide the evil and the ugly in us, but our emptiness. The hardest thing to hide is something that is not there.",
     "jp": "私たちが最も懸命に繕うのは、自分の中の悪や醜さを隠すためではなく、心の空虚さを隠すためだ。隠すのが最も難しいのは、そこに何もないということだからだ。",
-    "id": "q0020"
+    "id": "q0020",
+    "tips": [
+      "pretense：見せかけ",
+      "not A but B：AではなくB",
+      "emptiness：空虚さ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "A man by himself is in bad company.",
     "jp": "人は自分ひとりでは、ろくでもない相手と一緒にいるようなものだ。",
-    "id": "q0021"
+    "id": "q0021",
+    "tips": [
+      "by oneself：一人で",
+      "in bad company：好ましくない仲間と一緒に"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "You can never get enough of what you don't need to make you happy.",
     "jp": "幸せに必要のないものは、いくら手に入れても満たされない。",
-    "id": "q0022"
+    "id": "q0022",
+    "tips": [
+      "never get enough of：いくらあっても満足しない",
+      "make A happy：Aを幸せにする"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is the malady of our age that the young are so busy teaching us that they have no time left to learn.",
     "jp": "今の時代の病は、若者が教えることに忙しすぎて、自分が学ぶ時間を失っていることだ。",
-    "id": "q0023"
+    "id": "q0023",
+    "tips": [
+      "malady：病弊、病気",
+      "the young：若者たち",
+      "so ... that：非常に〜なので…"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We have perhaps a natural fear of ends. We would rather be always on the way than arrive. Given the means, we hang on to them and often forget the ends.",
     "jp": "人は終わりを本能的に恐れるのかもしれない。到達するよりも道中にあり続けたいのだ。手段が与えられると、それにしがみつき、しばしば目的を忘れてしまう。",
-    "id": "q0024"
+    "id": "q0024",
+    "tips": [
+      "would rather A than B：BするよりAしたい",
+      "on the way：途中で",
+      "hang on to：〜にしがみつく"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Our frustration is greater when we have much and want more than when we have nothing and want some. We are less dissatisfied when we lack many things than when we seem to lack but one thing.",
     "jp": "持っているものが多いのにさらに欲しいときの苛立ちは、何もないときより大きい。多くを欠くよりも、ただひとつ欠けているように見えるときのほうが不満は大きい。",
-    "id": "q0025"
+    "id": "q0025",
+    "tips": [
+      "frustration：不満、挫折感",
+      "lack：欠いている",
+      "but one thing：ただ一つのもの"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It almost seems that nobody can hate America as much as native Americans. America needs new immigrants to love and cherish it.",
     "jp": "アメリカをこれほど憎めるのは、アメリカ生まれの人くらいだ。だからこそ、アメリカを愛し、大切にしてくれる新しい移民が必要だ。",
-    "id": "q0026"
+    "id": "q0026",
+    "tips": [
+      "as much as：〜と同じ程度に",
+      "immigrant：移民",
+      "cherish：大切にする"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Compassion is the antitoxin of the soul: where there is compassion even the most poisonous impulses remain relatively harmless.",
     "jp": "思いやりは魂の解毒剤だ。そこに思いやりがあれば、どんな毒のような衝動もほとんど無害になる。",
-    "id": "q0027"
+    "id": "q0027",
+    "tips": [
+      "compassion：思いやり",
+      "antitoxin：抗毒素",
+      "relatively：比較的"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Man is the only creature that strives to surpass himself, and yearns for the impossible.",
     "jp": "人間だけが自分を超えようとし、不可能を求めて憧れる生き物だ。",
-    "id": "q0028"
+    "id": "q0028",
+    "tips": [
+      "strive to do：〜しようと努力する",
+      "surpass：超える",
+      "yearn for：〜を切望する"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Disappointment is a sort of bankruptcy - the bankruptcy of a soul that expends too much in hope and expectation.",
     "jp": "失望とは破産のようなものだ。希望や期待にあまりにも多くを注ぎ込んだ魂の破産である。",
-    "id": "q0029"
+    "id": "q0029",
+    "tips": [
+      "a sort of：一種の",
+      "bankruptcy：破産",
+      "expend：費やす"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We used to think that revolutions are the cause of change. Actually it is the other way around: change prepares the ground for revolution.",
     "jp": "革命が変化を生むと思われがちだが、実際は逆で、変化が革命の土台をつくる。",
-    "id": "q0030"
+    "id": "q0030",
+    "tips": [
+      "used to do：以前は〜したものだ",
+      "the other way around：逆に",
+      "prepare the ground for：〜の下地を作る"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "To become different from what we are, we must have some awareness of what we are.",
     "jp": "自分が変わるには、まず自分が何者かを意識しなければならない。",
-    "id": "q0031"
+    "id": "q0031",
+    "tips": [
+      "different from：〜とは異なる",
+      "awareness of：〜についての認識",
+      "what we are：私たちがどのような存在か"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "There is no loneliness greater than the loneliness of a failure. The failure is a stranger in his own house.",
     "jp": "失敗者の孤独ほど深い孤独はない。彼は自分の家の中でもよそ者なのだ。",
-    "id": "q0032"
+    "id": "q0032",
+    "tips": [
+      "loneliness：孤独",
+      "no A greater than B：Bより大きなAはない",
+      "stranger：見知らぬ人"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It would be difficult to exaggerate the degree to which we are influenced by those we influence.",
     "jp": "私たちは影響を与える相手から、想像以上に強く影響を受けている。",
-    "id": "q0033"
+    "id": "q0033",
+    "tips": [
+      "exaggerate：誇張する",
+      "the degree to which：〜する程度",
+      "be influenced by：〜の影響を受ける"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The weakness of a soul is proportionate to the number of truths that must be kept from it.",
     "jp": "魂の弱さは、隠されなければならない真実の数に比例する。",
-    "id": "q0034"
+    "id": "q0034",
+    "tips": [
+      "weakness：弱さ",
+      "be proportionate to：〜に比例する",
+      "keep A from B：AをBから遠ざける"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is the child in man that is the source of his uniqueness and creativeness, and the playground is the optimal milieu for the unfolding of his capacities and talents.",
     "jp": "人の独自性と創造性の源は心の中の子どもであり、遊び場はその能力や才能を引き出す最良の環境だ。",
-    "id": "q0035"
+    "id": "q0035",
+    "tips": [
+      "uniqueness：独自性",
+      "optimal milieu：最適な環境",
+      "unfolding：展開、発達"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We are more prone to generalize the bad than the good. We assume that the bad is more potent and contagious.",
     "jp": "人は良いことより悪いことを一般化しやすく、悪のほうが強くて伝染しやすいと考えがちだ。",
-    "id": "q0036"
+    "id": "q0036",
+    "tips": [
+      "be prone to do：〜しがちである",
+      "generalize：一般化する",
+      "contagious：伝染性の"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The savior who wants to turn men into angels is as much a hater of human nature as the totalitarian despot who wants to turn them into puppets.",
     "jp": "人を天使に変えようとする救世主は、人を操り人形にしようとする独裁者と同じくらい人間性を嫌っている。",
-    "id": "q0037"
+    "id": "q0037",
+    "tips": [
+      "savior：救済者",
+      "as much A as B：Bと同じくらいAである",
+      "despot：専制君主"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.",
     "jp": "空っぽの頭は本当は空ではない。ゴミでいっぱいだ。だから何かを詰め込むのが難しい。",
-    "id": "q0038"
+    "id": "q0038",
+    "tips": [
+      "be stuffed with：〜でいっぱいである",
+      "rubbish：ごみ、くだらないもの",
+      "hence：それゆえ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We lie loudest when we lie to ourselves.",
     "jp": "私たちは、自分に嘘をつくときに最も大きな嘘をつく。",
-    "id": "q0039"
+    "id": "q0039",
+    "tips": [
+      "lie：うそをつく",
+      "loudest：最も大声で（副詞の最上級）",
+      "lie to oneself：自分自身にうそをつく"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "A grievance is most poignant when almost redressed.",
     "jp": "不満は、解消されかけたときにこそ最も強く感じられる。",
-    "id": "q0040"
+    "id": "q0040",
+    "tips": [
+      "grievance：不満、苦情",
+      "poignant：痛切な",
+      "redress：是正する、救済する"
+    ]
   },
   {
     "author": "Eric Hoffer",
