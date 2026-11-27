@@ -675,6 +675,11 @@
     "html": "<article id=\"cheese-1\"><img src=\"images/eb033e2afc27f92de6637f805f848e61.webp\" alt=\"cheese の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.135</span><h2 lang=\"en\">cheese</h2><p>A squirrel held a tiny piece of cheese in its paws.</p><p>リスは小さなチーズを前足で抱えた。</p><p>cheese／名詞／[tʃiːz]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/cheese-1-1.mp3\" data-word=\"cheese\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/cheese-1-2.mp3\" data-word=\"A squirrel held a tiny piece of cheese in its paws.\">🔊 例文</button></div></article>"
   },
   {
+    "id": "chicken-1",
+    "number": "136",
+    "html": "<article id=\"chicken-1\"><img src=\"images/0136_chicken.webp\" alt=\"chicken の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.136</span><h2 lang=\"en\">chicken</h2><p>A fox watched a chicken in the garden.</p><p>キツネが庭にいるニワトリを見ていた。</p><p>chicken／名詞／[ˈtʃɪkɪn]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/chicken-1-1.mp3\" data-word=\"chicken\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/chicken-1-2.mp3\" data-word=\"A fox watched a chicken in the garden.\">🔊 例文</button></div></article>"
+  },
+  {
     "id": "child-1",
     "number": "137",
     "html": "<article id=\"child-1\"><img src=\"images/e3b31d9429cef96c45f3aa5016c81d2f.webp\" alt=\"child の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.137</span><h2 lang=\"en\">child</h2><p>A kitten touched a child’s shoe.</p><p>子ネコが子どもの靴に触った。</p><p>child／名詞／[tʃaɪld]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/child-1-1.mp3\" data-word=\"child\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/child-1-2.mp3\" data-word=\"A kitten touched a child’s shoe.\">🔊 例文</button></div></article>"
@@ -765,9 +770,34 @@
     "html": "<article id=\"colour-1\"><img src=\"images/a600c928321c0fe390dd3afb2be5749b.webp\" alt=\"colour の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.153</span><h2 lang=\"en\">colour</h2><p>A parrot showed its bright green colour on a branch.</p><p>オウムが枝の上で鮮やかな緑色を見せていた。</p><p>colour／名詞／[ˈkʌl.ər]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/colour-1-1.mp3\" data-word=\"colour\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/colour-1-2.mp3\" data-word=\"A parrot showed its bright green colour on a branch.\">🔊 例文</button></div></article>"
   },
   {
+    "id": "come-1",
+    "number": "154",
+    "html": "<article id=\"come-1\"><img src=\"images/0154_come.webp\" alt=\"come の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.154</span><h2 lang=\"en\">come</h2><p>A little rabbit came to visit the panda.</p><p>小さなウサギがパンダに会いに来た。</p><p>come／動詞／[kʌm]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/come-1-1.mp3\" data-word=\"come\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/come-1-2.mp3\" data-word=\"A little rabbit came to visit the panda.\">🔊 例文</button></div></article>"
+  },
+  {
+    "id": "common-1",
+    "number": "155",
+    "html": "<article id=\"common-1\"><img src=\"images/0155_common.webp\" alt=\"common の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.155</span><h2 lang=\"en\">common</h2><p>Sparrows are common in this park.</p><p>この公園ではスズメがよく見られる。</p><p>common／形容詞／[ˈkɒmən]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/common-1-1.mp3\" data-word=\"common\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/common-1-2.mp3\" data-word=\"Sparrows are common in this park.\">🔊 例文</button></div></article>"
+  },
+  {
+    "id": "company-1",
+    "number": "156",
+    "html": "<article id=\"company-1\"><img src=\"images/0156_company.webp\" alt=\"company の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.156</span><h2 lang=\"en\">company</h2><p>A bear started a small honey company.</p><p>クマが小さな蜂蜜の会社を始めた。</p><p>company／名詞／[ˈkʌmpəni]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/company-1-1.mp3\" data-word=\"company\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/company-1-2.mp3\" data-word=\"A bear started a small honey company.\">🔊 例文</button></div></article>"
+  },
+  {
     "id": "compare-1",
     "number": "157",
     "html": "<article id=\"compare-1\"><img src=\"images/1c3abe70149dd96dbee5ae24bc815639.webp\" alt=\"compare の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.157</span><h2 lang=\"en\">compare</h2><p>Fox tried to compare the clouds, but they kept changing shape.</p><p>キツネは雲を比べようとしたけど、形がどんどん変わってしまった。</p><p>compare／他動詞／[kəmˈpeə(r)]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/compare-1-1.mp3\" data-word=\"compare\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/compare-1-2.mp3\" data-word=\"Fox tried to compare the clouds, but they kept changing shape.\">🔊 例文</button></div></article>"
+  },
+  {
+    "id": "complete-1",
+    "number": "158",
+    "html": "<article id=\"complete-1\"><img src=\"images/0158_complete.webp\" alt=\"complete の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.158</span><h2 lang=\"en\">complete</h2><p>A beaver worked hard to complete its dam.</p><p>ビーバーはダムを完成させるために懸命に働いた。</p><p>complete／動詞／[kəmˈpliːt]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/complete-1-1.mp3\" data-word=\"complete\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/complete-1-2.mp3\" data-word=\"A beaver worked hard to complete its dam.\">🔊 例文</button></div></article>"
+  },
+  {
+    "id": "computer-1",
+    "number": "159",
+    "html": "<article id=\"computer-1\"><img src=\"images/0159_computer.webp\" alt=\"computer の動物イラスト\" loading=\"lazy\"><div class=\"copy\"><span class=\"number\">No.159</span><h2 lang=\"en\">computer</h2><p>A cat fell asleep beside a computer.</p><p>ネコがコンピューターのそばで眠ってしまった。</p><p>computer／名詞／[kəmˈpjuːtə(r)]</p><button type=\"button\" class=\"speak\" data-audio=\"audio/computer-1-1.mp3\" data-word=\"computer\">🔊 単語</button> <button type=\"button\" class=\"speak\" data-audio=\"audio/computer-1-2.mp3\" data-word=\"A cat fell asleep beside a computer.\">🔊 例文</button></div></article>"
   },
   {
     "id": "ear-1",
