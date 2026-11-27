@@ -162,7 +162,7 @@ permalink: /quotes/
   </header>
 
   <main class="wrap">
-    <p class="info">※ 日本語訳はAIを利用して作成しております（必要に応じて調整）。</p>
+    <p class="info">※ 日本語訳はAIを利用して作成しております（必要に応じて調整）。名言の原典・作者への帰属は個別に確認していないものを含みます。</p>
 
     <section id="quotes" aria-label="名言一覧">
       <h2 id="quotes" class="visually-hidden">名言一覧</h2>
@@ -261,7 +261,6 @@ permalink: /quotes/
         <div class="q-en">${esc(q.en)}</div>
         <div class="q-jp">${esc(q.jp)}</div>
         <div class="q-author">— ${esc(q.author || 'Unknown')}</div>
-        <div class="q-source">${esc(({secondary:"出典情報あり・原典未確認",variant:"出典候補あり・英文に異同",primary:"原典確認済み"})[q.sourceStatus] || "出典未確認")}${q.source ? " ／ "+esc(q.source) : ""}${/^https:\/\//.test(q.sourceUrl) ? ` <a href="${esc(q.sourceUrl)}" target="_blank" rel="noopener noreferrer">資料 ↗</a>` : ""}</div>
       </article>
     `).join('');
   }
