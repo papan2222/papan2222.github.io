@@ -145,6 +145,7 @@ permalink: /quotes/
   .q-source{font-size:12px;color:var(--muted);margin-top:9px;line-height:1.7}.q-source a{text-decoration:underline}
 .quote-search{display:flex;gap:8px;align-items:center}.quote-search input{flex:1;min-width:0;padding:10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--text);font-size:16px}.quote-pagination{display:flex;justify-content:center;gap:10px;align-items:center;margin:20px 0}.quote-pagination select{background:var(--panel);color:var(--text);padding:8px;border:1px solid var(--line);border-radius:8px}.btn:disabled{opacity:.35;cursor:default}#quotes{scroll-margin-top:160px}@media(max-width:560px){.header-inner{flex-wrap:wrap;padding:8px}.header-inner nav{margin-left:0;gap:5px}.header-inner .btn{font-size:12px;padding:6px}.wrap{padding:8px}section{padding:8px}.q-en{font-size:18px}}
 .q-detail{text-align:right;font-size:13px;margin-top:8px}
+#author-profile{padding:12px;background:var(--panel);border-radius:8px;font-size:14px;line-height:1.7;margin-bottom:12px}
 </style>
 </head>
 <body>
@@ -169,7 +170,7 @@ permalink: /quotes/
     <section id="quotes" aria-label="名言一覧">
       <h2 class="visually-hidden">名言一覧</h2>
       <div class="quote-search"><input id="quote-search" type="search" placeholder="英語・日本語・作者名で検索" aria-label="名言検索"><button class="btn" id="search-clear" type="button">クリア</button></div><p id="quote-count" class="info" aria-live="polite"></p>
-      <div id="filter-bar" class="filter-bar" aria-live="polite"></div>
+      <div id="filter-bar" class="filter-bar" aria-live="polite"></div><div id="author-profile" hidden></div>
       <div id="q-list" class="q-list" role="list"></div><div class="quote-pagination"><button class="btn" id="quote-prev">前へ</button><select id="quote-page" aria-label="ページ選択"></select><button class="btn" id="quote-next">次へ</button></div>
     </section>
 
@@ -190,6 +191,7 @@ permalink: /quotes/
 (function(){
   // ---- state ----
   let QUOTES_RAW = [];
+  let AUTHORS = {};
   let QUOTES_SHUFFLED = [];
   let CURRENT_FILTER = null;
   let PAGE = 1, QUERY = ""; const PAGE_SIZE = 50;
@@ -213,8 +215,7 @@ permalink: /quotes/
 
     // ルート直下の JSON を取得（キャッシュ回避付き）
     const url = '/quotes.json?v=' + Date.now();
-    fetch(url, { cache: 'no-store' })
-      .then(r => { if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    Promise.all([fetch(url, { cache: 'no-store' }).then(r => { if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }),fetch('/quotes/authors.json').then(r=>r.ok?r.json():{}).catch(()=>({}))]).then(([raw,authors])=>{AUTHORS=authors;return raw;})
       .then(normalizeData)   // キー名の揺れを吸収
       .then(setupUI)
       .catch(showError);
@@ -272,7 +273,7 @@ permalink: /quotes/
       <article class="quote" role="listitem">
         <div class="q-en">${esc(q.en)}</div>
         <div class="q-jp">${esc(q.jp)}</div>
-        <div class="q-author">— ${esc(q.author || 'Unknown')}</div>
+        <div class="q-author">${esc(AUTHORS[q.author]?.ja || q.author)}${AUTHORS[q.author] ? " ／ "+esc(q.author) : ""}</div>
         <div class="q-detail"><a href="/quotes/one/?id=${encodeURIComponent(q.id)}">個別ページ ↗</a></div>
       </article>
     `).join('');
@@ -280,7 +281,7 @@ permalink: /quotes/
 
   function renderAuthors(target, names){
     target.innerHTML = names.map(n =>
-      `<div class="author-item"><a href="#quotes" class="chip" data-author="${esc(n)}">${esc(n)}</a></div>`
+      `<div class="author-item"><a href="#quotes" class="chip" data-author="${esc(n)}">${esc(AUTHORS[n]?.ja || n)}</a></div>`
     ).join('');
     // クリックでフィルタ＆スクロール
     target.querySelectorAll('a[data-author]').forEach(a=>{
@@ -325,13 +326,14 @@ permalink: /quotes/
 
   function updateUI(){
     const src = QUOTES_SHUFFLED.length ? QUOTES_SHUFFLED : QUOTES_RAW;
-    const items = getFiltered(src).filter(q=>!QUERY || (q.en+" "+q.jp+" "+q.author).toLowerCase().includes(QUERY));
+    const items = getFiltered(src).filter(q=>!QUERY || (q.en+" "+q.jp+" "+q.author+" "+(AUTHORS[q.author]?.ja||"")).toLowerCase().includes(QUERY));
     const pages=Math.max(1,Math.ceil(items.length/PAGE_SIZE)); PAGE=Math.max(1,Math.min(PAGE,pages));
     renderQuotes(listEl, items.slice((PAGE-1)*PAGE_SIZE,PAGE*PAGE_SIZE));
     document.getElementById("quote-count").textContent=items.length+"件 ／ 全"+QUOTES_RAW.length+"件";
     const select=document.getElementById("quote-page");select.innerHTML=Array.from({length:pages},(_,i)=>`<option value="${i+1}">${i+1} / ${pages}</option>`).join("");select.value=String(PAGE);
     document.getElementById("quote-prev").disabled=PAGE<=1;document.getElementById("quote-next").disabled=PAGE>=pages;
     renderFilterBar();
+    const profile=document.getElementById("author-profile"), a=AUTHORS[CURRENT_FILTER];profile.hidden=!a;profile.textContent=a ? a.ja+"（"+a.years+"） "+a.bio : "";
   }
 
   function showError(err){
