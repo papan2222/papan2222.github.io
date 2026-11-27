@@ -6,13 +6,23 @@
     "sourceStatus": "secondary",
     "source": "Reflections on the Human Condition (1973), §172",
     "sourceUrl": "https://en.wikiquote.org/wiki/Eric_Hoffer",
-    "id": "q0001"
+    "id": "q0001",
+    "tips": [
+      "arithmetic：算数、計算",
+      "enable A to do：Aが〜できるようにする",
+      "count one's blessings：恵まれていることに感謝する"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "In times of change learners inherit the earth; while the learned find themselves beautifully equipped to deal with a world that no longer exists.",
     "jp": "変化の時代を生き抜くのは学び続ける人で、学びを止めた人はもう存在しない世界に備えてしまう。",
-    "id": "q0002"
+    "id": "q0002",
+    "tips": [
+      "inherit：受け継ぐ",
+      "the learned：学識のある人々",
+      "be equipped to do：〜するための備えがある"
+    ]
   },
   {
     "author": "Eric Hoffer",
@@ -21,7 +31,12 @@
     "sourceStatus": "secondary",
     "source": "The Passionate State of Mind (1955), p. 260（引用資料による）",
     "sourceUrl": "https://en.wikiquote.org/wiki/Eric_Hoffer",
-    "id": "q0003"
+    "id": "q0003",
+    "tips": [
+      "deceive：だます",
+      "merely：単に、ただ",
+      "help A (to) do：Aが〜するのを助ける"
+    ]
   },
   {
     "author": "Eric Hoffer",
@@ -30,19 +45,34 @@
     "sourceStatus": "secondary",
     "source": "The Passionate State of Mind (1955), §123",
     "sourceUrl": "https://wist.info/hoffer-eric/14756/",
-    "id": "q0004"
+    "id": "q0004",
+    "tips": [
+      "motive：動機",
+      "make A + 形容詞：Aを〜な状態にする",
+      "by -ing：〜することによって"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "People who bite the hand that feeds them usually lick the boot that kicks them.",
     "jp": "助けてくれた人を裏切る者は、力で押さえつける者には媚びへつらう。",
-    "id": "q0005"
+    "id": "q0005",
+    "tips": [
+      "bite the hand that feeds you：恩を仇で返す",
+      "lick：なめる",
+      "that feeds them：先行詞 the hand を修飾する関係節"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Someone who thinks the world is always cheating him is right. He is missing that wonderful feeling of trust in someone or something.",
     "jp": "世の中がいつも自分をだましていると思う人は、その通りだ。だから誰かや何かを信じる喜びを知らない。",
-    "id": "q0006"
+    "id": "q0006",
+    "tips": [
+      "cheat：だます",
+      "miss：ここでは、得られずにいる",
+      "trust in：〜への信頼"
+    ]
   },
   {
     "author": "Eric Hoffer",
@@ -51,25 +81,45 @@
     "sourceStatus": "variant",
     "source": "The Passionate State of Mind (1955), §241（掲載英文と異同あり）",
     "sourceUrl": "https://en.wikiquote.org/wiki/Eric_Hoffer",
-    "id": "q0007"
+    "id": "q0007",
+    "tips": [
+      "rudeness：無礼、失礼さ",
+      "imitation：模倣、まがいもの",
+      "strength：強さ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We feel free when we escape – even if it be but from the frying pan to the fire.",
     "jp": "たとえ状況が悪化しても、逃げ出すと自由を感じるものだ。",
-    "id": "q0008"
+    "id": "q0008",
+    "tips": [
+      "escape：逃れる",
+      "even if：たとえ〜でも",
+      "from the frying pan to the fire：悪い状況からさらに悪い状況へ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The search for happiness is one of the chief sources of unhappiness.",
     "jp": "幸福を追い求めること自体が、不幸の大きな原因になる。",
-    "id": "q0009"
+    "id": "q0009",
+    "tips": [
+      "the search for：〜の探求",
+      "one of + 複数名詞：〜の一つ",
+      "chief：主な、主要な"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Passionate hatred can give meaning and purpose to an empty life.",
     "jp": "強い憎しみは、空っぽの人生に意味や目的を与えてしまう。",
-    "id": "q0010"
+    "id": "q0010",
+    "tips": [
+      "passionate：激しい、情熱的な",
+      "hatred：憎しみ",
+      "give A to B：BにAを与える"
+    ]
   },
   {
     "author": "Eric Hoffer",
