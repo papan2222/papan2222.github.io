@@ -146,6 +146,7 @@ permalink: /quotes/
 .quote-search{display:flex;gap:8px;align-items:center}.quote-search input{flex:1;min-width:0;padding:10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--text);font-size:16px}.quote-pagination{display:flex;justify-content:center;gap:10px;align-items:center;margin:20px 0}.quote-pagination select{background:var(--panel);color:var(--text);padding:8px;border:1px solid var(--line);border-radius:8px}.btn:disabled{opacity:.35;cursor:default}#quotes{scroll-margin-top:160px}@media(max-width:560px){.header-inner{flex-wrap:wrap;padding:8px}.header-inner nav{margin-left:0;gap:5px}.header-inner .btn{font-size:12px;padding:6px}.wrap{padding:8px}section{padding:8px}.q-en{font-size:18px}}
 .q-detail{text-align:right;font-size:13px;margin-top:8px}
 #author-profile{padding:12px;background:var(--panel);border-radius:8px;font-size:14px;line-height:1.7;margin-bottom:12px}
+.q-tip{margin-top:12px;font-size:14px;line-height:1.7}.q-tip summary{cursor:pointer;color:var(--accent);font-size:12px;letter-spacing:.06em}.q-tip ul{padding-left:20px;margin:6px 0}
 </style>
 </head>
 <body>
@@ -226,6 +227,7 @@ permalink: /quotes/
     const arr = Array.isArray(raw) ? raw : (raw.quotes || []);
     return arr.map(it => ({
       id: String(it.id || ''),
+      tips: Array.isArray(it.tips) ? it.tips.map(String) : [],
       en:     String(it.en || it.english || it.quote_en || it.text_en || '').trim(),
       jp:     String(it.jp || it.ja || it.japanese || it.quote_ja || it.text_ja || '').trim(),
       sourceStatus: String(it.sourceStatus || ''),
@@ -274,6 +276,7 @@ permalink: /quotes/
         <div class="q-en">${esc(q.en)}</div>
         <div class="q-jp">${esc(q.jp)}</div>
         <div class="q-author">${esc(AUTHORS[q.author]?.ja || q.author)}${AUTHORS[q.author] ? " ／ "+esc(q.author) : ""}</div>
+        ${q.tips.length ? `<details class="q-tip"><summary>ENGLISH TIP</summary><ul>${q.tips.map(t=>`<li>${esc(t)}</li>`).join("")}</ul></details>` : ""}
         <div class="q-detail"><a href="/quotes/one/?id=${encodeURIComponent(q.id)}">個別ページ ↗</a></div>
       </article>
     `).join('');
