@@ -19,7 +19,7 @@ def individual(lesson, template):
 
 def linked_card(lesson):
     url='word/'+lesson['id']+'.html'
-    return re.sub(r'(<img\b[^>]*>)',lambda m:'<a href="'+url+'" aria-label="作品の個別ページ">'+m[1]+'</a>',lesson['html'],count=1).replace('</h2>','</h2><p><a href="'+url+'">個別ページ・投稿用リンク</a></p>',1)
+    return re.sub(r'(<img\b[^>]*>)',lambda m:'<a href="'+url+'" aria-label="作品の個別ページ">'+m[1]+'</a>',lesson['html'],count=1).replace('</div></article>','<p class="detail-link"><a href="'+url+'">個別ページ ↗</a></p></div></article>')
 
 def main():
     lessons=json.loads((root/'lessons.json').read_text(encoding='utf-8'))
