@@ -452,181 +452,327 @@
     "author": "Eric Hoffer",
     "en": "Self-esteem and self-contempt have specific odors; they can be smelled.",
     "jp": "自尊心と自己嫌悪には独特の匂いがあり、それは嗅ぎ取れる。",
-    "id": "q0041"
+    "id": "q0041",
+    "tips": [
+      "self-esteem：自尊心",
+      "self-contempt：自己嫌悪、自己軽蔑",
+      "can be smelled：嗅ぎ取ることができる（受動態）"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "With some people solitariness is an escape not from others but from themselves. For they see in the eyes of others only a reflection of themselves.",
     "jp": "孤独は他人から逃れるためではなく、自分から逃れるためのものだという人もいる。他人の目に映るのは自分自身の姿だけだからだ。",
-    "id": "q0042"
+    "id": "q0042",
+    "tips": [
+      "solitariness：孤独、一人でいること",
+      "not from A but from B：AからではなくBから",
+      "reflection：映し出された像"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The beginning of thought is in disagreement - not only with others but also with ourselves.",
     "jp": "思考の始まりは意見の相違にある。それは他人との間だけでなく、自分との間にも起こる。",
-    "id": "q0043"
+    "id": "q0043",
+    "tips": [
+      "disagreement：意見の不一致",
+      "not only A but also B：AだけでなくBも"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The greatest weariness comes from work not done.",
     "jp": "最も大きな疲れは、やらなかった仕事から生まれる。",
-    "id": "q0044"
+    "id": "q0044",
+    "tips": [
+      "weariness：疲労、倦怠感",
+      "work not done：終えていない仕事（過去分詞による修飾）"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Our passionate preoccupation with the sky, the stars, and a God somewhere in outer space is a homing impulse. We are drawn back to where we came from.",
     "jp": "空や星、遠い宇宙の神への強い関心は、帰巣本能のようなものだ。私たちは自分が来た場所へと引き寄せられる。",
-    "id": "q0045"
+    "id": "q0045",
+    "tips": [
+      "preoccupation with：〜に心を奪われること",
+      "homing impulse：帰巣衝動",
+      "be drawn back to：〜へ引き戻される"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Those in possession of absolute power can not only prophesy and make their prophecies come true, but they can also lie and make their lies come true.",
     "jp": "絶対的な権力を持つ者は、予言してそれを実現させるだけでなく、嘘をついてその嘘を現実にすることもできる。",
-    "id": "q0046"
+    "id": "q0046",
+    "tips": [
+      "in possession of：〜を所有して",
+      "prophesy：予言する（動詞）／prophecy：予言（名詞）",
+      "come true：現実になる"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The suspicious mind believes more than it doubts. It believes in a formidable and ineradicable evil lurking in every person.",
     "jp": "疑い深い心は、疑う以上に信じてしまう。人の中には根深く消えない悪が潜んでいると信じるのだ。",
-    "id": "q0047"
+    "id": "q0047",
+    "tips": [
+      "suspicious：疑い深い",
+      "ineradicable：根絶できない",
+      "lurk：潜む"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is not so much the example of others we imitate as the reflection of ourselves in their eyes and the echo of ourselves in their words.",
     "jp": "私たちが真似するのは他人の行動そのものではなく、他人の目に映る自分や、他人の言葉に反響する自分だ。",
-    "id": "q0048"
+    "id": "q0048",
+    "tips": [
+      "not so much A as B：AというよりむしろB",
+      "imitate：まねる",
+      "echo：反響、こだま"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is the around-the-corner brand of hope that prompts people to action, while the distant hope acts as an opiate.",
     "jp": "人を行動に駆り立てるのは、すぐそこにある希望だ。遠すぎる希望は麻薬のように働く。",
-    "id": "q0049"
+    "id": "q0049",
+    "tips": [
+      "around-the-corner：間近に迫った",
+      "prompt A to action：Aを行動へ駆り立てる",
+      "opiate：麻薬、感覚を麻痺させるもの"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "There is probably an element of malice in our readiness to overestimate people - we are, as it were, laying up for ourselves the pleasure of later cutting them down to size.",
     "jp": "人を過大評価しやすいのは、あとでその評価を引き下げて楽しむためかもしれない。",
-    "id": "q0050"
+    "id": "q0050",
+    "tips": [
+      "malice：悪意",
+      "as it were：いわば",
+      "cut someone down to size：人の思い上がりをくじく"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Nationalist pride, like other variants of pride, can be a substitute for self-respect.",
     "jp": "民族的な誇りは、他の種類の誇りと同じく、自尊心の代用品になりうる。",
-    "id": "q0051"
+    "id": "q0051",
+    "tips": [
+      "nationalist：国家主義の",
+      "variant：変種、異なる形",
+      "a substitute for：〜の代わりとなるもの"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The game of history is usually played by the best and the worst over the heads of the majority in the middle.",
     "jp": "歴史というゲームは、たいてい真ん中にいる大多数の頭越しに、最良と最悪の者たちによって行われる。",
-    "id": "q0052"
+    "id": "q0052",
+    "tips": [
+      "over the heads of：〜を差し置いて",
+      "the majority：大多数",
+      "the best and the worst：最良の人々と最悪の人々"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Compassion alone stands apart from the continuous traffic between good and evil proceeding within us.",
     "jp": "思いやりだけが、私たちの内で続く善と悪の往来から離れて存在している。",
-    "id": "q0053"
+    "id": "q0053",
+    "tips": [
+      "compassion：思いやり",
+      "stand apart from：〜とは一線を画す",
+      "proceed：進行する"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Children are the keys of paradise.",
     "jp": "子どもは天国の鍵だ。",
-    "id": "q0054"
+    "id": "q0054",
+    "tips": [
+      "key：鍵、解決の手がかり",
+      "paradise：楽園"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Take away hatred from some people, and you have men without faith.",
     "jp": "ある人々から憎しみを取り除くと、信念を失った人間が残る。",
-    "id": "q0055"
+    "id": "q0055",
+    "tips": [
+      "take away A from B：BからAを取り去る",
+      "命令文 + and：〜すれば…となる",
+      "faith：信念、信仰"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The real Antichrist is he who turns the wine of an original idea into the water of mediocrity.",
     "jp": "本当の反キリストとは、独創的なアイデアという葡萄酒を凡庸という水に変えてしまう者だ。",
-    "id": "q0056"
+    "id": "q0056",
+    "tips": [
+      "Antichrist：反キリスト",
+      "turn A into B：AをBに変える",
+      "mediocrity：凡庸さ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We are least open to precise knowledge concerning the things we are most vehement about.",
     "jp": "最も激しく主張する事柄についてこそ、私たちは正確な知識を受け入れにくい。",
-    "id": "q0057"
+    "id": "q0057",
+    "tips": [
+      "be open to：〜を受け入れる姿勢がある",
+      "precise：正確な",
+      "vehement：激しい、熱烈な"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Our sense of power is more vivid when we break a man's spirit than when we win his heart.",
     "jp": "人の心をつかむよりも、その意志をくじいたときの方が、自分の力を強く感じる。",
-    "id": "q0058"
+    "id": "q0058",
+    "tips": [
+      "vivid：鮮明な、強烈な",
+      "break someone's spirit：人の気力をくじく",
+      "win someone's heart：人の心をつかむ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "To know a person's religion we need not listen to his profession of faith but must find his brand of intolerance.",
     "jp": "人の宗教を知るには、信仰告白ではなく、その人特有の不寛容を見つければいい。",
-    "id": "q0059"
+    "id": "q0059",
+    "tips": [
+      "need not do：〜する必要はない",
+      "profession of faith：信仰の告白",
+      "intolerance：不寛容"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "There is in most passions a shrinking away from ourselves. The passionate pursuer has all the earmarks of a fugitive.",
     "jp": "多くの情熱には、自分から逃げる性質がある。情熱的な追求者は、逃亡者の特徴をすべて備えている。",
-    "id": "q0060"
+    "id": "q0060",
+    "tips": [
+      "shrink away from：〜から身を引く",
+      "earmark：特徴、しるし",
+      "fugitive：逃亡者"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Where everything is possible miracles become commonplaces, but the familiar ceases to be self-evident.",
     "jp": "すべてが可能な場所では奇跡は当たり前になり、日常のことが自明ではなくなる。",
-    "id": "q0061"
+    "id": "q0061",
+    "tips": [
+      "commonplace：ありふれたもの",
+      "cease to do：〜しなくなる",
+      "self-evident：自明の"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Sometimes we feel the loss of a prejudice as a loss of vigor.",
     "jp": "偏見を失うことを、活力を失うことのように感じることがある。",
-    "id": "q0062"
+    "id": "q0062",
+    "tips": [
+      "prejudice：偏見",
+      "vigor：活力",
+      "feel A as B：AをBとして感じる"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Youth itself is a talent, a perishable talent.",
     "jp": "若さそのものが才能であり、消えてしまう才能だ。",
-    "id": "q0063"
+    "id": "q0063",
+    "tips": [
+      "youth：若さ",
+      "itself：それ自体（強調）",
+      "perishable：長持ちしない、失われやすい"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Action is at bottom a swinging and flailing of the arms to regain one's balance and keep afloat.",
     "jp": "行動とは結局、バランスを取り戻し、沈まないために腕を振り回すことだ。",
-    "id": "q0064"
+    "id": "q0064",
+    "tips": [
+      "at bottom：根本的には",
+      "flail：手足を激しく振り回す",
+      "keep afloat：浮かんだ状態を保つ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The fear of becoming a 'has-been' keeps some people from becoming anything.",
     "jp": "「落ちぶれた人」になることを恐れるあまり、何者にもなれない人がいる。",
-    "id": "q0065"
+    "id": "q0065",
+    "tips": [
+      "has-been：かつて活躍したが今は過去の人",
+      "keep A from -ing：Aが〜するのを妨げる"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Charlatanism of some degree is indispensable to effective leadership.",
     "jp": "多少のペテン性は、有能なリーダーシップに不可欠だ。",
-    "id": "q0066"
+    "id": "q0066",
+    "tips": [
+      "charlatanism：いかさま、知ったかぶり",
+      "of some degree：ある程度の",
+      "indispensable to：〜に不可欠な"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Dissipation is a form of self-sacrifice.",
     "jp": "放蕩は自己犠牲の一形態だ。",
-    "id": "q0067"
+    "id": "q0067",
+    "tips": [
+      "dissipation：放蕩、浪費",
+      "a form of：〜の一形態",
+      "self-sacrifice：自己犠牲"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "To the old, the new is usually bad news.",
     "jp": "年寄りにとって、新しいことはたいてい悪い知らせだ。",
-    "id": "q0068"
+    "id": "q0068",
+    "tips": [
+      "the old：年老いた人々",
+      "the new：新しいもの",
+      "bad news：悪い知らせ"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "There is sublime thieving in all giving. Someone gives us all he has and we are his.",
     "jp": "すべての与える行為には崇高な盗みがある。誰かが自分のすべてをくれたとき、私たちはその人のものになる。",
-    "id": "q0069"
+    "id": "q0069",
+    "tips": [
+      "sublime：崇高な",
+      "thieving：盗み",
+      "all he has：彼が持っているすべて"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Craving, not having, is the mother of a reckless giving of oneself.",
     "jp": "持っていないことへの渇望こそが、自分を無謀に差し出す母である。",
-    "id": "q0070"
+    "id": "q0070",
+    "tips": [
+      "craving：渇望",
+      "the mother of：〜を生み出すもの",
+      "reckless：無謀な"
+    ]
   },
   {
     "author": "Eric Hoffer",
