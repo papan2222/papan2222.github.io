@@ -6016,181 +6016,327 @@
     "author": "William James",
     "en": "An idea, to be suggestive, must come to the individual with the force of revelation.",
     "jp": "示唆に富むアイデアとは、啓示のような力を伴って個人に訪れるものである。",
-    "id": "q0551"
+    "id": "q0551",
+    "tips": [
+      "suggestive：示唆に富む",
+      "individual：個人",
+      "with the force of revelation：啓示のような強い衝撃を伴って"
+    ]
   },
   {
     "author": "William James",
     "en": "Truth lives, in fact, for the most part on a credit system.",
     "jp": "真実の多くは、信用制度の上で成り立っている。",
-    "id": "q0552"
+    "id": "q0552",
+    "tips": [
+      "in fact：実際には",
+      "for the most part：大部分は",
+      "credit system：信用制度（真理を信用取引にたとえた表現）"
+    ]
   },
   {
     "author": "William James",
     "en": "The ideas gained by men before they are twenty-five are practically the only ideas they shall have in their lives.",
     "jp": "25歳までに得た考えが、その後の人生で持ち続けるほぼ唯一の考えである。",
-    "id": "q0553"
+    "id": "q0553",
+    "tips": [
+      "ideas gained by：〜によって得られた考え",
+      "practically：事実上、ほとんど",
+      "shall have：将来持つことになる"
+    ]
   },
   {
     "author": "William James",
     "en": "One hearty laugh together will bring enemies into a closer communion of heart than hours spent wrestling with uncharitable feeling.",
     "jp": "心から一緒に笑えば、敵同士でも何時間も不寛容な感情と格闘するよりも心が近づく。",
-    "id": "q0554"
+    "id": "q0554",
+    "tips": [
+      "hearty laugh：心からの笑い",
+      "communion of heart：心の交流",
+      "wrestle with：〜と格闘する"
+    ]
   },
   {
     "author": "William James",
     "en": "Faith means belief in something concerning which doubt is theoretically possible.",
     "jp": "信仰とは、理論的には疑い得る事柄を信じることだ。",
-    "id": "q0555"
+    "id": "q0555",
+    "tips": [
+      "belief in：〜への信念",
+      "concerning which：それに関して（前置詞＋関係代名詞）",
+      "theoretically：理論上は"
+    ]
   },
   {
     "author": "William James",
     "en": "If any organism fails to fulfill its potentialities, it becomes sick.",
     "jp": "生物が潜在能力を発揮できなければ、それは病む。",
-    "id": "q0556"
+    "id": "q0556",
+    "tips": [
+      "organism：生物、有機体",
+      "fail to do：〜できない",
+      "fulfill one's potentialities：自らの潜在能力を発揮する"
+    ]
   },
   {
     "author": "William James",
     "en": "Every man who possibly can should force himself to a holiday of a full month in a year.",
     "jp": "可能な人は誰でも、年に1か月まるまる休暇を取るべきだ。",
-    "id": "q0557"
+    "id": "q0557",
+    "tips": [
+      "who possibly can：できる限り可能な人",
+      "force oneself to：自分に〜を強いる",
+      "a full month：丸一か月"
+    ]
   },
   {
     "author": "William James",
     "en": "There is only one thing a philosopher can be relied upon to do, and that is to contradict other philosophers.",
     "jp": "哲学者が必ずやると信頼できる唯一のことは、他の哲学者に反論することだ。",
-    "id": "q0558"
+    "id": "q0558",
+    "tips": [
+      "be relied upon to do：〜すると当てにできる",
+      "contradict：反論する、異議を唱える"
+    ]
   },
   {
     "author": "William James",
     "en": "The community stagnates without the impulse of the individual.",
     "jp": "個人の衝動がなければ共同体は停滞する。",
-    "id": "q0559"
+    "id": "q0559",
+    "tips": [
+      "community：共同体",
+      "stagnate：停滞する",
+      "impulse：推進力、刺激"
+    ]
   },
   {
     "author": "William James",
     "en": "The greatest enemy of any one of our truths may be the rest of our truths.",
     "jp": "ある真実の最大の敵は、他の真実である場合がある。",
-    "id": "q0560"
+    "id": "q0560",
+    "tips": [
+      "any one of：〜のうちのどれか一つ",
+      "the rest of：〜の残り"
+    ]
   },
   {
     "author": "William James",
     "en": "To be conscious means not simply to be, but to be reported, known, to have awareness of one's being added to that being.",
     "jp": "意識するとは、単に存在するだけでなく、自分が存在していることを認識し、報告できる状態である。",
-    "id": "q0561"
+    "id": "q0561",
+    "tips": [
+      "not simply A but B：単にAではなくB",
+      "awareness of：〜の自覚",
+      "one's being：自分の存在"
+    ]
   },
   {
     "author": "William James",
     "en": "The sovereign cure for worry is prayer.",
     "jp": "心配を癒す特効薬は祈りである。",
-    "id": "q0562"
+    "id": "q0562",
+    "tips": [
+      "sovereign：ここでは極めて効力のある",
+      "cure for：〜の治療法、解決策",
+      "prayer：祈り"
+    ]
   },
   {
     "author": "William James",
     "en": "In business for yourself, not by yourself.",
     "jp": "自分のために働け、しかし一人で働くな。",
-    "id": "q0563"
+    "id": "q0563",
+    "tips": [
+      "in business for yourself：自分で事業を営む",
+      "by yourself：一人で、他人の助けなしに"
+    ]
   },
   {
     "author": "William James",
     "en": "It is only by risking our persons from one hour to another that we live at all.",
     "jp": "危険を冒してこそ、私たちは本当に生きている。",
-    "id": "q0564"
+    "id": "q0564",
+    "tips": [
+      "It is only by ... that：〜によって初めて…する（強調構文）",
+      "risk one's person：自らの身を危険にさらす",
+      "at all：そもそも（強調）"
+    ]
   },
   {
     "author": "William James",
     "en": "We never fully grasp the import of any true statement until we understand what the opposite untrue statement would be.",
     "jp": "ある真実の重要性は、その反対の虚偽が何であるかを理解して初めて十分にわかる。",
-    "id": "q0565"
+    "id": "q0565",
+    "tips": [
+      "grasp：理解する、把握する",
+      "import：ここでは意味、重要性",
+      "not ... until：〜するまで…しない"
+    ]
   },
   {
     "author": "William James",
     "en": "Where quality is the thing sought after, the thing of supreme quality is cheap, whatever the price.",
     "jp": "最高品質のものを求めるなら、それがどんなに高価でも安いものだ。",
-    "id": "q0566"
+    "id": "q0566",
+    "tips": [
+      "seek after：〜を追い求める",
+      "supreme：最高の",
+      "whatever the price：価格がいくらであっても"
+    ]
   },
   {
     "author": "William James",
     "en": "Metaphysics means nothing but an unusually obstinate effort to think clearly.",
     "jp": "形而上学とは、異常なまでに頑固な明晰思考の試みである。",
-    "id": "q0567"
+    "id": "q0567",
+    "tips": [
+      "metaphysics：形而上学",
+      "nothing but：〜にほかならない",
+      "obstinate：頑固な、容易に諦めない"
+    ]
   },
   {
     "author": "William James",
     "en": "There is an organic affinity between joyousness and tenderness.",
     "jp": "喜びと優しさの間には、本質的なつながりがある。",
-    "id": "q0568"
+    "id": "q0568",
+    "tips": [
+      "organic affinity：本質的な親和性",
+      "joyousness：喜びに満ちた状態",
+      "tenderness：優しさ"
+    ]
   },
   {
     "author": "William James",
     "en": "To be radical, an empiricism must neither admit into its constructions any element not directly experienced, nor exclude any element that is directly experienced.",
     "jp": "徹底的であるためには、経験論は直接経験していない要素を取り入れず、直接経験した要素を排除しないことだ。",
-    "id": "q0569"
+    "id": "q0569",
+    "tips": [
+      "empiricism：経験主義",
+      "neither A nor B：AもBもしない",
+      "exclude：除外する"
+    ]
   },
   {
     "author": "William James",
     "en": "What every genuine philosopher craves most is praise, although they call it recognition.",
     "jp": "本物の哲学者が最も求めるのは称賛だが、彼らはそれを「承認」と呼ぶ。",
-    "id": "q0570"
+    "id": "q0570",
+    "tips": [
+      "genuine：真の、本物の",
+      "crave：切望する",
+      "recognition：承認、評価"
+    ]
   },
   {
     "author": "William James",
     "en": "Man lives for science as well as bread.",
     "jp": "人はパンのためだけでなく、科学のためにも生きる。",
-    "id": "q0571"
+    "id": "q0571",
+    "tips": [
+      "live for：〜のために生きる",
+      "as well as：〜だけでなく",
+      "bread：ここでは生活の糧の比喩"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "America is the only country that went from barbarism to decadence without civilization in between.",
     "jp": "アメリカは、文明を経ずに野蛮から退廃へと進んだ唯一の国だ。",
-    "id": "q0572"
+    "id": "q0572",
+    "tips": [
+      "barbarism：野蛮な状態",
+      "decadence：退廃",
+      "in between：その間に"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "One should always be in love. That is the reason one should never marry.",
     "jp": "人は常に恋をしているべきだ。だからこそ、結婚などしてはいけない。",
-    "id": "q0573"
+    "id": "q0573",
+    "tips": [
+      "be in love：恋をしている",
+      "That is the reason ...：それが〜する理由だ"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "An excellent man; he has no enemies; and none of his friends like him.",
     "jp": "立派な男だ。敵はいないが、友人たちからも好かれていない。",
-    "id": "q0574"
+    "id": "q0574",
+    "tips": [
+      "excellent：優れた",
+      "none of：〜のうち誰も〜ない",
+      "enemy：敵"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "We are all in the gutter, but some of us are looking at the stars.",
     "jp": "私たちは皆どん底にいるが、中には星を見上げている者もいる。",
-    "id": "q0575"
+    "id": "q0575",
+    "tips": [
+      "gutter：道路脇の排水溝（ここでは困窮した境遇の比喩）",
+      "look at：〜を見る",
+      "some of us：私たちのうちの何人か"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Ambition is the last refuge of the failure.",
     "jp": "野心は、敗者が最後に逃げ込む避難所だ。",
-    "id": "q0576"
+    "id": "q0576",
+    "tips": [
+      "ambition：野心",
+      "last refuge：最後のよりどころ",
+      "failure：ここでは失敗した人"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is absurd to divide people into good and bad. People are either charming or tedious.",
     "jp": "人を善悪で分けるなんてばかげている。人は魅力的か、退屈か、そのどちらかだ。",
-    "id": "q0577"
+    "id": "q0577",
+    "tips": [
+      "absurd：ばかげた",
+      "divide A into B：AをBに分類する",
+      "tedious：退屈な"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Moderation is a fatal thing. Nothing succeeds like excess.",
     "jp": "節度は命取りだ。成功するのは、いつだってやりすぎる者だ。",
-    "id": "q0578"
+    "id": "q0578",
+    "tips": [
+      "moderation：節度",
+      "fatal：致命的な",
+      "excess：過剰、度を越すこと"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The old believe everything, the middle-aged suspect everything, the young know everything.",
     "jp": "老人は何でも信じ、中年は何でも疑い、若者は何でも知っていると思っている。",
-    "id": "q0579"
+    "id": "q0579",
+    "tips": [
+      "the old / the young：高齢者／若者（the＋形容詞で人々を表す）",
+      "middle-aged：中年の",
+      "suspect：疑う"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I have the simplest tastes. I am always satisfied with the best.",
     "jp": "私の好みはとても単純だ。最高のものだけで満足する。",
-    "id": "q0580"
+    "id": "q0580",
+    "tips": [
+      "taste：好み、趣味",
+      "be satisfied with：〜に満足する",
+      "the best：最良のもの"
+    ]
   },
   {
     "author": "Oscar Wilde",
