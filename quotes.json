@@ -11497,181 +11497,323 @@
     "author": "Thoreau",
     "en": "I had three chairs in my house; one for solitude, two for friendship, three for society.",
     "jp": "私の家には椅子が三つあった。ひとりのために一つ、友情のために二つ、社会のために三つ。",
-    "id": "q1061"
+    "id": "q1061",
+    "tips": [
+      "solitude：一人で過ごすこと、孤独",
+      "society：ここでは人との交わり、社交",
+      "one for ..., two for ...：chairs の繰り返しを省略した表現"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Our life is frittered away by detail... simplify, simplify.",
     "jp": "人生は細事に消耗される… 簡素に、簡素に生きよ。",
-    "id": "q1062"
+    "id": "q1062",
+    "tips": [
+      "fritter away：時間やお金などを少しずつ浪費する",
+      "detail：細かな事柄",
+      "simplify：簡素にする、単純化する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Live your life, do your work, then take your hat.",
     "jp": "人生を生き、仕事をし、そして帽子を取って去れ。",
-    "id": "q1063"
+    "id": "q1063",
+    "tips": [
+      "live your life：自分の人生を生きる",
+      "do your work：自分の仕事を果たす",
+      "take your hat：帽子を取る（ここでは立ち去ることを示唆）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The perception of beauty is a moral test.",
     "jp": "美を感じ取ることは、人の心の試金石である。",
-    "id": "q1064"
+    "id": "q1064",
+    "tips": [
+      "perception：知覚、物事を感じ取ること",
+      "moral test：道徳性を測る試金石"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The smallest seed of faith is better than the largest fruit of happiness.",
     "jp": "信じる心の小さな種は、どんな大きな幸福の実より価値がある。",
-    "id": "q1065"
+    "id": "q1065",
+    "tips": [
+      "seed of faith：信仰や信念の種",
+      "fruit of happiness：幸福の果実",
+      "better than：〜よりも価値がある"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We must live in the present, launch yourself on every wave, find your eternity in each moment.",
     "jp": "今を生き、あらゆる波に飛び乗り、一瞬一瞬の中に永遠を見つけよ。",
-    "id": "q1066"
+    "id": "q1066",
+    "tips": [
+      "live in the present：今を生きる",
+      "launch yourself on：〜へと身を投じる",
+      "eternity：永遠"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Friends... they cherish one another's hopes. They are kind to one another's dreams.",
     "jp": "友とは、互いの希望を大切にし、互いの夢に優しく寄り添う人だ。",
-    "id": "q1067"
+    "id": "q1067",
+    "tips": [
+      "cherish：大切にする",
+      "one another's：お互いの",
+      "be kind to：〜に優しく接する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is no remedy for love but to love more.",
     "jp": "愛に効く薬はただひとつ、もっと愛することだ。",
-    "id": "q1068"
+    "id": "q1068",
+    "tips": [
+      "remedy for：〜に対する治療法、解決策",
+      "no ... but：〜以外には…がない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I am grateful for what I am and have. My thanksgiving is perpetual.",
     "jp": "私は自分があること、自分が持っていることに感謝する。その感謝は絶え間ない。",
-    "id": "q1069"
+    "id": "q1069",
+    "tips": [
+      "be grateful for：〜に感謝する",
+      "what I am and have：自分自身のあり方と自分が持つもの",
+      "perpetual：絶え間ない、永続する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "When I hear music, I fear no danger. I am invulnerable. I see no foe. I am related to the earliest times, and to the latest.",
     "jp": "音楽を聴くと、私は危険を恐れない。無敵となり、敵も見えず、古代とも未来ともつながる。",
-    "id": "q1070"
+    "id": "q1070",
+    "tips": [
+      "invulnerable：傷つけられることのない",
+      "foe：敵（文学的な語）",
+      "be related to：〜とつながっている"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Many men go fishing all of their lives without knowing that it is not fish they are after.",
     "jp": "多くの人は一生釣りをするが、求めているのは魚ではないことに気づかない。",
-    "id": "q1071"
+    "id": "q1071",
+    "tips": [
+      "go fishing：釣りに行く",
+      "be after：〜を求めている",
+      "it is not fish ...：求めているものは魚ではないという強調表現"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It takes two to speak the truth: one to speak, and another to hear.",
     "jp": "真実を語るには二人必要だ。語る人と、聴く人と。",
-    "id": "q1072"
+    "id": "q1072",
+    "tips": [
+      "It takes two to do：〜するには二人が必要だ",
+      "one ... another ...：一人は〜、もう一人は…"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Not until we are lost do we begin to understand ourselves.",
     "jp": "迷って初めて、自分を理解し始める。",
-    "id": "q1073"
+    "id": "q1073",
+    "tips": [
+      "Not until ... do we ...：〜して初めて…する（否定表現が文頭に出る倒置）",
+      "be lost：道に迷う、自分の進む道を見失う"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "As you simplify your life, the laws of the universe will be simpler; solitude will not be solitude, poverty will not be poverty, nor weakness weakness.",
     "jp": "人生を簡素にすれば、宇宙の法則も簡素になる。孤独は孤独でなく、貧しさは貧しさでなく、弱さは弱さでなくなる。",
-    "id": "q1074"
+    "id": "q1074",
+    "tips": [
+      "as：〜するにつれて",
+      "solitude：孤独、一人でいること",
+      "nor weakness weakness：nor will weakness be weakness の省略"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Disobedience is the true foundation of liberty. The obedient must be slaves.",
     "jp": "不服従こそ自由の基盤だ。服従する者は奴隷でしかない。",
-    "id": "q1075"
+    "id": "q1075",
+    "tips": [
+      "disobedience：不服従",
+      "foundation of liberty：自由の土台",
+      "the obedient：従順な人々（the＋形容詞）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "What is once well done is done forever.",
     "jp": "一度うまくやったことは、永遠に成し遂げられたままだ。",
-    "id": "q1076"
+    "id": "q1076",
+    "tips": [
+      "what is once well done：一度しっかりと成し遂げられたこと",
+      "forever：永遠に（成果の永続性を強調）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Wealth is the ability to fully experience life.",
     "jp": "富とは、人生を存分に味わう力だ。",
-    "id": "q1077"
+    "id": "q1077",
+    "tips": [
+      "wealth：富、豊かさ",
+      "the ability to do：〜する能力",
+      "fully：十分に、存分に"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
     "jp": "夢に向かって自信を持って進み、思い描いた人生を生きようとすれば、思いがけない成功が訪れる。",
-    "id": "q1078"
+    "id": "q1078",
+    "tips": [
+      "advance confidently：自信を持って進む",
+      "endeavor to do：〜しようと努める",
+      "meet with success：成功を収める"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There are a thousand hacking at the branches of evil to one who is striking at the root.",
     "jp": "悪の枝を切る者は千人いても、その根を断とうとする者は一人しかいない。",
-    "id": "q1079"
+    "id": "q1079",
+    "tips": [
+      "hack at：〜を乱暴に切りつける",
+      "strike at the root：根を打つ（問題の根本に取り組む比喩）",
+      "a thousand ... to one：一人に対して千人という対比"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Our truest life is when we are in dreams awake.",
     "jp": "夢の中で目覚めているとき、私たちはもっとも真実の人生を生きている。",
-    "id": "q1080"
+    "id": "q1080",
+    "tips": [
+      "truest：true の最上級（最も真実の、最も本質的な）",
+      "awake：目覚めている（夢の中にいることとの逆説的な対比）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Could a greater miracle take place than for us to look through each other's eyes for an instant?",
     "jp": "互いの目を通して世界を見られる奇跡以上のものがあるだろうか。",
-    "id": "q1081"
+    "id": "q1081",
+    "tips": [
+      "take place：起こる",
+      "look through each other's eyes：互いの目を通して見る（相手の視点に立つ比喩）",
+      "for an instant：ほんの一瞬"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The man who goes alone can start today; but he who travels with another must wait till that other is ready.",
     "jp": "一人で行く人は今日から出発できるが、誰かと行く人は相手の準備を待たねばならない。",
-    "id": "q1082"
+    "id": "q1082",
+    "tips": [
+      "go alone：一人で行く",
+      "he who：〜する人（古風な表現）",
+      "till：〜するまで"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Things do not change; we change.",
     "jp": "変わるのは物ではなく、私たちだ。",
-    "id": "q1083"
+    "id": "q1083",
+    "tips": [
+      "things：物事、周囲の状況",
+      "Things do not change; we change.：同じ動詞を繰り返し、外界と自分自身の変化を対比している"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Goodness is the only investment that never fails.",
     "jp": "善は決して失敗しない唯一の投資だ。",
-    "id": "q1084"
+    "id": "q1084",
+    "tips": [
+      "goodness：善良さ",
+      "investment：投資（善行を投資にたとえている）",
+      "never fail：決して失敗しない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If we will be quiet and ready enough, we shall find compensation in every disappointment.",
     "jp": "静かに心を整えれば、あらゆる失望に償いを見いだせる。",
-    "id": "q1085"
+    "id": "q1085",
+    "tips": [
+      "shall：ここでは未来への確信を表す",
+      "compensation：埋め合わせ、償い",
+      "disappointment：失望、期待外れ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "What lies behind us and what lies ahead of us are tiny matters compared to what lives within us.",
     "jp": "私たちの後ろにあることや前にあることは、心の中にあるものに比べれば小さなことだ。",
-    "id": "q1086"
+    "id": "q1086",
+    "tips": [
+      "lie behind / ahead of：〜の後ろ／前にある（過去と未来の比喩）",
+      "compared to：〜と比べると",
+      "within us：私たちの内面に"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "None are so old as those who have outlived enthusiasm.",
     "jp": "情熱を失った人ほど老いた人はいない。",
-    "id": "q1087"
+    "id": "q1087",
+    "tips": [
+      "none：誰も〜ない",
+      "outlive：〜より長く生きる、ここでは情熱を失った後も生き続ける",
+      "enthusiasm：熱意、情熱"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is only when we forget all our learning that we begin to know.",
     "jp": "学んだことをすべて忘れて初めて、本当に知ることが始まる。",
-    "id": "q1088"
+    "id": "q1088",
+    "tips": [
+      "It is only when ... that ...：〜して初めて…する（強調構文）",
+      "learning：学んだ知識、学識"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.",
     "jp": "仲間と歩調を合わせない人がいたら、それは別の太鼓の音を聞いているからだ。たとえ遠く微かな音でも、その音に従って歩けばよい。",
-    "id": "q1089"
+    "id": "q1089",
+    "tips": [
+      "keep pace with：〜と歩調を合わせる",
+      "hear a different drummer：他人とは異なる価値観やリズムに従う比喩",
+      "however measured or far away：どれほどゆったりした調子でも、遠くから聞こえても"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Make the most of your regrets; never smother your sorrow, but tend and cherish it till it comes to have a separate and integral interest. To regret deeply is to live afresh.",
     "jp": "後悔を最大限に活かせ。悲しみを押し殺さず、大切に育てよ。深い後悔は新しい人生を生む。",
-    "id": "q1090"
+    "id": "q1090",
+    "tips": [
+      "make the most of：〜を最大限に生かす",
+      "smother：押し殺す、抑え込む",
+      "afresh：新たに、もう一度"
+    ]
   },
   {
     "author": "Thoreau",
