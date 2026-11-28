@@ -10210,181 +10210,322 @@
     "author": "R. W. Emerson",
     "en": "Every mind must make its choice between truth and repose. It cannot have both.",
     "jp": "心は真実か安らぎか、どちらかを選ばねばならない。両方は持てない。",
-    "id": "q0941"
+    "id": "q0941",
+    "tips": [
+      "make one's choice between A and B：AとBのどちらかを選ぶ",
+      "repose：安らぎ、休息",
+      "have both：両方を手に入れる"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Children are all foreigners.",
     "jp": "子どもは皆、外国人のような存在だ。",
-    "id": "q0942"
+    "id": "q0942",
+    "tips": [
+      "foreigner：外国人、異邦人",
+      "all：例外なくすべて（子どもを大人とは異なる世界の住人にたとえている）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "I like the silent church before the service begins, better than any preaching.",
     "jp": "礼拝が始まる前の静かな教会が、どんな説教よりも好きだ。",
-    "id": "q0943"
+    "id": "q0943",
+    "tips": [
+      "service：ここでは教会の礼拝",
+      "preaching：説教",
+      "better than：〜よりも好む（like と呼応）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every natural fact is a symbol of some spiritual fact.",
     "jp": "自然界のあらゆる事実は、精神的な事実の象徴だ。",
-    "id": "q0944"
+    "id": "q0944",
+    "tips": [
+      "natural fact：自然界の事実",
+      "a symbol of：〜の象徴",
+      "spiritual：精神的な、霊的な"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "What you are comes to you.",
     "jp": "自分の本質が、自分のもとに返ってくる。",
-    "id": "q0945"
+    "id": "q0945",
+    "tips": [
+      "what you are：あなた自身のあり方",
+      "come to：〜のもとにやって来る"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The sum of wisdom is that time is never lost that is devoted to work.",
     "jp": "働く時間は決して無駄にはならない、これが知恵の要約だ。",
-    "id": "q0946"
+    "id": "q0946",
+    "tips": [
+      "the sum of wisdom：知恵の要諦",
+      "be devoted to：〜に充てられる、捧げられる",
+      "that is devoted to work：time を修飾する関係節"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We must be our own before we can be another's.",
     "jp": "他者のものになる前に、まず自分のものにならなければならない。",
-    "id": "q0947"
+    "id": "q0947",
+    "tips": [
+      "be our own：自分自身の主人である、自立している",
+      "another's：他の人のもの（所有を表す）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "For everything you have missed, you have gained something else, and for everything you gain, you lose something else.",
     "jp": "失ったものがあれば、必ず得たものもある。得れば、何かを失う。",
-    "id": "q0948"
+    "id": "q0948",
+    "tips": [
+      "for everything：〜の一つ一つに対して",
+      "gain：得る",
+      "something else：何か別のもの"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "God enters by a private door into every individual.",
     "jp": "神はすべての人の心に、密やかに入ってくる。",
-    "id": "q0949"
+    "id": "q0949",
+    "tips": [
+      "enter by：〜を通って入る",
+      "private door：個人専用の扉（神との個人的なつながりの比喩）",
+      "individual：個人"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We are a puny and fickle folk. Avarice, hesitation, and following are our diseases.",
     "jp": "私たちは弱く移り気な存在であり、強欲と迷い、付和雷同が病だ。",
-    "id": "q0950"
+    "id": "q0950",
+    "tips": [
+      "puny：ちっぽけな、弱々しい",
+      "fickle：気まぐれな、移り気な",
+      "avarice：強欲"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nothing external to you has any power over you.",
     "jp": "自分の外側にあるものは、あなたを支配できない。",
-    "id": "q0951"
+    "id": "q0951",
+    "tips": [
+      "external to：〜の外部にある",
+      "have power over：〜を支配する力を持つ"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "To be great is to be misunderstood.",
     "jp": "偉大であるということは、誤解されるということだ。",
-    "id": "q0952"
+    "id": "q0952",
+    "tips": [
+      "to be great：偉大であること（不定詞が主語）",
+      "be misunderstood：誤解される（受動態）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The value of a dollar is social, as it is created by society.",
     "jp": "ドルの価値は社会が作るものであり、それは社会的なものだ。",
-    "id": "q0953"
+    "id": "q0953",
+    "tips": [
+      "social：社会的な",
+      "as：ここでは理由を表し、〜なので",
+      "be created by：〜によって生み出される"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "It was high counsel that I once heard given to a young person, 'always do what you are afraid to do.'",
     "jp": "若者への最良の助言は「恐れることこそやれ」だ。",
-    "id": "q0954"
+    "id": "q0954",
+    "tips": [
+      "counsel：助言、忠告",
+      "hear A given：Aが与えられるのを聞く",
+      "be afraid to do：怖くて〜するのをためらう"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every book is a quotation; and every house is a quotation out of all forests, and mines, and stone quarries; and every man is a quotation from all his ancestors.",
     "jp": "本も家も人も、森や鉱山や石切場、そして祖先からの引用でできている。",
-    "id": "q0955"
+    "id": "q0955",
+    "tips": [
+      "quotation：引用（建物や人も過去から受け継いだものだという比喩）",
+      "stone quarry：石切り場、採石場",
+      "ancestor：祖先"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We are rich only through what we give, and poor only through what we refuse.",
     "jp": "与えることで豊かになり、拒むことで貧しくなる。",
-    "id": "q0956"
+    "id": "q0956",
+    "tips": [
+      "through：〜を通じて、〜によって",
+      "what we give：私たちが与えるもの",
+      "refuse：拒む"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Make yourself necessary to somebody.",
     "jp": "誰かにとって必要な存在になれ。",
-    "id": "q0957"
+    "id": "q0957",
+    "tips": [
+      "make oneself necessary to：〜にとって必要な存在になる",
+      "somebody：誰か、ある人"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "What is a farm but a mute gospel?",
     "jp": "農場は、無言の福音書だ。",
-    "id": "q0958"
+    "id": "q0958",
+    "tips": [
+      "What is A but B?：AはBにほかならない（修辞疑問）",
+      "mute：声を発しない",
+      "gospel：福音、教え"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Life is our dictionary.",
     "jp": "人生は私たちの辞書だ。",
-    "id": "q0959"
+    "id": "q0959",
+    "tips": [
+      "dictionary：辞書（人生そのものが意味を教えてくれるという比喩）",
+      "our：私たちの"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Some books leave us free and some books make us free.",
     "jp": "ある本は私たちを自由にし、ある本は私たちを自由にしてくれる。",
-    "id": "q0960"
+    "id": "q0960",
+    "tips": [
+      "leave A free：Aを自由な状態のままにする",
+      "make A free：Aを自由にする（leave と make の対比）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Truth is the property of no individual but is the treasure of all men.",
     "jp": "真実は誰の所有物でもなく、全人類の宝だ。",
-    "id": "q0961"
+    "id": "q0961",
+    "tips": [
+      "property：所有物",
+      "treasure：宝物、貴重なもの",
+      "no individual：いかなる個人も〜ない"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Knowledge is knowing that we cannot know.",
     "jp": "知識とは、私たちが知ることができないと知ることだ。",
-    "id": "q0962"
+    "id": "q0962",
+    "tips": [
+      "knowledge：知識",
+      "knowing that：〜ということを知っていること",
+      "cannot know：知ることができない"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Philosophically considered, the universe is composed of Nature and the Soul. Strictly speaking, therefore, all that is separate from us, all which Philosophy distinguishes as the 'Not Me,' that is, both nature and art, all other men and my own body, must be ranked under this name, 'Nature.'",
     "jp": "哲学的に言えば、宇宙は自然と魂で構成される。厳密には、自分以外のすべて──自然も芸術も他人も自分の肉体も──「自然」に含まれる。",
-    "id": "q0963"
+    "id": "q0963",
+    "tips": [
+      "philosophically considered：哲学的に考えると",
+      "be composed of：〜から構成される",
+      "be ranked under：〜の分類に入れられる"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The martyr cannot be dishonored. Every lash inflicted is a tongue of fame; every prison a more illustrious abode.",
     "jp": "殉教者は辱められない。鞭打ちは名声の言葉となり、牢獄は輝かしい住まいとなる。",
-    "id": "q0964"
+    "id": "q0964",
+    "tips": [
+      "martyr：殉教者、信念のために犠牲となる人",
+      "lash inflicted：加えられたむち打ち",
+      "illustrious abode：名誉ある住まい"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "It is said that the world is in a state of bankruptcy, that the world owes the world more than the world can pay.",
     "jp": "世界は破産状態にあり、返せないほどの借りを世界に負っていると言われる。",
-    "id": "q0965"
+    "id": "q0965",
+    "tips": [
+      "It is said that：〜と言われている",
+      "in a state of bankruptcy：破産状態にある",
+      "owe：〜に借りがある"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Without electricity, the air would rot.",
     "jp": "電気がなければ、空気は腐ってしまうだろう。",
-    "id": "q0966"
+    "id": "q0966",
+    "tips": [
+      "without：〜がなければ（仮定を表す）",
+      "would rot：腐敗するだろう（原文の仮定的な主張）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every known fact in natural science was divined by the presentiment of somebody, before it was actually verified.",
     "jp": "自然科学のあらゆる事実は、実証される前に、誰かの直感が先に感じ取っていた。",
-    "id": "q0967"
+    "id": "q0967",
+    "tips": [
+      "divine：直感で見抜く（動詞）",
+      "presentiment：予感、直感的な予想",
+      "verify：検証する、確かめる"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Beauty is an outward gift, which is seldom despised, except by those to whom it has been refused.",
     "jp": "美は外から与えられる贈り物で、それを持たない者だけが軽んじる。",
-    "id": "q0968"
+    "id": "q0968",
+    "tips": [
+      "outward gift：外見上の恵まれた資質",
+      "seldom：めったに〜ない",
+      "those to whom：〜された人々（前置詞付きの関係代名詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man is a method, a progressive arrangement; a selecting principle, gathering his like to him; wherever he goes.",
     "jp": "人はひとつの方法であり、進化する秩序であり、似た者を引き寄せる原理でもある。",
-    "id": "q0969"
+    "id": "q0969",
+    "tips": [
+      "progressive arrangement：段階的に発展する構成",
+      "selecting principle：選び取る原理",
+      "his like：自分と同類のものや人"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The value of a principle is the number of things it will explain.",
     "jp": "原則の価値は、それでどれだけ多くのことを説明できるかで決まる。",
-    "id": "q0970"
+    "id": "q0970",
+    "tips": [
+      "principle：原理、原則",
+      "the number of：〜の数",
+      "things it will explain：その原理で説明できる事柄（関係代名詞が省略されている）"
+    ]
   },
   {
     "author": "R. W. Emerson",
