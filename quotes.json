@@ -2742,181 +2742,329 @@
     "author": "Mark Twain",
     "en": "All emotion is involuntary when genuine.",
     "jp": "本物の感情は、すべて自発的ではない。",
-    "id": "q0251"
+    "id": "q0251",
+    "tips": [
+      "involuntary：無意識の、自分の意志によらない",
+      "genuine：本物の、偽りのない",
+      "when genuine：when it is genuine の省略"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It is easier to stay out than get out.",
     "jp": "入り込むよりも、最初から関わらない方が簡単だ。",
-    "id": "q0252"
+    "id": "q0252",
+    "tips": [
+      "stay out：外にいる、関わらずにいる",
+      "get out：抜け出す",
+      "easier to A than B：BするよりAする方が容易だ"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Do not tell fish stories where the people know you; but particularly, don't tell them where they know the fish.",
     "jp": "自分を知っている人の前で釣りの話をするな。特に魚を知っている人の前ではするな。",
-    "id": "q0253"
+    "id": "q0253",
+    "tips": [
+      "fish story：大げさな話、ほら話",
+      "particularly：特に",
+      "where：〜する場所で"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When we remember we are all mad, the mysteries disappear and life stands explained.",
     "jp": "私たちは皆狂っていることを思い出せば、謎は消え、人生は説明がつく。",
-    "id": "q0254"
+    "id": "q0254",
+    "tips": [
+      "mad：正気でない",
+      "mystery：謎",
+      "stand explained：説明がついた状態にある"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "There are times when one would like to hang the whole human race, and finish the farce.",
     "jp": "人類全体を吊るし上げて、この茶番を終わらせたくなる時がある。",
-    "id": "q0255"
+    "id": "q0255",
+    "tips": [
+      "there are times when：〜したい時もある",
+      "would like to do：〜したい",
+      "farce：茶番、ばかげた状況"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Water, taken in moderation, cannot hurt anybody.",
     "jp": "水は、適量なら誰にも害を与えない。",
-    "id": "q0256"
+    "id": "q0256",
+    "tips": [
+      "taken in moderation：適度に摂取されれば（過去分詞構文）",
+      "in moderation：適度に",
+      "hurt：害を与える"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Few of us can stand prosperity. Another man's, I mean.",
     "jp": "繁栄に耐えられる人は少ない。特に他人の繁栄には。",
-    "id": "q0257"
+    "id": "q0257",
+    "tips": [
+      "few of us：私たちのうちほとんど誰も〜ない",
+      "stand：耐える",
+      "prosperity：繁栄、成功"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Truth is mighty and will prevail. There is nothing wrong with this, except that it ain't so.",
     "jp": "真実は強く、必ず勝つ。これには何の問題もない——事実でないことを除けば。",
-    "id": "q0258"
+    "id": "q0258",
+    "tips": [
+      "mighty：強大な",
+      "prevail：勝つ、広く受け入れられる",
+      "ain't so：そうではない（くだけた表現）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "A round man cannot be expected to fit in a square hole right away. He must have time to modify his shape.",
     "jp": "丸い人間がすぐに四角い穴に収まるとは期待できない。形を変える時間が必要だ。",
-    "id": "q0259"
+    "id": "q0259",
+    "tips": [
+      "be expected to do：〜することを期待される",
+      "right away：すぐに",
+      "modify：修正する、変える"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The man who is a pessimist before 48 knows too much; if he is an optimist after it, he knows too little.",
     "jp": "48歳前に悲観主義者である人は知りすぎている。48歳以降に楽観主義者である人は知らなすぎる。",
-    "id": "q0260"
+    "id": "q0260",
+    "tips": [
+      "pessimist：悲観主義者",
+      "optimist：楽観主義者",
+      "too little：少なすぎる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I never let schooling interfere with my education.",
     "jp": "私は学校教育が自分の学びを妨げることを許さない。",
-    "id": "q0261"
+    "id": "q0261",
+    "tips": [
+      "schooling：学校教育",
+      "interfere with：〜を妨げる",
+      "let A do：Aに〜させる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Substitute 'damn' every time you're inclined to write 'very'; your editor will delete it and the writing will be just as it should be.",
     "jp": "「very」と書きたくなったら「damn」に置き換えろ。編集者がそれを削除して、文章はちょうどよくなる。",
-    "id": "q0262"
+    "id": "q0262",
+    "tips": [
+      "substitute：代わりに用いる",
+      "be inclined to do：〜する気になる、〜しがちである",
+      "just as it should be：まさにあるべき姿で"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.",
     "jp": "なぜ誕生を喜び、葬式を悲しむのか？ それは私たちが当事者でないからだ。",
-    "id": "q0263"
+    "id": "q0263",
+    "tips": [
+      "rejoice at：〜を喜ぶ",
+      "grieve at：〜を悲しむ",
+      "the person involved：当事者"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Sometimes too much to drink is barely enough.",
     "jp": "飲みすぎでやっと足りることもある。",
-    "id": "q0264"
+    "id": "q0264",
+    "tips": [
+      "too much to drink：飲みすぎるほどの量",
+      "barely enough：かろうじて十分な量"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "There are several good protections against temptation, but the surest is cowardice.",
     "jp": "誘惑から身を守る良い方法はいくつかあるが、最も確実なのは臆病さだ。",
-    "id": "q0265"
+    "id": "q0265",
+    "tips": [
+      "protection against：〜から守るもの",
+      "temptation：誘惑",
+      "cowardice：臆病さ"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "We are all alike, on the inside.",
     "jp": "内側は、私たちは皆同じだ。",
-    "id": "q0266"
+    "id": "q0266",
+    "tips": [
+      "alike：似ている（叙述用法の形容詞）",
+      "on the inside：内面では"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Thousands of geniuses live and die undiscovered - either by themselves or by others.",
     "jp": "何千人もの天才が、自分自身にも他人にも発見されないまま生き、死んでいく。",
-    "id": "q0267"
+    "id": "q0267",
+    "tips": [
+      "genius：天才",
+      "undiscovered：発見されないまま",
+      "either A or B：AかBのいずれか"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "No sinner is ever saved after the first twenty minutes of a sermon.",
     "jp": "説教の最初の20分を過ぎて救われた罪人はいない。",
-    "id": "q0268"
+    "id": "q0268",
+    "tips": [
+      "sinner：罪人",
+      "be saved：救われる",
+      "sermon：説教"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Prophesy is a good line of business, but it is full of risks.",
     "jp": "予言は儲かる商売だが、危険も多い。",
-    "id": "q0269"
+    "id": "q0269",
+    "tips": [
+      "line of business：業種、商売の分野",
+      "be full of：〜でいっぱいである",
+      "Prophesy は通常動詞。ここでは名詞 prophecy（予言）の表記と考えられる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "What a wee little part of a person's life are his acts and his words! His real life is led in his head, and is known to none but himself.",
     "jp": "人の人生のうち、行動や言葉が占める部分はほんのわずかだ。本当の人生は頭の中にあり、自分以外の誰にも知られない。",
-    "id": "q0270"
+    "id": "q0270",
+    "tips": [
+      "wee：ごく小さな",
+      "lead a life：人生を送る（本文では受動態）",
+      "none but：〜以外の誰も〜ない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "One of the most striking differences between a cat and a lie is that a cat has only nine lives.",
     "jp": "猫と嘘の際立った違いの一つは、猫には九つの命しかないことだ。",
-    "id": "q0271"
+    "id": "q0271",
+    "tips": [
+      "one of the most + 形容詞 + 複数名詞：最も〜なものの一つ",
+      "striking：際立った",
+      "nine lives：猫には九つの命があるという言い伝え"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Don't say the old lady screamed. Bring her on and let her scream.",
     "jp": "おばあさんが叫んだと言うな。彼女を登場させて叫ばせろ。",
-    "id": "q0272"
+    "id": "q0272",
+    "tips": [
+      "scream：叫ぶ",
+      "bring her on：彼女を登場させる",
+      "let her scream：彼女に叫ばせる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "How lucky Adam was. He knew when he said a good thing, nobody had said it before.",
     "jp": "アダムは幸運だった。良いことを言えば、それが初めての言葉だとわかっていたからだ。",
-    "id": "q0273"
+    "id": "q0273",
+    "tips": [
+      "How lucky ...!：なんと幸運なのだろう（感嘆文）",
+      "had said：言っていた（過去完了）",
+      "before：以前に"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "He is now rising from affluence to poverty.",
     "jp": "彼は今、裕福から貧困へと昇っている。",
-    "id": "q0274"
+    "id": "q0274",
+    "tips": [
+      "affluence：裕福さ",
+      "poverty：貧困",
+      "rise from A to B：AからBへ上昇する（ここでは皮肉）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "As an example to others, and not that I care for moderation myself, it has always been my rule never to smoke when asleep, and never to refrain from smoking when awake.",
     "jp": "他人への見本として——自分が節度を気にしているわけではない——眠っているときは決して吸わず、起きているときは決して禁煙しないのが私のルールだ。",
-    "id": "q0275"
+    "id": "q0275",
+    "tips": [
+      "care for：〜を好む、重んじる",
+      "refrain from -ing：〜するのを控える",
+      "when asleep / awake：眠っているとき／起きているとき"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When people do not respect us we are sharply offended; yet in his private heart no man much respects himself.",
     "jp": "人に尊敬されないと強く腹を立てるが、心の中では誰も自分をそれほど尊敬していない。",
-    "id": "q0276"
+    "id": "q0276",
+    "tips": [
+      "be offended：気分を害する",
+      "sharply：強く、激しく",
+      "yet：それにもかかわらず"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Honesty is the best policy - when there is money in it.",
     "jp": "正直は最良の策だ——そこに金が絡んでいれば。",
-    "id": "q0277"
+    "id": "q0277",
+    "tips": [
+      "honesty：正直さ",
+      "policy：方針、処世法",
+      "there is money in it：それで金がもうかる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Often it does seem such a pity that Noah and his party did not miss the boat.",
     "jp": "ノアとその一行が船に乗り遅れなかったのは、実に残念に思えることがある。",
-    "id": "q0278"
+    "id": "q0278",
+    "tips": [
+      "such a pity：実に残念なこと",
+      "party：一行、仲間",
+      "miss the boat：船に乗り遅れる（一般には好機を逃すという意味もある）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Civilization is the limitless multiplication of unnecessary necessities.",
     "jp": "文明とは、不要な必需品の無限の増殖だ。",
-    "id": "q0279"
+    "id": "q0279",
+    "tips": [
+      "civilization：文明",
+      "limitless：限りない",
+      "multiplication：増加、増殖"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "India has 2,000,000 gods and worships them all. In religion, all other countries are paupers; India is the only millionaire.",
     "jp": "インドには200万の神がいて、そのすべてを崇拝している。宗教において、他の国々は貧者であり、インドだけが富豪だ。",
-    "id": "q0280"
+    "id": "q0280",
+    "tips": [
+      "worship：崇拝する",
+      "pauper：極めて貧しい人",
+      "millionaire：百万長者"
+    ]
   },
   {
     "author": "Mark Twain",
