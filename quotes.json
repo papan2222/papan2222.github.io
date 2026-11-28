@@ -14103,181 +14103,324 @@
     "author": "Goethe",
     "en": "Thinking is easy, acting is difficult, and to put one's thoughts into action is the most difficult thing in the world.",
     "jp": "考えるのは易しい、行動するのは難しい。そして考えを行動に移すのは世の中で最も難しい。",
-    "id": "q1301"
+    "id": "q1301",
+    "tips": [
+      "put one's thoughts into action：考えを行動に移す",
+      "thinking / acting：考えること／行動すること（動名詞）",
+      "the most difficult：最も難しい（最上級）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If God had wanted me otherwise, He would have created me otherwise.",
     "jp": "神が私を別の者にしたかったなら、最初からそう創っていただろう。",
-    "id": "q1302"
+    "id": "q1302",
+    "tips": [
+      "otherwise：違ったように、別の形で",
+      "If ... had wanted ..., would have created ...：もし〜を望んでいたなら…していただろう（仮定法過去完了）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A man's manners are a mirror in which he shows his portrait.",
     "jp": "人の礼儀作法は、その人自身の肖像を映す鏡だ。",
-    "id": "q1303"
+    "id": "q1303",
+    "tips": [
+      "manners：礼儀作法、振る舞い",
+      "in which：その中に（mirror を受ける関係代名詞）",
+      "portrait：肖像（振る舞いが人格を映すという比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Divide and rule, the politician cries; unite and lead, is the watchword of the wise.",
     "jp": "分割して支配せよと政治家は叫ぶ。団結して導けと賢者は言う。",
-    "id": "q1304"
+    "id": "q1304",
+    "tips": [
+      "divide and rule：分断して支配する",
+      "unite and lead：団結させて導く",
+      "watchword：標語、行動の指針"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Thinking is more interesting than knowing, but less interesting than looking.",
     "jp": "考えることは知ることより面白いが、見ることほど面白くはない。",
-    "id": "q1305"
+    "id": "q1305",
+    "tips": [
+      "thinking / knowing / looking：考えること／知ること／観察すること",
+      "more ... than / less ... than：〜よりも…／〜ほど…ではない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "What is not started today is never finished tomorrow.",
     "jp": "今日始めなければ、明日は決して終わらない。",
-    "id": "q1306"
+    "id": "q1306",
+    "tips": [
+      "what is not started：始められないこと、着手されないこと",
+      "be finished：完了する、仕上げられる（受動態）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Happiness is a ball after which we run wherever it rolls.",
     "jp": "幸福はボールのようなもの。転がる先へ追いかけ、止まれば足で転がす。",
-    "id": "q1307"
+    "id": "q1307",
+    "tips": [
+      "run after：〜を追いかける（after which は ball を受ける）",
+      "wherever：どこへ〜しても",
+      "roll：転がる（幸福を追い求める様子をボールにたとえている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Beauty is everywhere a welcome guest.",
     "jp": "美はどこでも歓迎される客である。",
-    "id": "q1308"
+    "id": "q1308",
+    "tips": [
+      "everywhere：どこでも",
+      "a welcome guest：歓迎される客（美しさの擬人化）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Talent develops in quiet places, character in the full current of human life.",
     "jp": "才能は静かな場所で育ち、人間性は人生の奔流の中で育つ。",
-    "id": "q1309"
+    "id": "q1309",
+    "tips": [
+      "talent：才能",
+      "character：人格",
+      "in the full current of human life：人間生活の真っただ中で（current は流れの比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "All intelligent thoughts have already been thought; what is necessary is only to try to think them again.",
     "jp": "賢明な考えはすでに考え尽くされている。必要なのは再び考えてみることだ。",
-    "id": "q1310"
+    "id": "q1310",
+    "tips": [
+      "have already been thought：すでに考えられている（現在完了の受動態）",
+      "what is necessary：必要なこと",
+      "think them again：それらを改めて考える"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The person born with a talent they are meant to use will find their greatest happiness in using it.",
     "jp": "才能を持って生まれた人は、それを使うことで最大の幸福を見つける。",
-    "id": "q1311"
+    "id": "q1311",
+    "tips": [
+      "be born with：〜を持って生まれる",
+      "be meant to do：〜することを意図されている、〜する運命にある",
+      "find happiness in doing：〜することに喜びを見いだす"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The hardest thing to see is what is in front of your eyes.",
     "jp": "もっとも見えにくいのは、目の前にあるものだ。",
-    "id": "q1312"
+    "id": "q1312",
+    "tips": [
+      "the hardest thing to see：最も見えにくいもの",
+      "in front of your eyes：目の前に（身近な事実ほど見落としやすいという含意）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Correction does much, but encouragement does more.",
     "jp": "訂正は役立つが、励ましはもっと役立つ。",
-    "id": "q1313"
+    "id": "q1313",
+    "tips": [
+      "correction：訂正、誤りを正すこと",
+      "encouragement：励まし",
+      "does more：さらに大きな効果をもたらす"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Behavior is the mirror in which everyone shows their image.",
     "jp": "行動は、誰もが自分の姿を映す鏡だ。",
-    "id": "q1314"
+    "id": "q1314",
+    "tips": [
+      "behavior：行動、振る舞い",
+      "mirror：鏡（人格を映し出すものの比喩）",
+      "their：everyone を受ける性別を限定しない所有格"
+    ]
   },
   {
     "author": "Goethe",
     "en": "All theory, dear friend, is gray, but the golden tree of life springs ever green.",
     "jp": "理論は灰色だ、だが人生の黄金の樹はいつも緑に茂る。",
-    "id": "q1315"
+    "id": "q1315",
+    "tips": [
+      "theory：理論",
+      "gray：灰色の（生気の乏しさを示唆）",
+      "spring ever green：いつも青々と芽吹く（spring は動詞）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "He is happiest, be he king or peasant, who finds peace in his home.",
     "jp": "王であれ農夫であれ、家庭に平和を見いだす人が最も幸せだ。",
-    "id": "q1316"
+    "id": "q1316",
+    "tips": [
+      "be he king or peasant：王であろうと農民であろうと（古風な譲歩表現）",
+      "peasant：農民",
+      "find peace：安らぎを見いだす"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Death is a commingling of eternity with time; in the death of a good man, eternity is seen through time.",
     "jp": "死は永遠と時間の交わりである。善き人の死には、時間を通して永遠が見える。",
-    "id": "q1317"
+    "id": "q1317",
+    "tips": [
+      "commingling：混ざり合うこと、融合",
+      "eternity：永遠",
+      "through time：時間を通して（有限の時間と永遠の対比）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Being brilliant is no great feat if you respect nothing.",
     "jp": "何も尊重しないなら、才気あることに価値はない。",
-    "id": "q1318"
+    "id": "q1318",
+    "tips": [
+      "brilliant：非常に優秀な、才気にあふれた",
+      "feat：偉業、功績",
+      "respect nothing：何ものにも敬意を払わない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The intelligent man finds almost everything ridiculous, the sensible man hardly anything.",
     "jp": "知的な人はほとんどすべてを滑稽に見なし、分別ある人はほとんど何も滑稽に見ない。",
-    "id": "q1319"
+    "id": "q1319",
+    "tips": [
+      "ridiculous：ばかげた",
+      "sensible：分別のある",
+      "hardly anything：ほとんど何も〜ない（後半では finds が省略されている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Beauty is a manifestation of secret natural laws.",
     "jp": "美は、私たちから永遠に隠されていたであろう自然の秘密の法則の現れだ。",
-    "id": "q1320"
+    "id": "q1320",
+    "tips": [
+      "manifestation：現れ、具現化",
+      "natural laws：自然の法則",
+      "secret：隠された、容易には見えない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "In the realm of ideas everything depends on enthusiasm... in the real world all rests on perseverance.",
     "jp": "思想の世界では情熱がすべてを決める。現実の世界では忍耐がすべてを支える。",
-    "id": "q1321"
+    "id": "q1321",
+    "tips": [
+      "in the realm of：〜の領域において",
+      "depend on / rest on：〜に依存する／〜に基づく",
+      "perseverance：忍耐強く続けること、粘り強さ"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Plunge boldly into the thick of life, and seize it where you will, it is always interesting.",
     "jp": "人生のただ中に大胆に飛び込み、つかみ取れ。人生はいつだって面白い。",
-    "id": "q1322"
+    "id": "q1322",
+    "tips": [
+      "plunge into：〜に飛び込む",
+      "the thick of life：人生の真っただ中",
+      "where you will：どこであろうと好きなところで（will は意志）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Common sense is the genius of humanity.",
     "jp": "常識は人類の天才だ。",
-    "id": "q1323"
+    "id": "q1323",
+    "tips": [
+      "common sense：常識、良識",
+      "genius：卓越した才能、ここでは人類の優れた知恵"
+    ]
   },
   {
     "author": "Goethe",
     "en": "As soon as you trust yourself, you will know how to live.",
     "jp": "自分を信じた瞬間に、どう生きるべきかがわかる。",
-    "id": "q1324"
+    "id": "q1324",
+    "tips": [
+      "as soon as：〜するとすぐに",
+      "trust yourself：自分自身を信頼する",
+      "how to live：どう生きるべきか"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A really great talent finds its happiness in execution.",
     "jp": "真の才能は、実行の中に幸福を見つける。",
-    "id": "q1325"
+    "id": "q1325",
+    "tips": [
+      "talent：才能（ここでは才能ある人も含意）",
+      "execution：実行、遂行（ここでは才能を実際に発揮すること）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Great thoughts and a pure heart, that is what we should ask from God.",
     "jp": "偉大な思想と清らかな心、それこそ神に求めるべきものだ。",
-    "id": "q1326"
+    "id": "q1326",
+    "tips": [
+      "pure heart：純粋な心",
+      "ask something from God：神に何かを求める",
+      "that is what ...：それこそが〜するものだ"
+    ]
   },
   {
     "author": "Goethe",
     "en": "To rule is easy, to govern difficult.",
     "jp": "支配は易しいが、統治は難しい。",
-    "id": "q1327"
+    "id": "q1327",
+    "tips": [
+      "rule：支配する",
+      "govern：統治する、適切に治める",
+      "to govern difficult：to govern is difficult の is が省略されている"
+    ]
   },
   {
     "author": "Goethe",
     "en": "One must ask children and birds how cherries and strawberries taste.",
     "jp": "さくらんぼやいちごの味は、子どもや鳥に尋ねなければならない。",
-    "id": "q1328"
+    "id": "q1328",
+    "tips": [
+      "one must：人は〜しなければならない",
+      "ask A how ...：Aにどのように〜かを尋ねる",
+      "taste：〜の味がする（動詞）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The man with insight enough to admit his limitations comes nearest to perfection.",
     "jp": "限界を認める洞察を持つ人が、最も完全に近い。",
-    "id": "q1329"
+    "id": "q1329",
+    "tips": [
+      "insight：洞察力",
+      "admit one's limitations：自分の限界を認める",
+      "come nearest to：〜に最も近づく"
+    ]
   },
   {
     "author": "Goethe",
     "en": "What is important in life is life, and not the result of life.",
     "jp": "重要なのは人生そのものであって、人生の結果ではない。",
-    "id": "q1330"
+    "id": "q1330",
+    "tips": [
+      "what is important：重要なこと（what が名詞節を導く）",
+      "result：結果、成果",
+      "life ... not the result of life：人生そのものと人生の成果を対比している"
+    ]
   },
   {
     "author": "Goethe",
