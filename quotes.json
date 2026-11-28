@@ -4058,181 +4058,328 @@
     "author": "Ambrose Bierce",
     "en": "The small part of ignorance that we arrange and classify we give the name of knowledge.",
     "jp": "私たちが整理・分類した無知の一部を「知識」と呼ぶ。",
-    "id": "q0371"
+    "id": "q0371",
+    "tips": [
+      "ignorance：無知",
+      "classify：分類する",
+      "give A the name of B：AをBと名づける"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Confidante: One entrusted by A with the secrets of B confided to herself by C.",
     "jp": "女友達とは、Aから託されたBの秘密を、Cから自分に打ち明けられた人のこと。",
-    "id": "q0372"
+    "id": "q0372",
+    "tips": [
+      "confidante：秘密を打ち明けられる女性",
+      "entrust A with B：AにBを託す",
+      "confide A to B：AをBに打ち明ける"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Alliance - in international politics, the union of two thieves who have their hands so deeply inserted in each other's pockets that they cannot separately plunder a third.",
     "jp": "同盟とは、互いのポケットに手を深く突っ込んでしまい、第三者を個別に略奪できなくなった二人の泥棒の国際的結合である。",
-    "id": "q0373"
+    "id": "q0373",
+    "tips": [
+      "alliance：同盟",
+      "insert：差し込む",
+      "plunder：略奪する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Admiration, n. Our polite recognition of another's resemblance to ourselves.",
     "jp": "賞賛とは、他者が自分に似ていることを礼儀正しく認めることである。",
-    "id": "q0374"
+    "id": "q0374",
+    "tips": [
+      "admiration：称賛、感嘆",
+      "recognition：認識、承認",
+      "resemblance to：〜との類似"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Egotist: a person more interested in himself than in me.",
     "jp": "利己主義者とは、自分よりも自分自身に興味を持っている人である。",
-    "id": "q0375"
+    "id": "q0375",
+    "tips": [
+      "egotist：自己中心的な人",
+      "be interested in：〜に関心がある",
+      "more ... than：〜よりも…"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Architect. One who drafts a plan of your house, and plans a draft of your money.",
     "jp": "建築家とは、あなたの家の設計図を引き、あなたの金の引き出し計画も立てる人である。",
-    "id": "q0376"
+    "id": "q0376",
+    "tips": [
+      "architect：建築家",
+      "draft a plan：設計図を作る",
+      "draft：下書き（動詞）／為替手形などの支払手段（名詞）の言葉遊び"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Immortality: A toy which people cry for, And on their knees apply for, Dispute, contend and lie for, And if allowed Would be right proud Eternally to die for.",
     "jp": "不死とは、人々が泣いて求め、ひざまずいて願い、論じ、争い、嘘までつき、もし与えられれば、永遠に死ぬために喜んで誇りを持つ玩具である。",
-    "id": "q0377"
+    "id": "q0377",
+    "tips": [
+      "immortality：不死、不滅",
+      "on one's knees：ひざまずいて",
+      "contend：争う、主張する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Corporation: An ingenious device for obtaining profit without individual responsibility.",
     "jp": "株式会社とは、個人の責任を負わずに利益を得るための巧妙な仕組みである。",
-    "id": "q0378"
+    "id": "q0378",
+    "tips": [
+      "corporation：法人、企業",
+      "ingenious device：巧妙な仕組み",
+      "obtain profit：利益を得る"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "We know what happens to people who stay in the middle of the road. They get run over.",
     "jp": "道路の真ん中に留まる人がどうなるか知っているだろう。ひかれてしまうのだ。",
-    "id": "q0379"
+    "id": "q0379",
+    "tips": [
+      "stay in the middle of：〜の真ん中にいる",
+      "get run over：車などにひかれる（get 受動態）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Laziness. Unwarranted repose of manner in a person of low degree.",
     "jp": "怠惰とは、身分の低い者における不当な態度の安らぎである。",
-    "id": "q0380"
+    "id": "q0380",
+    "tips": [
+      "unwarranted：正当な理由のない",
+      "repose：休息、落ち着き",
+      "of low degree：身分の低い（古風な表現）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "The best thing to do with the best things in life is to give them up.",
     "jp": "人生で最良のものに対してできる最良のことは、それらを手放すことである。",
-    "id": "q0381"
+    "id": "q0381",
+    "tips": [
+      "the best thing to do with：〜の最善の扱い方",
+      "give up：手放す、諦める"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Debt, n. An ingenious substitute for the chain and whip of the slavedriver.",
     "jp": "借金とは、奴隷監督の鎖と鞭に代わる巧妙な代用品である。",
-    "id": "q0382"
+    "id": "q0382",
+    "tips": [
+      "debt：借金、負債（b は発音しない）",
+      "substitute for：〜の代わりとなるもの",
+      "whip：むち"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Absurdity, n.: A statement or belief manifestly inconsistent with one's own opinion.",
     "jp": "不条理とは、自分の意見と明らかに矛盾する主張や信念である。",
-    "id": "q0383"
+    "id": "q0383",
+    "tips": [
+      "absurdity：不合理、ばかげたこと",
+      "manifestly：明らかに",
+      "inconsistent with：〜と矛盾する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Logic: The art of thinking and reasoning in strict accordance with the limitations and incapacities of the human misunderstanding.",
     "jp": "論理とは、人間の誤解の限界と無能さに厳密に従って考え推論する技術である。",
-    "id": "q0384"
+    "id": "q0384",
+    "tips": [
+      "reasoning：推論",
+      "in strict accordance with：〜に厳密に従って",
+      "incapacity：能力の欠如"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Edible, adj.: Good to eat, and wholesome to digest, as a worm to a toad, a toad to a snake, a snake to a pig, a pig to a man, and a man to a worm.",
     "jp": "食用とは、ヒキガエルにとってのミミズ、ヘビにとってのヒキガエル、ブタにとってのヘビ、人間にとってのブタ、そしてミミズにとっての人間のように、食べて良く、消化に良いものである。",
-    "id": "q0385"
+    "id": "q0385",
+    "tips": [
+      "edible：食べられる",
+      "wholesome：健康によい",
+      "digest：消化する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Women in love are less ashamed than men. They have less to be ashamed of.",
     "jp": "恋をしている女性は男性より恥じることが少ない。恥じるべきことが少ないからだ。",
-    "id": "q0386"
+    "id": "q0386",
+    "tips": [
+      "in love：恋をしている",
+      "be ashamed of：〜を恥じる",
+      "less ... than：〜ほど…ではない"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Litigation: A machine which you go into as a pig and come out of as a sausage.",
     "jp": "訴訟とは、ブタとして入ってソーセージとして出てくる機械である。",
-    "id": "q0387"
+    "id": "q0387",
+    "tips": [
+      "litigation：訴訟",
+      "go into：〜に入る",
+      "come out of：〜から出る"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Abstainer: a weak person who yields to the temptation of denying himself a pleasure.",
     "jp": "禁欲者とは、自らを楽しみから遠ざける誘惑に屈する弱い人間である。",
-    "id": "q0388"
+    "id": "q0388",
+    "tips": [
+      "abstainer：自制する人、禁酒する人",
+      "yield to temptation：誘惑に負ける",
+      "deny oneself a pleasure：楽しみを自ら断つ"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Jealous, adj. Unduly concerned about the preservation of that which can be lost only if not worth keeping.",
     "jp": "嫉妬深いとは、持つ価値のないものを失うことばかり過剰に気にすることだ。",
-    "id": "q0389"
+    "id": "q0389",
+    "tips": [
+      "unduly：過度に",
+      "preservation：保持、保存",
+      "be worth keeping：保持する価値がある"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "An egotist is a person of low taste - more interested in himself than in me.",
     "jp": "利己主義者とは、低俗な人物であり、自分より私のことに興味がない人だ。",
-    "id": "q0390"
+    "id": "q0390",
+    "tips": [
+      "egotist：自己中心的な人",
+      "of low taste：趣味や品性が低い",
+      "more interested in A than in B：BよりAに関心がある"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Witticism. A sharp and clever remark, usually quoted and seldom noted; what the Philistine is pleased to call a joke.",
     "jp": "機知とは、鋭く巧妙な発言で、しばしば引用され、めったに理解されないもの。俗人が喜んでジョークと呼ぶものだ。",
-    "id": "q0391"
+    "id": "q0391",
+    "tips": [
+      "witticism：機知に富んだ言葉",
+      "remark：発言",
+      "Philistine：ここでは芸術や文化に無関心な人"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Bacchus, n.: A convenient deity invented by the ancients as an excuse for getting drunk.",
     "jp": "バッカスとは、酔うための口実として古代人が作り出した便利な神である。",
-    "id": "q0392"
+    "id": "q0392",
+    "tips": [
+      "deity：神",
+      "the ancients：古代の人々",
+      "an excuse for -ing：〜するための口実"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Consult: To seek approval for a course of action already decided upon.",
     "jp": "相談とは、すでに決めた行動方針について承認を求めることである。",
-    "id": "q0393"
+    "id": "q0393",
+    "tips": [
+      "consult：相談する",
+      "seek approval：承認を求める",
+      "course of action：行動方針"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Beauty, n: the power by which a woman charms a lover and terrifies a husband.",
     "jp": "美しさとは、女性が恋人を魅了し、夫を恐れさせる力である。",
-    "id": "q0394"
+    "id": "q0394",
+    "tips": [
+      "by which：それによって（前置詞＋関係代名詞）",
+      "charm：魅了する",
+      "terrify：ひどく怖がらせる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Compromise, n. Such an adjustment of conflicting interests as gives each adversary the satisfaction of thinking he has got what he ought not to have, and is deprived of nothing except what was justly his due.",
     "jp": "妥協とは、対立する利害を調整し、互いに本来持つべきでないものを得たと満足させ、正当に得るべきもの以外は何も失わない状態にすることである。",
-    "id": "q0395"
+    "id": "q0395",
+    "tips": [
+      "conflicting interests：相反する利害",
+      "be deprived of：〜を奪われる",
+      "one's due：当然受け取るべきもの"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Experience is a revelation in the light of which we renounce our errors of youth for those of age.",
     "jp": "経験とは、その光に照らされて、若き日の過ちを捨て、年老いてからの過ちを選ぶ啓示である。",
-    "id": "q0396"
+    "id": "q0396",
+    "tips": [
+      "revelation：新たな発見、啓示",
+      "in the light of：〜に照らして",
+      "renounce：放棄する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Learning, n. The kind of ignorance distinguishing the studious.",
     "jp": "学問とは、勉強熱心な人を特徴づける一種の無知である。",
-    "id": "q0397"
+    "id": "q0397",
+    "tips": [
+      "distinguish：特徴づける、区別する",
+      "the studious：勉学に励む人々"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Lawsuit: A machine which you go into as a pig and come out of as a sausage.",
     "jp": "裁判とは、ブタとして入ってソーセージとして出てくる機械である。",
-    "id": "q0398"
+    "id": "q0398",
+    "tips": [
+      "lawsuit：訴訟",
+      "go into ... as：〜として…に入る",
+      "come out of ... as：〜として…から出る"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Enthusiasm - a distemper of youth, curable by small doses of repentance in connection with outward applications of experience.",
     "jp": "熱意とは、経験という外用薬と少量の後悔で治せる若者特有の病である。",
-    "id": "q0399"
+    "id": "q0399",
+    "tips": [
+      "distemper：病気、不調（古風な用法）",
+      "curable by：〜で治せる",
+      "repentance：後悔、悔い改め"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Dog - a kind of additional or subsidiary Deity designed to catch the overflow and surplus of the world's worship.",
     "jp": "犬とは、世界の崇拝のあふれや余りを受け止めるために作られた追加の神のような存在である。",
-    "id": "q0400"
+    "id": "q0400",
+    "tips": [
+      "subsidiary：補助的な",
+      "be designed to do：〜するように作られている",
+      "overflow and surplus：あふれ出たものと余剰"
+    ]
   },
   {
     "author": "Ambrose Bierce",
