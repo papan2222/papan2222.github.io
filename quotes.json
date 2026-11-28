@@ -11819,181 +11819,325 @@
     "author": "Thoreau",
     "en": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
     "jp": "私が森へ行ったのは、人生の本質に向き合い、死の時に「生きていなかった」と気づくことのないよう学ぶためだった。",
-    "id": "q1091"
+    "id": "q1091",
+    "tips": [
+      "deliberately：意識的に、熟慮して",
+      "front：〜に正面から向き合う（動詞）",
+      "had not lived：本当に生きてこなかった（過去完了）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "As if you could kill time without injuring eternity.",
     "jp": "永遠を傷つけずに時間を殺せると思うな。",
-    "id": "q1092"
+    "id": "q1092",
+    "tips": [
+      "as if：まるで〜であるかのように（ここでは皮肉）",
+      "kill time：暇をつぶす",
+      "injure eternity：永遠を傷つける（時間の浪費を戒める比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Do what you love. Know your own bone; gnaw at it, bury it, unearth it, and gnaw it still.",
     "jp": "自分の好きなことをやれ。自分の骨を知り、それを噛み、埋め、掘り出し、また噛み続けよ。",
-    "id": "q1093"
+    "id": "q1093",
+    "tips": [
+      "gnaw at：〜をかじる",
+      "unearth：掘り出す",
+      "bone：骨（自分が打ち込むべき対象の比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Thank God men cannot fly, and lay waste the sky as well as the earth.",
     "jp": "神よ感謝します、人間が空を飛べなくて。そうでなければ空まで地上のように荒らしていたでしょう。",
-    "id": "q1094"
+    "id": "q1094",
+    "tips": [
+      "Thank God：ありがたいことに",
+      "lay waste：荒廃させる、破壊する",
+      "as well as：〜だけでなく"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Every day or two, I strolled to the village to hear some of the gossip... it was as refreshing as the rustle of leaves and the peeping of frogs.",
     "jp": "数日に一度、村へ行き噂話を聞いた。それは木の葉のそよぎやカエルの鳴き声のように、心を爽やかにした。",
-    "id": "q1095"
+    "id": "q1095",
+    "tips": [
+      "every day or two：一日か二日おきに",
+      "stroll：ぶらぶら歩く",
+      "rustle / peeping：葉などのさらさらという音／小さな鳴き声"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Nothing makes the earth seem so spacious as to have friends at a distance; they make the latitudes and longitudes.",
     "jp": "遠くに友がいると、地球がとても広く感じられる。彼らが緯度や経度を形づくるのだ。",
-    "id": "q1096"
+    "id": "q1096",
+    "tips": [
+      "spacious：広々とした",
+      "at a distance：離れた場所に",
+      "latitude and longitude：緯度と経度"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "In human intercourse the tragedy begins, not when there is misunderstanding about words, but when silence is not understood.",
     "jp": "人間関係の悲劇は、言葉の誤解ではなく、沈黙が理解されないときに始まる。",
-    "id": "q1097"
+    "id": "q1097",
+    "tips": [
+      "human intercourse：人間同士の交流（ここでは一般的な交わり）",
+      "misunderstanding：誤解",
+      "not when A, but when B：AのときではなくBのときに"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If a man walks in the woods for love of them half of each day, he is called a loafer. But if he destroys the woods, he is deemed industrious.",
     "jp": "森を愛して半日歩けば怠け者と呼ばれるが、森を伐り尽くせば勤勉な市民とされる。",
-    "id": "q1098"
+    "id": "q1098",
+    "tips": [
+      "for love of：〜が好きだから",
+      "loafer：怠け者",
+      "be deemed industrious：勤勉だと見なされる"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We are all sculptors and painters, and our material is our own flesh and blood and bones.",
     "jp": "私たちは皆、彫刻家であり画家であり、その材料は自分自身の肉体と血と骨である。",
-    "id": "q1099"
+    "id": "q1099",
+    "tips": [
+      "sculptor：彫刻家",
+      "material：材料、素材",
+      "flesh and blood and bones：肉と血と骨（自分自身を形作るという比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The law will never make a man free; it is men who have got to make the law free.",
     "jp": "法律が人を自由にすることはない。人が法律を自由にしなければならない。",
-    "id": "q1100"
+    "id": "q1100",
+    "tips": [
+      "make A free：Aを自由にする",
+      "It is ... who ...：〜こそが…する（強調構文）",
+      "have got to：〜しなければならない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Dreams are the touchstones of our character.",
     "jp": "夢は私たちの人柄を測る試金石である。",
-    "id": "q1101"
+    "id": "q1101",
+    "tips": [
+      "touchstone：試金石、価値や性質を判断する基準",
+      "character：人格、性格"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The greatest compliment that was ever paid me was when one asked me what I thought, and listened to my answer.",
     "jp": "誰かが私の考えを尋ね、答えを真剣に聞いてくれたことが、私への最大の賛辞だった。",
-    "id": "q1102"
+    "id": "q1102",
+    "tips": [
+      "pay someone a compliment：人を褒める",
+      "what I thought：私がどう考えているか",
+      "listen to：〜に耳を傾ける"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There are moments when all anxiety and toil are calmed in the infinite leisure of nature.",
     "jp": "不安や労苦がすべて自然の無限の安らぎに溶ける瞬間がある。",
-    "id": "q1103"
+    "id": "q1103",
+    "tips": [
+      "anxiety：不安",
+      "toil：苦労、骨の折れる仕事",
+      "infinite leisure：限りないゆとり"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Our inventions are pretty toys, distractions from serious things.",
     "jp": "私たちの発明は可愛いおもちゃであり、重大なことから気をそらすものだ。",
-    "id": "q1104"
+    "id": "q1104",
+    "tips": [
+      "invention：発明品",
+      "distraction from：〜から注意をそらすもの",
+      "pretty toys：見栄えのよいおもちゃ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Do not hire a man who does your work for money, but him who does it for love of it.",
     "jp": "お金のために働く人ではなく、仕事を愛してやる人を雇いなさい。",
-    "id": "q1105"
+    "id": "q1105",
+    "tips": [
+      "hire：雇う",
+      "him who：〜する人を（古風な表現）",
+      "for love of it：それ自体が好きだから"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The bluebird carries the sky on his back.",
     "jp": "青い鳥は、背中に空を背負っている。",
-    "id": "q1106"
+    "id": "q1106",
+    "tips": [
+      "bluebird：ルリツグミ",
+      "on his back：背中に（青い羽を空にたとえた表現）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "All this worldly wisdom was once the unamiable heresy of some wise man.",
     "jp": "世俗の知恵も、かつては賢者の不評な異端だった。",
-    "id": "q1107"
+    "id": "q1107",
+    "tips": [
+      "worldly wisdom：世渡りの知恵、世間の常識",
+      "unamiable：好感を持たれない",
+      "heresy：異端の考え"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Our houses are such unwieldy property that we are often imprisoned rather than housed by them.",
     "jp": "家は不便な財産であり、住むためよりも監禁されるために存在しているかのようだ。",
-    "id": "q1108"
+    "id": "q1108",
+    "tips": [
+      "unwieldy：扱いにくい、持て余すほど大きな",
+      "such ... that：あまりに〜なので…",
+      "imprisoned rather than housed：住まいを与えられるというより閉じ込められる"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If an injustice requires you to be the agent of injustice to another, break the law. Be the counter-friction to stop the machine.",
     "jp": "不正を他者に加える役目を求められるなら、法律を破れ。政府という機械を止める逆摩擦になれ。",
-    "id": "q1109"
+    "id": "q1109",
+    "tips": [
+      "agent of injustice：不正を実行する者",
+      "counter-friction：逆向きの摩擦、抵抗力",
+      "machine：機械（不正を生む制度の比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The heart is forever inexperienced.",
     "jp": "心はいつまでも未熟なままだ。",
-    "id": "q1110"
+    "id": "q1110",
+    "tips": [
+      "forever：いつまでも",
+      "inexperienced：経験の浅い、未熟な（心は感情を経験してもなお未熟だという表現）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The only obligation which I have a right to assume is to do at any time what I think right.",
     "jp": "私が担うべき唯一の義務は、常に正しいと思うことを行うことだ。",
-    "id": "q1111"
+    "id": "q1111",
+    "tips": [
+      "obligation：義務",
+      "have a right to：〜する権利がある",
+      "assume an obligation：義務を引き受ける"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is a characteristic of wisdom not to do desperate things.",
     "jp": "無謀なことをしないのが、知恵ある者の特徴だ。",
-    "id": "q1112"
+    "id": "q1112",
+    "tips": [
+      "characteristic of：〜の特徴",
+      "desperate：自暴自棄の、思い余った"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I have the habit of attention to such excess, that my senses get no rest.",
     "jp": "私は注意を払いすぎる癖があり、感覚は休まることがない。",
-    "id": "q1113"
+    "id": "q1113",
+    "tips": [
+      "habit of attention：注意を向け続ける習慣",
+      "to such excess that：あまりに過度に〜するので…",
+      "senses：感覚、感覚器官"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The finest workers in stone are not copper or steel tools, but air and water with time.",
     "jp": "石をもっとも美しく形づくるのは銅や鉄の道具ではなく、時をかけた空気と水である。",
-    "id": "q1114"
+    "id": "q1114",
+    "tips": [
+      "worker in stone：石を加工する者",
+      "copper：銅",
+      "air and water with time：時間をかけて石を削る空気と水（自然の作用の擬人化）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Truths and roses have thorns about them.",
     "jp": "真実とバラには、とげがある。",
-    "id": "q1115"
+    "id": "q1115",
+    "tips": [
+      "thorn：とげ",
+      "about them：それらの周囲に（真実にも痛みや危険が伴うという比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is what a man thinks of himself that really determines his fate.",
     "jp": "人の運命を決めるのは、自分自身についてどう思うかだ。",
-    "id": "q1116"
+    "id": "q1116",
+    "tips": [
+      "It is ... that：〜こそが…だ（強調構文）",
+      "think of oneself：自分自身をどう評価するか",
+      "determine one's fate：運命を決める"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Where there is an observatory and a telescope, we expect that eyes will see new worlds.",
     "jp": "天文台と望遠鏡があれば、誰もが新しい世界を見ると期待する。",
-    "id": "q1117"
+    "id": "q1117",
+    "tips": [
+      "observatory：天文台、観測所",
+      "telescope：望遠鏡",
+      "expect that：〜するだろうと期待する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The most I can do for my friend is simply be his friend.",
     "jp": "私が友にしてやれる最大のことは、ただ友でいることだ。",
-    "id": "q1118"
+    "id": "q1118",
+    "tips": [
+      "the most I can do：私にできる最大限のこと",
+      "simply：ただ、単に"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Though I do not believe that a plant will spring up where no seed has been, I have great faith in a seed.",
     "jp": "種もないところから植物が育つとは思わないが、種に対しては大きな信頼を抱いている。",
-    "id": "q1119"
+    "id": "q1119",
+    "tips": [
+      "though：〜ではあるが",
+      "spring up：芽を出す、急に現れる",
+      "have faith in：〜を信じる"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Not only must we be good, but we must also be good for something.",
     "jp": "善良であるだけでなく、何かの役に立つ善良さでなければならない。",
-    "id": "q1120"
+    "id": "q1120",
+    "tips": [
+      "Not only must we ...：〜しなければならないだけでなく（文頭の否定表現による倒置）",
+      "be good：善良である",
+      "be good for something：何かの役に立つ"
+    ]
   },
   {
     "author": "Thoreau",
