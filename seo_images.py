@@ -3,8 +3,9 @@ import hashlib
 import html
 import json
 import re
+import posixpath
 from pathlib import Path
-from urllib.parse import unquote, urlsplit
+from urllib.parse import unquote, urlsplit, quote
 from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent
@@ -25,7 +26,7 @@ def key_for(value, section=""):
     path = unquote(u.path)
     if not path:
         return None
-    key = path.lstrip("/") if path.startswith("/") else (section+"/"+path).strip("/")
+    key = posixpath.normpath(path.lstrip("/") if path.startswith("/") else (section+"/"+path).strip("/"))
     if ".." in Path(key).parts:
         return None
     return key
@@ -92,7 +93,7 @@ def patch_static(path, section, sizes, first_eager=False):
             variants=list(entry["variants"])
             # Preserve access to full resolution on wide/high-density screens.
             if entry["width"]>variants[-1]["width"]:
-                variants.append({"path":"/"+key_for(src[1],section),"width":entry["width"]})
+                variants.append({"path":"/"+quote(key_for(src[1],section),safe="/"),"width":entry["width"]})
             srcset=", ".join(v["path"]+" "+str(v["width"])+"w" for v in variants)
             tag=tag[:-1]+f' data-preview-auto="1" srcset="{html.escape(srcset,quote=True)}" sizes="{sizes}">'
         if 'decoding=' not in tag:
@@ -110,7 +111,7 @@ def main():
             values=work[field] if field=="images" else [work[field]]
             for value in values:
                 preview(key_for(value,section))
-    # Keep source galleries unchanged: generated work pages can be rebuilt safely.
+    # Preserve original src attributes; generated work pages can be rebuilt safely.
     for section in ("pandalife","game","blog","senryu"):
         for path in (ROOT/section/"works").glob("*/index.html"):
             patch_static(path,section,"(max-width: 800px) 100vw, 800px",True)
