@@ -6668,181 +6668,324 @@
     "author": "Oscar Wilde",
     "en": "Experience is one thing you can't get for nothing.",
     "jp": "経験は、タダでは手に入らない唯一のものだ。",
-    "id": "q0611"
+    "id": "q0611",
+    "tips": [
+      "experience：経験",
+      "for nothing：ただで、何の代償もなく"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Some cause happiness wherever they go; others whenever they go.",
     "jp": "どこへ行っても幸せをもたらす人もいれば、去るときにだけ幸せをもたらす人もいる。",
-    "id": "q0612"
+    "id": "q0612",
+    "tips": [
+      "cause happiness：幸福をもたらす",
+      "wherever：どこへ行っても",
+      "whenever：〜するたびに（ここでは去るたびに、という皮肉）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Art is the most intense mode of individualism that the world has known.",
     "jp": "芸術は、世界が知る中で最も強烈な個人主義の形だ。",
-    "id": "q0613"
+    "id": "q0613",
+    "tips": [
+      "intense：強烈な",
+      "mode：形態、様式",
+      "individualism：個人主義"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "He has no enemies, but is intensely disliked by his friends.",
     "jp": "彼には敵がいないが、友人からはひどく嫌われている。",
-    "id": "q0614"
+    "id": "q0614",
+    "tips": [
+      "intensely：強烈に",
+      "be disliked by：〜に嫌われる",
+      "敵と友人の対比が皮肉を生む"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Conversation about the weather is the last refuge of the unimaginative.",
     "jp": "天気の話は、想像力のない人の最後の避難所だ。",
-    "id": "q0615"
+    "id": "q0615",
+    "tips": [
+      "conversation：会話",
+      "last refuge：最後のよりどころ",
+      "the unimaginative：想像力に乏しい人々"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Morality is simply the attitude we adopt towards people whom we personally dislike.",
     "jp": "道徳とは、私たちが個人的に嫌う人への態度にすぎない。",
-    "id": "q0616"
+    "id": "q0616",
+    "tips": [
+      "morality：道徳",
+      "adopt an attitude towards：〜に対する態度を取る",
+      "whom：人を指す目的格の関係代名詞"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There are only two tragedies in life: one is not getting what one wants, and the other is getting it.",
     "jp": "人生には二つの悲劇しかない。望みが叶わないことと、望みが叶ってしまうことだ。",
-    "id": "q0617"
+    "id": "q0617",
+    "tips": [
+      "tragedy：悲劇",
+      "one ... the other：一方は〜、もう一方は…",
+      "what one wants：人が望むもの"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.",
     "jp": "人は素のままで話すときが最も本当の自分から遠い。仮面を与えれば真実を語るだろう。",
-    "id": "q0618"
+    "id": "q0618",
+    "tips": [
+      "least himself：最も自分らしくない",
+      "in one's own person：本人として",
+      "Give him ..., and ...：〜を与えれば…する（命令文＋and）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "To lose one parent may be regarded as a misfortune; to lose both looks like carelessness.",
     "jp": "親を一人失うのは不運だが、両方を失うのは不注意に見える。",
-    "id": "q0619"
+    "id": "q0619",
+    "tips": [
+      "be regarded as：〜と見なされる",
+      "misfortune：不幸、不運",
+      "carelessness：不注意"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "How can a woman be expected to be happy with a man who insists on treating her as if she were a perfectly normal human being.",
     "jp": "女性を完全に普通の人間扱いする男といて、どうして幸せになれるだろうか。",
-    "id": "q0620"
+    "id": "q0620",
+    "tips": [
+      "be expected to do：〜することを期待される",
+      "insist on -ing：〜することを譲らない",
+      "as if she were：まるで彼女が〜であるかのように（仮定法）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Everything popular is wrong.",
     "jp": "世間で人気のあるものは、たいてい間違っている。",
-    "id": "q0621"
+    "id": "q0621",
+    "tips": [
+      "popular：人気のある",
+      "everything popular：人気のあるものすべて（形容詞の後置修飾）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I put all my genius into my life; I put only my talent into my works.",
     "jp": "私は人生に天才を注ぎ、作品には才能しか注がなかった。",
-    "id": "q0622"
+    "id": "q0622",
+    "tips": [
+      "put A into B：AをBにつぎ込む",
+      "genius：天才的な能力",
+      "talent：才能"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "True friends stab you in the front.",
     "jp": "本当の友は、正面から刺してくる。",
-    "id": "q0623"
+    "id": "q0623",
+    "tips": [
+      "stab：刺す",
+      "in the front：正面から（陰で裏切る stab someone in the back を逆転させた表現）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Between men and women there is no friendship possible. There is passion, enmity, worship, love, but no friendship.",
     "jp": "男女の間に友情は成立しない。あるのは情熱、敵意、崇拝、愛であって、友情ではない。",
-    "id": "q0624"
+    "id": "q0624",
+    "tips": [
+      "passion：情熱",
+      "enmity：敵意",
+      "worship：崇拝"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.",
     "jp": "教育は素晴らしいが、本当に知る価値のあることは教えられないと時折思い出すべきだ。",
-    "id": "q0625"
+    "id": "q0625",
+    "tips": [
+      "admirable：称賛に値する",
+      "from time to time：時々",
+      "be worth knowing：知る価値がある"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Consistency is the last refuge of the unimaginative.",
     "jp": "一貫性は、想像力のない人の最後の避難所だ。",
-    "id": "q0626"
+    "id": "q0626",
+    "tips": [
+      "consistency：一貫性",
+      "last refuge：最後のよりどころ",
+      "the unimaginative：想像力に乏しい人々"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their intellects. A man cannot be too careful in the choice of his enemies.",
     "jp": "友は容姿で選び、知人は性格で選び、敵は知性で選ぶ。敵選びは慎重すぎるくらいがちょうどいい。",
-    "id": "q0627"
+    "id": "q0627",
+    "tips": [
+      "good looks：容姿の良さ",
+      "acquaintance：知人",
+      "cannot be too careful：いくら慎重でも慎重すぎることはない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Women are made to be loved, not understood.",
     "jp": "女性は理解されるためではなく、愛されるために存在する。",
-    "id": "q0628"
+    "id": "q0628",
+    "tips": [
+      "be made to be loved：愛されるために作られている",
+      "not understood：理解されるためではない（前の構造を省略した対比）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Success is a science; if you have the conditions, you get the result.",
     "jp": "成功は科学だ。条件がそろえば結果が出る。",
-    "id": "q0629"
+    "id": "q0629",
+    "tips": [
+      "condition：条件",
+      "result：結果",
+      "science：ここでは法則性のあるものという比喩"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Life is far too important a thing ever to talk seriously about.",
     "jp": "人生はあまりにも大切すぎて、真面目に語るべきものではない。",
-    "id": "q0630"
+    "id": "q0630",
+    "tips": [
+      "far too ... to do：あまりにも〜なので…できない",
+      "seriously：真剣に",
+      "talk about：〜について話す"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I sometimes think that God in creating man somewhat overestimated his ability.",
     "jp": "神は人間を創るとき、その能力を少し買いかぶりすぎたのではないかと思うことがある。",
-    "id": "q0631"
+    "id": "q0631",
+    "tips": [
+      "in creating：〜を創造する際に",
+      "somewhat：いくらか",
+      "overestimate：過大評価する"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Beauty has as many meanings as man has moods. Beauty is the symbol of symbols. Beauty reveals everything, because it expresses nothing. When it shows us itself, it shows us the whole fiery-coloured world.",
     "jp": "美には人の気分の数だけ意味がある。美は象徴の象徴だ。何も語らないからこそすべてを明らかにし、その姿は燃えるような世界全体を映し出す。",
-    "id": "q0632"
+    "id": "q0632",
+    "tips": [
+      "as many A as B：Bと同じ数のA",
+      "mood：気分",
+      "fiery-coloured：炎のような鮮やかな色の"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A man who does not think for himself does not think at all.",
     "jp": "自分で考えない人は、まったく考えていないのと同じだ。",
-    "id": "q0633"
+    "id": "q0633",
+    "tips": [
+      "think for oneself：自分の頭で考える",
+      "not ... at all：まったく〜しない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Pessimist: One who, when he has the choice of two evils, chooses both.",
     "jp": "悲観主義者とは、二つの悪から選べるときに、両方を選ぶ人のことだ。",
-    "id": "q0634"
+    "id": "q0634",
+    "tips": [
+      "pessimist：悲観主義者",
+      "evil：ここでは悪い選択肢",
+      "both：両方"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The books that the world calls immoral are books that show the world its own shame.",
     "jp": "世間が不道徳と呼ぶ本は、世間にその恥を映し出す本だ。",
-    "id": "q0635"
+    "id": "q0635",
+    "tips": [
+      "immoral：不道徳な",
+      "shame：恥、恥ずべきこと",
+      "call A B：AをBと呼ぶ"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is only by not paying one's bills that one can hope to live in the memory of the commercial classes.",
     "jp": "勘定を払わないことでしか、商人たちの記憶に残ることはできない。",
-    "id": "q0636"
+    "id": "q0636",
+    "tips": [
+      "It is only by ... that：〜によって初めて…する（強調構文）",
+      "pay one's bills：請求された代金を支払う",
+      "commercial classes：商業に従事する人々"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The man who can dominate a London dinner-table can dominate the world.",
     "jp": "ロンドンの晩餐会を仕切れる者は、世界をも支配できる。",
-    "id": "q0637"
+    "id": "q0637",
+    "tips": [
+      "dominate：支配する、圧倒する",
+      "dinner-table：食卓（ここでは会食の場）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The world is divided into two classes, those who believe the incredible, and those who do the improbable.",
     "jp": "世界は二種類の人間に分かれる。信じがたいことを信じる人と、不可能なことをやってのける人だ。",
-    "id": "q0638"
+    "id": "q0638",
+    "tips": [
+      "be divided into：〜に分けられる",
+      "the incredible：信じがたいこと",
+      "the improbable：起こりそうにないこと"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "As long as war is regarded as wicked, it will always have its fascination. When it is looked upon as vulgar, it will cease to be popular.",
     "jp": "戦争が邪悪だと見なされる限り、人々を惹きつけるだろう。下品なものと見なされれば、人気はなくなる。",
-    "id": "q0639"
+    "id": "q0639",
+    "tips": [
+      "as long as：〜する限り",
+      "look upon A as B：AをBと見なす",
+      "cease to be：〜でなくなる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I am not young enough to know everything.",
     "jp": "私はもう、すべてを知っていると言えるほど若くはない。",
-    "id": "q0640"
+    "id": "q0640",
+    "tips": [
+      "young enough to do：〜するほど若い",
+      "know everything：すべてを知っている（若さと自信を結びつけた逆説）"
+    ]
   },
   {
     "author": "Oscar Wilde",
