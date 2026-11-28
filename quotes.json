@@ -13775,181 +13775,329 @@
     "author": "Thoreau",
     "en": "How sweet is the perception of a new natural fact!",
     "jp": "新しい自然の事実に気づくことは、なんと甘美なことだろう。",
-    "id": "q1271"
+    "id": "q1271",
+    "tips": [
+      "How sweet is ...!：〜はなんと喜ばしいことか（感嘆文）",
+      "perception：知覚、気づき",
+      "natural fact：自然界の事実"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I often visited a particular plant... to know exactly when it opened.",
     "jp": "特定の植物が開く瞬間を知りたくて、何度も訪ねた。",
-    "id": "q1272"
+    "id": "q1272",
+    "tips": [
+      "particular：特定の",
+      "to know exactly when：正確にいつ〜するかを知るために",
+      "open：ここでは植物の花が開く、開花する"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
     "jp": "知るだけでは足りない、実行しなければならない。願うだけでは足りない、行動しなければならない。",
-    "id": "q1273"
+    "id": "q1273",
+    "tips": [
+      "knowing / willing：知ること／意志を持つこと（動名詞）",
+      "apply：知識を実際に応用する",
+      "not enough：それだけでは十分でない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "There are only two lasting bequests we can hope to give our children. One of these is roots, the other, wings.",
     "jp": "子どもに残せる永続する贈り物は二つ。ひとつは根、もうひとつは翼だ。",
-    "id": "q1274"
+    "id": "q1274",
+    "tips": [
+      "lasting：長く残る",
+      "bequest：遺産、後世に残すもの",
+      "roots / wings：根／翼（心のよりどころと自立する力の比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Magic is believing in yourself, if you can do that, you can make anything happen.",
     "jp": "魔法とは自分を信じることだ。それができれば、何でも実現できる。",
-    "id": "q1275"
+    "id": "q1275",
+    "tips": [
+      "believe in yourself：自分自身を信じる",
+      "make anything happen：どんなことでも実現させる",
+      "magic：ここでは自己信頼がもたらす力の比喩"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Let everyone sweep in front of his own door, and the whole world will be clean.",
     "jp": "それぞれが自分の家の前を掃けば、世界全体がきれいになる。",
-    "id": "q1276"
+    "id": "q1276",
+    "tips": [
+      "let everyone do：皆が〜するようにしよう",
+      "sweep：掃く、掃除する",
+      "命令文＋and：〜すれば…になる（身近な責任を果たすことの比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Few people have the imagination for reality.",
     "jp": "現実を想像する力を持つ人は少ない。",
-    "id": "q1277"
+    "id": "q1277",
+    "tips": [
+      "few people：ほとんど人がいない",
+      "imagination：想像力",
+      "reality：現実（現実を深く理解するにも想像力が必要だという含意）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Every day we should hear at least one little song, read one good poem, see one exquisite picture, and, if possible, speak a few sensible words.",
     "jp": "毎日少なくとも一つの歌を聴き、一つの詩を読み、一つの美しい絵を見、できればいくつか賢明な言葉を話すべきだ。",
-    "id": "q1278"
+    "id": "q1278",
+    "tips": [
+      "at least：少なくとも",
+      "exquisite：非常に美しい、精巧な",
+      "sensible：分別のある、賢明な"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The coward only threatens when he is safe.",
     "jp": "臆病者は安全なときだけ脅す。",
-    "id": "q1279"
+    "id": "q1279",
+    "tips": [
+      "coward：臆病者",
+      "threaten：脅す",
+      "when he is safe：自分が安全なときに"
+    ]
   },
   {
     "author": "Goethe",
     "en": "I do not know myself, and God forbid that I should.",
     "jp": "自分自身を知らない。そして神よ、私が知ることなどありませんように。",
-    "id": "q1280"
+    "id": "q1280",
+    "tips": [
+      "know myself：自分自身を理解する",
+      "God forbid that ...：〜などということがありませんように",
+      "that I should：自分自身を知ることを指す省略表現"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Nothing is worth more than this day.",
     "jp": "今日という日に勝るものはない。",
-    "id": "q1281"
+    "id": "q1281",
+    "tips": [
+      "be worth：〜の価値がある",
+      "Nothing is worth more than ...：〜より価値のあるものは何もない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The deed is everything, the glory is naught.",
     "jp": "行為こそすべてであり、栄光は無に等しい。",
-    "id": "q1282"
+    "id": "q1282",
+    "tips": [
+      "deed：行為、実際の行い",
+      "glory：栄光、名誉",
+      "naught：無、何ものでもない（古風な語）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Life belongs to the living, and he who lives must be prepared for changes.",
     "jp": "人生は生きている者のものであり、生きる者は変化に備えねばならない。",
-    "id": "q1283"
+    "id": "q1283",
+    "tips": [
+      "belong to：〜に属する",
+      "the living：生きている人々（the＋形容詞）",
+      "be prepared for：〜に備えている"
+    ]
   },
   {
     "author": "Goethe",
     "en": "All the knowledge I possess everyone else can acquire, but my heart is all my own.",
     "jp": "私の知識は他の誰もが得られるが、私の心は私だけのものだ。",
-    "id": "q1284"
+    "id": "q1284",
+    "tips": [
+      "possess：所有する、身につけている",
+      "acquire：獲得する",
+      "all my own：完全に自分だけのもの"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Nothing is more terrible than to see ignorance in action.",
     "jp": "無知が行動に移されるほど恐ろしいものはない。",
-    "id": "q1285"
+    "id": "q1285",
+    "tips": [
+      "ignorance：無知",
+      "in action：実際に活動して、行動に現れて",
+      "Nothing is more ... than：〜ほど…なものはない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Freedom and life are earned by those alone who conquer them each day anew.",
     "jp": "自由と人生は、毎日新たにそれを勝ち取る人だけが得られる。",
-    "id": "q1286"
+    "id": "q1286",
+    "tips": [
+      "earn：努力して得る",
+      "those alone who：〜する人々だけ",
+      "anew：新たに、改めて"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A correct answer is like an affectionate kiss.",
     "jp": "正しい答えは、愛情のこもった口づけのようだ。",
-    "id": "q1287"
+    "id": "q1287",
+    "tips": [
+      "correct answer：正しい答え",
+      "affectionate：愛情のこもった",
+      "like：〜のような（正しい答えがもたらす喜びをキスにたとえている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Destiny grants us our wishes, but in its own way, in order to give us something beyond our wishes.",
     "jp": "運命は願いを叶えるが、それは願いを超えたものを与えるためだ。",
-    "id": "q1288"
+    "id": "q1288",
+    "tips": [
+      "grant someone a wish：人の願いをかなえる",
+      "in its own way：それ独自のやり方で",
+      "beyond our wishes：私たちの願いを超えたもの"
+    ]
   },
   {
     "author": "Goethe",
     "en": "I love those who yearn for the impossible.",
     "jp": "不可能を求める人を、私は愛する。",
-    "id": "q1289"
+    "id": "q1289",
+    "tips": [
+      "those who：〜する人々",
+      "yearn for：〜を切望する",
+      "the impossible：不可能なこと（the＋形容詞）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Live dangerously and you live right.",
     "jp": "危険に生きれば、正しく生きることになる。",
-    "id": "q1290"
+    "id": "q1290",
+    "tips": [
+      "dangerously：危険を冒して",
+      "live right：正しく生きる（right は副詞）",
+      "命令文＋and：〜すれば…となる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A person hears only what they understand.",
     "jp": "人は自分が理解できることしか耳に入らない。",
-    "id": "q1291"
+    "id": "q1291",
+    "tips": [
+      "only what：〜するものだけ",
+      "they：ここでは a person を受ける単数の they（性別を限定しない代名詞）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Nothing shows a man's character more than what he laughs at.",
     "jp": "何に笑うかほど、その人の人柄を示すものはない。",
-    "id": "q1292"
+    "id": "q1292",
+    "tips": [
+      "character：人格、性格",
+      "laugh at：〜を笑う",
+      "what he laughs at：その人が何を笑うか"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Precaution is better than cure.",
     "jp": "予防は治療にまさる。",
-    "id": "q1293"
+    "id": "q1293",
+    "tips": [
+      "precaution：予防措置、用心",
+      "cure：治療、治療法",
+      "better than：〜よりも望ましい"
+    ]
   },
   {
     "author": "Goethe",
     "en": "None are more hopelessly enslaved than those who falsely believe they are free.",
     "jp": "自由だと誤って信じている人ほど、どうしようもなく奴隷である者はいない。",
-    "id": "q1294"
+    "id": "q1294",
+    "tips": [
+      "hopelessly：絶望的なほど",
+      "enslaved：奴隷状態に置かれた、束縛された",
+      "falsely believe：誤って信じる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The soul that sees beauty may sometimes walk alone.",
     "jp": "美を見出す魂は、ときにひとりで歩む。",
-    "id": "q1295"
+    "id": "q1295",
+    "tips": [
+      "soul：魂、心",
+      "walk alone：一人で歩む（独自の感性を持つ人の孤独を示唆）",
+      "may：〜することもある（可能性）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Love and desire are the spirit's wings to great deeds.",
     "jp": "愛と欲望は、大いなる行為への魂の翼だ。",
-    "id": "q1296"
+    "id": "q1296",
+    "tips": [
+      "desire：欲求、願望",
+      "spirit's wings：精神の翼（行動へと駆り立てる力の比喩）",
+      "great deeds：偉大な行い"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Ignorant men raise questions that wise men answered a thousand years ago.",
     "jp": "無知な人間は、賢者が千年前に答えた質問を繰り返す。",
-    "id": "q1297"
+    "id": "q1297",
+    "tips": [
+      "ignorant：無知な",
+      "raise a question：疑問を提起する",
+      "answered a thousand years ago：千年前に答えた（過去の知恵を顧みないことへの皮肉）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The way you see people is the way you treat them, and the way you treat them is what they become.",
     "jp": "人をどう見るかが扱い方を決め、扱い方がその人を形づくる。",
-    "id": "q1298"
+    "id": "q1298",
+    "tips": [
+      "the way you see people：あなたが人々を見る見方",
+      "treat：〜を扱う、接する",
+      "what they become：彼らがどのような存在になるか"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Dream no small dreams for they have no power to move the hearts of men.",
     "jp": "小さな夢を抱くな。それでは人の心を動かせない。",
-    "id": "q1299"
+    "id": "q1299",
+    "tips": [
+      "Dream no small dreams：小さな夢を抱くな（no による否定命令）",
+      "for：というのも〜だから（理由を示す接続詞）",
+      "move the hearts of：〜の心を動かす"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Love does not dominate; it cultivates.",
     "jp": "愛は支配しない。育てるのだ。",
-    "id": "q1300"
+    "id": "q1300",
+    "tips": [
+      "dominate：支配する",
+      "cultivate：育む、養う",
+      "does not ...; it ...：支配する愛と成長を促す愛を対比している"
+    ]
   },
   {
     "author": "Goethe",
