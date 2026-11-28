@@ -18,9 +18,9 @@ permalink: /quotes/
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>パンダの英語名言｜英日対訳</title>
-  <meta name="description" content="英語と日本語（対訳）の名言を、モノトーンの読みやすいレイアウトで一覧表示します。" />
+  <meta name="description" content="英語と日本語の対訳名言1,752作品を、英語学習解説とともに楽しめます。" />
   <meta property="og:title" content="パンダの英語名言" />
-  <meta property="og:description" content="英語と日本語（対訳）の名言を、モノトーンの読みやすいレイアウトで一覧表示。作者一覧付き。" />
+  <meta property="og:description" content="英日対訳の名言1,752作品とENGLISH TIP。作者一覧・検索機能付き。" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="" />
   <style>
@@ -147,10 +147,47 @@ permalink: /quotes/
 .q-detail{text-align:right;margin-top:2px}.q-detail a{display:inline-flex;align-items:center;justify-content:center;min-width:32px;min-height:32px;font-size:16px;color:var(--muted);border:0}.q-detail a:hover,.q-detail a:focus-visible{color:var(--text);background:var(--panel);border-radius:6px}
 #author-profile{padding:12px;background:var(--panel);border-radius:8px;font-size:14px;line-height:1.7;margin-bottom:12px}
 .q-tip{margin-top:12px;font-size:14px;line-height:1.7}.q-tip summary{cursor:pointer;color:var(--accent);font-size:12px;letter-spacing:.06em}.q-tip ul{padding-left:20px;margin:6px 0}
+
+/* Scholarly edition: match individual quote pages */
+:root{--bg:#182330;--panel:#263343;--text:#f4eedf;--muted:#b9bdc5;--line:#74674e;--accent:#d9ba7c;--link-hover:#f4dfb2;--chip-bg:#202c3a}
+html{min-height:100%}
+body{height:auto;min-height:100vh;background:radial-gradient(ellipse at 15% 0%,#303d50 0%,transparent 55%),radial-gradient(ellipse at 100% 90%,#34312e 0%,transparent 48%),#182330;background-attachment:fixed;color:var(--text)}
+.page-content{background:transparent;color:var(--text)}
+.wrap{max-width:900px}
+#quotes-header{background:#202b39f2;border:1px solid #a58b574d;border-radius:8px;box-shadow:0 8px 24px #080d192b;backdrop-filter:blur(10px)}
+#quotes-header .header-inner{padding:18px 20px;flex-wrap:wrap}
+.brand .ja{font-family:Georgia,"Yu Mincho","Hiragino Mincho ProN",serif;font-size:clamp(20px,4vw,28px);font-weight:600;letter-spacing:.07em;color:var(--text)}
+.brand .en{font-family:Georgia,serif;letter-spacing:.12em;color:var(--accent);font-size:12px;margin-top:4px}
+#quotes-header nav{flex-wrap:wrap}
+.btn{background:#263343;color:var(--text);border:1px solid #a58b5770;border-radius:6px;font:inherit;font-size:13px}
+.btn:hover{color:var(--accent);border-color:var(--accent)}
+#btn-shuffle{background:#d9ba7c;color:#192330;border-color:#e8ce99}
+#btn-shuffle:hover{background:#ecd09a;color:#192330}
+#authors-strip{padding:8px 14px 12px;margin:0;border:0}
+#authors-strip .author-item{padding:0;border:0;background:transparent;flex:none}
+.chip{color:var(--accent);border-color:#a58b5755;background:#202c3a}
+.chip.active,a[data-author].active{background:#d9ba7c;color:#192330!important}
+.quote-search input,.quote-pagination select{background:#202b39;color:var(--text);border-color:#a58b5770}
+.quote-search input::placeholder{color:#b9bdc5}
+.q-list{gap:14px}
+.quote{position:relative;padding:22px 24px 12px;border:1px solid #a58b574d;border-radius:8px;background:linear-gradient(145deg,#263343,#202b39);box-shadow:0 5px 20px #080d1926;overflow-wrap:anywhere}
+.q-en{font-family:Georgia,"Times New Roman",serif;font-size:clamp(20px,3.2vw,24px);line-height:1.55;color:var(--text)}
+.q-jp{color:#e1dfd8;line-height:1.85;margin-top:12px}
+.q-author{text-align:right;color:var(--accent);margin-top:10px}
+.q-tip{background:#121c2a66;border-left:2px solid var(--accent);border-radius:0 5px 5px 0;padding:9px 12px;margin-top:14px;color:#e2e5eb}
+.q-tip summary{color:var(--accent)}
+.q-detail a{color:var(--accent)}
+.section-title{font-family:Georgia,"Yu Mincho",serif;color:var(--accent);font-size:18px;letter-spacing:.06em}
+.authors-grid .author-item{background:#263343;border-color:#a58b574d;min-width:0}
+#authors-grid a{white-space:normal;overflow-wrap:anywhere;display:block}
+#author-profile{background:#263343;border-left:2px solid var(--accent)}
+#quotes-header a:focus-visible,main a:focus-visible,main button:focus-visible,#btn-shuffle:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid #f4dfb2;outline-offset:3px}
+@media(max-width:560px){#quotes-header .header-inner{padding:12px 10px;gap:8px}#quotes-header nav{margin-left:0;gap:6px}.brand .ja{font-size:21px}.wrap{padding:8px}section{padding:6px}.quote{padding:16px 14px 8px}.q-en{font-size:21px}.q-jp{font-size:15px}#authors-strip{padding:6px 8px 10px}.q-tip{padding:8px 10px}#quotes{scroll-margin-top:190px}}
+
 </style>
 </head>
 <body>
-  <header>
+  <header id="quotes-header">
     <div class="header-inner wrap">
       <div class="brand">
         <div class="ja">パンダの英語名言</div>
