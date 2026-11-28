@@ -6342,181 +6342,327 @@
     "author": "Oscar Wilde",
     "en": "A gentleman is one who never hurts anyone's feelings unintentionally.",
     "jp": "紳士とは、うっかり人の気持ちを傷つけることがない人だ。",
-    "id": "q0581"
+    "id": "q0581",
+    "tips": [
+      "gentleman：紳士",
+      "hurt someone's feelings：人の気持ちを傷つける",
+      "unintentionally：意図せずに（意図的な場合を除外する皮肉）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The truth is rarely pure and never simple.",
     "jp": "真実は滅多に純粋ではなく、決して単純ではない。",
-    "id": "q0582"
+    "id": "q0582",
+    "tips": [
+      "rarely：めったに〜ない",
+      "pure：純粋な、混じりけのない",
+      "rarely ... and never ...：めったに〜せず、決して…しない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "If you are not too long, I will wait here for you all my life.",
     "jp": "あまり時間がかからないなら、私は一生ここで待っている。",
-    "id": "q0583"
+    "id": "q0583",
+    "tips": [
+      "be not too long：あまり時間がかからない",
+      "wait for：〜を待つ",
+      "all my life：生涯ずっと"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "When the gods wish to punish us they answer our prayers.",
     "jp": "神々が我々を罰したいときは、祈りを叶えてくれる。",
-    "id": "q0584"
+    "id": "q0584",
+    "tips": [
+      "wish to do：〜したいと望む",
+      "punish：罰する",
+      "answer one's prayers：祈りをかなえる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Children begin by loving their parents; after a time they judge them; rarely, if ever, do they forgive them.",
     "jp": "子どもは最初、親を愛するが、やがて批判するようになり、許すことはほとんどない。",
-    "id": "q0585"
+    "id": "q0585",
+    "tips": [
+      "begin by -ing：まず〜することから始める",
+      "rarely, if ever：仮にあるとしてもめったにない",
+      "do they forgive：否定的な副詞に続く倒置"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.",
     "jp": "多くの人は他人の寄せ集めだ。考えは他人の意見、人生は真似、情熱は引用でできている。",
-    "id": "q0586"
+    "id": "q0586",
+    "tips": [
+      "someone else's：他の誰かの",
+      "mimicry：模倣",
+      "quotation：引用（独自性のなさを表す比喩）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
     "jp": "心に愛を持ち続けなさい。愛のない人生は、花が枯れた日陰の庭のようだ。",
-    "id": "q0587"
+    "id": "q0587",
+    "tips": [
+      "keep A in B：AをBに保つ",
+      "sunless：日の差さない",
+      "a life without it：それ（愛）のない人生"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Patriotism is the virtue of the vicious.",
     "jp": "愛国心は悪人の美徳だ。",
-    "id": "q0588"
+    "id": "q0588",
+    "tips": [
+      "patriotism：愛国心",
+      "virtue：美徳",
+      "the vicious：邪悪な人々（the＋形容詞）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "What is a cynic? A man who knows the price of everything and the value of nothing.",
     "jp": "皮肉屋とは、あらゆる物の値段は知っていても、価値は何もわからない人だ。",
-    "id": "q0589"
+    "id": "q0589",
+    "tips": [
+      "cynic：皮肉屋、冷笑家",
+      "price：価格",
+      "value：価値（価格との対比が皮肉の中心）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is better to be beautiful than to be good. But... it is better to be good than to be ugly.",
     "jp": "美しいほうが善良であるよりもいい。しかし、醜いよりは善良なほうがましだ。",
-    "id": "q0590"
+    "id": "q0590",
+    "tips": [
+      "It is better to A than to B：BするよりAするほうがよい",
+      "good：ここでは善良な",
+      "ugly：醜い"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "One of the many lessons that one learns in prison is, that things are what they are and will be what they will be.",
     "jp": "刑務所で学ぶ多くの教訓の一つは、物事はあるがままであり、なるようにしかならないということだ。",
-    "id": "q0591"
+    "id": "q0591",
+    "tips": [
+      "in prison：刑務所に入って",
+      "one：一般の人を指す代名詞",
+      "things are what they are：物事はあるがままである"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Experience is simply the name we give our mistakes.",
     "jp": "経験とは、私たちが自分の失敗に付ける名前だ。",
-    "id": "q0592"
+    "id": "q0592",
+    "tips": [
+      "simply：単に",
+      "the name we give our mistakes：自分の失敗につける名前（関係代名詞の省略）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Beauty is the only thing that time cannot harm. Philosophies fall away like sand, creeds follow one another, but what is beautiful is a joy for all seasons, a possession for all eternity.",
     "jp": "美だけは時間に傷つけられない。哲学は砂のように崩れ、信条は入れ替わるが、美は永遠の喜びだ。",
-    "id": "q0593"
+    "id": "q0593",
+    "tips": [
+      "fall away：崩れ去る",
+      "creed：信条、教義",
+      "for all eternity：永遠に"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The world is a stage, but the play is badly cast.",
     "jp": "世界は舞台だが、配役はひどいものだ。",
-    "id": "q0594"
+    "id": "q0594",
+    "tips": [
+      "stage：舞台",
+      "play：劇",
+      "be badly cast：配役が悪い（人生を演劇にたとえる皮肉）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I can resist everything except temptation.",
     "jp": "私は誘惑以外なら何でも我慢できる。",
-    "id": "q0595"
+    "id": "q0595",
+    "tips": [
+      "resist：抵抗する、我慢する",
+      "except：〜を除いて",
+      "temptation：誘惑"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Work is the curse of the drinking classes.",
     "jp": "労働は酒飲み階級の呪いだ。",
-    "id": "q0596"
+    "id": "q0596",
+    "tips": [
+      "curse：災い、呪い",
+      "drinking classes：酒を飲む人々（working classes を連想させる言葉遊び）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future.",
     "jp": "聖人と罪人の唯一の違いは、聖人には過去があり、罪人には未来があるということだ。",
-    "id": "q0597"
+    "id": "q0597",
+    "tips": [
+      "saint：聖人",
+      "sinner：罪人",
+      "the difference between A and B：AとBの違い"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Society exists only as a mental concept; in the real world there are only individuals.",
     "jp": "社会は頭の中の概念にすぎない。現実には個人しかいない。",
-    "id": "q0598"
+    "id": "q0598",
+    "tips": [
+      "exist as：〜として存在する",
+      "mental concept：心の中の概念",
+      "individual：個人"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "When I was young I thought that money was the most important thing in life; now that I am old I know that it is.",
     "jp": "若い頃はお金が人生で最も大切だと思っていた。今では本当にその通りだとわかっている。",
-    "id": "q0599"
+    "id": "q0599",
+    "tips": [
+      "now that：今や〜なので",
+      "the most important：最も重要な",
+      "it is：前に述べた内容を受ける省略表現"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Memory... is the diary that we all carry about with us.",
     "jp": "記憶とは、誰もが持ち歩く日記のようなものだ。",
-    "id": "q0600"
+    "id": "q0600",
+    "tips": [
+      "diary：日記",
+      "carry about with oneself：いつも持ち歩く"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Bigamy is having one wife too many. Monogamy is the same.",
     "jp": "重婚とは妻が一人多すぎることだ。一夫一妻も同じだ。",
-    "id": "q0601"
+    "id": "q0601",
+    "tips": [
+      "bigamy：重婚",
+      "monogamy：一夫一婦制",
+      "one ... too many：一つ（ここでは一人）多すぎる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
     "jp": "良い助言は人に渡すしかない。自分に役立つことはない。",
-    "id": "q0602"
+    "id": "q0602",
+    "tips": [
+      "pass on：人に伝える",
+      "be of any use：何らかの役に立つ",
+      "oneself：自分自身"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A man's face is his autobiography. A woman's face is her work of fiction.",
     "jp": "男の顔は自伝であり、女の顔は小説だ。",
-    "id": "q0603"
+    "id": "q0603",
+    "tips": [
+      "autobiography：自伝",
+      "work of fiction：創作物、フィクション",
+      "顔を自伝と創作物に対比させた比喩"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "No man is rich enough to buy back his past.",
     "jp": "過去を買い戻せるほど裕福な人間はいない。",
-    "id": "q0604"
+    "id": "q0604",
+    "tips": [
+      "rich enough to do：〜できるほど裕福な",
+      "buy back：買い戻す",
+      "past：過去"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
     "jp": "人生は決して公平ではない。だが多くの人にとって、それはむしろ幸運だ。",
-    "id": "q0605"
+    "id": "q0605",
+    "tips": [
+      "fair：公平な",
+      "perhaps：おそらく",
+      "that it is not：人生が公平ではないということ"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "To expect the unexpected shows a thoroughly modern intellect.",
     "jp": "予想外を予想することは、徹底的に現代的な知性を示す。",
-    "id": "q0606"
+    "id": "q0606",
+    "tips": [
+      "expect the unexpected：予想外のことを予期する",
+      "thoroughly：徹底的に、完全に",
+      "intellect：知性"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "To love oneself is the beginning of a lifelong romance.",
     "jp": "自分を愛することは、生涯続く恋愛の始まりだ。",
-    "id": "q0607"
+    "id": "q0607",
+    "tips": [
+      "oneself：自分自身",
+      "lifelong：生涯にわたる",
+      "romance：恋愛、恋物語"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Men always want to be a woman's first love - women like to be a man's last romance.",
     "jp": "男は女性の初恋になりたがり、女は男性の最後の恋になりたがる。",
-    "id": "q0608"
+    "id": "q0608",
+    "tips": [
+      "first love：初恋の相手",
+      "last romance：最後の恋愛",
+      "want to be：〜でありたい"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Who, being loved, is poor?",
     "jp": "愛されている人が、どうして貧しいと言えるだろうか。",
-    "id": "q0609"
+    "id": "q0609",
+    "tips": [
+      "being loved：愛されている状態で（分詞構文）",
+      "Who ... is poor?：誰が貧しいだろうか（反語）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The only way to get rid of temptation is to yield to it... I can resist everything but temptation.",
     "jp": "誘惑を消す唯一の方法は、それに屈することだ…私は誘惑以外なら何でも我慢できる。",
-    "id": "q0610"
+    "id": "q0610",
+    "tips": [
+      "get rid of：〜を取り除く",
+      "yield to：〜に屈する",
+      "everything but：〜以外のすべて"
+    ]
   },
   {
     "author": "Oscar Wilde",
