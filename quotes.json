@@ -9258,181 +9258,314 @@
     "author": "R. W. Emerson",
     "en": "This time, like all times, is a very good one, if we but know what to do with it.",
     "jp": "今という時は、すべての時と同じく素晴らしい。ただ、それをどう使うかを知っていれば。",
-    "id": "q0851"
+    "id": "q0851",
+    "tips": [
+      "if we but know：もし私たちが知ってさえいれば（but は only の意味）",
+      "what to do with：〜をどう扱うか"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The greatest gift is a portion of thyself.",
     "jp": "最高の贈り物は、自分の一部を分け与えることだ。",
-    "id": "q0852"
+    "id": "q0852",
+    "tips": [
+      "a portion of：〜の一部分",
+      "thyself：yourself の古風な形"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "What we seek we shall find; what we flee from flees from us.",
     "jp": "求めれば見つかり、逃げれば向こうも遠ざかる。",
-    "id": "q0853"
+    "id": "q0853",
+    "tips": [
+      "seek：探し求める",
+      "flee from：〜から逃れる",
+      "shall：ここでは未来の確信を表す"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We have listened too long to the courtly Muses of Europe.",
     "jp": "私たちはヨーロッパの上品な詩神の声を長く聞きすぎてきた。",
-    "id": "q0854"
+    "id": "q0854",
+    "tips": [
+      "courtly：宮廷風の、上品な",
+      "Muses：芸術や学問をつかさどる女神たち（ここでは欧州の文化的権威の比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Beauty without expression is boring.",
     "jp": "表情のない美は退屈だ。",
-    "id": "q0855"
+    "id": "q0855",
+    "tips": [
+      "without expression：表情や表現力を欠いた",
+      "boring：退屈な（bored は退屈している状態）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "America is another name for opportunity.",
     "jp": "アメリカは「機会」という別名を持つ。",
-    "id": "q0856"
+    "id": "q0856",
+    "tips": [
+      "another name for：〜の別名",
+      "opportunity：機会、好機"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Build a better mousetrap and the world will beat a path to your door.",
     "jp": "より良いものを作れば、世界中から人がやって来る。",
-    "id": "q0857"
+    "id": "q0857",
+    "tips": [
+      "mousetrap：ネズミ捕り",
+      "beat a path to one's door：人のもとへ大勢が押しかける（道ができるほど通うという比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.",
     "jp": "愚かな一貫性は、小さな心の魔物だ。小さな政治家や哲学者や聖職者に愛される。",
-    "id": "q0858"
+    "id": "q0858",
+    "tips": [
+      "consistency：一貫性",
+      "hobgoblin：人を悩ませるもの、厄介な存在",
+      "divines：神学者、聖職者"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man in debt is so far a slave.",
     "jp": "借金をしている人は、それだけで奴隷だ。",
-    "id": "q0859"
+    "id": "q0859",
+    "tips": [
+      "in debt：借金を抱えて",
+      "so far：その限りにおいて、その程度まで",
+      "slave：奴隷"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Judge of your natural character by what you do in your dreams.",
     "jp": "夢の中での行動で、自分の本性を測れ。",
-    "id": "q0860"
+    "id": "q0860",
+    "tips": [
+      "judge of：〜について判断する（古風な用法）",
+      "natural character：生来の性格",
+      "by：〜を手がかりとして"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Good is positive. Evil is merely privative, not absolute: it is like cold, which is the privation of heat. All evil is so much death or nonentity. Benevolence is absolute and real. So much benevolence as a man hath, so much life hath he.",
     "jp": "善は実在し、悪はただの欠如にすぎない。慈愛が多ければ、それだけ命も豊かになる。",
-    "id": "q0861"
+    "id": "q0861",
+    "tips": [
+      "privative / privation：欠如を表す／欠如",
+      "benevolence：善意、慈悲",
+      "hath：has の古風な形"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "People only see what they are prepared to see.",
     "jp": "人は、心の準備ができたものしか見えない。",
-    "id": "q0862"
+    "id": "q0862",
+    "tips": [
+      "be prepared to do：〜する準備ができている",
+      "what they are prepared to see：彼らが見る心構えのできているもの"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Curiosity is lying in wait for every secret.",
     "jp": "好奇心は、あらゆる秘密を待ち伏せしている。",
-    "id": "q0863"
+    "id": "q0863",
+    "tips": [
+      "curiosity：好奇心",
+      "lie in wait for：〜を待ち伏せする（好奇心の擬人化）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "When nature has work to be done, she creates a genius to do it.",
     "jp": "自然が仕事を必要とするとき、そのための天才を生み出す。",
-    "id": "q0864"
+    "id": "q0864",
+    "tips": [
+      "work to be done：なされるべき仕事（受動態の不定詞）",
+      "genius：天才、卓越した才能を持つ人"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The faith that stands on authority is not faith.",
     "jp": "権威に寄りかかる信仰は、本物の信仰ではない。",
-    "id": "q0865"
+    "id": "q0865",
+    "tips": [
+      "faith：信仰、信念",
+      "stand on：〜に基づく",
+      "authority：権威"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Truth is beautiful, without doubt; but so are lies.",
     "jp": "真実は美しい。だが嘘もまた美しいことがある。",
-    "id": "q0866"
+    "id": "q0866",
+    "tips": [
+      "without doubt：疑いなく",
+      "so are lies：嘘もまたそうである（so＋動詞＋主語の倒置）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The highest revelation is that God is in every man.",
     "jp": "最高の啓示とは、神がすべての人の中にあるということだ。",
-    "id": "q0867"
+    "id": "q0867",
+    "tips": [
+      "revelation：啓示、明らかにされる真理",
+      "that God is in every man：神がすべての人の内にいるということ"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Money often costs too much.",
     "jp": "お金は、あまりにも高くつくことがある。",
-    "id": "q0868"
+    "id": "q0868",
+    "tips": [
+      "cost too much：代償が大きすぎる",
+      "money を得るために払う時間や労力などの代償を示唆する逆説"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "If the stars should appear but one night every thousand years how man would marvel and stare.",
     "jp": "千年に一度だけ星が現れるなら、人は驚き、見つめ続けるだろう。",
-    "id": "q0869"
+    "id": "q0869",
+    "tips": [
+      "should appear：もし現れるとしたら（仮定の should）",
+      "but one night：たった一晩だけ",
+      "marvel：驚嘆する"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Little minds have little worries, big minds have no time for worries.",
     "jp": "小さな心は小さな悩みにとらわれ、大きな心は悩んでいる暇がない。",
-    "id": "q0870"
+    "id": "q0870",
+    "tips": [
+      "little minds / big minds：狭い心／大きな心",
+      "have no time for：〜に時間を割く余裕がない"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "With the past, I have nothing to do; nor with the future. I live now.",
     "jp": "過去とも未来とも関わらない。私は今を生きる。",
-    "id": "q0871"
+    "id": "q0871",
+    "tips": [
+      "have nothing to do with：〜とは関わりがない",
+      "nor：〜もまたない（前の否定を受ける）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man builds a fine house; and now he has a master, and a task for life: he is to furnish, watch, show it, and keep it in repair, the rest of his days.",
     "jp": "立派な家を建てたが、それから一生その家に仕え続けることになる。",
-    "id": "q0872"
+    "id": "q0872",
+    "tips": [
+      "furnish：家具を備え付ける",
+      "keep it in repair：それを良好な状態に保つ",
+      "the rest of his days：残りの生涯"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The ancestor of every action is a thought.",
     "jp": "すべての行動の祖先は「思考」である。",
-    "id": "q0873"
+    "id": "q0873",
+    "tips": [
+      "ancestor：祖先（行動の起源を思考にたとえている）",
+      "thought：考え、思考"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Manners require time, and nothing is more vulgar than haste.",
     "jp": "礼儀には時間が必要であり、性急さほど下品なものはない。",
-    "id": "q0874"
+    "id": "q0874",
+    "tips": [
+      "manners：礼儀作法",
+      "vulgar：下品な",
+      "haste：性急さ、慌ただしさ"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nothing is at last sacred but the integrity of your own mind.",
     "jp": "最終的に神聖なのは、自分の心の誠実さだけだ。",
-    "id": "q0875"
+    "id": "q0875",
+    "tips": [
+      "at last：結局のところ",
+      "sacred：神聖な",
+      "integrity：誠実さ、自己の信念を曲げないこと"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The world is all gates, all opportunities, strings of tension waiting to be struck.",
     "jp": "世界はすべて門であり、機会であり、弾かれるのを待つ弦だ。",
-    "id": "q0876"
+    "id": "q0876",
+    "tips": [
+      "gate：門、入り口（機会の比喩）",
+      "tension：張力、緊張",
+      "waiting to be struck：打たれるのを待っている（弦の比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We acquire the strength we have overcome.",
     "jp": "克服した分だけ、私たちは強くなる。",
-    "id": "q0877"
+    "id": "q0877",
+    "tips": [
+      "acquire：獲得する",
+      "overcome：克服する（過去分詞も overcome）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "If the tongue had not been framed for articulation, man would still be a beast in the forest.",
     "jp": "舌が言葉を話せる形で作られなかったら、人は今も森の獣だ。",
-    "id": "q0878"
+    "id": "q0878",
+    "tips": [
+      "had not been framed：形作られていなかったなら（過去完了の受動態）",
+      "articulation：明瞭な発音、言語音の形成",
+      "would still be：今もなお〜であろう（混合仮定法）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every wall is a door.",
     "jp": "すべての壁は扉でもある。",
-    "id": "q0879"
+    "id": "q0879",
+    "tips": [
+      "wall / door：壁／扉（障害と可能性の比喩）",
+      "every：一つ一つのすべての"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A good indignation brings out all one's powers.",
     "jp": "正しい怒りは、その人の力をすべて引き出す。",
-    "id": "q0880"
+    "id": "q0880",
+    "tips": [
+      "indignation：憤り、義憤",
+      "bring out：引き出す",
+      "one's powers：その人の持つ能力"
+    ]
   },
   {
     "author": "R. W. Emerson",
