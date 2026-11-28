@@ -8295,181 +8295,329 @@
     "author": "Oscar Wilde",
     "en": "Writing bores me so.",
     "jp": "書くことは私をひどく退屈させる。",
-    "id": "q0761"
+    "id": "q0761",
+    "tips": [
+      "bore：退屈させる",
+      "writing：書くこと（動名詞）",
+      "so：とても、ひどく"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The mark of all good art is not that the thing done is done exactly or finely, for machinery may do as much, but that it is worked out with the head and the workman's heart.",
     "jp": "優れた芸術の証は、正確さや精巧さではない。機械でもそれはできる。本当に大事なのは、知性と作り手の心が込められていることだ。",
-    "id": "q0762"
+    "id": "q0762",
+    "tips": [
+      "mark：特徴、しるし",
+      "machinery：機械類",
+      "work out：作り上げる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Romantic art deals with the exception and with the individual. Good people, belonging as they do to the normal, and so, commonplace type, are artistically uninteresting.",
     "jp": "ロマン派芸術は、例外と個人を扱う。善良な人は平凡であり、芸術的には面白くない。",
-    "id": "q0763"
+    "id": "q0763",
+    "tips": [
+      "deal with：〜を扱う",
+      "commonplace：ありふれた",
+      "belonging as they do：実際に属しているので（理由を示す分詞構文）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The difference between literature and journalism is that journalism is unreadable and literature is not read.",
     "jp": "文学とジャーナリズムの違いは、ジャーナリズムは読むに耐えず、文学は読まれないことだ。",
-    "id": "q0764"
+    "id": "q0764",
+    "tips": [
+      "journalism：報道、ジャーナリズム",
+      "unreadable：読むに堪えない",
+      "not read：読まれない（unreadable との対比）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "No better way is there to learn to love Nature than to understand Art. It dignifies every flower of the field. And, the boy who sees the thing of beauty which a bird on the wing becomes when transferred to wood or canvas will probably not throw the customary stone.",
     "jp": "自然を愛する最良の方法は、芸術を理解することだ。そうすれば野の花も尊く見える。翼を広げた鳥の美しさを木やキャンバスに描かれた姿で見た少年は、もう石を投げないだろう。",
-    "id": "q0765"
+    "id": "q0765",
+    "tips": [
+      "dignify：尊厳を与える",
+      "on the wing：飛んでいる",
+      "customary：いつもの、習慣的な"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The good ended happily, and the bad unhappily. That is what fiction means.",
     "jp": "良い者は幸せに、悪い者は不幸になる。それがフィクションの意味だ。",
-    "id": "q0766"
+    "id": "q0766",
+    "tips": [
+      "the good / the bad：善人／悪人",
+      "end happily：幸せな結末を迎える",
+      "fiction：創作、小説"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Charity creates a multitude of sins.",
     "jp": "慈善は多くの罪を生む。",
-    "id": "q0767"
+    "id": "q0767",
+    "tips": [
+      "charity：慈善",
+      "a multitude of：多数の",
+      "sin：罪"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Fashion is a form of ugliness so intolerable that we have to alter it every six months.",
     "jp": "ファッションとは、6か月ごとに変えなければならないほど耐えがたい醜さの一形態だ。",
-    "id": "q0768"
+    "id": "q0768",
+    "tips": [
+      "intolerable：耐えがたい",
+      "so ... that：非常に〜なので…",
+      "alter：変える"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In England, an inventor is regarded almost as a crazy man, and in too many instances, invention ends in disappointment and poverty. In America, an inventor is honoured, help is forthcoming, and the exercise of ingenuity, the application of science to the work of man, is there the shortest road to wealth.",
     "jp": "イギリスでは発明家はほぼ変人扱いされ、多くが失望と貧困で終わる。アメリカでは発明家は尊敬され、支援され、科学を人の仕事に応用することが富への近道となる。",
-    "id": "q0769"
+    "id": "q0769",
+    "tips": [
+      "be regarded as：〜と見なされる",
+      "forthcoming：提供される、得られる",
+      "ingenuity：創意工夫"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There is always something ridiculous about the emotions of people whom one has ceased to love.",
     "jp": "愛情を失った相手の感情は、いつもどこか滑稽だ。",
-    "id": "q0770"
+    "id": "q0770",
+    "tips": [
+      "ridiculous：ばかげた",
+      "emotion：感情",
+      "cease to love：愛さなくなる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Art is individualism, and individualism is a disturbing and disintegrating force.",
     "jp": "芸術とは個人主義であり、個人主義は不安と分裂をもたらす力だ。",
-    "id": "q0771"
+    "id": "q0771",
+    "tips": [
+      "individualism：個人主義",
+      "disturbing：動揺を引き起こす",
+      "disintegrating：崩壊を引き起こす"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Whenever a man does a thoroughly stupid thing, it is always from the noblest motives.",
     "jp": "男がとびきり愚かなことをする時は、いつも最も高尚な動機からだ。",
-    "id": "q0772"
+    "id": "q0772",
+    "tips": [
+      "whenever：〜するたびに",
+      "thoroughly：完全に",
+      "motive：動機"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Why was I born with such contemporaries?",
     "jp": "なぜ私はこんな同時代人と生まれてしまったのか。",
-    "id": "q0773"
+    "id": "q0773",
+    "tips": [
+      "be born with：〜とともに生まれる",
+      "contemporary：同時代の人"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Deceiving others. That is what the world calls a romance.",
     "jp": "他人を欺くこと。それが世間の言うロマンスだ。",
-    "id": "q0774"
+    "id": "q0774",
+    "tips": [
+      "deceive：だます",
+      "what the world calls：世間が〜と呼ぶもの",
+      "romance：恋愛、恋物語"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In all matters of opinion, our adversaries are insane.",
     "jp": "意見の対立する相手は、いつも狂っている。",
-    "id": "q0775"
+    "id": "q0775",
+    "tips": [
+      "matter of opinion：意見に関する事柄",
+      "adversary：敵対者",
+      "insane：正気でない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The world has grown suspicious of anything that looks like a happily married life.",
     "jp": "世の中は、幸せそうな結婚生活に見えるものを疑うようになった。",
-    "id": "q0776"
+    "id": "q0776",
+    "tips": [
+      "grow suspicious of：〜を疑うようになる",
+      "look like：〜のように見える",
+      "happily married：幸せな結婚生活を送っている"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is a very sad thing that nowadays there is so little useless information.",
     "jp": "今では役に立たない情報がほとんどないことは、とても悲しいことだ。",
-    "id": "q0777"
+    "id": "q0777",
+    "tips": [
+      "nowadays：近頃",
+      "so little：非常に少ない",
+      "useless information：役に立たない情報"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "What we have to do, what at any rate it is our duty to do, is to revive the old art of Lying.",
     "jp": "私たちがすべきこと、少なくとも義務としてすべきことは、古き良き「嘘の芸術」を復活させることだ。",
-    "id": "q0778"
+    "id": "q0778",
+    "tips": [
+      "at any rate：いずれにせよ",
+      "duty：義務",
+      "revive：復活させる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Democracy means simply the bludgeoning of the people by the people for the people.",
     "jp": "民主主義とは、人民が人民を人民のために打ちのめすことだ。",
-    "id": "q0779"
+    "id": "q0779",
+    "tips": [
+      "democracy：民主主義",
+      "bludgeoning：こん棒で殴ること、力で押さえつけること",
+      "of the people by the people for the people：人民の、人民による、人民のための（有名な演説の表現をもじっている）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In its primary aspect, a painting has no more spiritual message than an exquisite fragment of Venetian glass. The channels by which all noble and imaginative work in painting should touch the soul are not those of the truths of lives.",
     "jp": "絵画の本質的な面は、精巧なヴェネチアンガラスの破片と同じで、精神的なメッセージはない。魂に触れるのは人生の真実ではなく、気高く想像力豊かな表現の経路だ。",
-    "id": "q0780"
+    "id": "q0780",
+    "tips": [
+      "primary aspect：第一義的な側面",
+      "exquisite：精巧な、非常に美しい",
+      "channel：伝達経路、手段"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A thing is not necessarily true because a man dies for it.",
     "jp": "人が命を懸けたからといって、それが真実とは限らない。",
-    "id": "q0781"
+    "id": "q0781",
+    "tips": [
+      "not necessarily：必ずしも〜ではない",
+      "die for：〜のために命を落とす"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Let us have no machine-made ornament at all; it is all bad and worthless and ugly.",
     "jp": "機械製の装飾は一切やめよう。すべて悪く、無価値で、醜い。",
-    "id": "q0782"
+    "id": "q0782",
+    "tips": [
+      "machine-made：機械製の",
+      "ornament：装飾品",
+      "worthless：価値のない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Most people die of a sort of creeping common sense, and discover when it is too late that the only things one never regrets are one's mistakes.",
     "jp": "多くの人はじわじわと常識に殺され、死ぬ間際に唯一後悔しないのは自分の過ちだと気づく。",
-    "id": "q0783"
+    "id": "q0783",
+    "tips": [
+      "die of：〜が原因で死ぬ",
+      "creeping：徐々に忍び寄る",
+      "regret：後悔する"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is only an auctioneer who can equally and impartially admire all schools of art.",
     "jp": "すべての美術流派を平等に称賛できるのは競売人だけだ。",
-    "id": "q0784"
+    "id": "q0784",
+    "tips": [
+      "auctioneer：競売人",
+      "impartially：公平に",
+      "school of art：芸術の流派"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There is nothing so dangerous to the young artist as any conception of ideal beauty: he is constantly led by it either into weak prettiness or lifeless abstraction: whereas to touch the ideal at all, you must not strip it of vitality.",
     "jp": "若い芸術家にとって、理想の美という概念ほど危険なものはない。それは生気のない抽象や弱々しい可愛らしさに導く。理想に触れるには、生命力を奪ってはならない。",
-    "id": "q0785"
+    "id": "q0785",
+    "tips": [
+      "conception：概念、考え",
+      "whereas：一方で",
+      "strip A of B：AからBを奪う"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Biography lends to death a new terror.",
     "jp": "伝記は死に新たな恐怖を与える。",
-    "id": "q0786"
+    "id": "q0786",
+    "tips": [
+      "biography：伝記",
+      "lend A B：AにBを与える",
+      "terror：恐怖"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "As long as a woman can look ten years younger than her own daughter, she is perfectly satisfied.",
     "jp": "女性は自分の娘より10歳若く見えれば、それだけで満足する。",
-    "id": "q0787"
+    "id": "q0787",
+    "tips": [
+      "as long as：〜する限り",
+      "ten years younger than：〜より10歳若い",
+      "be satisfied：満足している"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Women are never disarmed by compliments. Men always are. That is the difference between the sexes.",
     "jp": "女性はお世辞では心を許さないが、男性はすぐ許す。これが性別の違いだ。",
-    "id": "q0788"
+    "id": "q0788",
+    "tips": [
+      "disarm：警戒心を解く",
+      "compliment：褒め言葉",
+      "Men always are：男性はいつもそうである（述語の省略）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I like persons better than principles, and I like persons with no principles better than anything else in the world.",
     "jp": "私は原則より人を好むし、原則のない人を世界の何よりも好む。",
-    "id": "q0789"
+    "id": "q0789",
+    "tips": [
+      "like A better than B：BよりAを好む",
+      "principle：信条、原則",
+      "anything else：ほかのどんなもの"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There is a luxury in self-reproach. When we blame ourselves we feel no one else has a right to blame us.",
     "jp": "自責には贅沢さがある。自分を責めれば、他人には責める権利がないと感じられる。",
-    "id": "q0790"
+    "id": "q0790",
+    "tips": [
+      "self-reproach：自責、自分を責めること",
+      "blame oneself：自分を責める",
+      "have a right to do：〜する権利がある"
+    ]
   },
   {
     "author": "Oscar Wilde",
