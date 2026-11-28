@@ -18678,192 +18678,350 @@
     "author": "Schopenhauer",
     "en": "Journalists are like dogs, when ever anything moves they begin to bark.",
     "jp": "ジャーナリストは犬のようなものだ。何かが動けばすぐに吠える。",
-    "id": "q1721"
+    "id": "q1721",
+    "tips": [
+      "journalist：報道記者、ジャーナリスト",
+      "whenever：〜するたびに（原文の when ever は通常 whenever と一語で書く）",
+      "begin to bark：ほえ始める（記者の反応を犬の行動にたとえている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "They tell us that suicide is the greatest piece of cowardice... that suicide is wrong; when it is quite obvious that there is nothing in the world to which every man has a more unassailable title than to his own life and person.",
     "jp": "自殺は最大の臆病だと言われる。しかし明らかなのは、人生と自分自身に対する権利ほど絶対的なものはないということだ。",
-    "id": "q1722"
+    "id": "q1722",
+    "tips": [
+      "cowardice：臆病さ、勇気のなさ",
+      "unassailable title to：否定しがたい権利（title はここでは権利）",
+      "原文は自殺と自己決定権をめぐる歴史的な哲学的議論であり、自殺を推奨するものとして読む必要はない"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Wicked thoughts and worthless efforts gradually set their mark on the face, especially the eyes.",
     "jp": "邪悪な思いや無価値な努力は、やがて顔に、特に目に刻まれる。",
-    "id": "q1723"
+    "id": "q1723",
+    "tips": [
+      "wicked：邪悪な、悪意のある",
+      "worthless：価値のない",
+      "set one's mark on：〜に痕跡を残す"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Patriotism, when it wants to make itself felt in the domain of learning, is a dirty fellow who should be thrown out of doors.",
     "jp": "愛国心が学問の領域に入り込もうとするなら、それは追い出すべき汚れたやつだ。",
-    "id": "q1724"
+    "id": "q1724",
+    "tips": [
+      "patriotism：愛国心",
+      "make itself felt：その存在を感じさせる、影響を及ぼす",
+      "in the domain of learning：学問の領域において"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "In action a great heart is the chief qualification. In work, a great head.",
     "jp": "行動には偉大な心が必要であり、仕事には偉大な頭脳が必要である。",
-    "id": "q1725"
+    "id": "q1725",
+    "tips": [
+      "qualification：適性、必要な資質",
+      "chief：主要な、最も重要な",
+      "In work, a great head：仕事には優れた頭脳が必要だ（前の節の is the chief qualification が省略されている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "There is no absurdity so palpable but that it may be firmly planted in the human head if you only begin to inculcate it before the age of five, by constantly repeating it with an air of great solemnity.",
     "jp": "どんなにばかげたことでも、5歳になる前から真剣な顔で繰り返し教え込めば、人の頭にしっかり根づいてしまう。",
-    "id": "q1726"
+    "id": "q1726",
+    "tips": [
+      "palpable：明白な、容易に認識できる",
+      "inculcate：繰り返し教え込む",
+      "There is no ... so ... but that ...：どれほど…なものでも〜し得る、という古風な構文"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Boredom is just the reverse side of fascination: both depend on being outside rather than inside a situation, and one leads to the other.",
     "jp": "退屈は魅了の裏返しにすぎない。どちらも状況の中にいるのではなく外にいることに依存し、片方がもう片方を導く。",
-    "id": "q1727"
+    "id": "q1727",
+    "tips": [
+      "the reverse side of：〜の裏面、反対側",
+      "fascination：魅了されること、強い興味",
+      "depend on：〜に左右される、〜次第である"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "After your death you will be what you were before your birth.",
     "jp": "死後のあなたは、生まれる前のあなたと同じになる。",
-    "id": "q1728"
+    "id": "q1728",
+    "tips": [
+      "what you were：以前のあなたのあり方（what が名詞節を導く）",
+      "before your birth：誕生以前に（死後と誕生以前を対比する哲学的主張）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The brain may be regarded as a kind of parasite of the organism, a pensioner, as it were, who dwells with the body.",
     "jp": "脳はある意味で、身体に寄生する居候のような存在と見なせる。",
-    "id": "q1729"
+    "id": "q1729",
+    "tips": [
+      "be regarded as：〜と見なされる",
+      "parasite：寄生生物、寄生するもの",
+      "as it were：いわば、たとえて言えば（pensioner は年金受給者など、給付で暮らす人）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Buying books would be a good thing if one could also buy the time to read them in: but as a rule the purchase of books is mistaken for the appropriation of their contents.",
     "jp": "本を買うこと自体はよいことだが、読む時間まで買えるわけではない。本を買っただけで中身を手に入れたと勘違いしてしまうのが常だ。",
-    "id": "q1730"
+    "id": "q1730",
+    "tips": [
+      "as a rule：概して、普通は",
+      "be mistaken for：〜と取り違えられる",
+      "appropriation：自分のものにすること（ここでは本の内容を理解し身につけること）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "We can come to look upon the deaths of our enemies with as much regret as we feel for those of our friends, namely, when we miss their existence as witnesses to our success.",
     "jp": "敵の死を友の死と同じように惜しむことがある。それは、自分の成功を証明する存在を失ってしまったときだ。",
-    "id": "q1731"
+    "id": "q1731",
+    "tips": [
+      "come to look upon：次第に〜と見なすようになる",
+      "as much regret as：〜と同じほどの惜しむ気持ち",
+      "namely：すなわち、具体的に言えば"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The fundament upon which all our knowledge and learning rests is the inexplicable.",
     "jp": "私たちの知識と学問が依って立つ基盤は、説明できないものにある。",
-    "id": "q1732"
+    "id": "q1732",
+    "tips": [
+      "fundament：基礎、土台（foundation のほうが一般的）",
+      "rest upon：〜を基盤とする",
+      "the inexplicable：説明できないもの（形容詞の名詞的用法）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Martyrdom is the only way a man can become famous without ability.",
     "jp": "殉教は、能力がなくても人が有名になれる唯一の方法だ。",
-    "id": "q1733"
+    "id": "q1733",
+    "tips": [
+      "martyrdom：殉教、殉難",
+      "become famous：有名になる",
+      "the only way a man can ...：人が〜できる唯一の方法（原文は名声についての皮肉）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "A man's delight in looking forward to and hoping for some particular satisfaction is a part of the pleasure flowing out of it, enjoyed in advance. But this is afterward deducted, for the more we look forward to anything the less we enjoy it when it comes.",
     "jp": "人は何かを楽しみに待つことで、あらかじめ喜びを味わう。しかしその分は後から差し引かれる。期待すればするほど、実際に手に入れたときの喜びは減る。",
-    "id": "q1734"
+    "id": "q1734",
+    "tips": [
+      "look forward to：〜を楽しみに待つ（to は前置詞）",
+      "in advance：前もって",
+      "be deducted：差し引かれる（期待による喜びを先払いにたとえ、the more ... the less ... で比例関係を示す）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "There is no doubt that life is given us, not to be enjoyed, but to be overcome; to be got over.",
     "jp": "人生は楽しむために与えられたのではない。克服するために与えられたのだ。",
-    "id": "q1735"
+    "id": "q1735",
+    "tips": [
+      "There is no doubt that：〜であることに疑いはない",
+      "overcome：克服する、乗り越える",
+      "get over：〜を乗り越える（人生を困難として捉えた原文の哲学的表現）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "National character is only another name for the particular form which the littleness, perversity and baseness of mankind take in every country. Every nation mocks at other nations, and all are right.",
     "jp": "国民性とは、人間の卑小さや偏屈さや卑しさが国ごとにとる特有の形にすぎない。どの国も他国を笑うが、みな正しい。",
-    "id": "q1736"
+    "id": "q1736",
+    "tips": [
+      "national character：国民性",
+      "littleness / perversity / baseness：度量の狭さ／ひねくれた性質／卑劣さ",
+      "mock at：〜をあざ笑う（mock＋目的語 も一般的）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "I've never known any trouble than an hour's reading didn't assuage.",
     "jp": "一時間の読書で癒せない悩みを、私は知らない。",
-    "id": "q1737"
+    "id": "q1737",
+    "tips": [
+      "assuage：和らげる、鎮める",
+      "an hour's reading：1時間の読書",
+      "原文の trouble than は trouble that とするのが自然。that 以下が trouble を修飾する"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "It is only at the first encounter that a face makes its full impression on us.",
     "jp": "顔が私たちに最も強い印象を与えるのは、初めて出会ったときだけだ。",
-    "id": "q1738"
+    "id": "q1738",
+    "tips": [
+      "first encounter：最初の出会い",
+      "make an impression on：〜に印象を与える",
+      "It is only ... that ...：…なのは〜のときだけだ（強調構文）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Every possession and every happiness is but lent by chance for an uncertain time, and may therefore be demanded back the next hour.",
     "jp": "あらゆる所有物や幸福は偶然に貸し与えられたものであり、次の瞬間には返還を求められるかもしれない。",
-    "id": "q1739"
+    "id": "q1739",
+    "tips": [
+      "possession：所有物",
+      "but lent：ただ貸し与えられているにすぎない（but は only の意味）",
+      "demand back：返還を要求する（所有や幸福を一時的な借り物にたとえている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Honor means that a man is not exceptional; fame, that he is. Fame is something which must be won; honor, only something which must not be lost.",
     "jp": "名誉とは凡庸であること、名声とは際立つことだ。名声は勝ち取るものだが、名誉は失わないようにすべきものだ。",
-    "id": "q1740"
+    "id": "q1740",
+    "tips": [
+      "exceptional：並外れた、例外的な",
+      "honor / fame：名誉／名声",
+      "fame, that he is：名声は彼が並外れていることを意味する（means が省略されている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Honor has not to be won; it must only not be lost.",
     "jp": "名誉は勝ち取るものではなく、失わないようにすべきものだ。",
-    "id": "q1741"
+    "id": "q1741",
+    "tips": [
+      "has not to be won：獲得する必要はない（現代英語では does not have to be won が一般的）",
+      "must not be lost：失ってはならない（禁止を表す助動詞と受動態）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The alchemists in their search for gold discovered many other things of greater value.",
     "jp": "錬金術師は金を探す過程で、もっと価値のある多くのものを発見した。",
-    "id": "q1742"
+    "id": "q1742",
+    "tips": [
+      "alchemist：錬金術師",
+      "in their search for：〜を探し求める過程で",
+      "of greater value：より大きな価値を持つ"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Rascals are always sociable, more's the pity! and the chief sign that a man has any nobility in his character is the little pleasure he takes in others' company.",
     "jp": "ろくでなしはいつも社交的だ。残念なことに。そして、人の品性に高貴さがある唯一の証拠は、他人と一緒にいることから得る喜びがごくわずかであることだ。",
-    "id": "q1743"
+    "id": "q1743",
+    "tips": [
+      "rascal：悪党、ならず者",
+      "more's the pity：残念なことに（慣用表現）",
+      "take pleasure in：〜を楽しむ（company はここでは人と一緒に過ごすこと）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "It is in the treatment of trifles that a person shows what they are.",
     "jp": "些細な事柄への対処の仕方にこそ、人の本性が表れる。",
-    "id": "q1744"
+    "id": "q1744",
+    "tips": [
+      "trifle：ささいなこと",
+      "treatment of：〜の扱い方",
+      "what they are：その人の本当のあり方（they は a person を指す単数の代名詞）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "It is only a man's own fundamental thoughts that have truth and life in them. For it is these that he really and completely understands. To read the thoughts of others is like taking the remains of someone else's meal, like putting on the discarded clothes of a stranger.",
     "jp": "真理と生命を持っているのは、人自身の根本的な思考だけだ。他人の思考を読むことは、他人の食べ残しを食べたり、見知らぬ人の古着を着るようなものだ。",
-    "id": "q1745"
+    "id": "q1745",
+    "tips": [
+      "fundamental：根本的な、基礎となる",
+      "It is these that ...：…するのはまさにこれらだ（強調構文）",
+      "discarded：捨てられた、不要になった（他人の思想を食べ残しや古着にたとえている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "If we were not all so interested in ourselves, life would be so uninteresting that none of us would be able to endure it.",
     "jp": "もし皆が自分自身にそれほど関心を持たなかったなら、人生はあまりにつまらなく、誰も耐えられなかっただろう。",
-    "id": "q1746"
+    "id": "q1746",
+    "tips": [
+      "If we were not ... , life would be ...：もし〜でなければ人生は…だろう（仮定法過去）",
+      "so ... that ...：あまりに〜なので…",
+      "endure：耐える、持ちこたえる"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "If you want to know your true opinion of someone, watch the effect produced in you by the first sight of a letter from him.",
     "jp": "誰かに対する自分の本当の気持ちを知りたければ、その人からの手紙を最初に見たときに自分の中に生じる感情を観察せよ。",
-    "id": "q1747"
+    "id": "q1747",
+    "tips": [
+      "true opinion of：〜についての本当の評価",
+      "the effect produced in you：自分の内に生じる影響（produced は effect を修飾する過去分詞）",
+      "at the first sight に通じる the first sight of：〜を初めて目にすること"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The greatest achievements of the human mind are generally received with distrust.",
     "jp": "人間の精神の最大の成果は、たいてい疑いの目で迎えられる。",
-    "id": "q1748"
+    "id": "q1748",
+    "tips": [
+      "achievement：業績、達成したこと",
+      "the human mind：人間の知性、精神",
+      "be received with distrust：不信感をもって受け止められる"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "To find out your real opinion of someone, judge the impression you have when you first see a letter from them.",
     "jp": "誰かに対する自分の本音を知るには、その人からの手紙を初めて見たときの印象を判断せよ。",
-    "id": "q1749"
+    "id": "q1749",
+    "tips": [
+      "find out：突き止める、知る",
+      "judge the impression：印象を評価する、見極める",
+      "a letter from them：その人からの手紙（them は someone を指す単数用法）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The man never feels the want of what it never occurs to him to ask for.",
     "jp": "人は、自分が求めることを思いつきもしないものを不足だとは感じない。",
-    "id": "q1750"
+    "id": "q1750",
+    "tips": [
+      "feel the want of：〜の不足を感じる（want はここでは欠乏）",
+      "it occurs to someone to do：〜しようという考えが人の頭に浮かぶ",
+      "ask for：〜を求める"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The word of man is the most durable of all material.",
     "jp": "人間の言葉は、あらゆる物質の中で最も長持ちする。",
-    "id": "q1751"
+    "id": "q1751",
+    "tips": [
+      "the word of man：人間の言葉",
+      "durable：長持ちする、耐久性のある",
+      "the most durable of all material：あらゆる素材の中で最も長持ちするもの（言葉の持続性を表す比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Great minds are related to the brief span of time during which they live as great buildings are to a little square in which they stand: you cannot see them in all their magnitude because you are standing too close to them.",
     "jp": "偉大な精神は、自らの時代に対して巨大な建物が小さな広場に立っているのと同じような関係にある。近すぎて全貌を見渡すことはできない。",
-    "id": "q1752"
+    "id": "q1752",
+    "tips": [
+      "be related to A as B is to C：Aとの関係がBとCとの関係に等しい（類比を表す構文）",
+      "brief span of time：短い期間",
+      "in all their magnitude：その偉大さ、規模のすべてにおいて（偉人を近くから見上げる巨大な建物にたとえている）"
+    ]
   }
 ]
