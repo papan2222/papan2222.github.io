@@ -13447,181 +13447,329 @@
     "author": "Thoreau",
     "en": "Simplify, simplify.",
     "jp": "簡素に、簡素に。",
-    "id": "q1241"
+    "id": "q1241",
+    "tips": [
+      "simplify：簡素にする、単純化する",
+      "命令形の繰り返しによって、生活を簡素にすることの重要性を強調している"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There never was and is not likely soon to be a nation of philosophers.",
     "jp": "哲学者の国など、かつてなかったし、すぐにできることもない。",
-    "id": "q1242"
+    "id": "q1242",
+    "tips": [
+      "There never was：かつて存在したことがない",
+      "be likely to do：〜する可能性が高い",
+      "a nation of philosophers：哲学者からなる国"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Even without example or advice, I believe I can elevate myself above the common level.",
     "jp": "他人の助言がなくても、私は平凡を超えられると信じている。",
-    "id": "q1243"
+    "id": "q1243",
+    "tips": [
+      "even without：〜がなくても",
+      "elevate oneself：自分自身を高める",
+      "above the common level：一般的な水準を超えて"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If it is the means to the highest end, no work is humble.",
     "jp": "最高の目的につながる仕事なら、卑しい仕事などない。",
-    "id": "q1244"
+    "id": "q1244",
+    "tips": [
+      "means to an end：目的を達成するための手段",
+      "the highest end：最高の目的",
+      "humble：地味な、ささやかな"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is but one stage for the peasant and the actor.",
     "jp": "舞台は農夫にも俳優にもひとつしかない。",
-    "id": "q1245"
+    "id": "q1245",
+    "tips": [
+      "but one：ただ一つの（but は only の意味）",
+      "peasant：農民",
+      "stage：舞台（人生を舞台にたとえている）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "How can any man be weak who dares to be at all?",
     "jp": "少しでも勇気を出せる人間が、どうして弱いだろうか。",
-    "id": "q1246"
+    "id": "q1246",
+    "tips": [
+      "dare to do：勇気を出して〜する",
+      "at all：そもそも、少しでも",
+      "How can ...?：どうして〜であり得ようか（修辞疑問）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "How can any man be weak who dares to be at all?",
     "jp": "少しでも勇気を出せる人間が、どうして弱いだろうか。",
-    "id": "q1247"
+    "id": "q1247",
+    "tips": [
+      "dare to be：存在する勇気を持つ、自分として生きる勇気を持つ",
+      "weak：弱い（生きること自体に勇気があるという逆説）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Front yards are not made to walk in, but only to pass through.",
     "jp": "庭先は歩くためではなく、通り抜けるためのものだ。",
-    "id": "q1248"
+    "id": "q1248",
+    "tips": [
+      "front yard：家の前庭",
+      "be made to do：〜するために作られている（ここでは用途を表す）",
+      "pass through：通り抜ける"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The language of excitement is picturesque. You must be calm to utter oracles.",
     "jp": "興奮の言葉はせいぜい絵画的でしかない。神託を語るには静けさが必要だ。",
-    "id": "q1249"
+    "id": "q1249",
+    "tips": [
+      "picturesque：絵画的な、生き生きとした",
+      "utter：口にする、発する",
+      "oracle：神託、深い知恵を含む言葉"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is not part of a true culture to tame tigers, any more than to make sheep ferocious.",
     "jp": "真の文化とは、虎を飼いならすことでも、羊を獰猛にすることでもない。",
-    "id": "q1250"
+    "id": "q1250",
+    "tips": [
+      "tame：飼いならす",
+      "ferocious：獰猛な",
+      "not A any more than B：Bでないのと同様にAでもない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "May we so love as never to have occasion to repent of our love!",
     "jp": "愛を悔やむことのないように、私たちは愛したい。",
-    "id": "q1251"
+    "id": "q1251",
+    "tips": [
+      "May we ...!：私たちが〜できますように（願望）",
+      "so ... as to：〜するほど…する",
+      "repent of：〜を悔いる"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Even in death, there is some advantage: we join the common herd.",
     "jp": "死にも利点がある。それは凡人の群れに加わることだ。",
-    "id": "q1252"
+    "id": "q1252",
+    "tips": [
+      "even in death：死においてさえ",
+      "advantage：利点",
+      "the common herd：一般大衆、同じ運命を共有する群れ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I wanted to live deep and suck out all the marrow of life.",
     "jp": "人生の髄まで吸い尽くすように、深く生きたいと思った。",
-    "id": "q1253"
+    "id": "q1253",
+    "tips": [
+      "live deep：深く生きる（deep は副詞的に使用）",
+      "suck out：吸い出す",
+      "marrow：骨髄（ここでは人生の精髄の比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Nothing goes by luck in composition. The best you can write is the best you are.",
     "jp": "作文に運はない。あなたが書ける最高のものは、あなた自身の最高だ。",
-    "id": "q1254"
+    "id": "q1254",
+    "tips": [
+      "by luck：運によって、偶然に",
+      "composition：文章を書くこと、創作",
+      "the best you are：あなた自身の最良の部分"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Shall I not have intelligence with the earth? Am I not partly leaves and mould myself?",
     "jp": "私は大地と通じ合えないのか。私は部分的には葉や土ではないのか。",
-    "id": "q1255"
+    "id": "q1255",
+    "tips": [
+      "have intelligence with：〜と通じ合う（古風な表現）",
+      "partly：部分的に",
+      "mould：ここでは腐植土、土壌（英国式綴り）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Through our recovered innocence we discern the innocence of our neighbors.",
     "jp": "自分の中に純真さを取り戻せば、隣人の純真さも見える。",
-    "id": "q1256"
+    "id": "q1256",
+    "tips": [
+      "recovered innocence：取り戻した純真さ",
+      "discern：見分ける、見抜く",
+      "through：〜を通して"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I have a great deal of company in the house, especially in the morning when nobody calls.",
     "jp": "私の家にはたくさんの同居人がいる。特に朝、誰も来ないときに。",
-    "id": "q1257"
+    "id": "q1257",
+    "tips": [
+      "a great deal of：多くの（不可算名詞に用いる）",
+      "company：人との交わり、同伴",
+      "call：ここでは訪問する（孤独の中にも豊かな交わりを感じる逆説）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The man who is dissatisfied with himself, what can he do?",
     "jp": "自分に満足できない人に、何ができるだろう。",
-    "id": "q1258"
+    "id": "q1258",
+    "tips": [
+      "be dissatisfied with：〜に不満がある",
+      "with himself：自分自身に対して",
+      "the man who ...：〜する人について述べ、後の疑問文につなげている"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We know but a few men, a great many coats and breeches.",
     "jp": "私たちが知っているのは人そのものではなく、服ばかりだ。",
-    "id": "q1259"
+    "id": "q1259",
+    "tips": [
+      "but a few：ほんのわずかの",
+      "a great many：非常に多くの",
+      "breeches：膝丈のズボン（衣服を知っても人の内面は知らないという比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Faith keeps many doubts in her pay. If I could not doubt, I should not believe.",
     "jp": "信仰は多くの疑念を養っている。疑えなければ、信じることもできないだろう。",
-    "id": "q1260"
+    "id": "q1260",
+    "tips": [
+      "keep someone in one's pay：人を雇っておく、手元に置く",
+      "doubt：疑う、疑念",
+      "If I could not ..., I should not ...：もし〜できなければ…しないだろう（仮定法）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Great men unknown to their time are famous among the great of the past.",
     "jp": "時代に知られなかった偉人も、過去の偉人たちの間では名高い。",
-    "id": "q1261"
+    "id": "q1261",
+    "tips": [
+      "unknown to：〜に知られていない",
+      "their time：彼らが生きた時代",
+      "the great of the past：過去の偉大な人々（the＋形容詞）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Night is more novel and less profane than day.",
     "jp": "夜は昼より新鮮で、俗っぽくない。",
-    "id": "q1262"
+    "id": "q1262",
+    "tips": [
+      "novel：新鮮な、目新しい（形容詞）",
+      "profane：神聖でない、俗世的な",
+      "more ... and less ...：より〜で、より…でない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Instead of noblemen, let us have noble villages of men.",
     "jp": "貴族ではなく、高貴な人々の村を持とうではないか。",
-    "id": "q1263"
+    "id": "q1263",
+    "tips": [
+      "instead of：〜の代わりに",
+      "let us have：〜を持とう、〜を実現しよう",
+      "noblemen / noble villages：貴族と気高い村々を対比した言葉遊び"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Justice is sweet and musical; injustice is harsh and discordant.",
     "jp": "正義は甘美で調和的だが、不正は不快で不協和音だ。",
-    "id": "q1264"
+    "id": "q1264",
+    "tips": [
+      "justice / injustice：正義／不正",
+      "harsh：耳障りな、厳しい",
+      "discordant：不協和音の、調和しない（道徳を音楽にたとえている）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Ignorance and bungling with love are better than wisdom and skill without.",
     "jp": "愛が伴う無知や不器用さは、愛のない知恵や技術よりましだ。",
-    "id": "q1265"
+    "id": "q1265",
+    "tips": [
+      "ignorance：無知",
+      "bungling：不器用な仕事、へま",
+      "without：ここでは without love の love が省略されている"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The sicker man is often the nurse to the sounder.",
     "jp": "より病んでいる人が、より健康な人の看護をすることもある。",
-    "id": "q1266"
+    "id": "q1266",
+    "tips": [
+      "sicker：sick の比較級、より病状の重い",
+      "nurse to：〜を看護する人",
+      "the sounder：より健康な人（man が省略されている）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "After the first blush of sin comes its indifference.",
     "jp": "罪の初めの赤面のあとには、無関心がやってくる。",
-    "id": "q1267"
+    "id": "q1267",
+    "tips": [
+      "first blush：最初の赤面（ここでは罪を犯した直後の羞恥心）",
+      "sin：罪",
+      "indifference：無関心、気にしなくなること"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Before printing was discovered, a century was equal to a thousand years.",
     "jp": "印刷が発明される前は、1世紀は1000年に等しかった。",
-    "id": "q1268"
+    "id": "q1268",
+    "tips": [
+      "printing：印刷、印刷技術",
+      "century：一世紀、100年",
+      "be equal to：〜に等しい（知識の伝達速度の違いを強調する比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I have seen how the foundations of the world are laid, and I do not doubt it will stand.",
     "jp": "世界の土台がどう築かれているかを見てきた。長く持つと疑わない。",
-    "id": "q1269"
+    "id": "q1269",
+    "tips": [
+      "foundation：基礎、土台",
+      "be laid：築かれる、据えられる",
+      "stand：持ちこたえる、存続する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "How many things are there we had better not know?",
     "jp": "知らない方がよいことは、どれほど多いだろう。",
-    "id": "q1270"
+    "id": "q1270",
+    "tips": [
+      "had better not do：〜しないほうがよい",
+      "How many things are there ...?：〜する物事はいくつあるだろうか",
+      "things we had better not know：知らないほうがよい事柄（関係代名詞の省略）"
+    ]
   },
   {
     "author": "Thoreau",
