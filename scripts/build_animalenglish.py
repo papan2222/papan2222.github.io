@@ -1,7 +1,17 @@
 import json, re, html
 from pathlib import Path
 root=Path('animalenglish')
-def individual(lesson, template):
+def navigation(previous, following):
+    def link(item, direction):
+        if item is None:
+            return '<span aria-hidden="true"></span>'
+        word=re.search(r'<h2 lang="en">(.*?)</h2>',item['html']).group(1)
+        label='No.'+item['number']+' '+word
+        title=('← '+label) if direction=='prev' else (label+' →')
+        return '<a rel="'+direction+'" href="'+html.escape(item['id'],quote=True)+'.html">'+title+'</a>'
+    return '<nav class="lesson-nav" aria-label="前後の作品">'+link(previous,'prev')+link(following,'next')+'</nav>'
+
+def individual(lesson, template, previous=None, following=None):
     ident=lesson['id']
     assert re.fullmatch(r'[a-zA-Z0-9_-]+',ident)
     card=lesson['html'].replace('src="images/','src="../images/').replace('data-audio="audio/','data-audio="../audio/')
@@ -12,7 +22,9 @@ def individual(lesson, template):
     img=re.search(r'src="\.\./images/([^"]+)"',card).group(1)
     css=template.split('<style>',1)[1].split('</style>',1)[0]
     script=template.split('const player=new Audio();',1)[1].split('</script>',1)[0]
-    page='<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+desc+'</title><meta name="description" content="'+desc+'"><link rel="canonical" href="'+url+'"><meta property="og:title" content="'+desc+'"><meta property="og:image" content="https://papan2222.github.io/animalenglish/images/'+img+'"><meta property="og:url" content="'+url+'"><meta name="twitter:card" content="summary_large_image"><style>'+css+'main{max-width:560px}</style></head><body><header><a href="../">英単語一覧へ戻る</a></header><main><div id="gallery">'+card+'</div><p><a href="../">英単語一覧へ戻る</a></p></main><script>const g=document.getElementById("gallery");const player=new Audio();'+script+'</script></body></html>'
+    nav=navigation(previous, following)
+    css+=' .lesson-nav{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.lesson-nav a{display:block;padding:12px 8px;border:1px solid currentColor;border-radius:8px;text-decoration:none;font-size:14px;overflow-wrap:anywhere}.lesson-nav a[rel=next]{text-align:right}'
+    page='<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+desc+'</title><meta name="description" content="'+desc+'"><link rel="canonical" href="'+url+'"><meta property="og:title" content="'+desc+'"><meta property="og:image" content="https://papan2222.github.io/animalenglish/images/'+img+'"><meta property="og:url" content="'+url+'"><meta name="twitter:card" content="summary_large_image"><style>'+css+'main{max-width:560px}</style></head><body><header><a href="../">英単語一覧へ戻る</a></header><main>'+nav+'<div id="gallery">'+card+'</div>'+nav+'<p><a href="../">英単語一覧へ戻る</a></p></main><script>const g=document.getElementById("gallery");const player=new Audio();'+script+'</script></body></html>'
     dest=root/'word'
     dest.mkdir(exist_ok=True)
     (dest/(ident+'.html')).write_text(page,encoding='utf-8')
@@ -34,8 +46,8 @@ def main():
         assert '<article id="'+lesson['id']+'">' in lesson['html']
     lessons.sort(key=lambda x:tuple(map(int,x['number'].split('-'))))
     entries=[]
-    for lesson in lessons:
-        individual(lesson, template)
+    for i, lesson in enumerate(lessons):
+        individual(lesson, template, lessons[i-1] if i else None, lessons[i+1] if i+1<len(lessons) else None)
     for lesson in lessons:
         word=re.search(r'<h2 lang="en">(.*?)</h2>',lesson['html']).group(1)
         entries.append('<li><a href="word/'+html.escape(lesson['id'],quote=True)+'.html">No.'+lesson['number']+' '+word+'</a></li>')
