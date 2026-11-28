@@ -4385,181 +4385,328 @@
     "author": "Ambrose Bierce",
     "en": "Convent - a place of retirement for women who wish for leisure to meditate upon the sin of idleness.",
     "jp": "修道院とは、怠惰という罪について瞑想する時間を求める女性の隠れ家である。",
-    "id": "q0401"
+    "id": "q0401",
+    "tips": [
+      "convent：女子修道院",
+      "meditate upon：〜について深く考える",
+      "idleness：怠惰、何もしないこと"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Bore, n. A person who talks when you wish him to listen.",
     "jp": "退屈な人とは、あなたが聞いてほしいときに話す人である。",
-    "id": "q0402"
+    "id": "q0402",
+    "tips": [
+      "bore：退屈な人（名詞）",
+      "wish A to do：Aに〜してほしいと思う"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "In our civilization, and under our republican form of government, intelligence is so highly honored that it is rewarded by exemption from the cares of office.",
     "jp": "我々の文明において、共和制のもとでは、知性は非常に尊ばれ、その報酬として公職の重責から解放される。",
-    "id": "q0403"
+    "id": "q0403",
+    "tips": [
+      "republican form of government：共和政体",
+      "exemption from：〜の免除",
+      "cares of office：公職に伴う心配や負担"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Land: A part of the earth's surface, considered as property. The theory that land is property subject to private ownership and control is the foundation of modern society, and is eminently worthy of the superstructure.",
     "jp": "土地とは、財産と見なされる地球の表面の一部である。土地が私的所有と管理の対象であるという考えは、現代社会の基盤であり、その上に築かれる構造にふさわしい。",
-    "id": "q0404"
+    "id": "q0404",
+    "tips": [
+      "be subject to：〜の対象となる",
+      "eminently：極めて",
+      "superstructure：上部構造（ここでは社会制度の比喩）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Inventor: A person who makes an ingenious arrangement of wheels, levers and springs, and believes it civilization.",
     "jp": "発明家とは、車輪やてこ、ばねを巧妙に組み合わせ、それを文明だと信じる人のこと。",
-    "id": "q0405"
+    "id": "q0405",
+    "tips": [
+      "ingenious：巧妙な",
+      "arrangement：配置、組み合わせ",
+      "lever：てこ、spring：ばね"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Philosophy: A route of many roads leading from nowhere to nothing.",
     "jp": "哲学とは、どこからも来ず、どこにも至らない多くの道から成る経路である。",
-    "id": "q0406"
+    "id": "q0406",
+    "tips": [
+      "route：経路",
+      "lead from A to B：AからBへ通じる",
+      "nowhere / nothing：どこでもない場所／何もないもの"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "I never said all Democrats were saloonkeepers. What I said was that all saloonkeepers are Democrats.",
     "jp": "私は民主党員が皆酒場の主人だとは言っていない。酒場の主人は皆民主党員だと言ったのだ。",
-    "id": "q0407"
+    "id": "q0407",
+    "tips": [
+      "saloonkeeper：酒場の経営者",
+      "What I said was that ...：私が言ったのは〜ということだ",
+      "all A are B：すべてのAはBである（逆も成立するとは限らない）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "The covers of this book are too far apart.",
     "jp": "この本の表紙は互いに離れすぎている。",
-    "id": "q0408"
+    "id": "q0408",
+    "tips": [
+      "cover：本の表紙",
+      "far apart：遠く離れている（本が長すぎるという皮肉）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "A person who doubts himself is like a man who would enlist in the ranks of his enemies and bear arms against himself. He makes his failure certain by himself being the first person to be convinced of it.",
     "jp": "自分を疑う者は、自ら敵の陣営に加わり、自分に武器を向ける人のようなものだ。自らが最初に失敗を確信することで、その失敗を確実なものにしてしまう。",
-    "id": "q0409"
+    "id": "q0409",
+    "tips": [
+      "enlist in the ranks of：〜の隊列に加わる",
+      "bear arms against：〜に対して武器を取る",
+      "be convinced of：〜を確信している"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Pray: To ask the laws of the universe to be annulled on behalf of a single petitioner confessedly unworthy.",
     "jp": "祈るとは、明らかに不相応な一人の願いのために、宇宙の法則を無効にしてほしいと求めること。",
-    "id": "q0410"
+    "id": "q0410",
+    "tips": [
+      "annul：無効にする",
+      "on behalf of：〜のために",
+      "petitioner：請願者"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "The hardest tumble a man can make is to fall over his own bluff.",
     "jp": "人がなしうる最も手痛い転倒は、自らの虚勢につまずくことである。",
-    "id": "q0411"
+    "id": "q0411",
+    "tips": [
+      "tumble：転倒",
+      "fall over：〜につまずいて転ぶ",
+      "bluff：はったり"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Liberty: One of Imagination's most precious possessions.",
     "jp": "自由とは、想像力が持つ最も貴重な財産の一つである。",
-    "id": "q0412"
+    "id": "q0412",
+    "tips": [
+      "liberty：自由",
+      "precious：貴重な",
+      "possession：所有物"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "A total abstainer is one who abstains from everything but abstention, and especially from inactivity in the affairs of others.",
     "jp": "完全な禁欲者とは、禁欲以外のすべてを控える人であり、特に他人のことに関しては何もしない人である。",
-    "id": "q0413"
+    "id": "q0413",
+    "tips": [
+      "abstain from：〜を控える",
+      "abstention：自制、差し控えること",
+      "everything but：〜以外のすべて"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Impiety. Your irreverence toward my deity.",
     "jp": "不敬とは、あなたが私の神に対して払わない敬意のこと。",
-    "id": "q0414"
+    "id": "q0414",
+    "tips": [
+      "impiety：不信心、不敬",
+      "irreverence toward：〜に対する不敬",
+      "deity：神"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Edible - good to eat and wholesome to digest, as a worm to a toad, a toad to a snake, a snake to a pig, a pig to a man, and a man to a worm.",
     "jp": "食用とは、ヒキガエルにとってのミミズ、ヘビにとってのヒキガエル、ブタにとってのヘビ、人間にとってのブタ、そしてミミズにとっての人間のように、食べてよく、消化にもよいものである。",
-    "id": "q0415"
+    "id": "q0415",
+    "tips": [
+      "edible：食べられる",
+      "wholesome：健康によい",
+      "digest：消化する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Experience - the wisdom that enables us to recognise in an undesirable old acquaintance the folly that we have already embraced.",
     "jp": "経験とは、好ましくない古い知人の中に、かつて自分が受け入れた愚かさを見抜ける知恵である。",
-    "id": "q0416"
+    "id": "q0416",
+    "tips": [
+      "enable A to do：Aが〜できるようにする",
+      "acquaintance：知人",
+      "embrace：ここでは考えや行動を受け入れる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Suffrage, noun. Expression of opinion by means of a ballot. The right of suffrage (which is held to be both a privilege and a duty) means, as commonly interpreted, the right to vote for the man of another man's choice, and is highly prized.",
     "jp": "選挙権とは、投票によって意見を表すこと。この権利（特権であり義務でもあるとされる）は、一般的に解釈すれば、他人が選んだ人物に投票する権利であり、非常に尊ばれている。",
-    "id": "q0417"
+    "id": "q0417",
+    "tips": [
+      "suffrage：選挙権",
+      "by means of：〜を用いて",
+      "be highly prized：非常に重んじられる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "When you doubt, abstain.",
     "jp": "疑わしいときは、控えよ。",
-    "id": "q0418"
+    "id": "q0418",
+    "tips": [
+      "doubt：疑う、確信が持てない",
+      "abstain：行動を控える、棄権する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Impartial - unable to perceive any promise of personal advantage from espousing either side of a controversy.",
     "jp": "公平とは、論争のどちら側についても個人的利益の見込みを見いだせないこと。",
-    "id": "q0419"
+    "id": "q0419",
+    "tips": [
+      "impartial：公平な",
+      "espouse：支持する",
+      "controversy：論争"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Bride: A woman with a fine prospect of happiness behind her.",
     "jp": "花嫁とは、幸福の見込みを背後に残してきた女性である。",
-    "id": "q0420"
+    "id": "q0420",
+    "tips": [
+      "bride：花嫁",
+      "prospect of：〜の見込み",
+      "behind her：彼女の過去に（将来への期待を逆転させた皮肉）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "It is evident that skepticism, while it makes no actual change in man, always makes him feel better.",
     "jp": "懐疑主義は、人を実際には変えないが、いつも気分を良くさせることは明らかである。",
-    "id": "q0421"
+    "id": "q0421",
+    "tips": [
+      "it is evident that：〜は明らかだ",
+      "skepticism：懐疑主義、懐疑的態度",
+      "while：〜ではあるが（対比）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Ocean: A body of water occupying about two-thirds of a world made for man - who has no gills.",
     "jp": "海とは、人間のために作られた世界の約3分の2を占める水の塊であり、人間にはえらがない。",
-    "id": "q0422"
+    "id": "q0422",
+    "tips": [
+      "a body of water：ひとまとまりの水域",
+      "two-thirds：3分の2",
+      "gills：えら"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Amnesty, n. The state's magnanimity to those offenders whom it would be too expensive to punish.",
     "jp": "恩赦とは、処罰するのに費用がかかりすぎる罪人に対する国家の寛大さである。",
-    "id": "q0423"
+    "id": "q0423",
+    "tips": [
+      "amnesty：恩赦",
+      "magnanimity：寛大さ",
+      "offender：違反者、犯罪者"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Doubt, indulged and cherished, is in danger of becoming denial; but if honest, and bent on thorough investigation, it may soon lead to full establishment of the truth.",
     "jp": "疑いを抱き、大事にしていると、それは否定に変わる危険がある。しかし、誠実で徹底した探求を志すなら、やがて真実の確立に至るだろう。",
-    "id": "q0424"
+    "id": "q0424",
+    "tips": [
+      "indulge：思うままにさせる",
+      "be bent on：〜に熱心に取り組む、〜を固く決意する",
+      "thorough investigation：徹底的な調査"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Ambidextrous, adj.: Able to pick with equal skill a right-hand pocket or a left.",
     "jp": "両利きとは、右のポケットからでも左のポケットからでも同じ腕前で盗れること。",
-    "id": "q0425"
+    "id": "q0425",
+    "tips": [
+      "ambidextrous：両利きの",
+      "with equal skill：同じ程度の巧みさで",
+      "pick a pocket：すりを働く"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Life - a spiritual pickle preserving the body from decay.",
     "jp": "人生とは、肉体を腐敗から守る精神的な漬物である。",
-    "id": "q0426"
+    "id": "q0426",
+    "tips": [
+      "pickle：漬け物、漬け汁",
+      "preserve A from B：AをBから守る",
+      "decay：腐敗"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Dawn: When men of reason go to bed.",
     "jp": "夜明けとは、理性的な人々が床につく時間である。",
-    "id": "q0427"
+    "id": "q0427",
+    "tips": [
+      "dawn：夜明け",
+      "men of reason：理性的な人々",
+      "go to bed：寝床に入る"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Trial. A formal inquiry designed to prove and put upon record the blameless characters of judges, advocates and jurors.",
     "jp": "裁判とは、裁判官、弁護人、陪審員の潔白な人格を証明し、記録するために行われる正式な調査である。",
-    "id": "q0428"
+    "id": "q0428",
+    "tips": [
+      "formal inquiry：正式な調査",
+      "put upon record：記録に残す",
+      "blameless：非難される点のない"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Telephone, n. An invention of the devil which abrogates some of the advantages of making a disagreeable person keep his distance.",
     "jp": "電話とは、不愉快な人間を遠ざけておく利点の一部を無効にする悪魔の発明である。",
-    "id": "q0429"
+    "id": "q0429",
+    "tips": [
+      "abrogate：廃止する、無効にする",
+      "disagreeable：不愉快な",
+      "keep one's distance：距離を置く"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Fidelity - a virtue peculiar to those who are about to be betrayed.",
     "jp": "忠誠心とは、まさに裏切られようとしている人に特有の美徳である。",
-    "id": "q0430"
+    "id": "q0430",
+    "tips": [
+      "fidelity：忠実さ、誠実さ",
+      "peculiar to：〜に特有の",
+      "be about to be betrayed：まさに裏切られようとしている"
+    ]
   },
   {
     "author": "Ambrose Bierce",
