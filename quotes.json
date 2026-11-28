@@ -12143,181 +12143,329 @@
     "author": "Thoreau",
     "en": "What is the use of a house if you haven't got a tolerable planet to put it on?",
     "jp": "置くに足る惑星がなければ、家に何の意味があるだろう。",
-    "id": "q1121"
+    "id": "q1121",
+    "tips": [
+      "What is the use of ...?：〜に何の役に立つことがあるのか、〜に何の意味があるのか",
+      "tolerable：耐えられる、まずまずの",
+      "put it on：それ（家）をその上に建てる"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We are not what we are, but what we are capable of being.",
     "jp": "私たちは「今の姿」ではなく「なり得る姿」で評価される。",
-    "id": "q1122"
+    "id": "q1122",
+    "tips": [
+      "not A but B：AではなくB",
+      "be capable of doing：〜する能力がある",
+      "what we are capable of being：私たちがなり得る存在"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is no odor so bad as that which arises from goodness tainted.",
     "jp": "汚れた善ほど、悪臭を放つものはない。",
-    "id": "q1123"
+    "id": "q1123",
+    "tips": [
+      "odor：におい（英国式綴りは odour）",
+      "arise from：〜から生じる",
+      "tainted：汚された、純粋さを失った"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Every man casts a shadow; not his body only, but his spirit.",
     "jp": "人は皆、体だけでなく心も影を落とす。",
-    "id": "q1124"
+    "id": "q1124",
+    "tips": [
+      "cast a shadow：影を落とす",
+      "not ... only, but ...：〜だけでなく…も",
+      "spirit：精神、魂（人の内面が及ぼす影響を影にたとえている）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "In wildness is the preservation of the world.",
     "jp": "野生の中にこそ世界を守る力がある。",
-    "id": "q1125"
+    "id": "q1125",
+    "tips": [
+      "wildness：野生の状態、人の手が加わっていない自然",
+      "preservation：保存、保全",
+      "In wildness is ...：場所や状態を表す句を文頭に置いた倒置"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I put a piece of paper under my pillow, and when I could not sleep I wrote in the dark.",
     "jp": "枕の下に紙を置き、眠れぬ夜は暗闇で書いた。",
-    "id": "q1126"
+    "id": "q1126",
+    "tips": [
+      "a piece of paper：一枚の紙",
+      "under my pillow：枕の下に",
+      "in the dark：暗闇の中で"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Nature is full of genius, full of divinity; not a snowflake escapes its hand.",
     "jp": "自然は天才と神性に満ち、一片の雪さえもその手を逃れない。",
-    "id": "q1127"
+    "id": "q1127",
+    "tips": [
+      "be full of：〜に満ちている",
+      "divinity：神性、神聖さ",
+      "escape its hand：その手を逃れる（自然を創造者として擬人化している）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is not desirable to cultivate a respect for the law, so much as for the right.",
     "jp": "法律よりも正義への尊重を育むべきだ。",
-    "id": "q1128"
+    "id": "q1128",
+    "tips": [
+      "desirable：望ましい",
+      "cultivate：育む、養う",
+      "not A so much as B：AというよりむしろB（ここで the right は正しいこと）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We shall see but a little way if we require to understand what we see.",
     "jp": "理解しなければと焦ると、私たちはほとんど見えなくなる。",
-    "id": "q1129"
+    "id": "q1129",
+    "tips": [
+      "but a little way：ほんの少し先まで（but は only の意味）",
+      "require to understand：理解することを必要とする（古風な用法）",
+      "what we see：私たちが目にするもの"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If misery loves company, misery has company enough.",
     "jp": "不幸は仲間を欲しがるというが、不幸にはもう十分仲間がいる。",
-    "id": "q1130"
+    "id": "q1130",
+    "tips": [
+      "misery：悲惨さ、不幸",
+      "company：仲間、一緒にいる人",
+      "Misery loves company：不幸な人は同じ境遇の仲間を求めるということわざ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The youth gathers materials to build a palace or temple; the middle-aged man builds a woodshed.",
     "jp": "若者は宮殿を夢見て材料を集めるが、中年になると小屋を建てる。",
-    "id": "q1131"
+    "id": "q1131",
+    "tips": [
+      "the youth：若者（ここでは単数）",
+      "middle-aged：中年の",
+      "woodshed：薪小屋（若い頃の壮大な夢と現実を対比）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "A man is rich in proportion to the number of things he can afford to let alone.",
     "jp": "人は、放っておけるものの数に比例して豊かである。",
-    "id": "q1132"
+    "id": "q1132",
+    "tips": [
+      "in proportion to：〜に比例して",
+      "afford to do：〜する余裕がある",
+      "let alone：〜に手を出さない、放っておく（ここでは接続表現の「ましてや」ではない）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Any fool can make a rule, and any fool will mind it.",
     "jp": "愚か者でも規則を作れるし、愚か者はそれに従う。",
-    "id": "q1133"
+    "id": "q1133",
+    "tips": [
+      "fool：愚か者",
+      "make a rule：規則を作る",
+      "mind：ここでは規則に従う、守る（動詞）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "How does it become a man to behave towards the American government today? He cannot without disgrace be associated with it.",
     "jp": "今日のアメリカ政府に関わることは、人として恥ずかしいことだ。",
-    "id": "q1134"
+    "id": "q1134",
+    "tips": [
+      "How does it become a man to ...?：人はどう〜するのがふさわしいか（become の古風な用法）",
+      "without disgrace：不名誉を被ることなく",
+      "be associated with：〜と関わりを持つ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Men have become the tools of their tools.",
     "jp": "人は道具の道具になってしまった。",
-    "id": "q1135"
+    "id": "q1135",
+    "tips": [
+      "tool：道具、手段",
+      "the tools of their tools：自らの道具に使われる存在（人と道具の主従逆転を表す）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The light which puts out our eyes is darkness to us. The sun is but a morning star.",
     "jp": "私たちの目を眩ませる光は闇に等しい。太陽はただの朝の星にすぎない。",
-    "id": "q1136"
+    "id": "q1136",
+    "tips": [
+      "put out one's eyes：目をつぶす、視力を奪う",
+      "darkness：暗闇",
+      "but a morning star：ただの明けの明星にすぎない（but は only の意味）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I have always regretted that I was not as wise as the day I was born.",
     "jp": "生まれた日の自分ほど賢くなかったことを、私はずっと悔やんでいる。",
-    "id": "q1137"
+    "id": "q1137",
+    "tips": [
+      "regret that：〜ということを後悔する",
+      "as wise as：〜と同じくらい賢い",
+      "the day I was born：生まれた日（その日の自分との比較）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "A truly good book teaches me better than to read it. I must soon lay it down, and commence living on its hint.",
     "jp": "本当に良い本は、読むこと以上を教える。読み終えたら、それを生きることが必要だ。",
-    "id": "q1138"
+    "id": "q1138",
+    "tips": [
+      "teach someone better than to do：〜するだけではいけないと人に教える",
+      "lay it down：それを置く（ここでは本を閉じること）",
+      "commence：始める（やや改まった語）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Under a government which imprisons any unjustly, the true place for a just man is also a prison.",
     "jp": "不当に人を投獄する政府の下では、正しい人の居場所もまた監獄である。",
-    "id": "q1139"
+    "id": "q1139",
+    "tips": [
+      "imprison：投獄する",
+      "unjustly：不当に",
+      "just man：正義を重んじる人"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "That government is best which governs least.",
     "jp": "最良の政府とは、最も統治しない政府である。",
-    "id": "q1140"
+    "id": "q1140",
+    "tips": [
+      "govern：統治する",
+      "least：最も少なく（little の最上級）",
+      "That government ... which：〜する政府（that と関係節が対応する）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Do not trouble yourself much to get new things... Sell your clothes and keep your thoughts.",
     "jp": "新しい物を得ることに煩わされるな。服を売り、思想を守れ。",
-    "id": "q1141"
+    "id": "q1141",
+    "tips": [
+      "trouble oneself to do：わざわざ〜する、〜するために苦労する",
+      "keep your thoughts：自分の考えを保つ（物質と思想の対比）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "In the long run, men hit only what they aim at. Therefore, aim high.",
     "jp": "結局、人は狙ったものしか当てられない。だから高く狙え。",
-    "id": "q1142"
+    "id": "q1142",
+    "tips": [
+      "in the long run：長い目で見れば、結局は",
+      "aim at：〜を狙う、目指す",
+      "aim high：高い目標を持つ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We must walk consciously only part way toward our goal, and then leap in the dark to our success.",
     "jp": "目標へは意識して半分歩み、残りは暗闇へ飛び込むことで成功する。",
-    "id": "q1143"
+    "id": "q1143",
+    "tips": [
+      "consciously：意識的に",
+      "part way：途中まで",
+      "leap in the dark：先が見えないまま思い切って踏み出す"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The life which men praise as successful is but one kind. Why exaggerate it at the expense of others?",
     "jp": "世間が称賛する成功は一つの形にすぎない。それを他の形より誇張すべきではない。",
-    "id": "q1144"
+    "id": "q1144",
+    "tips": [
+      "but one kind：たった一種類（but は only の意味）",
+      "exaggerate：誇張する、過大評価する",
+      "at the expense of：〜を犠牲にして"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We must learn to reawaken and keep ourselves awake, not by mechanical aid, but by expectation of the dawn.",
     "jp": "私たちは自らを目覚めさせ、夜明けを待ち望む心で覚醒し続けねばならない。",
-    "id": "q1145"
+    "id": "q1145",
+    "tips": [
+      "reawaken：再び目覚める",
+      "mechanical aid：機械的な助け、外部の仕掛け",
+      "expectation of the dawn：夜明けを待ち望む気持ち"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Alas! how little does the memory of these human inhabitants enhance the beauty of the landscape!",
     "jp": "人の記憶は、風景の美しさをほとんど高めはしない。",
-    "id": "q1146"
+    "id": "q1146",
+    "tips": [
+      "Alas!：悲しいかな（文学的な感嘆詞）",
+      "inhabitant：住人",
+      "enhance：高める、引き立てる（how little でその程度の小ささを強調）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Do not be too moral. You may cheat yourself out of much life so.",
     "jp": "道徳的すぎるな。そうすると多くの人生を失うかもしれない。",
-    "id": "q1147"
+    "id": "q1147",
+    "tips": [
+      "moral：道徳的な",
+      "cheat oneself out of：自ら〜を失うようなことをする",
+      "so：そのようにして"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Aim above morality. Be not simply good, be good for something.",
     "jp": "道徳を超えて目標を持て。ただ良い人になるのではなく、何かのために良い人であれ。",
-    "id": "q1148"
+    "id": "q1148",
+    "tips": [
+      "aim above：〜を超えたものを目指す",
+      "be not：〜であってはならない（古風な否定命令）",
+      "be good for something：何かの役に立つ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "In my afternoon walk I would fain forget all my morning occupations and obligations to society.",
     "jp": "午後の散歩では、朝の仕事や社会への義務を忘れたいのだ。",
-    "id": "q1149"
+    "id": "q1149",
+    "tips": [
+      "would fain do：ぜひ〜したい、喜んで〜したい（古風な表現）",
+      "occupation：仕事、日々の活動",
+      "obligation to society：社会に対する義務"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "An unclean person is universally a slothful one.",
     "jp": "不潔な人は、たいてい怠け者だ。",
-    "id": "q1150"
+    "id": "q1150",
+    "tips": [
+      "unclean：不潔な",
+      "universally：例外なく、一般に",
+      "slothful：怠惰な（one は person の代わり）"
+    ]
   },
   {
     "author": "Thoreau",
