@@ -5040,181 +5040,327 @@
     "author": "Ambrose Bierce",
     "en": "Eulogy. Praise of a person who has either the advantages of wealth and power, or the consideration to be dead.",
     "jp": "賛辞とは、富や権力の利を持つ人、あるいは死んでいるという配慮を持つ人を称えること。",
-    "id": "q0461"
+    "id": "q0461",
+    "tips": [
+      "eulogy：賛辞、追悼の言葉",
+      "either A or B：AかBのいずれか",
+      "consideration：思いやり、配慮"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Education, n.: That which discloses to the wise and disguises from the foolish their lack of understanding.",
     "jp": "教育とは、賢者には理解不足を明らかにし、愚者からはそれを隠すものである。",
-    "id": "q0462"
+    "id": "q0462",
+    "tips": [
+      "disclose：明らかにする",
+      "disguise：隠す、偽装する",
+      "lack of understanding：理解の不足"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Clairvoyant, n.: A person, commonly a woman, who has the power of seeing that which is invisible to her patron - namely, that he is a blockhead.",
     "jp": "千里眼とは、依頼人には見えないもの——つまり彼が間抜けであること——を見る力を持つ人物（多くは女性）である。",
-    "id": "q0463"
+    "id": "q0463",
+    "tips": [
+      "clairvoyant：透視能力があるとされる人",
+      "patron：顧客、支援者",
+      "namely：すなわち"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Mayonnaise: One of the sauces which serve the French in place of a state religion.",
     "jp": "マヨネーズとは、フランス人にとって国教の代わりを果たすソースの一つである。",
-    "id": "q0464"
+    "id": "q0464",
+    "tips": [
+      "serve A in place of B：Bの代わりとしてAに役立つ",
+      "state religion：国教"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Deliberation, n.: The act of examining one's bread to determine which side it is buttered on.",
     "jp": "熟慮とは、自分のパンのどちら側にバターが塗られているかを確かめる行為である。",
-    "id": "q0465"
+    "id": "q0465",
+    "tips": [
+      "deliberation：熟考、審議",
+      "determine：見極める",
+      "know which side one's bread is buttered on：自分にとって何が得かを心得ている（本文はこの慣用句をもじったもの）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Mad, adj. Affected with a high degree of intellectual independence.",
     "jp": "狂気とは、高度な知的独立心に影響された状態である。",
-    "id": "q0466"
+    "id": "q0466",
+    "tips": [
+      "be affected with：〜を患っている",
+      "a high degree of：高度な",
+      "intellectual independence：知的な独立性"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Consul - in American politics, a person who having failed to secure an office from the people is given one by the Administration on condition that he leave the country.",
     "jp": "領事とは、国民から職を得られなかったが、国外退去を条件に政権から職を与えられる人物である。",
-    "id": "q0467"
+    "id": "q0467",
+    "tips": [
+      "consul：領事",
+      "secure an office：公職を得る",
+      "on condition that：〜という条件で（leave は仮定法現在）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Religion. A daughter of Hope and Fear, explaining to Ignorance the nature of the Unknowable.",
     "jp": "宗教とは、希望と恐怖の娘であり、無知に不可知の本質を説明するものである。",
-    "id": "q0468"
+    "id": "q0468",
+    "tips": [
+      "ignorance：無知",
+      "the nature of：〜の本質",
+      "the Unknowable：認識できないもの"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "I believe we shall come to care about people less and less. The more people one knows the easier it becomes to replace them. It's one of the curses of London.",
     "jp": "人に対して関心を持つことはだんだん減っていくだろう。知り合いが増えるほど、彼らを代替するのが容易になる。これはロンドンの呪いの一つだ。",
-    "id": "q0469"
+    "id": "q0469",
+    "tips": [
+      "come to do：次第に〜するようになる",
+      "less and less：ますます少なく",
+      "the more ..., the easier ...：〜すればするほど容易になる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Curiosity, n. An objectionable quality of the female mind. The desire to know whether or not a woman is cursed with curiosity is one of the most active and insatiable passions of the masculine soul.",
     "jp": "好奇心とは、女性の心の好ましくない性質である。女性が好奇心という呪いを持っているかどうかを知りたいという欲望は、男性の魂における最も旺盛で飽くことのない情熱の一つである。",
-    "id": "q0470"
+    "id": "q0470",
+    "tips": [
+      "objectionable：好ましくない",
+      "whether or not：〜かどうか",
+      "insatiable：飽くことのない"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Abscond - to move in a mysterious way, commonly with the property of another.",
     "jp": "逃亡とは、他人の財産を持って不可解な方法で移動することである。",
-    "id": "q0471"
+    "id": "q0471",
+    "tips": [
+      "abscond：逃亡する、持ち逃げする",
+      "in a mysterious way：不可解な方法で",
+      "property：財産"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Day, n. A period of twenty-four hours, mostly misspent.",
     "jp": "一日とは、ほとんどを無駄に過ごす二十四時間の期間である。",
-    "id": "q0472"
+    "id": "q0472",
+    "tips": [
+      "a period of：〜の期間",
+      "misspent：無駄に費やされた（misspend の過去分詞）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Duty - that which sternly impels us in the direction of profit, along the line of desire.",
     "jp": "義務とは、欲望の線に沿って利益の方向へ厳しく突き動かすものである。",
-    "id": "q0473"
+    "id": "q0473",
+    "tips": [
+      "sternly：厳しく",
+      "impel A：Aを駆り立てる",
+      "in the direction of：〜の方向へ"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Wit - the salt with which the American humorist spoils his intellectual cookery by leaving it out.",
     "jp": "機知とは、アメリカのユーモア作家が入れ忘れることで知的料理を台無しにする塩である。",
-    "id": "q0474"
+    "id": "q0474",
+    "tips": [
+      "wit：機知",
+      "spoil：台無しにする",
+      "leave out：省く、入れない"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Backbite. To speak of a man as you find him when he can't find you.",
     "jp": "陰口とは、相手が自分を見つけられないときに、その人について見つけたままを話すことである。",
-    "id": "q0475"
+    "id": "q0475",
+    "tips": [
+      "backbite：陰口をたたく",
+      "as you find him：自分が彼を見て感じたとおりに"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Litigant. A person about to give up his skin for the hope of retaining his bones.",
     "jp": "訴訟当事者とは、骨を守るために皮を差し出そうとしている人である。",
-    "id": "q0476"
+    "id": "q0476",
+    "tips": [
+      "litigant：訴訟当事者",
+      "be about to do：まさに〜しようとしている",
+      "retain：保持する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Irreligion - the principal one of the great faiths of the world.",
     "jp": "不信仰とは、世界の主要な信仰の一つである。",
-    "id": "q0477"
+    "id": "q0477",
+    "tips": [
+      "irreligion：無宗教、不信仰",
+      "principal：主要な",
+      "faith：信仰"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Creditor. One of a tribe of savages dwelling beyond the Financial Straits and dreaded for their desolating incursions.",
     "jp": "債権者とは、財政海峡の向こうに住み、その荒廃的な侵入で恐れられる野蛮人の部族の一員である。",
-    "id": "q0478"
+    "id": "q0478",
+    "tips": [
+      "creditor：債権者",
+      "dwell beyond：〜の向こうに住む",
+      "incursion：侵入、襲撃"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Alien - an American sovereign in his probationary state.",
     "jp": "外国人とは、試用期間中のアメリカの主権者である。",
-    "id": "q0479"
+    "id": "q0479",
+    "tips": [
+      "alien：外国人（法律的・歴史的用法）",
+      "sovereign：主権者",
+      "probationary：試用・試験期間中の"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Prejudice - a vagrant opinion without visible means of support.",
     "jp": "偏見とは、明確な根拠を持たない浮浪的な意見である。",
-    "id": "q0480"
+    "id": "q0480",
+    "tips": [
+      "prejudice：偏見",
+      "vagrant：放浪する",
+      "means of support：生活の手段、ここでは意見を支える根拠との言葉遊び"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Ambition. An overmastering desire to be vilified by enemies while living and made ridiculous by friends when dead.",
     "jp": "野心とは、生きている間は敵に中傷され、死んでからは友に笑い者にされたいという圧倒的な欲望である。",
-    "id": "q0481"
+    "id": "q0481",
+    "tips": [
+      "overmastering：抑えがたい",
+      "vilify：悪く言う、中傷する",
+      "make A ridiculous：Aを笑いものにする"
+    ]
   },
   {
     "author": "William James",
     "en": "The greatest weapon against stress is our ability to choose one thought over another.",
     "jp": "ストレスに対する最大の武器は、別の考えを選べる能力である。",
-    "id": "q0482"
+    "id": "q0482",
+    "tips": [
+      "weapon against：〜に対抗する武器",
+      "ability to do：〜する能力",
+      "choose A over B：BよりAを選ぶ"
+    ]
   },
   {
     "author": "William James",
     "en": "Pessimism leads to weakness, optimism to power.",
     "jp": "悲観は弱さを生み、楽観は力を生む。",
-    "id": "q0483"
+    "id": "q0483",
+    "tips": [
+      "pessimism：悲観主義",
+      "lead to：〜につながる",
+      "optimism to power：lead(s) が省略されている"
+    ]
   },
   {
     "author": "William James",
     "en": "Be willing to have it so. Acceptance of what has happened is the first step to overcoming the consequences of any misfortune.",
     "jp": "そうであることを受け入れよ。起きたことを受け入れることは、不運を乗り越える第一歩だ。",
-    "id": "q0484"
+    "id": "q0484",
+    "tips": [
+      "be willing to：進んで〜する、〜を受け入れる気がある",
+      "the first step to -ing：〜するための第一歩",
+      "consequence：結果、影響"
+    ]
   },
   {
     "author": "William James",
     "en": "The art of being wise is the art of knowing what to overlook.",
     "jp": "賢さとは、見過ごすべきことを知る技術である。",
-    "id": "q0485"
+    "id": "q0485",
+    "tips": [
+      "the art of -ing：〜する技術、心得",
+      "what to overlook：何を見過ごすべきか",
+      "overlook：見過ごす、大目に見る"
+    ]
   },
   {
     "author": "William James",
     "en": "Most people never run far enough on their first wind to find out they've got a second.",
     "jp": "多くの人は最初の勢いで走り切ってしまい、二度目の力に気づかない。",
-    "id": "q0486"
+    "id": "q0486",
+    "tips": [
+      "far enough to do：〜するのに十分な距離まで",
+      "second wind：疲労後に回復する気力や体力",
+      "find out：知る、気づく"
+    ]
   },
   {
     "author": "William James",
     "en": "When you have to make a choice and don't make it, that is in itself a choice.",
     "jp": "選択しなければならない時に選ばないことも、ひとつの選択である。",
-    "id": "q0487"
+    "id": "q0487",
+    "tips": [
+      "make a choice：選択する",
+      "in itself：それ自体で"
+    ]
   },
   {
     "author": "William James",
     "en": "Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not.",
     "jp": "行動は感情に従うように見えるが、実際には行動と感情は共にある。意志で制御しやすい行動を整えれば、間接的に感情も整えられる。",
-    "id": "q0488"
+    "id": "q0488",
+    "tips": [
+      "go together：一緒に生じる、密接に関連する",
+      "regulate：調整する",
+      "the will：意志"
+    ]
   },
   {
     "author": "William James",
     "en": "Our normal waking consciousness, rational consciousness as we call it, is but one special type of consciousness, whilst all about it, parted from it by the filmiest of screens, there lie potential forms of consciousness entirely different.",
     "jp": "我々が理性的意識と呼ぶ通常の覚醒意識は、意識のひとつの特別な形にすぎない。その周囲には、ごく薄い膜を隔てて、全く異なる潜在的な意識が存在する。",
-    "id": "q0489"
+    "id": "q0489",
+    "tips": [
+      "waking consciousness：覚醒時の意識",
+      "filmy：薄い膜のような",
+      "whilst：while と同義で、ここでは〜である一方"
+    ]
   },
   {
     "author": "William James",
     "en": "To change one's life: Start immediately. Do it flamboyantly.",
     "jp": "人生を変えるには、今すぐ始めよ。そして華やかに行え。",
-    "id": "q0490"
+    "id": "q0490",
+    "tips": [
+      "immediately：直ちに",
+      "flamboyantly：大胆に、華やかに",
+      "命令文：Start / Do のように動詞の原形で始める"
+    ]
   },
   {
     "author": "William James",
