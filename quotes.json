@@ -12795,181 +12795,327 @@
     "author": "Thoreau",
     "en": "That man is rich whose pleasures are the cheapest.",
     "jp": "もっとも安上がりな楽しみを持つ人が、本当に豊かな人だ。",
-    "id": "q1181"
+    "id": "q1181",
+    "tips": [
+      "whose pleasures：その人の楽しみ（whose は所有を表す関係代名詞）",
+      "the cheapest：最もお金のかからない",
+      "rich：ここでは少ない費用で満足できる精神的な豊かさも示唆する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Those whom we can love, we can hate; to others we are indifferent.",
     "jp": "愛せる人は憎むこともできる。だが、その他の人には無関心だ。",
-    "id": "q1182"
+    "id": "q1182",
+    "tips": [
+      "those whom：〜する人々（whom は目的格の関係代名詞）",
+      "be indifferent to：〜に無関心である",
+      "love / hate：愛情と憎しみの対比"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I have been as sincere a worshipper of Aurora as the Greeks.",
     "jp": "私はギリシャ人と同じくらい、暁の女神を真摯に崇拝してきた。",
-    "id": "q1183"
+    "id": "q1183",
+    "tips": [
+      "sincere：誠実な、心からの",
+      "worshipper：崇拝者",
+      "Aurora：ローマ神話の曙の女神（ギリシャ神話ではエオスに相当）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Truth is always in harmony with herself.",
     "jp": "真実は常に自己と調和している。",
-    "id": "q1184"
+    "id": "q1184",
+    "tips": [
+      "in harmony with：〜と調和して",
+      "herself：真実を女性として擬人化した再帰代名詞"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Past causes of change can be seen in present society.",
     "jp": "社会の現在の秩序の中に、過去の変化の原因を見ることができる。",
-    "id": "q1185"
+    "id": "q1185",
+    "tips": [
+      "past causes of change：変化を引き起こした過去の原因",
+      "can be seen：見て取ることができる（受動態）",
+      "present society：現在の社会"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is more of good nature than of good sense at the bottom of most marriages.",
     "jp": "たいていの結婚は、良識よりも善意のほうが土台になっている。",
-    "id": "q1186"
+    "id": "q1186",
+    "tips": [
+      "good nature：気立てのよさ",
+      "good sense：分別、良識",
+      "at the bottom of：〜の根底に"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "To be awake is to be alive.",
     "jp": "目覚めていることが、生きていることだ。",
-    "id": "q1187"
+    "id": "q1187",
+    "tips": [
+      "awake：目覚めている",
+      "alive：生きている（単に生命があることを超えた意識的な生き方を示唆）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Only he is successful who makes his highest pleasure sustain him.",
     "jp": "最高の喜びが自分を支える人だけが、本当に成功する。",
-    "id": "q1188"
+    "id": "q1188",
+    "tips": [
+      "Only he ... who：〜する人だけが…である",
+      "sustain：支える、維持する",
+      "highest pleasure：最も価値のある喜び"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If you can speak what you will never hear, you have done rare things.",
     "jp": "自分が決して聞けないことを語れるなら、それは希有なことだ。",
-    "id": "q1189"
+    "id": "q1189",
+    "tips": [
+      "what you will never hear：自分が決して耳にすることのないこと",
+      "rare：珍しい、めったにない",
+      "have done：成し遂げた（現在完了）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I was more independent than any farmer in Concord.",
     "jp": "私はどの農夫よりも独立していた。",
-    "id": "q1190"
+    "id": "q1190",
+    "tips": [
+      "independent：自立した",
+      "more ... than any：どの〜よりも…である",
+      "Concord：米国マサチューセッツ州の町コンコード"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "A man cannot be said to succeed who does not satisfy one friend.",
     "jp": "一人の友を満足させられない人は、成功したとは言えない。",
-    "id": "q1191"
+    "id": "q1191",
+    "tips": [
+      "cannot be said to：〜だとは言えない",
+      "satisfy：満足させる、期待に応える"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is interesting how far rank would change if men were stripped of clothes.",
     "jp": "人から衣服を取り去ったら、地位はどれほど変わるだろう。",
-    "id": "q1192"
+    "id": "q1192",
+    "tips": [
+      "how far：どの程度まで",
+      "rank：社会的地位、身分",
+      "be stripped of：〜を取り去られる"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Nature and human life are as various as our constitutions.",
     "jp": "自然と人の人生は、それぞれの体質のように多様だ。",
-    "id": "q1193"
+    "id": "q1193",
+    "tips": [
+      "various：多様な",
+      "constitution：ここでは人の体質や気質",
+      "as ... as：〜と同じくらい…"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Books can only reveal us to ourselves.",
     "jp": "本は私たちに自分自身を明らかにしてくれるだけだ。",
-    "id": "q1194"
+    "id": "q1194",
+    "tips": [
+      "reveal A to B：AをBに明らかにする",
+      "ourselves：私たち自身（読書による自己発見を表す）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Thaw with her gentle persuasion is more powerful than Thor with his hammer.",
     "jp": "春の雪解けのやさしい力は、雷神トールの槌よりも強い。",
-    "id": "q1195"
+    "id": "q1195",
+    "tips": [
+      "thaw：雪解け、解氷（ここでは女性として擬人化）",
+      "persuasion：説得、穏やかに働きかける力",
+      "Thor：北欧神話の雷神（力強い槌を持つ神）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The cost of a thing is the amount of life exchanged for it.",
     "jp": "物の代価とは、それに費やされた人生の時間である。",
-    "id": "q1196"
+    "id": "q1196",
+    "tips": [
+      "cost：費用、代償",
+      "the amount of：〜の量",
+      "exchanged for it：それと引き換えにされた（life を修飾する過去分詞）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is no value in life except what you place upon it.",
     "jp": "人生に価値を与えるのは、自分自身だ。",
-    "id": "q1197"
+    "id": "q1197",
+    "tips": [
+      "except：〜を除いて",
+      "place value upon：〜に価値を置く",
+      "what you place upon it：あなたが人生に与える価値"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "They can do without architecture who have no olives nor wines in the cellar.",
     "jp": "地下にオリーブやワインのない人は、建築を必要としない。",
-    "id": "q1198"
+    "id": "q1198",
+    "tips": [
+      "do without：〜なしで済ませる",
+      "architecture：建築、建築様式",
+      "cellar：地下貯蔵室"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I did not wish to take a cabin passage, but rather to go on deck of the world.",
     "jp": "世界の甲板に立って月光を見たい。私は船室には行きたくない。",
-    "id": "q1199"
+    "id": "q1199",
+    "tips": [
+      "cabin passage：船室を利用する船旅",
+      "but rather：そうではなくむしろ",
+      "deck：甲板（世界を船にたとえ、直接体験する姿勢を表す）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Luxuries and many comforts of life are hindrances to mankind.",
     "jp": "贅沢や快適さの多くは、人類の向上を妨げる。",
-    "id": "q1200"
+    "id": "q1200",
+    "tips": [
+      "luxury：ぜいたく品、ぜいたく",
+      "comfort：快適さ、快適な生活を支えるもの",
+      "hindrance to：〜に対する妨げ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "A howling wilderness does not howl; it is the traveler’s imagination.",
     "jp": "荒野は実際には吠えない。吠えているのは旅人の想像だ。",
-    "id": "q1201"
+    "id": "q1201",
+    "tips": [
+      "howling：うなり声を上げる、荒涼とした",
+      "wilderness：荒野、手つかずの自然",
+      "imagination：想像力（荒野の恐ろしさを旅人の心に帰している）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I have found that hollow, which even I had relied on for solid.",
     "jp": "信じていたものが、実は空っぽだったと気づいた。",
-    "id": "q1202"
+    "id": "q1202",
+    "tips": [
+      "hollow：中空の、実質のない",
+      "rely on：〜を頼りにする",
+      "solid：堅固な、確かな（hollow と対比）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is no just and serene criticism as yet.",
     "jp": "まだ正しく穏やかな批評は存在していない。",
-    "id": "q1203"
+    "id": "q1203",
+    "tips": [
+      "just：公正な",
+      "serene：穏やかな、冷静な",
+      "as yet：今のところ、まだ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "All men are children, of one family. The same tale puts them to bed and wakes them.",
     "jp": "人は皆ひとつの家族の子どもだ。同じ物語で眠り、同じ物語で目覚める。",
-    "id": "q1204"
+    "id": "q1204",
+    "tips": [
+      "of one family：同じ一つの家族に属する",
+      "tale：物語",
+      "put someone to bed：人を寝かしつける"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We tunnel under the Atlantic, but the first news may be trivial.",
     "jp": "大西洋の下にトンネルを掘っても、最初のニュースはくだらないものかもしれない。",
-    "id": "q1205"
+    "id": "q1205",
+    "tips": [
+      "tunnel：トンネルを掘る（動詞。ここでは大西洋を隔てた通信を念頭に置く表現）",
+      "the Atlantic：大西洋",
+      "trivial：取るに足らない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "How vain it is to sit down to write when you have not stood up to live.",
     "jp": "生きてもいないのに座って書くことほど虚しいものはない。",
-    "id": "q1206"
+    "id": "q1206",
+    "tips": [
+      "vain：無益な、むなしい",
+      "sit down to write：腰を下ろして書き始める",
+      "stand up to live：立ち上がって人生を生きる（sit down との対比）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The lawyer's truth is not Truth, but consistency.",
     "jp": "弁護士の言う「真実」は本当の真実ではなく、つじつまである。",
-    "id": "q1207"
+    "id": "q1207",
+    "tips": [
+      "lawyer：弁護士、法律家",
+      "consistency：一貫性、矛盾のなさ",
+      "Truth：大文字で表した真理と、法律家の扱う truth との対比"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Only that day dawns to which we are awake.",
     "jp": "目覚めている者にだけ、夜明けは訪れる。",
-    "id": "q1208"
+    "id": "q1208",
+    "tips": [
+      "dawn：夜が明ける（動詞）",
+      "to which：〜に対して（前置詞付きの関係代名詞）",
+      "awake：目覚めている、意識を向けている"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Doing good is a profession already crowded.",
     "jp": "善行はすでにいっぱいの職業だ。",
-    "id": "q1209"
+    "id": "q1209",
+    "tips": [
+      "doing good：善い行いをすること（動名詞）",
+      "profession：職業",
+      "crowded：人が多すぎる、混み合った（善行を職業にたとえた皮肉）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "A free state exists only when it recognizes the individual as higher.",
     "jp": "自由な国家は、個人をより高い存在と認めたときにしか存在しない。",
-    "id": "q1210"
+    "id": "q1210",
+    "tips": [
+      "free state：自由な国家",
+      "recognize A as B：AをBとして認める",
+      "the individual：個人（higher は国家よりも上位の存在であることを示唆）"
+    ]
   },
   {
     "author": "Thoreau",
