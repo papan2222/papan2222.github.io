@@ -9571,181 +9571,320 @@
     "author": "R. W. Emerson",
     "en": "Before we acquire great power we must acquire wisdom to use it well.",
     "jp": "大きな力を持つ前に、それを正しく使う知恵を持たねばならない。",
-    "id": "q0881"
+    "id": "q0881",
+    "tips": [
+      "acquire：獲得する、身につける",
+      "wisdom：知恵、賢明さ",
+      "to use it well：それ（力）を適切に使うための"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nature and books belong to the eyes that see them.",
     "jp": "自然と本は、それを見る目を持つ者のものだ。",
-    "id": "q0882"
+    "id": "q0882",
+    "tips": [
+      "belong to：〜に属する",
+      "the eyes that see them：それらを見る目（自然や本の価値を見いだす人の比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The desire of gold is not for gold. It is for the means of freedom and benefit.",
     "jp": "金を求めるのは、金そのものではなく、自由や恩恵を得る手段としてだ。",
-    "id": "q0883"
+    "id": "q0883",
+    "tips": [
+      "desire of gold：金を求める欲望",
+      "means of：〜のための手段",
+      "benefit：利益、恩恵"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Great men are they who see that spiritual is stronger than any material force - that thoughts rule the world.",
     "jp": "精神が物質より強く、思考が世界を支配することを知る者こそ偉大だ。",
-    "id": "q0884"
+    "id": "q0884",
+    "tips": [
+      "spiritual：精神的なもの（ここでは名詞的に使用）",
+      "material force：物質的な力",
+      "rule the world：世界を支配する"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Who you are speaks so loudly I can't hear what you're saying.",
     "jp": "あなたが何者かはあまりにも雄弁で、あなたの言葉が聞こえない。",
-    "id": "q0885"
+    "id": "q0885",
+    "tips": [
+      "who you are：あなたがどんな人間か",
+      "so ... (that)：あまりに〜なので…",
+      "what you're saying：あなたが言っていること"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We find delight in the beauty and happiness of children that makes the heart too big for the body.",
     "jp": "子どもの美しさと幸せに触れると、心が体に収まりきらなくなる。",
-    "id": "q0886"
+    "id": "q0886",
+    "tips": [
+      "find delight in：〜に喜びを見いだす",
+      "too big for the body：体に収まりきらないほど大きい（喜びの比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every man I meet is in some way my superior.",
     "jp": "出会うすべての人は、何らかの点で私より優れている。",
-    "id": "q0887"
+    "id": "q0887",
+    "tips": [
+      "in some way：何らかの点で",
+      "my superior：自分より優れた人（名詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The earth laughs in flowers.",
     "jp": "地球は花で笑う。",
-    "id": "q0888"
+    "id": "q0888",
+    "tips": [
+      "laugh in flowers：花を咲かせて笑う（大地の擬人化）",
+      "in：ここでは表現の手段や形を示す"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "What is a weed? A plant whose virtues have never been discovered.",
     "jp": "雑草とは、その価値がまだ見つかっていない植物のことだ。",
-    "id": "q0889"
+    "id": "q0889",
+    "tips": [
+      "weed：雑草",
+      "whose virtues：その植物の長所（whose は所有を表す関係代名詞）",
+      "have never been discovered：まだ一度も発見されていない"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Win as if you were used to it, lose as if you enjoyed it for a change.",
     "jp": "勝つときは慣れた顔で、負けるときは気分転換のように楽しめ。",
-    "id": "q0890"
+    "id": "q0890",
+    "tips": [
+      "as if：まるで〜であるかのように",
+      "be used to it：それに慣れている",
+      "for a change：いつもと違って、たまには"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man is a god in ruins. When men are innocent, life shall be longer, and shall pass into the immortal, as gently as we awake from dreams.",
     "jp": "人は廃墟となった神だ。無垢であれば命は長く、夢から覚めるように静かに永遠へと移る。",
-    "id": "q0891"
+    "id": "q0891",
+    "tips": [
+      "in ruins：廃墟となって、荒廃して",
+      "the immortal：不滅のもの、不滅の境地",
+      "awake from：〜から目覚める"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The man of genius inspires us with a boundless confidence in our own powers.",
     "jp": "天才は、私たちに自分の力への無限の自信を与える。",
-    "id": "q0892"
+    "id": "q0892",
+    "tips": [
+      "man of genius：天才",
+      "inspire A with B：AにBを抱かせる",
+      "boundless confidence：限りない自信"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Good men must not obey the laws too well.",
     "jp": "善人は法律をあまりにもよく守ってはならない。",
-    "id": "q0893"
+    "id": "q0893",
+    "tips": [
+      "obey：従う",
+      "too well：従いすぎるほど忠実に（法律への盲従を戒める逆説）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "There was never a child so lovely but his mother was glad to get him to sleep.",
     "jp": "どんなに可愛い子でも、母親は眠ってくれると嬉しいものだ。",
-    "id": "q0894"
+    "id": "q0894",
+    "tips": [
+      "so ... but：〜であっても…しないものはない（古風な構文）",
+      "be glad to do：〜してうれしい",
+      "get him to sleep：彼を寝かしつける"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
     "jp": "狐には多くの技があり、ハリネズミには一つしかないが、それが最強だ。",
-    "id": "q0895"
+    "id": "q0895",
+    "tips": [
+      "hedgehog：ハリネズミ",
+      "but one：たった一つ（but は only の意味）",
+      "the best of all：すべての中で最も優れたもの"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The vegetable life does not content itself with casting from the flower or the tree a single seed, but it fills the air and earth with a prodigality of seeds, that, if thousands perish, thousands may plant themselves, that hundreds may come up, that tens may live to maturity; that, at least one may replace the parent.",
     "jp": "植物は一粒の種だけを撒くことに満足せず、空や地面を無数の種で満たし、その中のごく一部が成長して親を継ぐ。",
-    "id": "q0896"
+    "id": "q0896",
+    "tips": [
+      "content oneself with：〜で満足する",
+      "prodigality：惜しみなく大量に与えること",
+      "live to maturity：成熟するまで生きる"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Speak the truth, and all things alive or brute are vouchers, and the very roots of the grass underground there, do seem to stir and move to bear you witness.",
     "jp": "真実を語れば、生き物も無生物も証人となり、草の根さえも動いて証を立てるだろう。",
-    "id": "q0897"
+    "id": "q0897",
+    "tips": [
+      "voucher：証人、証拠となるもの",
+      "brute：理性を持たないもの、動物",
+      "bear witness：証言する、証拠となる"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every particular in nature, a leaf, a drop, a crystal, a moment of time is related to the whole, and partakes of the perfection of the whole.",
     "jp": "自然のあらゆるものは全体とつながり、その完全さの一部を分かち合っている。",
-    "id": "q0898"
+    "id": "q0898",
+    "tips": [
+      "particular：個々のもの（名詞）",
+      "be related to：〜と関連している",
+      "partake of：〜の性質を分かち持つ"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Trust men and they will be true to you; treat them greatly and they will show themselves great.",
     "jp": "人を信じれば応えてくれ、大切に扱えば偉大さを見せてくれる。",
-    "id": "q0899"
+    "id": "q0899",
+    "tips": [
+      "be true to：〜に誠実である",
+      "treat them greatly：相手を立派な人物として扱う",
+      "show themselves great：自らの偉大さを示す"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "No change of circumstances can repair a defect of character.",
     "jp": "環境の変化では、人柄の欠点は直せない。",
-    "id": "q0900"
+    "id": "q0900",
+    "tips": [
+      "circumstances：状況、環境",
+      "repair：修復する",
+      "defect of character：人格上の欠点"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "As long as a man stands in his own way, everything seems to be in his way.",
     "jp": "自分が自分の邪魔をしている限り、すべてが障害に見える。",
-    "id": "q0901"
+    "id": "q0901",
+    "tips": [
+      "as long as：〜する限り",
+      "stand in one's own way：自分自身の妨げになる",
+      "in one's way：行く手を阻んで"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Let us be silent, that we may hear the whispers of the gods.",
     "jp": "沈黙してこそ、神々のささやきが聞こえる。",
-    "id": "q0902"
+    "id": "q0902",
+    "tips": [
+      "let us：〜しよう",
+      "that we may：私たちが〜できるように（目的を表す古風な表現）",
+      "whisper：ささやき"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We are always getting ready to live but never living.",
     "jp": "私たちはいつも生きる準備をしているが、実際には生きていない。",
-    "id": "q0903"
+    "id": "q0903",
+    "tips": [
+      "get ready to do：〜する準備をする",
+      "always ... but never ...：いつも〜するが決して…しない（対比）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Our best thoughts come from others.",
     "jp": "最良の考えは他者からやってくる。",
-    "id": "q0904"
+    "id": "q0904",
+    "tips": [
+      "thought：考え、思想",
+      "come from：〜に由来する"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Write it on your heart that every day is the best day in the year.",
     "jp": "毎日が一年で最高の日だと、心に刻め。",
-    "id": "q0905"
+    "id": "q0905",
+    "tips": [
+      "write it on your heart：心に刻む（比喩）",
+      "that：ここでは刻むべき内容を導く"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We are born believing. A man bears beliefs as a tree bears apples.",
     "jp": "人は信じて生まれ、木が実をつけるように信念を持ち続ける。",
-    "id": "q0906"
+    "id": "q0906",
+    "tips": [
+      "be born believing：信じる心を持って生まれる",
+      "bear：持つ、実を結ぶ（信念とリンゴで意味を重ねる表現）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "America is a poem in our eyes; its ample geography dazzles the imagination, and it will not wait long for metres.",
     "jp": "アメリカは詩のような存在だ。その広大な地形は想像力を魅了し、すぐに言葉になる。",
-    "id": "q0907"
+    "id": "q0907",
+    "tips": [
+      "ample：広大な、豊富な",
+      "dazzle：魅了する、目をくらませる",
+      "metre：詩の韻律（英国式綴り）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nothing astonishes men so much as common sense and plain dealing.",
     "jp": "人を最も驚かせるのは、常識と率直なやり方だ。",
-    "id": "q0908"
+    "id": "q0908",
+    "tips": [
+      "astonish：驚かせる",
+      "nothing ... so much as：〜ほど…するものはない",
+      "plain dealing：率直で誠実な振る舞い"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We are symbols, and inhabit symbols.",
     "jp": "私たちは象徴であり、象徴の中に生きている。",
-    "id": "q0909"
+    "id": "q0909",
+    "tips": [
+      "symbol：象徴",
+      "inhabit：〜に住む（ここでは象徴に囲まれて生きるという比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "I have lost my mental faculties but am perfectly well.",
     "jp": "頭の働きは衰えたが、心身はいたって健康だ。",
-    "id": "q0910"
+    "id": "q0910",
+    "tips": [
+      "mental faculties：精神的・知的能力",
+      "perfectly well：すこぶる元気で、まったく健康で"
+    ]
   },
   {
     "author": "R. W. Emerson",
