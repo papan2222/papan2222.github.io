@@ -9,6 +9,21 @@ title: パンダの英語川柳
 
 <div class="cards">
 
+<div class="card" id="work-panda-children-soap-bubbles-sunset-garden">
+  <a class="image-link" href="/senryu/works/panda-children-soap-bubbles-sunset-garden/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-children-soap-bubbles-sunset-garden.jpg" alt="夕暮れの庭でシャボン玉を追うパンダと子どもたち, a panda and children playing with soap bubbles in a sunset garden" loading="lazy" decoding="async"></a>
+  <p class="poem">
+シャボン玉
+戻れぬ日々が
+光りけり
+Soap bubbles,
+the days we cannot return to
+shine once more.
+  </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>soap bubbles：シャボン玉。</li><li>the days we cannot return to：戻ることのできない日々。関係代名詞 that が省略されている。</li><li>shine once more：もう一度輝く。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/works/panda-children-soap-bubbles-sunset-garden/" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
+</div>
+
+
 <div class="card" id="work-panda-sleeping-woman-fireplace-snowy-night">
   <a class="image-link" href="/senryu/works/panda-sleeping-woman-fireplace-snowy-night/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-sleeping-woman-fireplace-snowy-night.jpg" alt="雪の夜、暖炉のそばで女性に抱かれて眠るパンダ, a panda sleeping in a woman's arms beside a fireplace on a snowy night" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/847c57e81947158888bcd994-640.webp 640w, /assets/previews/847c57e81947158888bcd994-1280.webp 1280w, /images/senryu/panda-sleeping-woman-fireplace-snowy-night.jpg 1448w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
