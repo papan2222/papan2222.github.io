@@ -3728,181 +3728,331 @@
     "author": "Ambrose Bierce",
     "en": "To be positive is to be mistaken at the top of one's voice.",
     "jp": "前向きであることは、大声で間違うことだ。",
-    "id": "q0341"
+    "id": "q0341",
+    "tips": [
+      "positive：確信している",
+      "be mistaken：間違っている",
+      "at the top of one's voice：声を限りに"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Battle, n., A method of untying with the teeth a political knot that would not yield to the tongue.",
     "jp": "戦いとは、舌でほどけなかった政治的な結び目を歯でほどく方法である。",
-    "id": "q0342"
+    "id": "q0342",
+    "tips": [
+      "untie：ほどく",
+      "knot：結び目、難題",
+      "yield to：〜に屈する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.",
     "jp": "春が呼んでいる！すべてがその声に応え、木々は葉をつけ、出納係は姿を消す。",
-    "id": "q0343"
+    "id": "q0343",
+    "tips": [
+      "beckon：手招きする",
+      "respond to：〜に応じる（本文では語順が倒置されている）",
+      "abscond：逃亡する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Vote: the instrument and symbol of a freeman's power to make a fool of himself and a wreck of his country.",
     "jp": "投票とは、自由人が自らを愚か者にし、国を台無しにする力の道具であり象徴である。",
-    "id": "q0344"
+    "id": "q0344",
+    "tips": [
+      "instrument：手段、道具",
+      "make a fool of oneself：自分で恥をかく",
+      "wreck：破滅、残骸"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Sweater, n.: garment worn by child when its mother is feeling chilly.",
     "jp": "セーターとは、母親が寒いと感じたときに子どもが着る衣服である。",
-    "id": "q0345"
+    "id": "q0345",
+    "tips": [
+      "garment：衣服",
+      "worn by：〜によって着用される",
+      "chilly：肌寒い"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "What this country needs what every country needs occasionally is a good hard bloody war to revive the vice of patriotism on which its existence as a nation depends.",
     "jp": "この国に——いやどの国にも時折必要なのは、国家の存続を支える悪徳である愛国心を復活させるための、激しく血なまぐさい戦争だ。",
-    "id": "q0346"
+    "id": "q0346",
+    "tips": [
+      "occasionally：時折",
+      "revive：復活させる",
+      "depend on：〜に依存する（本文では on which の形）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Erudition - dust shaken out of a book into an empty skull.",
     "jp": "博学とは、本から振り落とされた埃を空っぽの頭に入れることだ。",
-    "id": "q0347"
+    "id": "q0347",
+    "tips": [
+      "erudition：博識、学識",
+      "shake out of：振って〜から出す",
+      "skull：頭蓋骨"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Politeness, n: The most acceptable hypocrisy.",
     "jp": "礼儀とは、もっとも受け入れられる偽善である。",
-    "id": "q0348"
+    "id": "q0348",
+    "tips": [
+      "politeness：礼儀正しさ",
+      "acceptable：受け入れられる",
+      "hypocrisy：偽善"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Destiny: A tyrant's authority for crime and a fool's excuse for failure.",
     "jp": "運命とは、犯罪を正当化する暴君の権威であり、失敗を言い訳する愚か者の口実である。",
-    "id": "q0349"
+    "id": "q0349",
+    "tips": [
+      "destiny：運命",
+      "tyrant：暴君",
+      "excuse for：〜の言い訳"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Insurance - an ingenious modern game of chance in which the player is permitted to enjoy the comfortable conviction that he is beating the man who keeps the table.",
     "jp": "保険とは、掛け金を集める側に勝っているという心地よい確信を持たせてくれる、巧妙な現代の運試しである。",
-    "id": "q0350"
+    "id": "q0350",
+    "tips": [
+      "ingenious：巧妙な",
+      "game of chance：運に左右されるゲーム",
+      "conviction：確信"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Cabbage: a familiar kitchen-garden vegetable about as large and wise as a man's head.",
     "jp": "キャベツとは、人間の頭ほどの大きさと賢さを持つおなじみの家庭菜園の野菜である。",
-    "id": "q0351"
+    "id": "q0351",
+    "tips": [
+      "kitchen-garden：家庭菜園の",
+      "about as ... as：〜とほぼ同じくらい…",
+      "wise：賢い"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "To apologize is to lay the foundation for a future offense.",
     "jp": "謝罪とは、将来の非行のための土台を築くことである。",
-    "id": "q0352"
+    "id": "q0352",
+    "tips": [
+      "apologize：謝罪する",
+      "lay the foundation for：〜の土台を築く",
+      "offense：侮辱、過ち"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Future. That period of time in which our affairs prosper, our friends are true and our happiness is assured.",
     "jp": "未来とは、物事が順調に進み、友が誠実で、幸福が保証されている時期である。",
-    "id": "q0353"
+    "id": "q0353",
+    "tips": [
+      "affairs：物事、身の回りの事柄",
+      "prosper：繁栄する、順調に進む",
+      "be assured：保証される"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Friendless. Having no favors to bestow. Destitute of fortune. Addicted to utterance of truth and common sense.",
     "jp": "友のいない者とは、恩恵を与えることもできず、財産もなく、真実と常識を語る癖のある人である。",
-    "id": "q0354"
+    "id": "q0354",
+    "tips": [
+      "bestow：授ける",
+      "destitute of：〜を欠いている",
+      "be addicted to：〜にふける"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Revolution, n. In politics, an abrupt change in the form of misgovernment.",
     "jp": "革命とは、政治における統治の失敗の形態が急激に変わること。",
-    "id": "q0355"
+    "id": "q0355",
+    "tips": [
+      "abrupt：突然の",
+      "in the form of：〜の形態における",
+      "misgovernment：悪政"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Absence blots people out. We really have no absent friends.",
     "jp": "不在は人を記憶から消す。本当の意味で不在の友などいない。",
-    "id": "q0356"
+    "id": "q0356",
+    "tips": [
+      "absence：不在",
+      "blot out：消し去る",
+      "absent：不在の"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Conservative, n: A statesman who is enamored of existing evils, as distinguished from the Liberal who wishes to replace them with others.",
     "jp": "保守主義者とは、現存する悪を愛する政治家であり、それらを別の悪に置き換えたがる自由主義者とは異なる。",
-    "id": "q0357"
+    "id": "q0357",
+    "tips": [
+      "statesman：政治家",
+      "be enamored of：〜に心を奪われている",
+      "as distinguished from：〜と区別して"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Brain: an apparatus with which we think we think.",
     "jp": "脳とは、我々が「考えている」と思うための装置である。",
-    "id": "q0358"
+    "id": "q0358",
+    "tips": [
+      "apparatus：装置、器官",
+      "with which：〜を用いて（前置詞＋関係代名詞）",
+      "we think we think：自分は考えていると思う"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Saint: A dead sinner revised and edited.",
     "jp": "聖人とは、修正・編集された死んだ罪人である。",
-    "id": "q0359"
+    "id": "q0359",
+    "tips": [
+      "saint：聖人",
+      "sinner：罪人",
+      "revised and edited：改訂・編集された"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Patriotism. Combustible rubbish ready to the torch of any one ambitious to illuminate his name.",
     "jp": "愛国心とは、自らの名を輝かせたい野心家が火をつけるのを待つ可燃性のごみである。",
-    "id": "q0360"
+    "id": "q0360",
+    "tips": [
+      "combustible：燃えやすい",
+      "rubbish：ごみ、くだらないもの",
+      "illuminate：照らす（ここでは名を輝かせる比喩）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Optimism - the doctrine or belief that everything is beautiful, including what is ugly.",
     "jp": "楽観主義とは、醜いものも含めてすべてが美しいと信じる思想である。",
-    "id": "q0361"
+    "id": "q0361",
+    "tips": [
+      "optimism：楽観主義",
+      "doctrine：教義、主義",
+      "including：〜を含めて"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Present, n. That part of eternity dividing the domain of disappointment from the realm of hope.",
     "jp": "現在とは、失望の領域と希望の領域を隔てる永遠の一部である。",
-    "id": "q0362"
+    "id": "q0362",
+    "tips": [
+      "eternity：永遠",
+      "domain：領域",
+      "realm：領域、世界"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Faith: Belief without evidence in what is told by one who speaks without knowledge, of things without parallel.",
     "jp": "信仰とは、知識のない者が語る、比類なき事柄について、証拠もなく信じること。",
-    "id": "q0363"
+    "id": "q0363",
+    "tips": [
+      "evidence：証拠",
+      "belief in：〜への信念",
+      "without parallel：比類のない"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Historian - a broad-gauge gossip.",
     "jp": "歴史家とは、大規模なおしゃべり屋である。",
-    "id": "q0364"
+    "id": "q0364",
+    "tips": [
+      "historian：歴史家",
+      "broad-gauge：広範な、視野の広い",
+      "gossip：うわさ話をする人"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Perseverance - a lowly virtue whereby mediocrity achieves an inglorious success.",
     "jp": "忍耐とは、凡人が不名誉な成功を収めるための卑しい美徳である。",
-    "id": "q0365"
+    "id": "q0365",
+    "tips": [
+      "perseverance：忍耐、粘り強さ",
+      "whereby：それによって",
+      "inglorious：不名誉な、華々しくない"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Forgetfulness - a gift of God bestowed upon debtors in compensation for their destitution of conscience.",
     "jp": "忘却とは、良心を欠いた債務者に神が与えた贈り物である。",
-    "id": "q0366"
+    "id": "q0366",
+    "tips": [
+      "bestow upon：〜に授ける",
+      "debtor：債務者",
+      "in compensation for：〜の埋め合わせとして"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Coward: One who, in a perilous emergency, thinks with his legs.",
     "jp": "臆病者とは、危機的状況で足で考える人である。",
-    "id": "q0367"
+    "id": "q0367",
+    "tips": [
+      "perilous：危険な",
+      "emergency：緊急事態",
+      "think with one's legs：足で考える（逃げることを皮肉った比喩）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Sabbath - a weekly festival having its origin in the fact that God made the world in six days and was arrested on the seventh.",
     "jp": "安息日とは、神が六日で世界を作り、七日目に逮捕されたことに由来する週ごとの祭りである。",
-    "id": "q0368"
+    "id": "q0368",
+    "tips": [
+      "Sabbath：安息日",
+      "have its origin in：〜に起源を持つ",
+      "be arrested：逮捕される"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Prescription: A physician's guess at what will best prolong the situation with least harm to the patient.",
     "jp": "処方箋とは、患者に最小限の害で状況を最も長く引き延ばすための医師の推測である。",
-    "id": "q0369"
+    "id": "q0369",
+    "tips": [
+      "prescription：処方箋、処方",
+      "physician：医師",
+      "prolong：長引かせる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "The gambling known as business looks with austere disfavor upon the business known as gambling.",
     "jp": "「ビジネス」と呼ばれる賭博は、「ギャンブル」と呼ばれる商売を厳しく軽蔑する。",
-    "id": "q0370"
+    "id": "q0370",
+    "tips": [
+      "gambling：賭博",
+      "known as：〜として知られる",
+      "look with disfavor upon：〜を好ましくないと見る"
+    ]
   },
   {
     "author": "Ambrose Bierce",
