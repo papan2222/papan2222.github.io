@@ -10,7 +10,7 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card" id="work-panda-sleeping-woman-fireplace-snowy-night">
-  <a class="image-link" href="/senryu/works/panda-sleeping-woman-fireplace-snowy-night/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-sleeping-woman-fireplace-snowy-night.jpg" alt="雪の夜、暖炉のそばで女性に抱かれて眠るパンダ, a panda sleeping in a woman's arms beside a fireplace on a snowy night" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/panda-sleeping-woman-fireplace-snowy-night/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-sleeping-woman-fireplace-snowy-night.jpg" alt="雪の夜、暖炉のそばで女性に抱かれて眠るパンダ, a panda sleeping in a woman's arms beside a fireplace on a snowy night" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/847c57e81947158888bcd994-640.webp 640w, /assets/previews/847c57e81947158888bcd994-1280.webp 1280w, /images/senryu/panda-sleeping-woman-fireplace-snowy-night.jpg 1448w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 雪の夜
 言葉はいらぬ
