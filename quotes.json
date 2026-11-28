@@ -1433,181 +1433,326 @@
     "author": "Mark Twain",
     "en": "Do the thing you fear most and the death of fear is certain.",
     "jp": "最も恐れることをやれば、その恐怖は必ず死ぬ。",
-    "id": "q0131"
+    "id": "q0131",
+    "tips": [
+      "the thing you fear most：最も恐れていること",
+      "命令文 + and：〜すれば…となる",
+      "certain：確実な"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Loyalty to petrified opinion never yet broke a chain or freed a human soul.",
     "jp": "固まった意見への忠誠心が鎖を断ち切ったり、人の魂を解放したことは一度もない。",
-    "id": "q0132"
+    "id": "q0132",
+    "tips": [
+      "loyalty to：〜への忠誠",
+      "petrified：石化した、ここでは凝り固まった",
+      "free：解放する（動詞）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Cauliflower is nothing but cabbage with a college education.",
     "jp": "カリフラワーとは、大学教育を受けたキャベツにすぎない。",
-    "id": "q0133"
+    "id": "q0133",
+    "tips": [
+      "cauliflower：カリフラワー",
+      "nothing but：〜にすぎない",
+      "college education：大学教育"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Everything human is pathetic. The secret source of humor itself is not joy but sorrow. There is no humor in heaven.",
     "jp": "人間的なものはすべて哀れだ。ユーモアの源は喜びではなく悲しみだ。天国にはユーモアはない。",
-    "id": "q0134"
+    "id": "q0134",
+    "tips": [
+      "pathetic：哀れな、痛ましい",
+      "source of：〜の源",
+      "not A but B：AではなくB"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.",
     "jp": "口を閉じて愚か者だと思われているほうが、口を開いてその疑いを完全に証明するよりましだ。",
-    "id": "q0135"
+    "id": "q0135",
+    "tips": [
+      "keep your mouth closed：口を閉じておく",
+      "let A do：Aに〜させる",
+      "remove all doubt：あらゆる疑いを取り除く"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Patriotism is supporting your country all the time, and your government when it deserves it.",
     "jp": "愛国心とは、常に国を支え、政府がふさわしいときにだけ政府を支えることだ。",
-    "id": "q0136"
+    "id": "q0136",
+    "tips": [
+      "patriotism：愛国心",
+      "all the time：いつも",
+      "deserve：〜に値する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "If you tell the truth, you don't have to remember anything.",
     "jp": "真実を語れば、何も覚えておく必要はない。",
-    "id": "q0137"
+    "id": "q0137",
+    "tips": [
+      "tell the truth：真実を語る",
+      "don't have to do：〜する必要はない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
     "jp": "死の恐怖は、生の恐怖から生まれる。充実して生きる人は、いつでも死ぬ覚悟ができている。",
-    "id": "q0138"
+    "id": "q0138",
+    "tips": [
+      "follow from：〜から生じる",
+      "live fully：充実して生きる",
+      "be prepared to do：〜する覚悟がある"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.",
     "jp": "許しとは、自分を踏みつけたかかとにスミレが放つ香りだ。",
-    "id": "q0139"
+    "id": "q0139",
+    "tips": [
+      "forgiveness：許し",
+      "fragrance：芳香",
+      "shed：放つ、発する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "A man who carries a cat by the tail learns something he can learn in no other way.",
     "jp": "猫のしっぽをつかんで運ぶ人は、他の方法では学べないことを学ぶ。",
-    "id": "q0140"
+    "id": "q0140",
+    "tips": [
+      "by the tail：しっぽをつかんで",
+      "in no other way：ほかのどんな方法でも〜ない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Never pick a fight with people who buy ink by the barrel.",
     "jp": "インクを樽で買う人とはケンカするな。",
-    "id": "q0141"
+    "id": "q0141",
+    "tips": [
+      "pick a fight with：〜にけんかを売る",
+      "ink：インク",
+      "by the barrel：樽単位で、大量に"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not.",
     "jp": "健康を保つ唯一の方法は、食べたくないものを食べ、飲みたくないものを飲み、やりたくないことをすることだ。",
-    "id": "q0142"
+    "id": "q0142",
+    "tips": [
+      "keep your health：健康を保つ",
+      "what you don't want：欲しくないもの",
+      "would rather not：むしろ〜したくない（後続の動詞は省略）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "There is no distinctly American criminal class - except Congress.",
     "jp": "明確にアメリカ的な犯罪者階級は存在しない——議会を除いては。",
-    "id": "q0143"
+    "id": "q0143",
+    "tips": [
+      "distinctly：明確に、特有に",
+      "criminal class：犯罪者の階層",
+      "except：〜を除いて"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "In the first place, God made idiots. That was for practice. Then he made school boards.",
     "jp": "まず神は愚か者を作った。練習のために。そのあとで教育委員会を作った。",
-    "id": "q0144"
+    "id": "q0144",
+    "tips": [
+      "in the first place：まず第一に",
+      "idiot：愚か者（侮蔑的な語）",
+      "school board：教育委員会"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Part of the secret of a success in life is to eat what you like and let the food fight it out inside.",
     "jp": "人生成功の秘訣の一つは、好きなものを食べて、その戦いを体の中に任せることだ。",
-    "id": "q0145"
+    "id": "q0145",
+    "tips": [
+      "part of the secret of：〜の秘訣の一部",
+      "let A do：Aに〜させる",
+      "fight it out：決着がつくまで争う"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Buy land, they're not making it anymore.",
     "jp": "土地を買え。もう作られていないのだから。",
-    "id": "q0146"
+    "id": "q0146",
+    "tips": [
+      "land：土地（ここでは不可算名詞）",
+      "anymore：もはや、これ以上（否定文）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Thunder is good, thunder is impressive; but it is lightning that does the work.",
     "jp": "雷鳴は良いし印象的だが、実際に働くのは稲妻だ。",
-    "id": "q0147"
+    "id": "q0147",
+    "tips": [
+      "thunder：雷鳴",
+      "lightning：稲妻",
+      "It is ... that ...：〜こそが…だ（強調構文）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "A man's character may be learned from the adjectives which he habitually uses in conversation.",
     "jp": "人の性格は、その人が会話で常用する形容詞からわかる。",
-    "id": "q0148"
+    "id": "q0148",
+    "tips": [
+      "character：人格、性格",
+      "adjective：形容詞",
+      "habitually：習慣的に"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Good friends, good books and a sleepy conscience: this is the ideal life.",
     "jp": "良い友、良い本、そして眠った良心。これが理想の人生だ。",
-    "id": "q0149"
+    "id": "q0149",
+    "tips": [
+      "conscience：良心",
+      "sleepy：眠そうな（ここでは良心があまり働かないという比喩）",
+      "ideal：理想的な"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When in doubt tell the truth.",
     "jp": "迷ったら真実を言え。",
-    "id": "q0150"
+    "id": "q0150",
+    "tips": [
+      "when in doubt：迷ったときは",
+      "tell the truth：本当のことを言う"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I came in with Halley's Comet in 1835. It is coming again next year, and I expect to go out with it. It will be the greatest disappointment of my life if I don't go out with Halley's Comet. The Almighty has said, no doubt: 'Now here are these two unaccountable freaks; they came in together, they must go out together.'",
     "jp": "私は1835年にハレー彗星とともに来た。来年またやってくるが、そのとき一緒に去るつもりだ。もしそうでなければ、生涯最大の失望になるだろう。神もきっと「この二つの不可解な存在は一緒に来たのだから、一緒に去らなければならない」と言っているに違いない。",
-    "id": "q0151"
+    "id": "q0151",
+    "tips": [
+      "come in / go out：ここでは生まれる／世を去ることの比喩",
+      "the Almighty：全能の神",
+      "unaccountable：説明のつかない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "A person who won't read has no advantage over one who can't read.",
     "jp": "本を読まない人は、読めない人と比べて何の利点もない。",
-    "id": "q0152"
+    "id": "q0152",
+    "tips": [
+      "have no advantage over：〜に対する優位性がない",
+      "won't read：読む意志がない",
+      "can't read：読む能力がない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "There are lies, damned lies and statistics.",
     "jp": "嘘には三種類ある。嘘、ひどい嘘、そして統計だ。",
-    "id": "q0153"
+    "id": "q0153",
+    "tips": [
+      "lie：うそ（名詞）",
+      "damned：忌々しい、ひどい（強調表現）",
+      "statistics：統計"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It's not the size of the dog in the fight, it's the size of the fight in the dog.",
     "jp": "戦いで重要なのは犬の大きさではなく、その犬の中の闘志の大きさだ。",
-    "id": "q0154"
+    "id": "q0154",
+    "tips": [
+      "not A, it's B：AではなくBだ",
+      "fight：前半では争い、後半では闘志という言葉遊び"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "If it's your job to eat a frog, it's best to do it first thing in the morning. And If it's your job to eat two frogs, it's best to eat the biggest one first.",
     "jp": "カエルを食べるのが仕事なら、朝一番にやるのがいい。二匹食べるなら、大きいほうから食べるべきだ。",
-    "id": "q0155"
+    "id": "q0155",
+    "tips": [
+      "it's your job to do：〜するのがあなたの仕事だ",
+      "first thing in the morning：朝一番に",
+      "the biggest one：最も大きなもの"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
     "jp": "多数派にいる自分に気づいたら、立ち止まって考えるべきときだ。",
-    "id": "q0156"
+    "id": "q0156",
+    "tips": [
+      "find oneself：気づくと〜の状態にある",
+      "on the side of：〜の側について",
+      "pause and reflect：立ち止まってよく考える"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Get your facts first, then you can distort them as you please.",
     "jp": "まず事実を手に入れろ。そのあとで好きなように歪めればいい。",
-    "id": "q0157"
+    "id": "q0157",
+    "tips": [
+      "get your facts：事実を把握する",
+      "distort：歪める",
+      "as you please：好きなように"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.",
     "jp": "怒りは酸のようなものだ。それは注がれる対象よりも、入っている器を傷つける。",
-    "id": "q0158"
+    "id": "q0158",
+    "tips": [
+      "do harm to：〜に害を与える",
+      "vessel：容器",
+      "in which / on which：前置詞と関係代名詞の組み合わせ"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Principles have no real force except when one is well-fed.",
     "jp": "腹が満たされてこそ、原則には力がある。",
-    "id": "q0159"
+    "id": "q0159",
+    "tips": [
+      "principle：主義、原則",
+      "force：効力、力",
+      "well-fed：十分に食べている"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I am an old man and have known a great many troubles, but most of them never happened.",
     "jp": "私は老人だが、多くの困難を経験した。しかし、そのほとんどは実際には起こらなかった。",
-    "id": "q0160"
+    "id": "q0160",
+    "tips": [
+      "have known：経験してきた（現在完了）",
+      "a great many：非常に多くの（可算名詞の複数形を修飾）",
+      "most of them：それらの大部分"
+    ]
   },
   {
     "author": "Mark Twain",
