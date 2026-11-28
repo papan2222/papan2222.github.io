@@ -5690,181 +5690,327 @@
     "author": "William James",
     "en": "Nothing is so fatiguing as the eternal hanging on of an uncompleted task.",
     "jp": "未完成の仕事を永遠に抱えるほど疲れるものはない。",
-    "id": "q0521"
+    "id": "q0521",
+    "tips": [
+      "fatiguing：疲れさせる",
+      "hang on：長引く（ここでは未完了の状態が続くこと）",
+      "uncompleted task：未完了の仕事"
+    ]
   },
   {
     "author": "William James",
     "en": "This life is worth living, we can say, since it is what we make it.",
     "jp": "この人生は生きる価値がある。なぜなら、それは私たちが作るものだからだ。",
-    "id": "q0522"
+    "id": "q0522",
+    "tips": [
+      "be worth living：生きる価値がある",
+      "since：〜なので",
+      "what we make it：私たちが作り上げるもの"
+    ]
   },
   {
     "author": "William James",
     "en": "A great many people think they are thinking when they are merely rearranging their prejudices.",
     "jp": "多くの人は、考えているつもりで実は自分の偏見を並べ替えているだけだ。",
-    "id": "q0523"
+    "id": "q0523",
+    "tips": [
+      "a great many：非常に多くの",
+      "merely：単に",
+      "rearrange one's prejudices：自分の偏見を並べ替える"
+    ]
   },
   {
     "author": "William James",
     "en": "If you care enough for a result, you will most certainly attain it.",
     "jp": "結果を十分に望むなら、それは必ず手に入る。",
-    "id": "q0524"
+    "id": "q0524",
+    "tips": [
+      "care for：〜を大切に思う",
+      "most certainly：間違いなく",
+      "attain：達成する"
+    ]
   },
   {
     "author": "William James",
     "en": "Begin to be now what you will be hereafter.",
     "jp": "未来の自分になりたいなら、今からそうなれ。",
-    "id": "q0525"
+    "id": "q0525",
+    "tips": [
+      "hereafter：今後、将来",
+      "what you will be：将来の自分の姿"
+    ]
   },
   {
     "author": "William James",
     "en": "Time itself comes in drops.",
     "jp": "時間は雫のようにやってくる。",
-    "id": "q0526"
+    "id": "q0526",
+    "tips": [
+      "itself：それ自体（強調）",
+      "in drops：一滴ずつ（時間の流れを表す比喩）"
+    ]
   },
   {
     "author": "William James",
     "en": "Everybody should do at least two things each day that he hates to do, just for practice.",
     "jp": "毎日少なくとも二つ、嫌なことをやるべきだ。練習として。",
-    "id": "q0527"
+    "id": "q0527",
+    "tips": [
+      "at least：少なくとも",
+      "hate to do：〜するのが嫌いだ",
+      "just for practice：単に練習のために"
+    ]
   },
   {
     "author": "William James",
     "en": "It is well for the world that in most of us, by the age of thirty, the character has set like plaster.",
     "jp": "三十歳までに性格が石膏のように固まるのは、世界にとって悪いことではない。",
-    "id": "q0528"
+    "id": "q0528",
+    "tips": [
+      "by the age of thirty：30歳までに",
+      "set：固まる",
+      "plaster：石膏"
+    ]
   },
   {
     "author": "William James",
     "en": "The world is all the richer for having a devil in it, so long as we keep our foot upon his neck.",
     "jp": "悪魔が世界にいることで、私たちは豊かになる。ただし、その首を踏みつけている限りにおいて。",
-    "id": "q0529"
+    "id": "q0529",
+    "tips": [
+      "all the richer for：〜のおかげでそれだけ豊かになる",
+      "so long as：〜する限り",
+      "keep one's foot upon：〜を足で押さえ続ける"
+    ]
   },
   {
     "author": "William James",
     "en": "A man has as many social selves as there are individuals who recognize him.",
     "jp": "人は、自分を認める人の数だけ社会的な自分を持つ。",
-    "id": "q0530"
+    "id": "q0530",
+    "tips": [
+      "as many A as B：Bと同じ数のA",
+      "social selves：社会的な自己（self の複数形は selves）",
+      "recognize：認識する、認める"
+    ]
   },
   {
     "author": "William James",
     "en": "The aim of a college education is to teach you to know a good man when you see one.",
     "jp": "大学教育の目的は、良い人を見抜けるようにすることだ。",
-    "id": "q0531"
+    "id": "q0531",
+    "tips": [
+      "aim：目的",
+      "teach A to do：Aに〜することを教える",
+      "know ... when you see one：見ればそれとわかる"
+    ]
   },
   {
     "author": "William James",
     "en": "Our faith is faith in someone else's faith.",
     "jp": "私たちの信仰は、他人の信仰を信じる信仰である。",
-    "id": "q0532"
+    "id": "q0532",
+    "tips": [
+      "faith in：〜への信頼、信仰",
+      "someone else's：他の誰かの（所有格）"
+    ]
   },
   {
     "author": "William James",
     "en": "If you believe that feeling bad or worrying long enough will change a past or future event, then you are residing on another planet with a different reality system.",
     "jp": "嫌な気持ちや長く悩むことで過去や未来の出来事が変わると信じるなら、あなたは別の現実世界の惑星に住んでいる。",
-    "id": "q0533"
+    "id": "q0533",
+    "tips": [
+      "long enough：十分に長く",
+      "reside：住む（格式ばった語）",
+      "reality system：現実を捉える体系"
+    ]
   },
   {
     "author": "William James",
     "en": "Knowledge about life is one thing; effective occupation of a place in life, with its dynamic currents passing through your being, is another.",
     "jp": "人生について知ることと、人生の中でその流れを体感しながら生きることは別物だ。",
-    "id": "q0534"
+    "id": "q0534",
+    "tips": [
+      "one thing ... another：〜と…は別のことだ",
+      "occupation：占有、場所を占めること",
+      "dynamic currents：力強い流れ"
+    ]
   },
   {
     "author": "William James",
     "en": "In the dim background of mind we know what we ought to be doing but somehow we cannot start.",
     "jp": "心の奥底で何をすべきかは分かっているのに、なぜか始められない。",
-    "id": "q0535"
+    "id": "q0535",
+    "tips": [
+      "dim：ぼんやりした",
+      "ought to be doing：本来しているべきこと",
+      "somehow：どういうわけか"
+    ]
   },
   {
     "author": "William James",
     "en": "To spend life for something which outlasts it.",
     "jp": "自分の人生よりも長く続くものに人生を費やすこと。",
-    "id": "q0536"
+    "id": "q0536",
+    "tips": [
+      "spend life for：人生を〜のために費やす",
+      "outlast：〜より長く存続する"
+    ]
   },
   {
     "author": "William James",
     "en": "To study the abnormal is the best way of understanding the normal.",
     "jp": "異常を研究することが、正常を理解する最良の方法だ。",
-    "id": "q0537"
+    "id": "q0537",
+    "tips": [
+      "the abnormal：異常なもの",
+      "the normal：正常なもの",
+      "way of -ing：〜する方法"
+    ]
   },
   {
     "author": "William James",
     "en": "The history of philosophy is to a great extent that of a certain clash of human temperaments.",
     "jp": "哲学の歴史は、かなりの部分が人間の気質の衝突の歴史である。",
-    "id": "q0538"
+    "id": "q0538",
+    "tips": [
+      "to a great extent：大いに、かなりの程度まで",
+      "clash：衝突",
+      "temperament：気質"
+    ]
   },
   {
     "author": "William James",
     "en": "Genius... means little more than the faculty of perceiving in an unhabitual way.",
     "jp": "天才とは、普段とは違う方法で物事を捉える能力にほかならない。",
-    "id": "q0539"
+    "id": "q0539",
+    "tips": [
+      "little more than：〜と大差ない",
+      "faculty of -ing：〜する能力",
+      "unhabitual：習慣的でない"
+    ]
   },
   {
     "author": "William James",
     "en": "Our esteem for facts has not neutralized in us all religiousness. It is itself almost religious. Our scientific temper is devout.",
     "jp": "事実を重んじる心は、私たちの宗教性を消し去ってはいない。それ自体がほとんど宗教的であり、科学的精神もまた敬虔である。",
-    "id": "q0540"
+    "id": "q0540",
+    "tips": [
+      "esteem for：〜への敬意",
+      "neutralize：打ち消す",
+      "devout：信仰心のあつい"
+    ]
   },
   {
     "author": "William James",
     "en": "We are doomed to cling to a life even while we find it unendurable.",
     "jp": "耐え難いと思う時でさえ、私たちは生にしがみつく運命にある。",
-    "id": "q0541"
+    "id": "q0541",
+    "tips": [
+      "be doomed to do：〜する運命にある",
+      "cling to：〜にしがみつく",
+      "unendurable：耐えがたい"
+    ]
   },
   {
     "author": "William James",
     "en": "Whatever universe a professor believes in must at any rate be a universe that lends itself to lengthy discourse.",
     "jp": "教授が信じる宇宙は、少なくとも長い講義に耐えうる宇宙でなければならない。",
-    "id": "q0542"
+    "id": "q0542",
+    "tips": [
+      "whatever：どのような〜であっても",
+      "at any rate：いずれにせよ",
+      "lend itself to：〜に適している"
+    ]
   },
   {
     "author": "William James",
     "en": "How to gain, how to keep, how to recover happiness is in fact for most men at all times the secret motive of all they do, and of all they are willing to endure.",
     "jp": "どう得て、どう保ち、どう取り戻すか——幸福に関するこれらは、多くの人が行動や忍耐をする隠れた動機だ。",
-    "id": "q0543"
+    "id": "q0543",
+    "tips": [
+      "gain / keep / recover：得る／保つ／取り戻す",
+      "motive：動機",
+      "endure：耐える"
+    ]
   },
   {
     "author": "William James",
     "en": "The hell to be endured hereafter, of which theology tells, is no worse than the hell we make for ourselves in this world by habitually fashioning our characters in the wrong way.",
     "jp": "神学が説く来世の地獄は、この世で自らの性格を誤った形に作り上げることで作る地獄より悪くはない。",
-    "id": "q0544"
+    "id": "q0544",
+    "tips": [
+      "hereafter：来世で、今後",
+      "theology：神学",
+      "fashion：形作る（動詞）"
+    ]
   },
   {
     "author": "William James",
     "en": "To be a real philosopher all that is necessary is to hate some one else's type of thinking.",
     "jp": "本物の哲学者になるために必要なのは、他人の考え方の型を嫌うことだ。",
-    "id": "q0545"
+    "id": "q0545",
+    "tips": [
+      "all that is necessary：必要なことのすべて",
+      "type of thinking：思考の型",
+      "some one else's：他の誰かの（現在は someone else's が一般的）"
+    ]
   },
   {
     "author": "William James",
     "en": "The 'I think' which Kant said must be able to accompany all my objects, is the 'I breathe' which actually does accompany them.",
     "jp": "カントが述べた「我思う」は、実際には「我呼吸す」に他ならない。",
-    "id": "q0546"
+    "id": "q0546",
+    "tips": [
+      "accompany：〜に伴う",
+      "object：ここでは認識の対象",
+      "does accompany：確かに伴う（does による強調）"
+    ]
   },
   {
     "author": "William James",
     "en": "There must be something solemn, serious, and tender about any attitude which we denominate religious.",
     "jp": "宗教的と呼ばれる態度には、厳粛さ、真剣さ、そして優しさがなければならない。",
-    "id": "q0547"
+    "id": "q0547",
+    "tips": [
+      "solemn：厳粛な",
+      "tender：優しい、繊細な",
+      "denominate：〜と名づける"
+    ]
   },
   {
     "author": "William James",
     "en": "Our errors are surely not such awfully solemn things.",
     "jp": "私たちの過ちは、それほど恐ろしく深刻なものではない。",
-    "id": "q0548"
+    "id": "q0548",
+    "tips": [
+      "surely：確かに",
+      "awfully：ひどく、非常に",
+      "solemn：厳粛な、重大な"
+    ]
   },
   {
     "author": "William James",
     "en": "Those thoughts are truth which guide us to beneficial interaction with sensible particulars as they occur.",
     "jp": "私たちを有益な関わりへと導く思考は、それが事前に現実を正確に写すかどうかにかかわらず真実である。",
-    "id": "q0549"
+    "id": "q0549",
+    "tips": [
+      "beneficial：有益な",
+      "sensible particulars：感覚で捉えられる個々の事物",
+      "as they occur：それらが生じるときに"
+    ]
   },
   {
     "author": "William James",
     "en": "An act has no ethical quality whatever unless it be chosen out of several all equally possible.",
     "jp": "複数の同等に可能な選択肢から選ばれない限り、行為には倫理的価値はない。",
-    "id": "q0550"
+    "id": "q0550",
+    "tips": [
+      "ethical：倫理的な",
+      "no ... whatever：いかなる〜もない（強調）",
+      "unless it be chosen：それが選ばれない限り（仮定法現在）"
+    ]
   },
   {
     "author": "William James",
