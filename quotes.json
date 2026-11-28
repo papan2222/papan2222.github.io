@@ -15401,181 +15401,328 @@
     "author": "Goethe",
     "en": "To create something you must be something.",
     "jp": "何かを創るには、自らが何かでなければならない。",
-    "id": "q1421"
+    "id": "q1421",
+    "tips": [
+      "to create something：何かを創造するためには",
+      "be something：価値ある存在になる、確かな資質を備える（創造と自己形成を結びつけた表現）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Complain not of headache by day and drink wine by night.",
     "jp": "昼に頭痛を嘆き、夜にその頭痛の元の酒を飲むな。",
-    "id": "q1422"
+    "id": "q1422",
+    "tips": [
+      "complain of：〜を訴える",
+      "Complain not：訴えるな（古風な否定命令）",
+      "by day / by night：昼間に／夜間に"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Talk well of the absent whenever you can.",
     "jp": "機会があれば、不在の人のことをよく言え。",
-    "id": "q1423"
+    "id": "q1423",
+    "tips": [
+      "talk well of：〜をよく言う、好意的に語る",
+      "the absent：その場にいない人々",
+      "whenever you can：できるときはいつでも"
+    ]
   },
   {
     "author": "Goethe",
     "en": "There is nothing more shameful than establishing oneself on lies.",
     "jp": "嘘の上に自分を築くことほど恥ずべきものはない。",
-    "id": "q1424"
+    "id": "q1424",
+    "tips": [
+      "shameful：恥ずべき",
+      "establish oneself on：〜を土台として自分の立場を築く",
+      "Nothing is more ... than：〜ほど…なものはない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The decline of literature indicates the decline of a nation.",
     "jp": "文学の衰退は、国の衰退を示す。",
-    "id": "q1425"
+    "id": "q1425",
+    "tips": [
+      "decline：衰退、低下",
+      "literature：文学",
+      "indicate：示す、兆候となる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We can't form our children on our own concepts; we must love them as God gives them.",
     "jp": "子どもを自分の概念に合わせて形づくることはできない。神が授けたままに愛さねばならない。",
-    "id": "q1426"
+    "id": "q1426",
+    "tips": [
+      "form：形作る、育てる",
+      "concept：概念、考え方",
+      "as God gives them：神が与えてくださるありのままの姿で"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If children grew up according to early signs, we should have nothing but geniuses.",
     "jp": "子どもが幼少期の兆しのまま育つなら、天才ばかりになるだろう。",
-    "id": "q1427"
+    "id": "q1427",
+    "tips": [
+      "grow up：成長する",
+      "according to：〜に従って、〜に応じて",
+      "nothing but geniuses：天才ばかり（仮定法による皮肉）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Man is made by his belief. As he believes, so he is.",
     "jp": "人は信念によって形づくられる。信じるように、その人となる。",
-    "id": "q1428"
+    "id": "q1428",
+    "tips": [
+      "belief：信念、信じていること",
+      "be made by：〜によって形作られる",
+      "As ... , so ...：〜するように、それに応じて…となる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "For just when ideas fail, a word comes to save the situation.",
     "jp": "考えが尽きたその時、言葉が状況を救う。",
-    "id": "q1429"
+    "id": "q1429",
+    "tips": [
+      "just when：ちょうど〜するとき",
+      "ideas fail：考えが行き詰まる",
+      "save the situation：窮地を救う、その場を取り繕う"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The people who are absent are the ideal; those who are present seem commonplace.",
     "jp": "不在の人は理想化され、目の前の人は平凡に見える。",
-    "id": "q1430"
+    "id": "q1430",
+    "tips": [
+      "the ideal：理想的な存在",
+      "those who are present：その場にいる人々",
+      "commonplace：ありふれた、平凡な"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The biggest problem with every art is creating a loftier reality from appearances.",
     "jp": "あらゆる芸術の最大の課題は、見かけからより高い現実を作り出すことだ。",
-    "id": "q1431"
+    "id": "q1431",
+    "tips": [
+      "loftier：lofty の比較級、より高尚な",
+      "reality：現実、実在",
+      "from appearances：外見や目に見える現象から"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Unlike grown ups, children have little need to deceive themselves.",
     "jp": "大人と違い、子どもは自分をだます必要がほとんどない。",
-    "id": "q1432"
+    "id": "q1432",
+    "tips": [
+      "unlike：〜とは違って",
+      "grown ups：大人（通常は grown-ups とも表記）",
+      "have little need to：〜する必要がほとんどない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "He who does not think much of himself is more esteemed than he imagines.",
     "jp": "自分をあまり評価しない人は、想像以上に尊敬される。",
-    "id": "q1433"
+    "id": "q1433",
+    "tips": [
+      "think much of oneself：自分を高く評価する",
+      "esteem：尊敬する、高く評価する",
+      "more ... than he imagines：本人が想像する以上に"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The mediator of the inexpressible is the work of art.",
     "jp": "言葉にできないものの仲介者こそ芸術である。",
-    "id": "q1434"
+    "id": "q1434",
+    "tips": [
+      "mediator：仲介者、媒介となるもの",
+      "the inexpressible：言葉では表現できないもの",
+      "work of art：芸術作品"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The unnatural, that too is natural.",
     "jp": "不自然なものもまた、自然の一部だ。",
-    "id": "q1435"
+    "id": "q1435",
+    "tips": [
+      "the unnatural：不自然なもの",
+      "that too：それもまた（不自然と自然を対比した逆説）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "One cannot develop taste from the average; only from the best.",
     "jp": "平凡からは趣味は育たない。最良のものからだけ育つ。",
-    "id": "q1436"
+    "id": "q1436",
+    "tips": [
+      "develop taste：審美眼を養う",
+      "the average：平均的なもの",
+      "only from the best：最良のものからのみ（develop taste が省略されている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "To hard necessity, one’s will and fancy must conform.",
     "jp": "厳しい必然に、意志も想像も従わねばならない。",
-    "id": "q1437"
+    "id": "q1437",
+    "tips": [
+      "necessity：必要性、避けられない事情",
+      "will and fancy：意志と気ままな願望",
+      "conform to：〜に従う、適応する（原文では to 以下が文頭に置かれている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "All things are only transitory.",
     "jp": "万物はすべて移ろうものだ。",
-    "id": "q1438"
+    "id": "q1438",
+    "tips": [
+      "transitory：一時的な、長続きしない",
+      "all things：あらゆるもの"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Whatever you cannot understand, you cannot possess.",
     "jp": "理解できぬものは、決して所有できない。",
-    "id": "q1439"
+    "id": "q1439",
+    "tips": [
+      "whatever：〜するものは何であれ",
+      "possess：所有する、ここでは真に自分のものとする",
+      "cannot：〜できない（理解と所有の関係を述べている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We cannot fashion our children after our desires; we must love them as God gives them.",
     "jp": "子どもを欲望のままに作ることはできない。神が授けたままに愛さねばならない。",
-    "id": "q1440"
+    "id": "q1440",
+    "tips": [
+      "fashion：形作る（動詞）",
+      "after our desires：私たちの望みに合わせて",
+      "as God gives them：神から与えられたありのままの姿で"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Who is the wisest man? He who wishes for nothing beyond what happens.",
     "jp": "最も賢い人は？ 起こること以上を望まない人だ。",
-    "id": "q1441"
+    "id": "q1441",
+    "tips": [
+      "wisest：wise の最上級、最も賢い",
+      "wish for：〜を望む",
+      "nothing beyond what happens：実際に起こること以上のものは何も"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Where is the man who has the strength to be true, and show himself as he is?",
     "jp": "真実である勇気を持ち、自分をありのままに見せられる人はどこにいるのか。",
-    "id": "q1442"
+    "id": "q1442",
+    "tips": [
+      "have the strength to：〜する強さを持つ",
+      "be true：誠実である、自分に偽りがない",
+      "as he is：ありのままの姿で"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Christianity will in the end gather itself together at the foot of the cross.",
     "jp": "キリスト教は散らばっても、最後には十字架のもとに集まるだろう。",
-    "id": "q1443"
+    "id": "q1443",
+    "tips": [
+      "in the end：最終的には",
+      "gather itself together：一つにまとまる",
+      "at the foot of the cross：十字架の足元で"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Every author portrays himself in his works, even against his will.",
     "jp": "すべての作家は、たとえ望まなくても作品に自分を映す。",
-    "id": "q1444"
+    "id": "q1444",
+    "tips": [
+      "portray：描写する、描き出す",
+      "in one's works：自分の作品の中で",
+      "against one's will：本人の意志に反して"
+    ]
   },
   {
     "author": "Goethe",
     "en": "To appreciate the noble is a gain that can never be taken from us.",
     "jp": "高貴なものを理解することは、決して奪われない財産だ。",
-    "id": "q1445"
+    "id": "q1445",
+    "tips": [
+      "appreciate：価値を理解する、味わう",
+      "the noble：高貴なもの、気高いもの",
+      "be taken from：〜から奪われる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Devote each day to its object, and every evening will find something done.",
     "jp": "その日の目的に一日を捧げれば、夕方には何かが成し遂げられている。",
-    "id": "q1446"
+    "id": "q1446",
+    "tips": [
+      "devote A to B：AをBに捧げる、充てる",
+      "object：ここでは目的、目標",
+      "something done：何かが成し遂げられた状態（過去分詞）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If you modestly enjoy your fame, you are not unworthy of holiness.",
     "jp": "名声を謙虚に楽しむなら、聖なる者と並ぶに値する。",
-    "id": "q1447"
+    "id": "q1447",
+    "tips": [
+      "modestly：謙虚に、控えめに",
+      "be unworthy of：〜に値しない",
+      "not unworthy：値しないわけではない（二重否定による控えめな肯定）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The formation of one's character ought to be everyone's chief aim.",
     "jp": "人格の形成こそ、誰にとっても最大の目標であるべきだ。",
-    "id": "q1448"
+    "id": "q1448",
+    "tips": [
+      "formation：形成",
+      "ought to be：〜であるべきだ",
+      "chief aim：最も重要な目標"
+    ]
   },
   {
     "author": "Goethe",
     "en": "He is dead in this world who has no belief in another.",
     "jp": "来世を信じぬ者は、この世ですでに死んでいる。",
-    "id": "q1449"
+    "id": "q1449",
+    "tips": [
+      "He ... who：〜する人は…である",
+      "belief in：〜への信仰、信頼",
+      "another：another world の world が省略されている（来世を示唆）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "I will listen to anyone's convictions, but keep your doubts to yourself.",
     "jp": "誰の信念でも耳を傾けよう。ただし疑いは胸に秘めよ。",
-    "id": "q1450"
+    "id": "q1450",
+    "tips": [
+      "conviction：確固たる信念",
+      "doubt：疑念、疑い",
+      "keep ... to yourself：〜を自分の胸にしまっておく"
+    ]
   },
   {
     "author": "Goethe",
