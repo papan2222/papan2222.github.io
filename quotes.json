@@ -18351,181 +18351,328 @@
     "author": "Schopenhauer",
     "en": "To live alone is the fate of all great souls.",
     "jp": "ひとりで生きることは、偉大な魂の宿命だ。",
-    "id": "q1691"
+    "id": "q1691",
+    "tips": [
+      "to live alone：一人で生きること（主語となる不定詞）",
+      "fate：運命、宿命",
+      "great souls：偉大な精神を持つ人々"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Politeness is to human nature what warmth is to wax.",
     "jp": "礼儀は人間にとって、ろうに対する温もりのようなものだ。",
-    "id": "q1692"
+    "id": "q1692",
+    "tips": [
+      "politeness：礼儀正しさ",
+      "wax：ろう",
+      "A is to B what C is to D：AとBの関係はCとDの関係に等しい（礼儀が人の性質を和らげることを、熱でろうが軟らかくなることにたとえている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Every man takes the limits of his own field of vision for the limits of the world.",
     "jp": "誰もが自分の視野の限界を、世界の限界だと思い込んでいる。",
-    "id": "q1693"
+    "id": "q1693",
+    "tips": [
+      "field of vision：視野",
+      "take A for B：AをBだと思い込む",
+      "the limits of：〜の限界"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Will power is to the mind like a strong blind man who carries on his shoulders a lame man who can see.",
     "jp": "意志は、目の見える足の悪い男を肩に担いだ、強い盲人のようなものだ。",
-    "id": "q1694"
+    "id": "q1694",
+    "tips": [
+      "will power：意志の力",
+      "on one's shoulders：肩に乗せて",
+      "lame：足が不自由な（現代では人を形容する際に使用に注意。意志と知性の関係を示す比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "With people of limited ability modesty is merely honesty. But with those who possess great talent it is hypocrisy.",
     "jp": "能力が限られている人にとって謙虚さは正直さだが、偉大な才能を持つ人にとっては偽善だ。",
-    "id": "q1695"
+    "id": "q1695",
+    "tips": [
+      "of limited ability：能力が限られた",
+      "modesty：謙虚さ",
+      "hypocrisy：偽善（原文では謙虚さの意味を能力に応じて対比している）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The two enemies of human happiness are pain and boredom.",
     "jp": "人間の幸福を妨げる二つの敵は、苦痛と退屈だ。",
-    "id": "q1696"
+    "id": "q1696",
+    "tips": [
+      "enemy：敵、妨げとなるもの",
+      "pain：苦痛",
+      "boredom：退屈"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Religion is the masterpiece of the art of animal training, for it trains people as to how they shall think.",
     "jp": "宗教は動物調教の最高傑作だ。人々の考え方を調教するのだから。",
-    "id": "q1697"
+    "id": "q1697",
+    "tips": [
+      "masterpiece：傑作",
+      "for：というのも〜だから（理由を示す接続詞）",
+      "as to how：どのように〜するかについて（原文は宗教に対する批判的な比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Obstinacy is the result of the will forcing itself into the place of the intellect.",
     "jp": "強情さとは、意志が知性の場所を奪おうとする結果である。",
-    "id": "q1698"
+    "id": "q1698",
+    "tips": [
+      "obstinacy：頑固さ、強情",
+      "force oneself into：無理に〜に入り込む",
+      "intellect：知性、理性（意志が知性の役割を奪うという比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The wise have always said the same things, and fools, who are the majority have always done just the opposite.",
     "jp": "賢者はいつも同じことを語り、愚者（多数派）はいつもその逆を行う。",
-    "id": "q1699"
+    "id": "q1699",
+    "tips": [
+      "the wise / fools：賢い人々／愚かな人々",
+      "the majority：大多数",
+      "just the opposite：まったく逆のこと"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Wealth is like sea-water; the more we drink, the thirstier we become; and the same is true of fame.",
     "jp": "富は海水のようなものだ。飲めば飲むほど渇き、名声もまた同じだ。",
-    "id": "q1700"
+    "id": "q1700",
+    "tips": [
+      "sea-water：海水（seawater とも書く）",
+      "the more ... , the thirstier ...：〜すればするほど、ますます喉が渇く（比例比較）",
+      "the same is true of：〜についても同じことが言える"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Reading is equivalent to thinking with someone else's head instead of with one's own.",
     "jp": "読書とは、自分の頭ではなく、他人の頭で考えることに等しい。",
-    "id": "q1701"
+    "id": "q1701",
+    "tips": [
+      "be equivalent to：〜に等しい、〜に相当する",
+      "instead of：〜の代わりに",
+      "one's own：自分自身のもの（ここでは head が省略されている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Money is human happiness in the abstract; he, then, who is no longer capable of enjoying human happiness in the concrete devotes himself utterly to money.",
     "jp": "お金とは人間の幸福を抽象化したものだ。具体的な幸福を楽しめなくなった者は、金銭にすべてを捧げる。",
-    "id": "q1702"
+    "id": "q1702",
+    "tips": [
+      "in the abstract / in the concrete：抽象的に／具体的に",
+      "be capable of doing：〜する能力がある",
+      "devote oneself utterly to：〜に完全に身を捧げる"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "To buy books would be a good thing if we also could buy the time to read them.",
     "jp": "本を買うのはよいことだ。もし読む時間まで一緒に買えるのなら。",
-    "id": "q1703"
+    "id": "q1703",
+    "tips": [
+      "would be ... if ... could：もし〜できるなら…だろう（仮定法過去）",
+      "the time to read them：それらを読む時間（them は books を指す）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Every nation ridicules other nations, and all are right.",
     "jp": "どの国も他国を笑う、そしてそれはすべて正しい。",
-    "id": "q1704"
+    "id": "q1704",
+    "tips": [
+      "nation：国、国民",
+      "ridicule：あざ笑う、嘲笑する",
+      "all are right：すべて正しい（互いに嘲笑し合う国々についての皮肉）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Music is the melody whose text is the world.",
     "jp": "音楽とは、この世界というテキストに付けられた旋律だ。",
-    "id": "q1705"
+    "id": "q1705",
+    "tips": [
+      "melody：旋律",
+      "whose：〜の、所有格の関係代名詞",
+      "text：ここでは歌詞に相当するもの（世界と音楽の関係を示す比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "In the sphere of thought, absurdity and perversity remain the masters of the world, and their dominion is suspended only for brief periods.",
     "jp": "思考の領域では、不条理と倒錯が世界を支配し、その支配が解かれるのはほんの短い間にすぎない。",
-    "id": "q1706"
+    "id": "q1706",
+    "tips": [
+      "in the sphere of：〜の領域において",
+      "absurdity / perversity：不条理さ／道理に逆らう性質",
+      "dominion is suspended：支配が一時停止される"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Opinion is like a pendulum and obeys the same law.",
     "jp": "世論は振り子のようなもので、同じ法則に従う。",
-    "id": "q1707"
+    "id": "q1707",
+    "tips": [
+      "pendulum：振り子",
+      "obey a law：法則に従う",
+      "意見が両極の間を行き来することを振り子の運動にたとえている"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.",
     "jp": "すべての真理は三段階を経る。まず嘲笑され、次に激しく反対され、最後には自明のものとして受け入れられる。",
-    "id": "q1708"
+    "id": "q1708",
+    "tips": [
+      "pass through：〜を経る",
+      "be violently opposed：激しく反対される",
+      "self-evident：自明の、証明するまでもない"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Each day is a little life: every waking and rising a little birth, every fresh morning a little youth, every going to rest and sleep a little death.",
     "jp": "一日は小さな人生だ。目覚めは誕生、朝は青春、眠りは死である。",
-    "id": "q1709"
+    "id": "q1709",
+    "tips": [
+      "waking and rising：目覚めることと起き上がること",
+      "go to rest：休息する、床に就く",
+      "後半の各節では is が省略され、一日を誕生から死までの人生にたとえている"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Compassion is the basis of morality.",
     "jp": "思いやりは道徳の基盤である。",
-    "id": "q1710"
+    "id": "q1710",
+    "tips": [
+      "compassion：思いやり、他者の苦しみへの共感",
+      "the basis of：〜の基礎、根拠",
+      "morality：道徳"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "We forfeit three-quarters of ourselves in order to be like other people.",
     "jp": "人は他人のようになろうとして、自分の四分の三を失っている。",
-    "id": "q1711"
+    "id": "q1711",
+    "tips": [
+      "forfeit：失う、放棄する",
+      "three-quarters：4分の3",
+      "in order to do：〜するために（目的）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Hatred is an affair of the heart; contempt that of the head.",
     "jp": "憎しみは心の問題、軽蔑は頭の問題だ。",
-    "id": "q1712"
+    "id": "q1712",
+    "tips": [
+      "hatred：憎しみ",
+      "contempt：軽蔑",
+      "that of the head：頭に関わる事柄（that は an affair を指し、is も省略されている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Every parting gives a foretaste of death, every reunion a hint of the resurrection.",
     "jp": "別れは死の予感を与え、再会は復活の兆しを与える。",
-    "id": "q1713"
+    "id": "q1713",
+    "tips": [
+      "parting / reunion：別れ／再会",
+      "foretaste of：〜の前触れ、予感",
+      "resurrection：復活、よみがえり（原文は宗教的なイメージを用いた比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "A man can do what he wants, but not want what he wants.",
     "jp": "人は自分の望むことはできるが、自分が何を望むかを望むことはできない。",
-    "id": "q1714"
+    "id": "q1714",
+    "tips": [
+      "what he wants：彼が望むこと",
+      "want what he wants：自分が何を望むかを意志によって決めること（行動の自由と意志の自由を区別する逆説）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Newspapers are the second hand of history.",
     "jp": "新聞は歴史の秒針である。",
-    "id": "q1715"
+    "id": "q1715",
+    "tips": [
+      "second hand：時計の秒針（second-hand は中古の、という別の用法）",
+      "新聞が歴史の細かな時間の動きを記録することを時計にたとえている"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Great men are like eagles, and build their nest on some lofty solitude.",
     "jp": "偉人は鷲のようなもので、高い孤独の地に巣を作る。",
-    "id": "q1716"
+    "id": "q1716",
+    "tips": [
+      "eagle：ワシ",
+      "lofty：高い、高くそびえる",
+      "solitude：孤独、人里離れた場所（偉大な人の孤高をワシの巣にたとえている）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Sleep is the interest we have to pay on the capital which is called in at death.",
     "jp": "眠りとは、死という元金に支払う利息である。",
-    "id": "q1717"
+    "id": "q1717",
+    "tips": [
+      "interest：利息（ここでは金融用語）",
+      "capital：元本、資本",
+      "call in：返済を要求する、回収する（睡眠と生命を借金にたとえた比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Change alone is eternal, perpetual, immortal.",
     "jp": "変化こそが唯一の永遠であり、不滅である。",
-    "id": "q1718"
+    "id": "q1718",
+    "tips": [
+      "alone：〜だけが（名詞の後ろで限定する）",
+      "eternal / perpetual：永遠の／絶え間なく続く",
+      "immortal：不滅の"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Friends and acquaintances are the surest passport to fortune.",
     "jp": "友人と知人こそが最も確実な財産への通行証だ。",
-    "id": "q1719"
+    "id": "q1719",
+    "tips": [
+      "acquaintance：知人、顔見知り",
+      "the surest：sure の最上級、最も確実な",
+      "passport to fortune：幸運や成功への通行証（人脈の価値を示す比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "To free a person from error is to give, and not to take away.",
     "jp": "人を誤りから解放することは、奪うことではなく与えることだ。",
-    "id": "q1720"
+    "id": "q1720",
+    "tips": [
+      "free A from B：AをBから解放する",
+      "error：誤り、誤った考え",
+      "take away：取り去る、奪う（誤りの訂正を損失ではなく利益として捉えている）"
+    ]
   },
   {
     "author": "Schopenhauer",
