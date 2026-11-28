@@ -32,6 +32,12 @@ for section, source in (("pandalife","works.json"),("game","gallery.json")):
         out.parent.mkdir(parents=True,exist_ok=True)
         out.write_text(page,encoding="utf-8")
         urls.append(url)
+# Include existing senryu and vocabulary pages in every regeneration.
+for p in sorted((ROOT/"senryu"/"works").glob("*/index.html")):
+    urls.append(BASE+"/"+p.parent.relative_to(ROOT).as_posix()+"/")
+for p in sorted((ROOT/"animalenglish"/"word").glob("*.html")):
+    urls.append(BASE+"/"+p.relative_to(ROOT).as_posix())
+urls=list(dict.fromkeys(urls))
 xml='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f"  <url><loc>{escape(u)}</loc></url>\n" for u in urls)+"</urlset>\n"
 (ROOT/"sitemap.xml").write_text(xml,encoding="utf-8")
 print(f"Generated {len(urls)-7} work pages")
