@@ -9890,181 +9890,321 @@
     "author": "R. W. Emerson",
     "en": "Why need I volumes, if one word suffice?",
     "jp": "一言で足りるなら、なぜ何冊も必要だろう。",
-    "id": "q0911"
+    "id": "q0911",
+    "tips": [
+      "volume：書物、一冊の本",
+      "Why need I ...?：なぜ私に〜が必要なのか（古風な疑問文）",
+      "suffice：十分である"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Our admiration of the antique is not admiration of the old, but of the natural.",
     "jp": "古いものを愛するのは、古さそのものではなく自然さを愛するからだ。",
-    "id": "q0912"
+    "id": "q0912",
+    "tips": [
+      "admiration of：〜への賞賛",
+      "the antique：古代のもの、古い時代の作品",
+      "not A but B：AではなくB"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Men love to wonder, and that is the seed of science.",
     "jp": "人は驚くことを好む。それが科学の種だ。",
-    "id": "q0913"
+    "id": "q0913",
+    "tips": [
+      "wonder：不思議に思う、疑問を抱く",
+      "seed of science：科学の種（科学の出発点を表す比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every hero becomes a bore at last.",
     "jp": "どんな英雄も、最後には退屈な存在になる。",
-    "id": "q0914"
+    "id": "q0914",
+    "tips": [
+      "bore：退屈な人（名詞）",
+      "at last：ついには、最後には"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Life consists in what a man is thinking of all day.",
     "jp": "人生は、一日中何を考えているかでできている。",
-    "id": "q0915"
+    "id": "q0915",
+    "tips": [
+      "consist in：本質が〜にある",
+      "all day：一日中"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every experiment, by multitudes or by individuals, that has a sensual and selfish aim, will fail.",
     "jp": "欲望や自己中心的な目的を持った実験は、集団でも個人でも失敗する。",
-    "id": "q0916"
+    "id": "q0916",
+    "tips": [
+      "multitude：大勢の人々",
+      "sensual：感覚的な快楽を求める",
+      "selfish aim：利己的な目的"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "There is a tendency for things to right themselves.",
     "jp": "物事には自ら正しい方向へ戻ろうとする傾向がある。",
-    "id": "q0917"
+    "id": "q0917",
+    "tips": [
+      "tendency for A to do：Aが〜する傾向",
+      "right themselves：自ら正常な状態に戻る（right は動詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Science does not know its debt to imagination.",
     "jp": "科学は、自分が想像力にどれだけ借りているかを知らない。",
-    "id": "q0918"
+    "id": "q0918",
+    "tips": [
+      "debt to：〜に対する恩義",
+      "imagination：想像力（科学が想像力に負うものを指す）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Power and speed be hands and feet.",
     "jp": "力と速さは、手足のようなものだ。",
-    "id": "q0919"
+    "id": "q0919",
+    "tips": [
+      "power and speed：力と速さ",
+      "be：ここでは古風な動詞の形",
+      "hands and feet：手足（行動を支えるものの比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Reality is a sliding door.",
     "jp": "現実は引き戸のように動くものだ。",
-    "id": "q0920"
+    "id": "q0920",
+    "tips": [
+      "reality：現実",
+      "sliding door：引き戸（現実の変化や移りゆきを連想させる比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Give a boy address and accomplishments and you give him the mastery of palaces and fortunes where he goes.",
     "jp": "礼儀と教養を身につけさせれば、行く先々で成功を収められる。",
-    "id": "q0921"
+    "id": "q0921",
+    "tips": [
+      "address：ここでは如才なさ、社交的な才覚",
+      "accomplishments：身につけた技能や教養",
+      "mastery：支配力、自在に扱う能力"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Passion rebuilds the world for the youth. It makes all things alive and significant.",
     "jp": "情熱は若者の世界を作り変え、すべてを生き生きと意味あるものにする。",
-    "id": "q0922"
+    "id": "q0922",
+    "tips": [
+      "passion：情熱",
+      "rebuild：再構築する",
+      "significant：重要な、意味のある"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "People with great gifts are easy to find, but symmetrical and balanced ones never.",
     "jp": "大きな才能を持つ人は見つかるが、均衡のとれた人はほとんどいない。",
-    "id": "q0923"
+    "id": "q0923",
+    "tips": [
+      "gift：生まれ持った才能",
+      "symmetrical：均整の取れた",
+      "ones：ここでは people の繰り返しを避ける代名詞"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man is usually more careful of his money than he is of his principles.",
     "jp": "多くの人は、信念よりもお金の方を大事にする。",
-    "id": "q0924"
+    "id": "q0924",
+    "tips": [
+      "be careful of：〜を大切に扱う、〜に気を配る",
+      "principles：信条、行動原則",
+      "more ... than：〜よりもいっそう…"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Each age, it is found, must write its own books; or rather, each generation for the next succeeding.",
     "jp": "どの時代も、自分たちの本を未来の世代のために書かなければならない。",
-    "id": "q0925"
+    "id": "q0925",
+    "tips": [
+      "age：時代",
+      "or rather：いや、より正確に言えば",
+      "succeeding：後に続く"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Society is always taken by surprise at any new example of common sense.",
     "jp": "社会は、新しい常識の実例にいつも驚かされる。",
-    "id": "q0926"
+    "id": "q0926",
+    "tips": [
+      "be taken by surprise：不意を突かれる、驚かされる",
+      "common sense：常識、良識"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Words are also actions, and actions are a kind of words.",
     "jp": "言葉も行動であり、行動もまた一種の言葉だ。",
-    "id": "q0927"
+    "id": "q0927",
+    "tips": [
+      "action：行動、行為",
+      "a kind of：一種の（言葉と行動の相互関係を表す）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "If a man can... make a better mousetrap, the world will make a beaten path to his door.",
     "jp": "より良いものを作れば、人々は自然とそのもとへ集まる。",
-    "id": "q0928"
+    "id": "q0928",
+    "tips": [
+      "mousetrap：ネズミ捕り",
+      "beaten path：人が何度も通って踏み固められた道",
+      "to his door：彼のもとへ（人々が集まることの比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Can anything be so elegant as to have few wants, and to serve them one's self?",
     "jp": "欲を少なくし、自分で満たすことほど優雅なことがあるだろうか。",
-    "id": "q0929"
+    "id": "q0929",
+    "tips": [
+      "elegant：洗練された、上品な",
+      "wants：欲求、必要とするもの（名詞）",
+      "one's self：oneself に相当する表記"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We are wiser than we know.",
     "jp": "私たちは、自分が思うより賢い。",
-    "id": "q0930"
+    "id": "q0930",
+    "tips": [
+      "wiser：wise（賢い）の比較級",
+      "than we know：自分たちが自覚している以上に"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Truth is handsomer than the affectation of love. Your goodness must have some edge to it, else it is none.",
     "jp": "愛のふりをするより、真実の方が美しい。優しさにも芯がなければ、それは本物ではない。",
-    "id": "q0931"
+    "id": "q0931",
+    "tips": [
+      "affectation：見せかけ、気取った振る舞い",
+      "have some edge to it：ある程度の鋭さや厳しさを備える",
+      "else：さもなければ"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The reason why the world lacks unity, and lies broken and in heaps, is, because man is disunited with himself.",
     "jp": "世界が分裂し混乱しているのは、人が自分自身と調和していないからだ。",
-    "id": "q0932"
+    "id": "q0932",
+    "tips": [
+      "lack unity：統一性を欠く",
+      "in heaps：ばらばらの山となって",
+      "disunited with oneself：自分自身との調和を失っている"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "I hate quotations. Tell me what you know.",
     "jp": "引用は嫌いだ。君自身の言葉を聞かせてくれ。",
-    "id": "q0933"
+    "id": "q0933",
+    "tips": [
+      "quotation：引用、引用句",
+      "what you know：あなた自身が知っていること（what が名詞節を導く）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Men's actions are too strong for them. Show me a man who has acted, and who has not been the victim and slave of his action.",
     "jp": "人の行動はしばしば自分を圧倒し、その結果に縛られる。",
-    "id": "q0934"
+    "id": "q0934",
+    "tips": [
+      "too strong for：〜には強すぎる、手に負えない",
+      "victim：犠牲者",
+      "slave of one's action：自らの行為に縛られた人"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The intuition of the moral sentiment is an insight of the perfection of the laws of the soul. These laws execute themselves. They are out of time, out of space, and not subject to circumstance.",
     "jp": "道徳的感覚の直感は、魂の法則の完全さを見抜くものであり、その法則は時間や空間、状況に左右されない。",
-    "id": "q0935"
+    "id": "q0935",
+    "tips": [
+      "intuition：直観",
+      "moral sentiment：道徳的感情",
+      "be subject to：〜の影響を受ける、〜に左右される"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Don't be too timid and squeamish about your actions. All life is an experiment.",
     "jp": "行動を恐れすぎてはいけない。人生はすべて実験だ。",
-    "id": "q0936"
+    "id": "q0936",
+    "tips": [
+      "timid：気が弱い、臆病な",
+      "squeamish：過度に神経質な、ためらいがちな",
+      "experiment：実験、試み"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Fate is nothing but the deeds committed in a prior state of existence.",
     "jp": "運命とは、過去の存在状態での行為の結果にすぎない。",
-    "id": "q0937"
+    "id": "q0937",
+    "tips": [
+      "nothing but：〜にほかならない",
+      "deeds committed：行われた行為（過去分詞による修飾）",
+      "a prior state of existence：以前の生存状態（前世など）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We are by nature observers, and thereby learners. That is our permanent state.",
     "jp": "私たちは本能的に観察者であり、学び手である。それが変わらぬ本質だ。",
-    "id": "q0938"
+    "id": "q0938",
+    "tips": [
+      "by nature：生まれつき、本来",
+      "thereby：それによって",
+      "permanent state：恒常的な状態"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man is relieved and gay when he has put his heart into his work and done his best; but what he has said or done otherwise shall give him no peace.",
     "jp": "全力を尽くせば心は晴れるが、中途半端な言動は心の安らぎを奪う。",
-    "id": "q0939"
+    "id": "q0939",
+    "tips": [
+      "relieved：安心した、ほっとした",
+      "gay：ここでは陽気な、晴れやかなという古くからの意味",
+      "put one's heart into：〜に心を込める"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Men admire the man who can organize their wishes and thoughts in stone and wood and steel and brass.",
     "jp": "人は、自分たちの願いや思考を石や木、鉄や真鍮に形づくる者を称賛する。",
-    "id": "q0940"
+    "id": "q0940",
+    "tips": [
+      "organize：まとめ上げる、形にする",
+      "brass：真鍮",
+      "in stone and wood ...：石や木などの素材を用いて（思想を具体的な形にすること）"
+    ]
   },
   {
     "author": "R. W. Emerson",
