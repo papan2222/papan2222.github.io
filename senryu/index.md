@@ -9,6 +9,21 @@ title: パンダの英語川柳
 
 <div class="cards">
 
+<div class="card" id="work-panda-sleeping-woman-fireplace-snowy-night">
+  <a class="image-link" href="/senryu/works/panda-sleeping-woman-fireplace-snowy-night/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-sleeping-woman-fireplace-snowy-night.jpg" alt="雪の夜、暖炉のそばで女性に抱かれて眠るパンダ, a panda sleeping in a woman's arms beside a fireplace on a snowy night" loading="lazy" decoding="async"></a>
+  <p class="poem">
+雪の夜
+言葉はいらぬ
+腕の中
+A snowy night,
+no words are needed
+in your arms.
+  </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>snowy night：雪の降る夜。</li><li>no words are needed：言葉はいらない。受動態を使った表現。</li><li>in your arms：あなたの腕の中で。安心感や親愛の情を表す。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/works/panda-sleeping-woman-fireplace-snowy-night/" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
+</div>
+
+
 <div class="card" id="work-panda-reading-picture-book-rainy-japanese-bookshop">
   <a class="image-link" href="/senryu/works/panda-reading-picture-book-rainy-japanese-bookshop/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-reading-picture-book-rainy-japanese-bookshop.jpg" alt="雨の昭和の古本屋で絵本を読むパンダと眠る猫, a panda reading a picture book in a rainy Japanese secondhand bookshop" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/e669fec88b474e03efcd88b0-640.webp 640w, /assets/previews/e669fec88b474e03efcd88b0-1280.webp 1280w, /images/senryu/panda-reading-picture-book-rainy-japanese-bookshop.jpg 1448w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
