@@ -12471,181 +12471,325 @@
     "author": "Thoreau",
     "en": "The squirrel that you kill in jest, dies in earnest.",
     "jp": "冗談で殺したリスも、本気で死ぬのだ。",
-    "id": "q1151"
+    "id": "q1151",
+    "tips": [
+      "squirrel：リス",
+      "in jest：冗談半分で、ふざけて",
+      "in earnest：本気で、現実に（殺す側と殺される側の対比）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The savage in man is never quite eradicated.",
     "jp": "人間の中の野性は、完全に消えることはない。",
-    "id": "q1152"
+    "id": "q1152",
+    "tips": [
+      "the savage in man：人間の内にある野蛮な性質",
+      "quite：完全に",
+      "eradicate：根絶する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "So thoroughly are we compelled to live... All change is a miracle to contemplate, but it happens every instant.",
     "jp": "私たちは全力で生きるよう強いられている。変化はすべて奇跡であり、その奇跡は絶えず起こっている。",
-    "id": "q1153"
+    "id": "q1153",
+    "tips": [
+      "be compelled to do：〜せざるを得ない",
+      "contemplate：じっくり考える、観照する",
+      "every instant：一瞬一瞬"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Money is not required to buy one necessity of the soul.",
     "jp": "魂に必要なものを買うのに、お金はいらない。",
-    "id": "q1154"
+    "id": "q1154",
+    "tips": [
+      "be required to do：〜するために必要とされる",
+      "necessity：必需品、必要なもの",
+      "of the soul：魂の、精神的な"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Men are born to succeed, not to fail.",
     "jp": "人は失敗するためではなく、成功するために生まれてきた。",
-    "id": "q1155"
+    "id": "q1155",
+    "tips": [
+      "be born to do：〜するために生まれる",
+      "succeed / fail：成功する／失敗する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Men have a respect for scholarship and learning greatly out of proportion to the use they commonly serve.",
     "jp": "学問への尊敬は、その実用以上に大きい。",
-    "id": "q1156"
+    "id": "q1156",
+    "tips": [
+      "scholarship：学識、学問（ここでは奨学金ではない）",
+      "out of proportion to：〜と釣り合わない",
+      "serve：役に立つ、目的を果たす"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "To a philosopher all news, as it is called, is gossip.",
     "jp": "哲学者にとって、ニュースと呼ばれるものはすべて噂話にすぎない。",
-    "id": "q1157"
+    "id": "q1157",
+    "tips": [
+      "philosopher：哲学者",
+      "as it is called：いわゆる",
+      "gossip：世間話、うわさ話"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Every people have gods to suit their circumstances.",
     "jp": "どの民族にも、その境遇に合った神がいる。",
-    "id": "q1158"
+    "id": "q1158",
+    "tips": [
+      "people：民族、国民（ここでは集合名詞）",
+      "suit：〜に適する、合う",
+      "circumstances：境遇、状況"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Tis healthy to be sick sometimes.",
     "jp": "ときには病気になることも健康によい。",
-    "id": "q1159"
+    "id": "q1159",
+    "tips": [
+      "Tis：It is に相当する古風な表記（通常は 'tis）",
+      "healthy / sick：健康な／病気の（対照的な語を使った逆説）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Every creature is better alive than dead.",
     "jp": "すべての生き物は、死んでいるより生きている方が良い。",
-    "id": "q1160"
+    "id": "q1160",
+    "tips": [
+      "creature：生き物",
+      "alive / dead：生きている／死んでいる（生き物の状態を表す形容詞）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Why should we be in such desperate haste to succeed?",
     "jp": "なぜそれほど必死に成功を急がねばならないのか。",
-    "id": "q1161"
+    "id": "q1161",
+    "tips": [
+      "Why should we ...?：なぜ私たちは〜する必要があるのか",
+      "be in haste：急いでいる",
+      "desperate：必死の、切羽詰まった"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Is the babe young? When I behold it, it seems more venerable than the oldest man.",
     "jp": "赤ん坊を見ると、最年長の人よりも敬うべき存在に思える。",
-    "id": "q1162"
+    "id": "q1162",
+    "tips": [
+      "babe：赤ん坊（文学的な語）",
+      "behold：見る、見つめる",
+      "venerable：尊敬すべき、崇敬に値する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "A broad margin of leisure is as beautiful in a man's life as in a book.",
     "jp": "人生においても、本においても、余白は美しい。",
-    "id": "q1163"
+    "id": "q1163",
+    "tips": [
+      "margin：余白",
+      "leisure：余暇、ゆとり",
+      "as ... as：〜と同じくらい…（人生のゆとりを本の余白にたとえている）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "No face which we can give to a matter will stead us so well at last as the truth.",
     "jp": "最後にもっとも役立つのは、どんな顔づけよりも真実である。",
-    "id": "q1164"
+    "id": "q1164",
+    "tips": [
+      "give a face to a matter：物事にある見かけを与える、取り繕う",
+      "stead：役に立つ（古風な動詞）",
+      "at last：結局は"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is remarkable how closely the history of the apple tree is connected with that of man.",
     "jp": "りんごの木の歴史が、人類の歴史とどれほど深く結びついているか驚くべきことだ。",
-    "id": "q1165"
+    "id": "q1165",
+    "tips": [
+      "remarkable：注目すべき、驚くべき",
+      "be connected with：〜と関係している",
+      "that of man：人間の歴史（that は history の代わり）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "A man's interest in a single bluebird is worth more than a dry list of fauna and flora.",
     "jp": "一羽の青い鳥への関心は、町の動植物リストよりも価値がある。",
-    "id": "q1166"
+    "id": "q1166",
+    "tips": [
+      "bluebird：ルリツグミ",
+      "be worth more than：〜より価値がある",
+      "fauna and flora：動物相と植物相"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Nothing is more opposed to poetry, philosophy, and life than incessant business.",
     "jp": "絶え間ない忙しさほど、詩や哲学や人生に反するものはない。",
-    "id": "q1167"
+    "id": "q1167",
+    "tips": [
+      "be opposed to：〜と相反する",
+      "incessant：絶え間ない",
+      "business：ここでは仕事や用事に追われること"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is never too late to give up our prejudices.",
     "jp": "偏見を捨てるのに、遅すぎることはない。",
-    "id": "q1168"
+    "id": "q1168",
+    "tips": [
+      "It is never too late to do：〜するのに遅すぎることはない",
+      "give up：手放す、やめる",
+      "prejudice：偏見"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We are paid for our suspicions by finding what we suspect.",
     "jp": "疑ったものを見つけることで、私たちは疑いの代価を払う。",
-    "id": "q1169"
+    "id": "q1169",
+    "tips": [
+      "suspicion：疑い、疑念",
+      "be paid for：〜の報いを受ける",
+      "what we suspect：自分が疑っていること（疑念が現実の見方に影響するという含意）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is one consolation in being sick; you may recover to a better state than before.",
     "jp": "病気の慰めのひとつは、前より良い状態に回復できる可能性があることだ。",
-    "id": "q1170"
+    "id": "q1170",
+    "tips": [
+      "consolation：慰め",
+      "recover：回復する",
+      "a better state than before：以前よりも良い状態"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The rarest quality in an epitaph is truth.",
     "jp": "墓碑銘でもっとも稀なものは真実である。",
-    "id": "q1171"
+    "id": "q1171",
+    "tips": [
+      "rarest：rare の最上級、最も珍しい",
+      "epitaph：墓碑銘、墓石に刻まれた言葉"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Severe truth is expressed with some bitterness.",
     "jp": "厳しい真実は、苦みを伴って語られる。",
-    "id": "q1172"
+    "id": "q1172",
+    "tips": [
+      "severe：厳しい、容赦のない",
+      "be expressed：表現される",
+      "bitterness：苦々しさ、辛辣さ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Faith never makes a confession.",
     "jp": "信仰は決して言い訳をしない。",
-    "id": "q1173"
+    "id": "q1173",
+    "tips": [
+      "faith：信仰、信念",
+      "make a confession：告白する、信仰などを告白する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is the greatest of all advantages to enjoy no advantage at all.",
     "jp": "何の利点も持たないことが、最大の利点である。",
-    "id": "q1174"
+    "id": "q1174",
+    "tips": [
+      "advantage：利点、有利な条件",
+      "the greatest of all：すべての中で最大の",
+      "no ... at all：まったく〜ない（特権を持たないことを利点とする逆説）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "What old people say you cannot do, try and you will find you can.",
     "jp": "年寄りが「できない」と言うことでも、やってみれば案外できるものだ。",
-    "id": "q1175"
+    "id": "q1175",
+    "tips": [
+      "what ... say you cannot do：〜があなたにはできないと言うこと",
+      "try and you will find：試してみれば分かる（命令形＋and で結果を表す）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Beekeeping suggests a nobler relation to nature.",
     "jp": "養蜂は、自然とより高貴な関わりを示している。",
-    "id": "q1176"
+    "id": "q1176",
+    "tips": [
+      "beekeeping：養蜂",
+      "suggest：示唆する",
+      "nobler：noble（高潔な、気高い）の比較級"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "What is human warfare but an effort to make God and nature take sides?",
     "jp": "戦争とは、神や自然を味方につけようとする試みにすぎない。",
-    "id": "q1177"
+    "id": "q1177",
+    "tips": [
+      "warfare：戦争、戦闘",
+      "What is A but B?：AはBにほかならない（修辞疑問）",
+      "take sides：どちらか一方の味方をする"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is no more fatal blunderer than he who spends his life earning a living.",
     "jp": "生計を立てることに人生を費やす者ほど、致命的な誤りをする者はいない。",
-    "id": "q1178"
+    "id": "q1178",
+    "tips": [
+      "fatal：致命的な",
+      "blunderer：大きな過ちを犯す人",
+      "earn a living：生計を立てる（生活のために人生を費やすという逆説）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Read the best books first, or you may never read them at all.",
     "jp": "まずは最良の本を読め。でなければ、永遠に読めないかもしれない。",
-    "id": "q1179"
+    "id": "q1179",
+    "tips": [
+      "first：最初に、優先して",
+      "or：さもなければ（命令形の後で結果を表す）",
+      "never ... at all：結局まったく〜しない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Our moments of inspiration are not lost; they leave an indelible impression.",
     "jp": "インスピレーションの瞬間は失われない。それは消えない印象を残す。",
-    "id": "q1180"
+    "id": "q1180",
+    "tips": [
+      "inspiration：ひらめき、霊感",
+      "indelible：消すことのできない",
+      "leave an impression：印象を残す"
+    ]
   },
   {
     "author": "Thoreau",
