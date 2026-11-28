@@ -9,6 +9,21 @@ title: パンダの英語川柳
 
 <div class="cards">
 
+<div class="card" id="work-panda-reading-picture-book-rainy-japanese-bookshop">
+  <a class="image-link" href="/senryu/works/panda-reading-picture-book-rainy-japanese-bookshop/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-reading-picture-book-rainy-japanese-bookshop.jpg" alt="雨の昭和の古本屋で絵本を読むパンダと眠る猫, a panda reading a picture book in a rainy Japanese secondhand bookshop" loading="lazy" decoding="async"></a>
+  <p class="poem">
+雨上がり
+まだ帰らない
+物語
+The rain has stopped,
+but the story
+keeps me here.
+  </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>The rain has stopped.：雨がやんだ。現在完了形で現在の状況を表す。</li><li>keep me here：私をここに引き留める。keep＋人＋場所の表現。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/works/panda-reading-picture-book-rainy-japanese-bookshop/" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
+</div>
+
+
 <div class="card" id="work-2026-1118-0">
   <a class="image-link" href="/senryu/works/2026-1118-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-1118-0.jpg" alt="パンダ, 大相撲, grand sumo" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/b39fbc0b5517489e9179c620-640.webp 640w, /assets/previews/b39fbc0b5517489e9179c620-1280.webp 1280w, /images/2026-1118-0.jpg 1670w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
