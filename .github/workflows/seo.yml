@@ -15,6 +15,7 @@ on:
       - 'seo_generate.py'
       - 'seo_validate.py'
       - 'seo_images.py'
+      - 'seo_structured.py'
       - 'index.html'
       - 'pandalife/index.html'
       - 'game/index.html'
@@ -51,6 +52,7 @@ jobs:
           python seo_diary_senryu.py
           python seo_generate.py
           python seo_images.py
+          python seo_structured.py
           python seo_validate.py
       - name: Commit generated pages
         run: |
