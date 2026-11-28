@@ -4712,181 +4712,329 @@
     "author": "Ambrose Bierce",
     "en": "Ability is commonly found to consist mainly in a high degree of solemnity.",
     "jp": "能力とは、しばしば高度な厳粛さによって成り立っていると見なされる。",
-    "id": "q0431"
+    "id": "q0431",
+    "tips": [
+      "be found to do：〜することがわかる",
+      "consist in：〜に本質がある",
+      "solemnity：厳粛さ、まじめな態度"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Photograph: a picture painted by the sun without instruction in art.",
     "jp": "写真とは、芸術の指導なしに太陽が描いた絵である。",
-    "id": "q0432"
+    "id": "q0432",
+    "tips": [
+      "photograph：写真",
+      "painted by：〜によって描かれた",
+      "instruction in：〜についての指導"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "We submit to the majority because we have to. But we are not compelled to call our attitude of subjection a posture of respect.",
     "jp": "多数派に従うのは、そうせざるを得ないからであって、その服従の姿勢を敬意と呼ぶ義務はない。",
-    "id": "q0433"
+    "id": "q0433",
+    "tips": [
+      "submit to：〜に従う",
+      "be compelled to do：〜することを強いられる",
+      "subjection：服従、従属"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Belladonna, n.: In Italian a beautiful lady; in English a deadly poison. A striking example of the essential identity of the two tongues.",
     "jp": "ベラドンナとは、イタリア語では「美しい女性」、英語では「致死毒」を意味する。二つの言語の本質的な一致を示す好例である。",
-    "id": "q0434"
+    "id": "q0434",
+    "tips": [
+      "deadly：致命的な",
+      "striking example：際立った例",
+      "tongue：ここでは言語"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Ardor, n. The quality that distinguishes love without knowledge.",
     "jp": "情熱とは、知識を伴わない愛を際立たせる性質である。",
-    "id": "q0435"
+    "id": "q0435",
+    "tips": [
+      "ardor：熱情、情熱",
+      "quality：性質、特質",
+      "distinguish：特徴づける"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Fork: An instrument used chiefly for the purpose of putting dead animals into the mouth.",
     "jp": "フォークとは、主に死んだ動物を口に運ぶための道具である。",
-    "id": "q0436"
+    "id": "q0436",
+    "tips": [
+      "instrument：道具",
+      "chiefly：主に",
+      "for the purpose of -ing：〜する目的で"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Heaven lies about us in our infancy and the world begins lying about us pretty soon afterward.",
     "jp": "天は幼児期には我々を包み、ほどなくして世間は我々に嘘をつき始める。",
-    "id": "q0437"
+    "id": "q0437",
+    "tips": [
+      "infancy：幼児期",
+      "lie about：周囲にある／〜についてうそをつく（言葉遊び）",
+      "pretty soon afterward：その後まもなく"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Admiral. That part of a warship which does the talking while the figurehead does the thinking.",
     "jp": "提督とは、船首像が考えている間に話をする軍艦の一部である。",
-    "id": "q0438"
+    "id": "q0438",
+    "tips": [
+      "admiral：海軍大将、提督",
+      "figurehead：船首像、名目上の指導者",
+      "do the talking：話す役割を担う"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Divorce: a resumption of diplomatic relations and rectification of boundaries.",
     "jp": "離婚とは、外交関係の再開と国境の修正である。",
-    "id": "q0439"
+    "id": "q0439",
+    "tips": [
+      "resumption：再開",
+      "diplomatic relations：外交関係",
+      "rectification：修正、是正"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "A man is known by the company he organizes.",
     "jp": "人は、自ら組織する仲間によって評価される。",
-    "id": "q0440"
+    "id": "q0440",
+    "tips": [
+      "be known by：〜によって人物が判断される",
+      "company：会社、付き合う仲間（ここでは言葉遊び）",
+      "organize：組織する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Bigot: One who is obstinately and zealously attached to an opinion that you do not entertain.",
     "jp": "偏屈者とは、あなたが抱かない意見に頑固かつ熱心に固執する人のこと。",
-    "id": "q0441"
+    "id": "q0441",
+    "tips": [
+      "bigot：偏狭な人",
+      "obstinately：頑固に",
+      "entertain an opinion：意見を抱く"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Genius - to know without having learned; to draw just conclusions from unknown premises; to discern the soul of things.",
     "jp": "天才とは、学ばずして知り、未知の前提から正しい結論を導き、物事の本質を見抜くことである。",
-    "id": "q0442"
+    "id": "q0442",
+    "tips": [
+      "draw a conclusion：結論を導く",
+      "premise：前提",
+      "discern：見抜く、識別する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Rum, n. Generically, fiery liquors that produce madness in total abstainers.",
     "jp": "ラム酒とは、禁酒主義者に狂気をもたらす強い酒類の総称である。",
-    "id": "q0443"
+    "id": "q0443",
+    "tips": [
+      "generically：総称として",
+      "fiery liquor：刺激の強い酒",
+      "total abstainer：完全に禁酒する人"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Childhood: the period of human life intermediate between the idiocy of infancy and the folly of youth - two removes from the sin of manhood and three from the remorse of age.",
     "jp": "子ども時代とは、幼児の愚かさと若者の愚行の間にある人間の人生の時期であり、大人の罪からは二歩、老年の悔恨からは三歩離れている。",
-    "id": "q0444"
+    "id": "q0444",
+    "tips": [
+      "intermediate between A and B：AとBの中間にある",
+      "remove：隔たり、段階（名詞）",
+      "remorse：深い後悔、自責の念"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "The slightest acquaintance with history shows that powerful republics are the most warlike and unscrupulous of nations.",
     "jp": "歴史を少しかじれば、強大な共和国が最も好戦的で無節操な国家であることがわかる。",
-    "id": "q0445"
+    "id": "q0445",
+    "tips": [
+      "acquaintance with：〜についての知識",
+      "warlike：好戦的な",
+      "unscrupulous：良心の呵責がない、手段を選ばない"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Eloquence, n. The art of orally persuading fools that white is the color that it appears to be. It includes the gift of making any color appear white.",
     "jp": "雄弁とは、愚か者に対し白が白に見える色であると口頭で説得する技術であり、どんな色も白に見せる才能を含む。",
-    "id": "q0446"
+    "id": "q0446",
+    "tips": [
+      "eloquence：雄弁",
+      "orally：口頭で",
+      "make A appear B：AをBに見せる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Famous, adj.: Conspicuously miserable.",
     "jp": "有名とは、目立ってみじめなこと。",
-    "id": "q0447"
+    "id": "q0447",
+    "tips": [
+      "conspicuously：目立つほどに",
+      "miserable：みじめな、不幸な"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Incompatibility. In matrimony a similarity of tastes, particularly the taste for domination.",
     "jp": "不和とは、結婚生活においては特に支配欲に関する好みの一致である。",
-    "id": "q0448"
+    "id": "q0448",
+    "tips": [
+      "incompatibility：不適合、相性の悪さ",
+      "matrimony：結婚（格式ばった語）",
+      "taste for：〜に対する好み"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Academe, n.: An ancient school where morality and philosophy were taught. Academy, n.: A modern school where football is taught.",
     "jp": "アカデメとは、かつて道徳と哲学を教えた古代の学校。アカデミーとは、現代ではフットボールを教える学校。",
-    "id": "q0449"
+    "id": "q0449",
+    "tips": [
+      "academe：学問の世界、古代の学園",
+      "morality：道徳",
+      "academy：学校、専門教育機関"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Acquaintance. A person whom we know well enough to borrow from, but not well enough to lend to.",
     "jp": "知人とは、借金をするには十分知っているが、貸すには十分知らない相手である。",
-    "id": "q0450"
+    "id": "q0450",
+    "tips": [
+      "acquaintance：知人",
+      "well enough to do：〜できるほどよく",
+      "borrow from / lend to：〜から借りる／〜に貸す"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Success is the one unpardonable sin against our fellows.",
     "jp": "成功とは、仲間に対する唯一許されざる罪である。",
-    "id": "q0451"
+    "id": "q0451",
+    "tips": [
+      "unpardonable：許しがたい",
+      "sin against：〜に対する罪",
+      "our fellows：私たちの仲間、同胞"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Genealogy, n. An account of one's descent from a man who did not particularly care to trace his own.",
     "jp": "系譜とは、自らの先祖をたどることに特に関心を持たなかった人物からの血統記録である。",
-    "id": "q0452"
+    "id": "q0452",
+    "tips": [
+      "genealogy：系譜、家系",
+      "descent from：〜からの血統",
+      "trace：たどる、追跡する"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Positive, adj.: Mistaken at the top of one's voice.",
     "jp": "前向きとは、大声で間違うことである。",
-    "id": "q0453"
+    "id": "q0453",
+    "tips": [
+      "positive：確信している",
+      "mistaken：間違っている",
+      "at the top of one's voice：声を限りに"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Doubt begins only at the last frontiers of what is possible.",
     "jp": "疑いは、可能なことの最後の境界においてのみ始まる。",
-    "id": "q0454"
+    "id": "q0454",
+    "tips": [
+      "frontier：境界、最前線",
+      "what is possible：可能なこと"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "What is a democrat? One who believes that the republicans have ruined the country. What is a republican? One who believes that the democrats would ruin the country.",
     "jp": "民主党員とは、共和党員が国を台無しにしたと信じる人のこと。共和党員とは、民主党員が国を台無しにするだろうと信じる人のこと。",
-    "id": "q0455"
+    "id": "q0455",
+    "tips": [
+      "ruin：破滅させる",
+      "have ruined：破滅させてしまった（現在完了）",
+      "would ruin：破滅させるだろう（仮定的な予測）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Barometer, n.: An ingenious instrument which indicates what kind of weather we are having.",
     "jp": "気圧計――未来を予測するはずが、外を見れば分かる「現在の天気」を教えてくれる装置。（意訳）",
-    "id": "q0456"
+    "id": "q0456",
+    "tips": [
+      "barometer：気圧計",
+      "ingenious：巧妙な",
+      "indicate：示す"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Men become civilized, not in proportion to their willingness to believe, but in proportion to their readiness to doubt.",
     "jp": "人が文明的になるのは、どれだけ信じやすいかではなく、どれだけ疑う用意があるかによる。",
-    "id": "q0457"
+    "id": "q0457",
+    "tips": [
+      "in proportion to：〜に比例して",
+      "willingness to do：〜する意欲",
+      "readiness to do：進んで〜する姿勢"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Cynic, n: a blackguard whose faulty vision sees things as they are, not as they ought to be.",
     "jp": "皮肉屋とは、物事を「こうあるべき」ではなく、「実際の姿」のまま見てしまう厄介な人間。",
-    "id": "q0458"
+    "id": "q0458",
+    "tips": [
+      "cynic：冷笑家",
+      "blackguard：悪党（古風な語）",
+      "as they are / as they ought to be：ありのまま／あるべき姿で"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Calamities are of two kinds: misfortunes to ourselves, and good fortune to others.",
     "jp": "災難には二種類ある。自分に降りかかる不幸と、他人に訪れる幸運である。",
-    "id": "q0459"
+    "id": "q0459",
+    "tips": [
+      "calamity：災難",
+      "misfortune：不運、不幸",
+      "good fortune：幸運"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Quotation, n: The act of repeating erroneously the words of another.",
     "jp": "引用とは、他人の言葉を誤って繰り返す行為である。",
-    "id": "q0460"
+    "id": "q0460",
+    "tips": [
+      "quotation：引用",
+      "the act of -ing：〜する行為",
+      "erroneously：誤って"
+    ]
   },
   {
     "author": "Ambrose Bierce",
