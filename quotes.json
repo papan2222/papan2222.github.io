@@ -6991,181 +6991,326 @@
     "author": "Oscar Wilde",
     "en": "Life imitates art far more than art imitates Life.",
     "jp": "人生は芸術を真似ることの方が、芸術が人生を真似るよりもずっと多い。",
-    "id": "q0641"
+    "id": "q0641",
+    "tips": [
+      "imitate：模倣する",
+      "far more than：〜よりはるかに多く"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Ridicule is the tribute paid to the genius by the mediocrities.",
     "jp": "嘲笑とは、凡人が天才に捧げる敬意である。",
-    "id": "q0642"
+    "id": "q0642",
+    "tips": [
+      "ridicule：嘲笑",
+      "tribute：賛辞、敬意の表れ",
+      "mediocrity：ここでは凡庸な人"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Whenever people agree with me I always feel I must be wrong.",
     "jp": "みんなが私に賛成するときは、私が間違っているに違いないと感じる。",
-    "id": "q0643"
+    "id": "q0643",
+    "tips": [
+      "whenever：〜するたびに",
+      "agree with：〜に同意する",
+      "must be wrong：間違っているに違いない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I always pass on good advice. It is the only thing to do with it. It is never of any use to oneself.",
     "jp": "良い助言は必ず人に渡す。それ以外に使い道はなく、自分のためには役立たない。",
-    "id": "q0644"
+    "id": "q0644",
+    "tips": [
+      "pass on：人に伝える",
+      "be of any use：何らかの役に立つ",
+      "oneself：自分自身"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The public is wonderfully tolerant. It forgives everything except genius.",
     "jp": "世間は驚くほど寛容だ。天才以外は、何でも許す。",
-    "id": "q0645"
+    "id": "q0645",
+    "tips": [
+      "the public：一般大衆",
+      "tolerant：寛容な",
+      "except：〜を除いて"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Ordinary riches can be stolen; real riches cannot. In your soul are infinitely precious things that cannot be taken from you.",
     "jp": "普通の財産は盗まれるが、本当の財産は盗まれない。魂の中には奪えないかけがえのないものがある。",
-    "id": "q0646"
+    "id": "q0646",
+    "tips": [
+      "riches：富、財産",
+      "infinitely：限りなく",
+      "precious：貴重な"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Arguments are to be avoided: they are always vulgar and often convincing.",
     "jp": "議論は避けるべきだ。いつも下品で、時には妙に説得力があるからだ。",
-    "id": "q0647"
+    "id": "q0647",
+    "tips": [
+      "be to be avoided：避けるべきである",
+      "vulgar：品のない",
+      "convincing：説得力のある"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live.",
     "jp": "利己主義とは、自分の望むように生きることではなく、他人にもそう生きることを求めることだ。",
-    "id": "q0648"
+    "id": "q0648",
+    "tips": [
+      "selfishness：利己主義",
+      "as one wishes：自分が望むように",
+      "ask others to do：他人に〜するよう求める"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "No great artist ever sees things as they really are. If he did, he would cease to be an artist.",
     "jp": "偉大な芸術家は決して物事をありのままには見ない。そうしたら芸術家ではなくなるからだ。",
-    "id": "q0649"
+    "id": "q0649",
+    "tips": [
+      "as they really are：実際にあるがままに",
+      "If he did：もしそうしたなら（仮定法過去）",
+      "cease to be：〜でなくなる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A little sincerity is a dangerous thing, and a great deal of it is absolutely fatal.",
     "jp": "少しの誠実さは危険で、大量の誠実さは致命的だ。",
-    "id": "q0650"
+    "id": "q0650",
+    "tips": [
+      "sincerity：誠実さ",
+      "a great deal of：大量の",
+      "fatal：致命的な"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A work of art is the unique result of a unique temperament.",
     "jp": "芸術作品は、唯一無二の気質から生まれる唯一無二の結果だ。",
-    "id": "q0651"
+    "id": "q0651",
+    "tips": [
+      "work of art：芸術作品",
+      "unique：唯一無二の",
+      "temperament：気質"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "One's real life is so often the life that one does not lead.",
     "jp": "人の本当の人生は、多くの場合、自分が送っていない人生だ。",
-    "id": "q0652"
+    "id": "q0652",
+    "tips": [
+      "one's：人の、自分の",
+      "lead a life：人生を送る",
+      "the life that one does not lead：自分が実際には送っていない人生"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Always forgive your enemies - nothing annoys them so much.",
     "jp": "敵は必ず許せ。それが一番腹立たしい。",
-    "id": "q0653"
+    "id": "q0653",
+    "tips": [
+      "forgive：許す",
+      "annoy：いらだたせる",
+      "nothing ... so much：これほど〜するものはない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I can stand brute force, but brute reason is quite unbearable. There is something unfair about its use. It is hitting below the intellect.",
     "jp": "力ずくは耐えられるが、理屈ずくは耐えられない。その使い方にはずるさがあり、知性の下を狙う卑怯な一撃だ。",
-    "id": "q0654"
+    "id": "q0654",
+    "tips": [
+      "stand：耐える",
+      "brute force：腕力、暴力",
+      "hit below the intellect：知性の急所を突く（hit below the belt をもじった表現）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Fathers should be neither seen nor heard. That is the only proper basis for family life.",
     "jp": "父親は見えも聞こえもしない方がいい。それが家庭生活の唯一の正しい基盤だ。",
-    "id": "q0655"
+    "id": "q0655",
+    "tips": [
+      "neither A nor B：AもBもない",
+      "proper：適切な",
+      "basis for：〜の基盤"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I never travel without my diary. One should always have something sensational to read in the train.",
     "jp": "私は日記なしで旅をしない。列車では何か刺激的な読み物が必要だ。",
-    "id": "q0656"
+    "id": "q0656",
+    "tips": [
+      "never ... without：〜なしには決して…しない",
+      "sensational：衝撃的な、世間を騒がせるような",
+      "something to read：読むもの"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is what you read when you don't have to that determines what you will be when you can't help it.",
     "jp": "義務でないときに何を読むかが、避けられない時にどんな人になるかを決める。",
-    "id": "q0657"
+    "id": "q0657",
+    "tips": [
+      "It is ... that：〜なのは…だ（強調構文）",
+      "determine：決定する",
+      "can't help it：どうしようもない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Man can believe the impossible, but man can never believe the improbable.",
     "jp": "人は不可能なことを信じられるが、ありそうもないことは信じられない。",
-    "id": "q0658"
+    "id": "q0658",
+    "tips": [
+      "the impossible：不可能なこと",
+      "the improbable：起こりそうにないこと"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The true mystery of the world is the visible, not the invisible.",
     "jp": "世界の真の神秘は、見えないものではなく、見えているものだ。",
-    "id": "q0659"
+    "id": "q0659",
+    "tips": [
+      "mystery：謎",
+      "the visible：目に見えるもの",
+      "the invisible：目に見えないもの"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A poet can survive everything but a misprint.",
     "jp": "詩人は誤植以外なら何でも耐えられる。",
-    "id": "q0660"
+    "id": "q0660",
+    "tips": [
+      "survive：〜を切り抜ける",
+      "everything but：〜以外のすべて",
+      "misprint：誤植"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Everybody who is incapable of learning has taken to teaching.",
     "jp": "学べない人は、たいてい教える側に回る。",
-    "id": "q0661"
+    "id": "q0661",
+    "tips": [
+      "be incapable of -ing：〜する能力がない",
+      "take to -ing：〜を始める、習慣にする"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The one charm about marriage is that it makes a life of deception absolutely necessary for both parties.",
     "jp": "結婚の唯一の魅力は、互いにごまかしの人生が絶対に必要になることだ。",
-    "id": "q0662"
+    "id": "q0662",
+    "tips": [
+      "charm：魅力",
+      "deception：欺き、ごまかし",
+      "both parties：双方の当事者"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A man can't be too careful in the choice of his enemies.",
     "jp": "敵を選ぶ際に慎重すぎるということはない。",
-    "id": "q0663"
+    "id": "q0663",
+    "tips": [
+      "can't be too careful：いくら慎重でも慎重すぎることはない",
+      "in the choice of：〜を選ぶ際に"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is through art, and through art only, that we can realise our perfection.",
     "jp": "私たちが自分の完成に気づけるのは、芸術を通してだけだ。",
-    "id": "q0664"
+    "id": "q0664",
+    "tips": [
+      "It is through ... that：〜を通じてこそ…する（強調構文）",
+      "realise：実現する（英国式綴り）",
+      "perfection：完全さ"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Those whom the gods love grow young.",
     "jp": "神に愛される者は若返る。",
-    "id": "q0665"
+    "id": "q0665",
+    "tips": [
+      "those whom：〜される人々（目的格の関係代名詞）",
+      "grow young：若くなる（grow old を逆転させた表現）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "This suspense is terrible. I hope it will last.",
     "jp": "この緊張感はひどいものだ。ずっと続いてほしい。",
-    "id": "q0666"
+    "id": "q0666",
+    "tips": [
+      "suspense：先がわからない緊張感",
+      "terrible：ひどい",
+      "last：続く（動詞）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I think that God, in creating man, somewhat overestimated his ability.",
     "jp": "神は人間を創るとき、その能力を少し買いかぶりすぎた。",
-    "id": "q0667"
+    "id": "q0667",
+    "tips": [
+      "in creating：〜を創造する際に",
+      "somewhat：いくらか",
+      "overestimate：過大評価する"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "All bad poetry springs from genuine feeling.",
     "jp": "悪い詩はすべて、本物の感情から生まれる。",
-    "id": "q0668"
+    "id": "q0668",
+    "tips": [
+      "spring from：〜から生じる",
+      "genuine：本物の、偽りのない",
+      "poetry：詩（集合的な意味）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "No woman should ever be quite accurate about her age. It looks so calculating.",
     "jp": "女性は自分の年齢を正確に言うべきではない。計算高く見える。",
-    "id": "q0669"
+    "id": "q0669",
+    "tips": [
+      "accurate：正確な",
+      "calculating：打算的な",
+      "look＋形容詞：〜に見える"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I am so clever that sometimes I don't understand a single word of what I am saying.",
     "jp": "私はあまりに賢すぎて、自分の言っていることが一言も理解できないときがある。",
-    "id": "q0670"
+    "id": "q0670",
+    "tips": [
+      "so ... that：非常に〜なので…",
+      "not a single word：一言も〜ない",
+      "what I am saying：自分が言っていること"
+    ]
   },
   {
     "author": "Oscar Wilde",
