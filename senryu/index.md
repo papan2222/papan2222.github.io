@@ -10,7 +10,7 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card" id="work-2026-1118-0">
-  <a class="image-link" href="/senryu/works/2026-1118-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-1118-0.jpg" alt="パンダ, 大相撲, grand sumo" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-1118-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-1118-0.jpg" alt="パンダ, 大相撲, grand sumo" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/b39fbc0b5517489e9179c620-640.webp 640w, /assets/previews/b39fbc0b5517489e9179c620-1280.webp 1280w, /images/2026-1118-0.jpg 1670w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 大相撲
 見つめるパンダ
@@ -24,7 +24,7 @@ Patting his round belly.
 </div>
 
 <div class="card" id="work-2026-0425-0">
-  <a class="image-link" href="/senryu/works/2026-0425-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0425-0.png" alt="ナマケモノとパンダ, 話しかけるパンダ, a panda and a sloth talking" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0425-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0425-0.png" alt="ナマケモノとパンダ, 話しかけるパンダ, a panda and a sloth talking" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/ea62e7ac58b4a4a017f1f33a-640.webp 640w, /assets/previews/ea62e7ac58b4a4a017f1f33a-1280.webp 1280w, /images/2026-0425-0.png 1448w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 森深く
 急がぬ者の
@@ -38,7 +38,7 @@ feel most in tune.
 </div>
 
 <div class="card" id="work-2026-0314-2">
-  <a class="image-link" href="/senryu/works/2026-0314-2/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0314-2.png" alt="夕日とパンダ, 駆け出すパンダ, a panda and a boy running down the beach, a panda and a boy chasing the sunset" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0314-2/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0314-2.png" alt="夕日とパンダ, 駆け出すパンダ, a panda and a boy running down the beach, a panda and a boy chasing the sunset" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/4986ea3682d39933d153c238-640.webp 640w, /images/2026-0314-2.png 1024w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 夕日追う
 パンダと子ども
@@ -52,7 +52,7 @@ running down the beach
 </div>
 
 <div class="card" id="work-2026-0227-0">
-  <a class="image-link" href="/senryu/works/2026-0227-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0227-0.png" alt="渋谷パンダ, バイクに乗るパンダ, Tokyo night and a panda riding a motorbike" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0227-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0227-0.png" alt="渋谷パンダ, バイクに乗るパンダ, Tokyo night and a panda riding a motorbike" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/50a28fd7eb879a6e268e4c59-640.webp 640w, /assets/previews/50a28fd7eb879a6e268e4c59-1280.webp 1280w, /images/2026-0227-0.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 渋谷夜
 ネオンの波に
@@ -66,7 +66,7 @@ fur sways
 </div>
 
 <div class="card" id="work-2026-0225-1">
-  <a class="image-link" href="/senryu/works/2026-0225-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0225-1.png" alt="パンダの友だち, a panda walking" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0225-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0225-1.png" alt="パンダの友だち, a panda walking" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/16c4af0a4b53db02243f24e2-640.webp 640w, /images/2026-0225-1.png 1024w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 森しんと
 友を思ひて
@@ -80,7 +80,7 @@ my steps feel light.
 </div>
 
 <div class="card" id="work-2026-0225-0">
-  <a class="image-link" href="/senryu/works/2026-0225-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0225-0.png" alt="パンダとサーティワン, the world turns sweet, panda" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0225-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0225-0.png" alt="パンダとサーティワン, the world turns sweet, panda" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/49c69e290a64692429c346c8-640.webp 640w, /assets/previews/49c69e290a64692429c346c8-1280.webp 1280w, /images/2026-0225-0.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 ケース越し
 世界は甘く
@@ -94,7 +94,7 @@ and goes quiet.
 </div>
 
 <div class="card" id="work-2026-0219-0">
-  <a class="image-link" href="/senryu/works/2026-0219-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0219-0.png" alt="パンダと猫, shoulder to shoulder with a cat, panda" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0219-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0219-0.png" alt="パンダと猫, shoulder to shoulder with a cat, panda" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/99c74210b32653909ad1e476-640.webp 640w, /assets/previews/99c74210b32653909ad1e476-1280.webp 1280w, /images/2026-0219-0.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 吹雪見つ
 猫と肩寄せ
@@ -108,7 +108,7 @@ the panda blushes
 </div>
 
 <div class="card" id="work-2026-0218-0">
-  <a class="image-link" href="/senryu/works/2026-0218-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0218-0.png" alt="パンダとキャラ弁, character bento with a panda" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0218-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0218-0.png" alt="パンダとキャラ弁, character bento with a panda" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/bf7138e578edf274811cfc5f-640.webp 640w, /images/2026-0218-0.png 1024w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 見てるだけ
 食べる前から
@@ -122,7 +122,7 @@ before eating.
 </div>
 
 <div class="card" id="work-2026-0216-0">
-  <a class="image-link" href="/senryu/works/2026-0216-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0216-0.png" alt="パンダと犬, パンダの帰り道, small backs, a dog and a panda walking together" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0216-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0216-0.png" alt="パンダと犬, パンダの帰り道, small backs, a dog and a panda walking together" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/2e0f4fdb8063a8754c2cbec4-640.webp 640w, /assets/previews/2e0f4fdb8063a8754c2cbec4-1280.webp 1280w, /images/2026-0216-0.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 暮れ空に
 話し足りない
@@ -136,7 +136,7 @@ only their backs.
 </div>
 
 <div class="card" id="work-2026-0210-1">
-  <a class="image-link" href="/senryu/works/2026-0210-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0210-1.png" alt="お寺のパンダ, 仏教とパンダ, small backs, a boy and a panda sitting in silence" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0210-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0210-1.png" alt="お寺のパンダ, 仏教とパンダ, small backs, a boy and a panda sitting in silence" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/8feb83ce1a179c39f8bd7bb8-640.webp 640w, /assets/previews/8feb83ce1a179c39f8bd7bb8-1280.webp 1280w, /images/2026-0210-1.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 灯る堂
 黙して座る
@@ -150,7 +150,7 @@ small backs.
 </div>
 
 <div class="card" id="work-2026-0206-1">
-  <a class="image-link" href="/senryu/works/2026-0206-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0206-1.png" alt="老婆とパンダ, boat, playtime, an old woman and a panda" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0206-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0206-1.png" alt="老婆とパンダ, boat, playtime, an old woman and a panda" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/5e3b4021f80fd66c0cb98650-640.webp 640w, /images/2026-0206-1.png 1024w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 夕焼けの
  水を割りゆく
@@ -164,7 +164,7 @@ small backs.
 </div>
 
 <div class="card" id="work-2026-0206-0">
-  <a class="image-link" href="/senryu/works/2026-0206-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0206-0.png" alt="砂場, 砂遊び, playtime, evening with a panda" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0206-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0206-0.png" alt="砂場, 砂遊び, playtime, evening with a panda" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/d14f77e140984316abfff8d1-640.webp 640w, /assets/previews/d14f77e140984316abfff8d1-1280.webp 1280w, /images/2026-0206-0.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 遊び終え
 言葉のいらぬ
@@ -178,7 +178,7 @@ evening’s thin edge.
 </div>
 
 <div class="card" id="work-2026-0202-1">
-  <a class="image-link" href="/senryu/works/2026-0202-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0202-1.png" alt="ネギ, 猫, kindred souls, green onions" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0202-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0202-1.png" alt="ネギ, 猫, kindred souls, green onions" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/7dd69961b312a90f16728077-640.webp 640w, /assets/previews/7dd69961b312a90f16728077-1280.webp 1280w, /images/2026-0202-1.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 葱抱え
 似た者同士が
@@ -192,7 +192,7 @@ words drift lightly.
 </div>
 
 <div class="card" id="work-2026-0130-3">
-  <a class="image-link" href="/senryu/works/2026-0130-3/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-3.png" alt="パンダ漕ぐ, 猫の観察, cats watching closely, A panda pedaling" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0130-3/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-3.png" alt="パンダ漕ぐ, 猫の観察, cats watching closely, A panda pedaling" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/26c821891e2b41d8f6b9f70d-640.webp 640w, /images/2026-0130-3.png 1024w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 漕げぬ熊
 教えるは五歳
@@ -206,7 +206,7 @@ cats watching closely.
 </div>
 
 <div class="card" id="work-2026-0130-1">
-  <a class="image-link" href="/senryu/works/2026-0130-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-1.png" alt="たけのこ, パンダ, たけのこカレー, Bamboo shoot, panda, japanese-curry" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0130-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-1.png" alt="たけのこ, パンダ, たけのこカレー, Bamboo shoot, panda, japanese-curry" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/c84ea2b91eee42861431c64c-640.webp 640w, /assets/previews/c84ea2b91eee42861431c64c-1280.webp 1280w, /images/2026-0130-1.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 たけのこは
 ちゃんと入れたの
@@ -220,7 +220,7 @@ the panda asks.
 </div>
 
 <div class="card" id="work-2026-0130-0">
-  <a class="image-link" href="/senryu/works/2026-0130-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-0.png" alt="たけのこ, パンダ, Bamboo shoot, panda, in my palm" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0130-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-0.png" alt="たけのこ, パンダ, Bamboo shoot, panda, in my palm" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/08d85fc74a2356d59bbb22ea-640.webp 640w, /images/2026-0130-0.png 1264w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 たけのこや
 土のぬくもり
@@ -234,7 +234,7 @@ rests in my palm
 </div>
 
 <div class="card" id="work-2026-0128-0">
-  <a class="image-link" href="/senryu/works/2026-0128-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0128-0.png" alt="怪獣,ゴジラ,大決戦, a final showdown, tatami-floor,snow" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0128-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0128-0.png" alt="怪獣,ゴジラ,大決戦, a final showdown, tatami-floor,snow" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/a2baa436106433527b0eb834-640.webp 640w, /assets/previews/a2baa436106433527b0eb834-1280.webp 1280w, /images/2026-0128-0.png 1536w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 雪深し
 畳の上の
@@ -248,7 +248,7 @@ a final showdown.
 </div>
 
 <div class="card" id="work-2026-0127-0">
-  <a class="image-link" href="/senryu/works/2026-0127-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0127-0.png" alt="竹の子のお菓子, bamboo shoot-flavored snacks" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0127-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0127-0.png" alt="竹の子のお菓子, bamboo shoot-flavored snacks" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/d1d0900e734be5a7d971559a-640.webp 640w, /assets/previews/d1d0900e734be5a7d971559a-1280.webp 1280w, /images/2026-0127-0.png 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 竹の子の
 お菓子はないのと
@@ -262,7 +262,7 @@ a panda in tow
 </div>
 
 <div class="card" id="work-2026-0124-0">
-  <a class="image-link" href="/senryu/works/2026-0124-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0124-0.png" alt="雪だるま, snowman, panda making snowman" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0124-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0124-0.png" alt="雪だるま, snowman, panda making snowman" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/088d928fa1c79cc6c2713ca6-640.webp 640w, /assets/previews/088d928fa1c79cc6c2713ca6-1280.webp 1280w, /images/senryu/2026-0124-0.png 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 雪だるま
 俺の弟
@@ -276,7 +276,7 @@ the panda thinks.
 </div>
 
 <div class="card" id="work-2026-0123-0">
-  <a class="image-link" href="/senryu/works/2026-0123-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0123-0.png" alt="弁当, lunch time, bento" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0123-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0123-0.png" alt="弁当, lunch time, bento" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/28c89a98451b9bb713ff6715-640.webp 640w, /assets/previews/28c89a98451b9bb713ff6715-1280.webp 1280w, /images/2026-0123-0.png 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 頂上より
 弁当たべるの
@@ -291,7 +291,7 @@ Serious mode: on.
 
 
 <div class="card" id="work-2026-0122-2">
-  <a class="image-link" href="/senryu/works/2026-0122-2/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0122-2.png" alt="肉まん" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0122-2/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0122-2.png" alt="肉まん" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/f7dc3e01b8bc5d9a459ec6a3-640.webp 640w, /assets/previews/f7dc3e01b8bc5d9a459ec6a3-1280.webp 1280w, /images/senryu/2026-0122-2.png 1424w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 帰り道 
 買うのは肉まん
@@ -305,7 +305,7 @@ and warmth.
 </div>
 
 <div class="card" id="work-2026-0122-0">
-  <a class="image-link" href="/senryu/works/2026-0122-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0122-0.png" alt="背中" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0122-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0122-0.png" alt="背中" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/ce772b931bd4cc776493235f-640.webp 640w, /assets/previews/ce772b931bd4cc776493235f-1280.webp 1280w, /images/senryu/2026-0122-0.png 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 待つ背中
 竹の子の香り
@@ -319,7 +319,7 @@ arrives first.
 </div>
 
 <div class="card" id="work-2026-0121-1">
-  <a class="image-link" href="/senryu/works/2026-0121-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0121-1.png" alt="雪しんしん" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0121-1/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0121-1.png" alt="雪しんしん" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/3d28a1f06612eda0eb93b8a1-640.webp 640w, /assets/previews/3d28a1f06612eda0eb93b8a1-1280.webp 1280w, /images/senryu/2026-0121-1.png 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 雪しんしん
 パンダペンギン
@@ -333,7 +333,7 @@ full of joy.
 </div>
 
 <div class="card" id="work-2026-0120-0">
-  <a class="image-link" href="/senryu/works/2026-0120-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0120-0.png" alt="炬燵" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0120-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0120-0.png" alt="炬燵" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/939466b7b335dc91ec4103e3-640.webp 640w, /assets/previews/939466b7b335dc91ec4103e3-1280.webp 1280w, /images/senryu/2026-0120-0.png 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 背ふたつ
 話さぬことで
@@ -347,7 +347,7 @@ growing closer.
 </div>
 
 <div class="card" id="work-rain">
-  <a class="image-link" href="/senryu/works/rain/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/rain.jpg" alt="雨の日" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/rain/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/rain.jpg" alt="雨の日" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/7109f76e8dbc1199459fe3ab-640.webp 640w, /assets/previews/7109f76e8dbc1199459fe3ab-1280.webp 1280w, /images/senryu/rain.jpg 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 来ぬ友を
 待ち続けている
@@ -361,7 +361,7 @@ Such quiet ache.
 </div>
 
 <div class="card" id="work-forecast">
-  <a class="image-link" href="/senryu/works/forecast/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/forecast.jpg" alt="雨予報" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/forecast/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/forecast.jpg" alt="雨予報" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/bbcd0f255d561bda8b84d894-640.webp 640w, /assets/previews/bbcd0f255d561bda8b84d894-1280.webp 1280w, /images/senryu/forecast.jpg 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 雨予報
 パンをかじって
@@ -375,7 +375,7 @@ and a quiet sigh.
 </div>
 
 <div class="card" id="work-2026-0114-0">
-  <a class="image-link" href="/senryu/works/2026-0114-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0114-0.jpg" alt="愛情" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/2026-0114-0/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0114-0.jpg" alt="愛情" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/eac912b78efd5917541ab602-640.webp 640w, /assets/previews/eac912b78efd5917541ab602-1280.webp 1280w, /images/senryu/2026-0114-0.jpg 1408w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 テディベア
 あの子の愛情
