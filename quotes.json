@@ -17695,181 +17695,331 @@
     "author": "Nietzsche",
     "en": "Horrible people make problems harder instead of solving them.",
     "jp": "恐ろしい人間は問題を解決せず、さらに複雑にする。",
-    "id": "q1631"
+    "id": "q1631",
+    "tips": [
+      "horrible：ひどい、不快な",
+      "make A harder：Aをより困難にする",
+      "instead of doing：〜する代わりに、〜せずに"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "If a woman has manly virtues, flee her; if not, she flees herself.",
     "jp": "女が男らしい美徳を持てば逃げよ。持たねば彼女は自分から逃げる。",
-    "id": "q1632"
+    "id": "q1632",
+    "tips": [
+      "manly virtues：男性的とされる美徳",
+      "flee：〜から逃れる（他動詞としても使える）",
+      "if not：そうでなければ（原文は性別についての固定観念を含む）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The kingdom of Heaven is a condition of the heart, not after death.",
     "jp": "天国とは心の状態であり、死後に訪れるものではない。",
-    "id": "q1633"
+    "id": "q1633",
+    "tips": [
+      "the kingdom of Heaven：天の御国、天国",
+      "a condition of the heart：心の状態",
+      "after death：死後（天国を心のあり方として捉える表現）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "He that humbleth himself wishes to be exalted.",
     "jp": "自らを低くする者は、高められたいと望んでいる。",
-    "id": "q1634"
+    "id": "q1634",
+    "tips": [
+      "He that ...：〜する者（古風な関係節）",
+      "humbleth himself：humbles himself に相当する古い動詞形、自らを低くする",
+      "be exalted：高められる、称揚される"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Some make life harder only to later sell their cure—Christianity, for example.",
     "jp": "人の生を難しくしておき、その処方箋を売る者もいる。キリスト教のように。",
-    "id": "q1635"
+    "id": "q1635",
+    "tips": [
+      "only to later sell：結局は後になって売るために（ここでは目的を皮肉に示す）",
+      "cure：治療法、解決策",
+      "for example：例えば（宗教への批判的な比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Hold on to your heart; if you lose it, your head is lost too.",
     "jp": "心を保て。それを失えば、頭も失う。",
-    "id": "q1636"
+    "id": "q1636",
+    "tips": [
+      "hold on to：〜を手放さずにいる",
+      "lose one's heart：ここでは感情や心を失うこと",
+      "head：頭、ここでは理性を表す比喩"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Even gods could learn from humans; we are more humane.",
     "jp": "神々ですら人間から学べることがある。人間の方が人間的だからだ。",
-    "id": "q1637"
+    "id": "q1637",
+    "tips": [
+      "even：〜でさえ",
+      "learn from：〜から学ぶ",
+      "humane：人道的な、思いやりのある（human との語の響きの対照）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Great praise makes some modest, others insolent.",
     "jp": "大きな称賛は、ある者を謙虚にし、ある者を傲慢にする。",
-    "id": "q1638"
+    "id": "q1638",
+    "tips": [
+      "praise：称賛",
+      "modest：謙虚な",
+      "insolent：横柄な、無礼な（others の後ろでは makes が意味上省略されている）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The witches’ guilt was nonexistent, though even they believed it.",
     "jp": "魔女の罪は存在しなかった。魔女自身も信じていたのに。",
-    "id": "q1639"
+    "id": "q1639",
+    "tips": [
+      "guilt：罪、罪があること",
+      "nonexistent：存在しない",
+      "though：〜にもかかわらず（魔女とされた人々についての記述）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "What do I care about the purring of one who cannot love, like the cat?",
     "jp": "愛せぬ者の喉鳴らしなど、猫と同じく気にかけるものか。",
-    "id": "q1640"
+    "id": "q1640",
+    "tips": [
+      "What do I care about ...?：〜など私に何の関係があるのか（修辞疑問）",
+      "purring：猫が喉を鳴らすこと",
+      "one who：〜する者"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Art is not imitation but a metaphysical supplement to nature.",
     "jp": "芸術は模倣ではなく、自然への形而上学的な補いである。",
-    "id": "q1641"
+    "id": "q1641",
+    "tips": [
+      "imitation：模倣",
+      "metaphysical：形而上学的な、物理的現実を超えた",
+      "supplement to：〜を補うもの"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Whoever has witnessed another’s ideal becomes his judge and conscience.",
     "jp": "他人の理想を目撃した者は、その人の裁判官であり悪 conscience となる。",
-    "id": "q1642"
+    "id": "q1642",
+    "tips": [
+      "whoever：〜する人は誰でも",
+      "witness：目撃する、見届ける",
+      "conscience：良心（他人の理想を知る者の役割を表す比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Not when truth is dirty, but when it is shallow, do we shrink from it.",
     "jp": "真理が汚れているときでなく、浅いときにこそ、私たちは避ける。",
-    "id": "q1643"
+    "id": "q1643",
+    "tips": [
+      "shallow：浅い、浅薄な",
+      "shrink from：〜を避ける、〜にひるむ",
+      "Not when A, but when B, do we ...：AのときではなくBのときに…する（否定表現による倒置）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Experience must not be studied while experiencing.",
     "jp": "体験している間に自分を研究してはならない。",
-    "id": "q1644"
+    "id": "q1644",
+    "tips": [
+      "experience：経験（名詞）、経験する（動詞）",
+      "must not be studied：研究・分析されるべきではない（助動詞＋受動態）",
+      "while experiencing：経験している最中に（主語とbe動詞を省略した分詞節）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Fanatics are picturesque; mankind prefers gestures to reasons.",
     "jp": "狂信者は絵になる。人類は理屈より身振りを好む。",
-    "id": "q1645"
+    "id": "q1645",
+    "tips": [
+      "fanatic：狂信者、熱狂的な支持者",
+      "picturesque：絵になる、印象的な",
+      "prefer A to B：BよりAを好む（gestures は身ぶり、reasons は理由や論拠）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "We like most to share secrecy and what lies beneath it.",
     "jp": "人は秘密とその奥にあるものを最も伝えたがる。",
-    "id": "q1646"
+    "id": "q1646",
+    "tips": [
+      "secrecy：秘密にすること、秘密の状態",
+      "lie beneath：〜の下にある、背後に潜む",
+      "what lies beneath it：その背後にあるもの"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Consider every day lost on which we have not danced once.",
     "jp": "一度も踊らなかった日は、失われた一日と考えるべきだ。",
-    "id": "q1647"
+    "id": "q1647",
+    "tips": [
+      "consider A lost：Aを失われたものと見なす",
+      "on which：その日に（day を受ける関係代名詞）",
+      "have not danced：踊っていない（現在完了）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The Christian resolution to find the world ugly and bad has made the world ugly and bad.",
     "jp": "キリスト教の決意が「世界は醜く悪い」と見なしたことで、実際に世界を醜く悪くしてしまった。",
-    "id": "q1648"
+    "id": "q1648",
+    "tips": [
+      "resolution：決意、固い意志",
+      "find A B：AをBだと思う",
+      "has made A B：AをBにしてきた（現在完了の使役構文。原文は宗教批判）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "All sciences must now prepare the ground for the philosopher’s task: to solve the problem of value.",
     "jp": "あらゆる学問は哲学者の課題――価値の問題を解くための土台を整えねばならない。",
-    "id": "q1649"
+    "id": "q1649",
+    "tips": [
+      "prepare the ground for：〜のための下地を整える",
+      "task：課題、任務",
+      "value：価値（ここでは哲学的な価値判断の問題）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There are no moral phenomena at all, only a moral interpretation of phenomena.",
     "jp": "道徳的な現象は存在せず、あるのは現象に対する道徳的解釈だけだ。",
-    "id": "q1650"
+    "id": "q1650",
+    "tips": [
+      "phenomena：現象（phenomenon の複数形）",
+      "at all：まったく（否定の強調）",
+      "interpretation：解釈"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Necessity is not a fact, but an interpretation.",
     "jp": "必然とは事実ではなく、解釈にすぎない。",
-    "id": "q1651"
+    "id": "q1651",
+    "tips": [
+      "necessity：必然性、必要性",
+      "not A, but B：AではなくB",
+      "interpretation：解釈、物事の捉え方"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "‘Evil men have no songs.’ Then why do Russians have songs?",
     "jp": "「悪人には歌がない」というが、なぜロシア人には歌があるのか。",
-    "id": "q1652"
+    "id": "q1652",
+    "tips": [
+      "evil：邪悪な、悪い",
+      "Then why ...?：それならなぜ〜なのか（前提に疑問を投げかける表現）",
+      "Russians：ロシア人（原文は国籍に関する一般化を用いた皮肉）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "What is good? All that heightens the will to power in man.",
     "jp": "善とは何か？ それは人の中の力への意志を高めるすべてのものだ。",
-    "id": "q1653"
+    "id": "q1653",
+    "tips": [
+      "all that：〜するものすべて",
+      "heighten：高める、増大させる",
+      "will to power：力への意志（ニーチェ哲学の用語）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The truths of mankind are its irrefutable errors.",
     "jp": "人類の真理とは、反駁できない誤謬である。",
-    "id": "q1654"
+    "id": "q1654",
+    "tips": [
+      "mankind：人類",
+      "irrefutable：反駁できない、論破できない",
+      "truths / errors：真理／誤り（両者を結びつけた逆説）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "I would believe only in a God that knows how to dance.",
     "jp": "私は踊れる神だけを信じるだろう。",
-    "id": "q1655"
+    "id": "q1655",
+    "tips": [
+      "would believe：信じるだろう（仮定的な意志）",
+      "believe in：〜の存在を信じる、信仰する",
+      "know how to dance：踊り方を知っている"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "It is good to say a thing twice, giving it both a right and a left foot.",
     "jp": "物事を二度言うのはよいことだ。それに右足と左足を与えるのだから。",
-    "id": "q1656"
+    "id": "q1656",
+    "tips": [
+      "twice：二度、二回",
+      "giving it ...：それに〜を与えて（付帯状況を示す分詞構文）",
+      "both A and B：AとBの両方（言葉に左右の足を与える比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Whoever is destined to see and not believe will always find believers too noisy.",
     "jp": "見て信じない運命にある者は、信者をいつも騒々しいと感じる。",
-    "id": "q1657"
+    "id": "q1657",
+    "tips": [
+      "be destined to：〜する運命にある",
+      "believer：信じる人、信者",
+      "find A too B：AをあまりにもBだと感じる"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The desire to harm no one may be justice—or just anxiety.",
     "jp": "誰も傷つけまいとする願いは、正義の証か、ただの不安かもしれない。",
-    "id": "q1658"
+    "id": "q1658",
+    "tips": [
+      "desire to do：〜したいという願望",
+      "harm no one：誰も傷つけない",
+      "justice / anxiety：正義／不安（同じ行動の異なる動機を対比）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "We do not hate until we value equally or more.",
     "jp": "我々は相手を同等かそれ以上に価値あるものと見なすとき、初めて憎む。",
-    "id": "q1659"
+    "id": "q1659",
+    "tips": [
+      "not ... until：〜するまでは…しない",
+      "value：価値を認める、重んじる（動詞）",
+      "equally or more：同等に、またはそれ以上に"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "A good writer possesses not only his own spirit but also that of his friends.",
     "jp": "良き作家は自分の精神だけでなく、友の精神も持つ。",
-    "id": "q1660"
+    "id": "q1660",
+    "tips": [
+      "possess：所有する、備えている",
+      "not only A but also B：AだけでなくBも",
+      "that of his friends：友人たちの精神（that は spirit の代わり）"
+    ]
   },
   {
     "author": "Nietzsche",
