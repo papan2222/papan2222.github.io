@@ -7641,181 +7641,327 @@
     "author": "Oscar Wilde",
     "en": "An idea that is not dangerous is unworthy of being called an idea at all.",
     "jp": "危険でない考えは、そもそも「考え」と呼ぶ価値がない。",
-    "id": "q0701"
+    "id": "q0701",
+    "tips": [
+      "unworthy of -ing：〜するに値しない",
+      "be called：〜と呼ばれる",
+      "at all：そもそも、まったく"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "By giving us the opinions of the uneducated, journalism keeps us in touch with the ignorance of the community.",
     "jp": "無学な人々の意見を伝えることで、ジャーナリズムは社会の無知と私たちをつなぎ続けている。",
-    "id": "q0702"
+    "id": "q0702",
+    "tips": [
+      "the uneducated：教育を受けていない人々",
+      "keep A in touch with B：AをBに触れさせ続ける",
+      "ignorance：無知"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul.",
     "jp": "魂を癒せるのは感覚だけであり、感覚を癒せるのは魂だけだ。",
-    "id": "q0703"
+    "id": "q0703",
+    "tips": [
+      "nothing but：〜以外には何もない",
+      "the senses：五感",
+      "just as：ちょうど〜と同じように"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Bad people are, from the point of view of art, fascinating studies. They represent colour, variety and strangeness. Good people exasperate one's reason; bad people stir one's imagination.",
     "jp": "芸術の観点から見ると、悪人は魅力的な題材だ。色彩、変化、奇妙さを備え、善人が理性を疲弊させるのに対し、悪人は想像力をかき立てる。",
-    "id": "q0704"
+    "id": "q0704",
+    "tips": [
+      "from the point of view of：〜の観点から",
+      "exasperate：ひどくいらだたせる",
+      "stir one's imagination：想像力をかき立てる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The salesman knows nothing of what he is selling save that he is charging a great deal too much for it.",
     "jp": "そのセールスマンは、売っている物のことは何も知らないが、法外な値段を付けていることだけは知っている。",
-    "id": "q0705"
+    "id": "q0705",
+    "tips": [
+      "save that：〜ということを除いて",
+      "charge A for B：Bに対してAの代金を請求する",
+      "a great deal too much：あまりにも多すぎる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There are many things that we would throw away if we were not afraid that others might pick them up.",
     "jp": "他人が拾うのを恐れなければ、私たちは多くの物を捨てるだろう。",
-    "id": "q0706"
+    "id": "q0706",
+    "tips": [
+      "throw away：捨てる",
+      "be afraid that：〜ではないかと恐れる",
+      "pick up：拾う"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is only the modern that ever becomes old-fashioned.",
     "jp": "時代遅れになるのは、いつだって「最新」のものだけだ。",
-    "id": "q0707"
+    "id": "q0707",
+    "tips": [
+      "the modern：現代的なもの",
+      "old-fashioned：時代遅れの",
+      "It is ... that：〜なのは…だ（強調構文）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I am the only person in the world I should like to know thoroughly.",
     "jp": "私が徹底的に知りたいと思う人間は、この世で自分だけだ。",
-    "id": "q0708"
+    "id": "q0708",
+    "tips": [
+      "the only person：唯一の人",
+      "should like to：〜したい（would like to に近い表現）",
+      "thoroughly：徹底的に"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "If one could only teach the English how to talk, and the Irish how to listen, society here would be quite civilized.",
     "jp": "イギリス人に話し方を、アイルランド人に聞き方を教えられれば、この社会はかなり文明的になるだろう。",
-    "id": "q0709"
+    "id": "q0709",
+    "tips": [
+      "if one could only：もし〜さえできれば",
+      "teach A how to do：Aに〜の仕方を教える",
+      "civilized：文明的な、洗練された"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Death and vulgarity are the only two facts in the nineteenth century that one cannot explain away.",
     "jp": "19世紀において説明のしようがない事実は、死と下品さだけだ。",
-    "id": "q0710"
+    "id": "q0710",
+    "tips": [
+      "vulgarity：下品さ",
+      "explain away：説明によって問題を取り繕う、正当化する"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "How marriage ruins a man! It is as demoralizing as cigarettes, and far more expensive.",
     "jp": "結婚が男をどれほどダメにすることか！タバコ並みに有害で、ずっと高くつく。",
-    "id": "q0711"
+    "id": "q0711",
+    "tips": [
+      "ruin：台無しにする",
+      "demoralizing：士気をくじく、堕落させる",
+      "far more expensive：はるかに高くつく"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Hatred is blind, as well as love.",
     "jp": "愛が盲目であるように、憎しみもまた盲目だ。",
-    "id": "q0712"
+    "id": "q0712",
+    "tips": [
+      "hatred：憎しみ",
+      "blind：盲目の",
+      "as well as：〜と同様に"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In America the President reigns for four years, and Journalism governs forever and ever.",
     "jp": "アメリカでは大統領が4年間君臨し、ジャーナリズムは永遠に支配する。",
-    "id": "q0713"
+    "id": "q0713",
+    "tips": [
+      "reign：君臨する",
+      "govern：統治する",
+      "forever and ever：永遠に"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The critic has to educate the public; the artist has to educate the critic.",
     "jp": "批評家は大衆を教育し、芸術家は批評家を教育しなければならない。",
-    "id": "q0714"
+    "id": "q0714",
+    "tips": [
+      "critic：批評家",
+      "educate：教育する",
+      "the public：一般大衆"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The function of the artist is to invent, not to chronicle.",
     "jp": "芸術家の役割は、記録することではなく創造することだ。",
-    "id": "q0715"
+    "id": "q0715",
+    "tips": [
+      "function：役割",
+      "invent：創造する",
+      "chronicle：年代順に記録する（動詞）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Yes, there is a terrible moral in 'Dorian Gray' - a moral which the prurient will not be able to find in it, but it will be revealed to all whose minds are healthy. Is this an artistic error? I fear it is. It is the only error in the book.",
     "jp": "『ドリアン・グレイ』には恐ろしい道徳がある。それは好色な者には見つからず、健全な心の者には明らかになる。芸術的な失敗か？おそらくそうだ。この本で唯一の失敗だ。",
-    "id": "q0716"
+    "id": "q0716",
+    "tips": [
+      "moral：教訓",
+      "the prurient：好色な人々",
+      "be revealed to：〜に明らかにされる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "While we look to the dramatist to give romance to realism, we ask of the actor to give realism to romance.",
     "jp": "劇作家には現実にロマンスを与えることを、俳優にはロマンスに現実を与えることを求める。",
-    "id": "q0717"
+    "id": "q0717",
+    "tips": [
+      "look to A to do：Aが〜することを期待する",
+      "dramatist：劇作家",
+      "ask of：〜に求める"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "If one cannot enjoy reading a book over and over again, there is no use in reading it at all.",
     "jp": "何度も読んで楽しめない本は、最初から読む価値がない。",
-    "id": "q0718"
+    "id": "q0718",
+    "tips": [
+      "over and over again：何度も繰り返し",
+      "there is no use in -ing：〜しても無駄だ",
+      "at all：まったく"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In modern life nothing produces such an effect as a good platitude. It makes the whole world kin.",
     "jp": "現代社会で最大の効果を生むのは、うまい決まり文句だ。それは世界中の人を仲間にする。",
-    "id": "q0719"
+    "id": "q0719",
+    "tips": [
+      "produce an effect：効果を生む",
+      "platitude：ありふれた決まり文句",
+      "kin：親族、身内"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "London is too full of fogs and serious people. Whether the fogs produce the serious people, or whether the serious people produce the fogs, I don't know.",
     "jp": "ロンドンは霧と深刻な人々でいっぱいだ。霧が人を深刻にするのか、人が霧を生むのかはわからない。",
-    "id": "q0720"
+    "id": "q0720",
+    "tips": [
+      "be full of：〜でいっぱいである",
+      "fog：霧",
+      "whether A or B：AなのかBなのか"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Man is a rational animal who always loses his temper when he is called upon to act in accordance with the dictates of reason.",
     "jp": "人間は理性に従って行動するよう求められると、必ずかっとなる理性的動物だ。",
-    "id": "q0721"
+    "id": "q0721",
+    "tips": [
+      "rational：理性的な",
+      "lose one's temper：かっとなる",
+      "in accordance with：〜に従って"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The well bred contradict other people. The wise contradict themselves.",
     "jp": "教養ある者は他人に反論し、賢者は自分に反論する。",
-    "id": "q0722"
+    "id": "q0722",
+    "tips": [
+      "well bred：育ちのよい",
+      "contradict：反論する、矛盾する",
+      "the wise：賢い人々"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Perhaps one of the most difficult things for us to do is to choose a notable and joyous dress for men. There would be more joy in life if we were to accustom ourselves to use all the beautiful colours we can in fashioning our own clothes.",
     "jp": "男性用の華やかで楽しい服を選ぶことほど難しいことはない。服に美しい色を使う習慣があれば、人生はもっと楽しくなるだろう。",
-    "id": "q0723"
+    "id": "q0723",
+    "tips": [
+      "notable：目を引く、注目すべき",
+      "accustom oneself to：〜に慣れる",
+      "fashion：形作る、作る（動詞）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A man can be happy with any woman, as long as he does not love her.",
     "jp": "女性を愛さない限り、男はどんな女性とでも幸せでいられる。",
-    "id": "q0724"
+    "id": "q0724",
+    "tips": [
+      "as long as：〜する限り",
+      "be happy with：〜と幸せに過ごす"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Do you really think it is weakness that yields to temptation? I tell you that there are terrible temptations which it requires strength, strength and courage to yield to.",
     "jp": "誘惑に屈するのが弱さだと思うのか？屈するには力と勇気が必要な恐ろしい誘惑もあるのだ。",
-    "id": "q0725"
+    "id": "q0725",
+    "tips": [
+      "yield to：〜に屈する",
+      "temptation：誘惑",
+      "require strength：強さを必要とする"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There is always something infinitely mean about other people's tragedies.",
     "jp": "他人の悲劇には、いつも底知れない卑しさがある。",
-    "id": "q0726"
+    "id": "q0726",
+    "tips": [
+      "infinitely：限りなく",
+      "mean：卑劣な、意地の悪い（形容詞）",
+      "tragedy：悲劇"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Questions are never indiscreet, answers sometimes are.",
     "jp": "質問が無礼なことはないが、答えが無礼なことはある。",
-    "id": "q0727"
+    "id": "q0727",
+    "tips": [
+      "indiscreet：思慮に欠ける、無遠慮な",
+      "answers sometimes are：答えは時にそうである（形容詞の省略）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "If a work of art is rich and vital and complete, those who have artistic instincts will see its beauty, and those to whom ethics appeal more strongly than aesthetics will see its moral lesson. It will fill the cowardly with terror, and the unclean will see in it their own shame.",
     "jp": "豊かで生命力に満ちた完成された芸術作品は、美を求める者には美を、倫理を重んじる者には道徳を見せ、臆病者には恐怖を、不浄な者には恥を映す。",
-    "id": "q0728"
+    "id": "q0728",
+    "tips": [
+      "vital：生命力に満ちた",
+      "appeal to：〜の心を引く",
+      "ethics / aesthetics：倫理／美学"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "America had often been discovered before Columbus, but it had always been hushed up.",
     "jp": "コロンブス以前にもアメリカは何度も発見されていたが、常に隠されてきた。",
-    "id": "q0729"
+    "id": "q0729",
+    "tips": [
+      "had been discovered：発見されていた（過去完了の受動態）",
+      "hush up：隠蔽する、秘密にする"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "She is a peacock in everything but beauty.",
     "jp": "彼女は美しさ以外すべてが派手だ。",
-    "id": "q0730"
+    "id": "q0730",
+    "tips": [
+      "peacock：クジャク（ここでは虚栄心の強い人の比喩）",
+      "in everything but：〜以外のあらゆる点で",
+      "beauty：美しさ"
+    ]
   },
   {
     "author": "Oscar Wilde",
