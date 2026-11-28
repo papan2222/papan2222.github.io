@@ -16384,181 +16384,329 @@
     "author": "Nietzsche",
     "en": "Hope in reality is the worst of all evils because it prolongs torment.",
     "jp": "希望はすべての悪の中で最悪だ。なぜなら苦しみを長引かせるからだ。",
-    "id": "q1511"
+    "id": "q1511",
+    "tips": [
+      "in reality：実際には",
+      "prolong：長引かせる",
+      "torment：苦痛、苦悩（希望についての逆説的な主張）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Woman was God’s second mistake.",
     "jp": "女は神の二度目の過ちだった。",
-    "id": "q1512"
+    "id": "q1512",
+    "tips": [
+      "mistake：誤り、間違い",
+      "Woman：ここでは女性一般を指す総称的な用法（原文は女性を否定的に扱う表現）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "God is dead. God remains dead. And we have killed him.",
     "jp": "神は死んだ。神は死んだまま残っている。そして私たちが殺したのだ。",
-    "id": "q1513"
+    "id": "q1513",
+    "tips": [
+      "remain dead：死んだままである",
+      "have killed：殺した（現在完了）",
+      "God is dead：神の権威や従来の価値観の喪失を示す哲学的表現"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "We should consider every day lost on which we have not danced at least once.",
     "jp": "一度も踊らなかった日は、失われた日と考えるべきだ。",
-    "id": "q1514"
+    "id": "q1514",
+    "tips": [
+      "consider A lost：Aを失われたものと見なす",
+      "on which：その日に（day を受ける関係代名詞）",
+      "at least once：少なくとも一度"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The future influences the present just as much as the past.",
     "jp": "未来は過去と同じくらい現在に影響を与える。",
-    "id": "q1515"
+    "id": "q1515",
+    "tips": [
+      "influence：〜に影響を与える",
+      "the present：現在",
+      "just as much as：〜とまったく同じ程度に"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Rejoicing in our joy, not suffering over our suffering, makes someone a friend.",
     "jp": "私たちの喜びを共に喜び、苦しみを共に苦しまぬ人こそ友だ。",
-    "id": "q1516"
+    "id": "q1516",
+    "tips": [
+      "rejoice in：〜を喜ぶ",
+      "suffer over：〜について苦しむ",
+      "not A but B に通じる対比で、喜びを分かち合うことを重視している"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "On the mountains of truth you can never climb in vain.",
     "jp": "真理の山を登ることは決して無駄にならない。",
-    "id": "q1517"
+    "id": "q1517",
+    "tips": [
+      "in vain：無駄に、むなしく",
+      "climb：登る",
+      "mountains of truth：真理の山（真理を探求する過程の比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The demand to be loved is the greatest of all presumptions.",
     "jp": "愛されたいという要求は、あらゆる思い上がりの中で最も大きい。",
-    "id": "q1518"
+    "id": "q1518",
+    "tips": [
+      "demand：要求",
+      "to be loved：愛されること（受動態の不定詞）",
+      "presumption：思い上がり、厚かましさ"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "To forget one’s purpose is the commonest form of stupidity.",
     "jp": "目的を忘れることは、最もありふれた愚かさである。",
-    "id": "q1519"
+    "id": "q1519",
+    "tips": [
+      "one's purpose：自分の目的",
+      "commonest：common の最上級、最も一般的な",
+      "stupidity：愚かさ"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Thoughts are the shadows of our feelings.",
     "jp": "思考は感情の影だ。",
-    "id": "q1520"
+    "id": "q1520",
+    "tips": [
+      "thought：思考、考え",
+      "shadow：影（感情が思考に反映されるという比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "This is what is hardest: to close the open hand because one loves.",
     "jp": "最も難しいこと、それは愛のゆえに開いた手を閉じることだ。",
-    "id": "q1521"
+    "id": "q1521",
+    "tips": [
+      "what is hardest：最も難しいこと",
+      "close the open hand：開いた手を閉じる（愛ゆえの抑制を示唆する比喩）",
+      "because one loves：愛しているからこそ"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "God is a thought who makes crooked all that is straight.",
     "jp": "神とは、まっすぐなものを曲げる思考だ。",
-    "id": "q1522"
+    "id": "q1522",
+    "tips": [
+      "crooked：曲がった、ゆがんだ",
+      "make A crooked：Aをゆがめる（使役構文）",
+      "all that is straight：まっすぐなものすべて"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There are various eyes, and so various truths.",
     "jp": "目がさまざまであるように、真理もさまざまだ。",
-    "id": "q1523"
+    "id": "q1523",
+    "tips": [
+      "various：さまざまな",
+      "and so：したがって、それゆえ",
+      "eyes：ここでは物事を見る視点の比喩"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The irrationality of a thing is no argument against its existence.",
     "jp": "あるものが非合理だからといって、それが存在しない理由にはならない。",
-    "id": "q1524"
+    "id": "q1524",
+    "tips": [
+      "irrationality：非合理性",
+      "argument against：〜に反対する論拠",
+      "existence：存在"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The surest way to corrupt a youth is to teach him to value conformity over difference.",
     "jp": "青年を堕落させる最も確実な方法は、違う者より同じ者を重んじさせることだ。",
-    "id": "q1525"
+    "id": "q1525",
+    "tips": [
+      "the surest way to do：〜する最も確実な方法",
+      "corrupt：堕落させる",
+      "value A over B：BよりAを重視する（conformity は同調）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Success has always been a great liar.",
     "jp": "成功は常に大いなる嘘つきだった。",
-    "id": "q1526"
+    "id": "q1526",
+    "tips": [
+      "success：成功",
+      "liar：うそつき",
+      "has always been：昔からずっと〜である（成功の擬人化）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Blessed are the forgetful: for they get the better even of their blunders.",
     "jp": "忘れっぽい人は幸いだ。過ちすら乗り越えられるから。",
-    "id": "q1527"
+    "id": "q1527",
+    "tips": [
+      "Blessed are ...：幸いなるかな、〜する人々（倒置）",
+      "get the better of：〜に打ち勝つ",
+      "blunder：大きな過ち"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The most common lie is that which one lies to himself; lying to others is relatively an exception.",
     "jp": "最もよくある嘘は、自分自身につく嘘だ。他人への嘘はむしろ例外である。",
-    "id": "q1528"
+    "id": "q1528",
+    "tips": [
+      "that which：〜するもの",
+      "lie to oneself：自分自身を欺く",
+      "relatively：比較的に"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "A woman may form a friendship with a man, but to endure it needs a little physical antipathy.",
     "jp": "女が男と友情を築けても、それが続くには少しの身体的な反発が必要だ。",
-    "id": "q1529"
+    "id": "q1529",
+    "tips": [
+      "form a friendship with：〜と友情を築く",
+      "endure：長続きする",
+      "antipathy：反感、嫌悪感（原文では身体的な反発を指す）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "One should die proudly when it is no longer possible to live proudly.",
     "jp": "誇りを持って生きられぬなら、誇りを持って死ぬべきだ。",
-    "id": "q1530"
+    "id": "q1530",
+    "tips": [
+      "proudly：誇りを持って",
+      "no longer：もはや〜ない",
+      "it is possible to do：〜することが可能である（原文は死に関する哲学的主張であり、行動を勧めるものではない）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "He who fights with monsters might take care lest he thereby become a monster.",
     "jp": "怪物と戦う者は、自らも怪物にならぬよう気をつけねばならない。",
-    "id": "q1531"
+    "id": "q1531",
+    "tips": [
+      "take care lest ...：〜しないように注意する（古風な構文）",
+      "thereby：それによって",
+      "monster：怪物（対抗する悪に自ら染まることの比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "I am a pure-blooded Polish nobleman, certainly not German blood.",
     "jp": "私は純血のポーランド貴族であり、決してドイツの血ではない。",
-    "id": "q1532"
+    "id": "q1532",
+    "tips": [
+      "pure-blooded：純血の",
+      "nobleman：貴族",
+      "German blood：ドイツ系の血筋（原文は話者の自己認識を述べたもの）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "A casual stroll through the lunatic asylum shows that faith proves nothing.",
     "jp": "精神病院をひと巡りすれば、信仰が何も証明しないことがわかる。",
-    "id": "q1533"
+    "id": "q1533",
+    "tips": [
+      "casual stroll：気軽な散歩",
+      "lunatic asylum：精神科施設を指す歴史的な呼称（現代では侮蔑的に響くため使用に注意）",
+      "prove nothing：何も証明しない"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "When one has a great deal to put into it a day has a hundred pockets.",
     "jp": "多くを詰め込める者には、一日は百のポケットを持つ。",
-    "id": "q1534"
+    "id": "q1534",
+    "tips": [
+      "a great deal：多くのもの",
+      "put into：〜に注ぎ込む",
+      "a hundred pockets：百のポケット（充実した一日の容量を表す比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In the truth man perceives, he sees only the absurdity of existence and loathing seizes him.",
     "jp": "人が真実を悟るとき、存在の不条理だけが見え、嫌悪にとらわれる。",
-    "id": "q1535"
+    "id": "q1535",
+    "tips": [
+      "perceive：知覚する、認識する",
+      "absurdity：不条理さ",
+      "loathing seizes him：嫌悪感が彼をとらえる（感情の擬人化）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Stupid as a man, say the women; cowardly as a woman, say the men.",
     "jp": "女は「男は愚かだ」と言い、男は「女は臆病だ」と言う。",
-    "id": "q1536"
+    "id": "q1536",
+    "tips": [
+      "stupid：愚かな",
+      "cowardly：臆病な",
+      "say the women / say the men：引用の後に話者を置く倒置（男女の固定観念を対比した原文）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "I cannot believe in a God who wants to be praised all the time.",
     "jp": "常に賛美されたいと望む神を、私は信じられない。",
-    "id": "q1537"
+    "id": "q1537",
+    "tips": [
+      "believe in：〜の存在を信じる",
+      "want to be praised：称賛されることを望む",
+      "all the time：いつも、絶えず"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "One may tell a lie, but the grimace that accompanies it tells the truth.",
     "jp": "嘘はつけても、それに伴う顔が真実を語る。",
-    "id": "q1538"
+    "id": "q1538",
+    "tips": [
+      "tell a lie：うそをつく",
+      "grimace：顔をしかめること、しかめ面",
+      "accompany：〜に伴う"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
     "jp": "不幸な結婚を生むのは愛の不足ではなく、友情の不足だ。",
-    "id": "q1539"
+    "id": "q1539",
+    "tips": [
+      "a lack of：〜の不足、欠如",
+      "It is not A but B that ...：…するのはAではなくBだ（強調構文）",
+      "unhappy marriage：不幸な結婚生活"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Love is not consolation. It is light.",
     "jp": "愛は慰めではない。光である。",
-    "id": "q1540"
+    "id": "q1540",
+    "tips": [
+      "consolation：慰め",
+      "light：光（愛が物事を照らし出すものだという比喩）",
+      "短い二文で慰めと光を対比している"
+    ]
   },
   {
     "author": "Nietzsche",
