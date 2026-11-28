@@ -1105,181 +1105,329 @@
     "author": "Eric Hoffer",
     "en": "We all have private ails. The troublemakers are they who need public cures for their private ails.",
     "jp": "誰もが個人的な病を抱えている。厄介なのは、それを公共の治療で癒やそうとする人たちだ。",
-    "id": "q0101"
+    "id": "q0101",
+    "tips": [
+      "ail：悩み、病（名詞としてはまれな用法）",
+      "troublemaker：問題を起こす人",
+      "cure for：〜の治療法、解決策"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Where there is the necessary technical skill to move mountains, there is no need for the faith that moves mountains.",
     "jp": "山を動かす技術があれば、山を動かす信仰は必要ない。",
-    "id": "q0102"
+    "id": "q0102",
+    "tips": [
+      "technical skill：技術的能力",
+      "move mountains：山を動かす、困難を克服する",
+      "there is no need for：〜は必要ない"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The world leans on us. When we sag, the whole world seems to droop.",
     "jp": "世界は私たちにもたれかかっている。私たちがたるめば、世界全体がしおれてしまうように見える。",
-    "id": "q0103"
+    "id": "q0103",
+    "tips": [
+      "lean on：〜に寄りかかる、頼る",
+      "sag：たるむ、沈み込む",
+      "droop：垂れ下がる、しおれる"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The best part of the art of living is to know how to grow old gracefully.",
     "jp": "人生の技術の最良の部分は、優雅に年を重ねる方法を知ることだ。",
-    "id": "q0104"
+    "id": "q0104",
+    "tips": [
+      "the art of living：生きる技術",
+      "know how to do：〜の仕方を知っている",
+      "grow old gracefully：優雅に年を重ねる"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "A heresy can spring only from a system that is in full vigor.",
     "jp": "異端は、完全に活力ある体制からしか生まれない。",
-    "id": "q0105"
+    "id": "q0105",
+    "tips": [
+      "heresy：異端、通説に反する考え",
+      "spring from：〜から生じる",
+      "in full vigor：活力に満ちて"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Man was nature's mistake she neglected to finish him and she has never ceased paying for her mistake.",
     "jp": "人間は自然の失敗作だ。自然は人間を作り終えることを怠り、その失敗の代償を払い続けている。",
-    "id": "q0106"
+    "id": "q0106",
+    "tips": [
+      "neglect to do：〜するのを怠る",
+      "cease -ing：〜するのをやめる",
+      "pay for one's mistake：自分の過ちの代償を払う"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "When cowardice is made respectable, its followers are without number both from among the weak and the strong; it easily becomes a fashion.",
     "jp": "臆病が尊ばれるようになると、その信奉者は弱者にも強者にも数え切れないほど現れ、たやすく流行になる。",
-    "id": "q0107"
+    "id": "q0107",
+    "tips": [
+      "cowardice：臆病さ",
+      "respectable：尊敬に値する、世間体のよい",
+      "without number：数え切れないほどの"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "Unpredictability, too, can become monotonous.",
     "jp": "予測不能さもまた、やがて単調になり得る。",
-    "id": "q0108"
+    "id": "q0108",
+    "tips": [
+      "unpredictability：予測不可能性",
+      "monotonous：単調な",
+      "too：〜もまた"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The pleasure we derive from doing favors is partly in the feeling it gives us that we are not altogether worthless. It is a pleasant surprise to ourselves.",
     "jp": "親切をして得られる喜びの一部は、自分がまったく無価値ではないと感じられることにある。それは自分への心地よい驚きだ。",
-    "id": "q0109"
+    "id": "q0109",
+    "tips": [
+      "derive A from B：BからAを得る",
+      "do favors：親切な行為をする",
+      "not altogether：完全に〜というわけではない"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "What greater reassurance can the weak have than that they are like anyone else?",
     "jp": "弱者にとって、自分が他の誰とも変わらないという安心感ほど大きなものはない。",
-    "id": "q0110"
+    "id": "q0110",
+    "tips": [
+      "reassurance：安心感",
+      "the weak：弱い人々",
+      "anyone else：ほかの誰か、ほかの人々"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "We are told that talent creates its own opportunities. But it sometimes seems that intense desire creates not only its own opportunities, but its own talents.",
     "jp": "才能は自ら機会を生み出すと言われるが、強い欲望は機会だけでなく才能そのものをも生み出すことがあるようだ。",
-    "id": "q0111"
+    "id": "q0111",
+    "tips": [
+      "talent：才能",
+      "intense desire：強い欲求",
+      "not only A but B：AだけでなくBも"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "It is remarkable by how much a pinch of malice enhances the penetrating power of an idea or an opinion. Our ears, it seems, are wonderfully attuned to sneers and evil reports about our fellow men.",
     "jp": "ほんの少しの悪意が、ある考えや意見の浸透力をどれほど高めるかは驚くべきことだ。私たちの耳は、どうやら他人への嘲りや悪評に非常によく反応するらしい。",
-    "id": "q0112"
+    "id": "q0112",
+    "tips": [
+      "a pinch of：ひとつまみの、少量の",
+      "enhance：高める",
+      "be attuned to：〜に敏感である"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "The individual who has to justify his existence by his own efforts is in eternal bondage to himself.",
     "jp": "自らの努力で存在意義を証明しなければならない人は、永遠に自分自身の奴隷である。",
-    "id": "q0113"
+    "id": "q0113",
+    "tips": [
+      "justify one's existence：自分の存在を正当化する",
+      "by one's own efforts：自力で",
+      "bondage：束縛、隷属"
+    ]
   },
   {
     "author": "Eric Hoffer",
     "en": "A dissenting minority feels free only when it can impose its will on the majority: what it abominates most is the dissent of the majority.",
     "jp": "少数派は、自分の意志を多数派に押し付けられるときにしか自由を感じない。彼らが最も嫌悪するのは、多数派からの異議だ。",
-    "id": "q0114"
+    "id": "q0114",
+    "tips": [
+      "dissenting minority：異議を唱える少数派",
+      "impose one's will on：〜に自分の意志を押し付ける",
+      "abominate：ひどく嫌う"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The best way to cheer yourself up is to try to cheer somebody else up.",
     "jp": "自分を元気づける一番の方法は、誰かを元気づけようとすることだ。",
-    "id": "q0115"
+    "id": "q0115",
+    "tips": [
+      "cheer oneself up：自分を元気づける",
+      "cheer somebody up：誰かを元気づける",
+      "the best way to do：〜する最善の方法"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
     "jp": "年齢は気の持ちようだ。気にしなければ、問題ではない。",
-    "id": "q0116"
+    "id": "q0116",
+    "tips": [
+      "mind over matter：精神力が物質的・身体的な問題に勝ること",
+      "mind：気にする",
+      "matter：重要である（mind と matter の言葉遊び）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The secret of getting ahead is getting started.",
     "jp": "前進する秘訣は、まず始めることだ。",
-    "id": "q0117"
+    "id": "q0117",
+    "tips": [
+      "the secret of -ing：〜する秘訣",
+      "get ahead：成功する、先へ進む",
+      "get started：始める"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself.",
     "jp": "もしあなたが愚か者で、議員だとしたら…いや、それは同じことだ。",
-    "id": "q0118"
+    "id": "q0118",
+    "tips": [
+      "suppose：〜と仮定してみる",
+      "a member of Congress：米国議会の議員",
+      "repeat oneself：同じことを繰り返し言う"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "All you need in this life is ignorance and confidence, and then success is sure.",
     "jp": "人生に必要なのは無知と自信、それさえあれば成功は確実だ。",
-    "id": "q0119"
+    "id": "q0119",
+    "tips": [
+      "all you need：必要なものすべて",
+      "ignorance：無知",
+      "confidence：自信"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Do the right thing. It will gratify some people and astonish the rest.",
     "jp": "正しいことをしなさい。それは一部の人を喜ばせ、残りの人を驚かせる。",
-    "id": "q0120"
+    "id": "q0120",
+    "tips": [
+      "do the right thing：正しいことをする",
+      "gratify：喜ばせる、満足させる",
+      "astonish：驚かせる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Go to Heaven for the climate, Hell for the company.",
     "jp": "気候を求めるなら天国へ、人付き合いを求めるなら地獄へ行け。",
-    "id": "q0121"
+    "id": "q0121",
+    "tips": [
+      "climate：気候",
+      "company：ここでは一緒に過ごす仲間",
+      "後半の Hell for the company では Go to が省略されている"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Courage is resistance to fear, mastery of fear, not absence of fear.",
     "jp": "勇気とは恐れに抵抗し、恐れを支配することであって、恐れがないことではない。",
-    "id": "q0122"
+    "id": "q0122",
+    "tips": [
+      "resistance to：〜への抵抗",
+      "mastery of：〜を制御すること、習熟",
+      "absence of：〜がないこと"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Never put off till tomorrow what you can do the day after tomorrow.",
     "jp": "明後日できることは、明日まで延ばすな。",
-    "id": "q0123"
+    "id": "q0123",
+    "tips": [
+      "put off：延期する",
+      "till：〜まで",
+      "the day after tomorrow：明後日"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.",
     "jp": "事実は小説より奇なり。それは小説が可能性の範囲に縛られるが、事実はそうではないからだ。",
-    "id": "q0124"
+    "id": "q0124",
+    "tips": [
+      "fiction：フィクション、創作",
+      "be obliged to do：〜せざるを得ない",
+      "stick to：〜を守る、〜から離れない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "We have the best government that money can buy.",
     "jp": "我々の政府は、金で買える最高の政府だ。",
-    "id": "q0125"
+    "id": "q0125",
+    "tips": [
+      "the best ... that money can buy：お金で買える最高の〜（ここでは政治への皮肉）",
+      "government：政府、統治"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "You can't depend on your eyes when your imagination is out of focus.",
     "jp": "想像力がぼやけているときは、目も当てにならない。",
-    "id": "q0126"
+    "id": "q0126",
+    "tips": [
+      "depend on：〜を頼りにする",
+      "imagination：想像力",
+      "out of focus：焦点が合っていない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The human race has one really effective weapon, and that is laughter.",
     "jp": "人類が持つ本当に有効な武器は、笑いだ。",
-    "id": "q0127"
+    "id": "q0127",
+    "tips": [
+      "the human race：人類",
+      "effective：効果的な",
+      "laughter：笑い（不可算名詞）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Action speaks louder than words but not nearly as often.",
     "jp": "行動は言葉より雄弁だが、言葉ほど頻繁には現れない。",
-    "id": "q0128"
+    "id": "q0128",
+    "tips": [
+      "speak louder than words：言葉以上に雄弁に物語る",
+      "not nearly as often：それほど頻繁には〜ない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I don't like to commit myself about heaven and hell - you see, I have friends in both places.",
     "jp": "天国と地獄については断言できない。どちらにも友達がいるからね。",
-    "id": "q0129"
+    "id": "q0129",
+    "tips": [
+      "commit oneself about：〜について明確な立場を取る",
+      "you see：ほら、というのも（説明を添える表現）",
+      "both places：両方の場所"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen.",
     "jp": "80歳で生まれて、18歳に向かって若返ることができたら、人生はもっと幸せだろう。",
-    "id": "q0130"
+    "id": "q0130",
+    "tips": [
+      "infinitely：限りなく、はるかに",
+      "if we could only：もし〜できさえすれば（仮定法）",
+      "gradually approach：徐々に〜に近づく"
+    ]
   },
   {
     "author": "Mark Twain",
