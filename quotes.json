@@ -7316,181 +7316,326 @@
     "author": "Oscar Wilde",
     "en": "All women become like their mothers. That is their tragedy. No man does. That's his.",
     "jp": "女性は皆母親に似ていく。それが彼女たちの悲劇だ。男性はそうならない。それが彼らの悲劇だ。",
-    "id": "q0671"
+    "id": "q0671",
+    "tips": [
+      "become like：〜に似てくる",
+      "tragedy：悲劇",
+      "No man does：男性は誰もそうならない（動詞句の省略）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Alas, I am dying beyond my means.",
     "jp": "ああ、私は身分不相応な死に方をしている。",
-    "id": "q0672"
+    "id": "q0672",
+    "tips": [
+      "alas：悲しいかな",
+      "beyond one's means：自分の経済力を超えて（通常は live beyond one's means と使う）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is the spectator, and not life, that art really mirrors.",
     "jp": "芸術が本当に映すのは人生ではなく、観客だ。",
-    "id": "q0673"
+    "id": "q0673",
+    "tips": [
+      "spectator：鑑賞者、観客",
+      "mirror：映し出す（動詞）",
+      "It is A that ...：〜するのはAだ（強調構文）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "All art is at once surface and symbol. Those who go beneath the surface do so at their peril. Those who read the symbol do so at their peril. It is the spectator, and not life, that art really mirrors. Diversity of opinion about a work of art shows that the work is new, complex and vital.",
     "jp": "芸術は同時に表面であり象徴でもある。表面の奥に踏み込むのも、象徴を読むのも危険だ。芸術が映すのは人生ではなく観客であり、意見の多様さは作品が新しく複雑で生命力に満ちている証拠だ。",
-    "id": "q0674"
+    "id": "q0674",
+    "tips": [
+      "at once A and B：Aであると同時にBでもある",
+      "at one's peril：危険を承知で",
+      "diversity of opinion：意見の多様性"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "If one plays good music, people don't listen and if one plays bad music people don't talk.",
     "jp": "良い音楽を演奏しても人は聴かず、悪い音楽を演奏すると人は話をやめない。",
-    "id": "q0675"
+    "id": "q0675",
+    "tips": [
+      "play music：音楽を演奏する",
+      "one：一般の人を指す代名詞",
+      "listen と talk の対比が皮肉を生む"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Seriousness is the only refuge of the shallow.",
     "jp": "真剣さは浅はかな人の唯一の避難所だ。",
-    "id": "q0676"
+    "id": "q0676",
+    "tips": [
+      "seriousness：真面目さ",
+      "refuge：逃げ場、よりどころ",
+      "the shallow：浅薄な人々"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I have nothing to declare except my genius.",
     "jp": "私には天才以外、申告するものはない。",
-    "id": "q0677"
+    "id": "q0677",
+    "tips": [
+      "declare：申告する（税関などで使う語）",
+      "nothing ... except：〜以外には何もない",
+      "genius：天才的才能"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "When a man has once loved a woman he will do anything for her except continue to love her.",
     "jp": "男は一度女性を愛すると、愛し続けること以外なら何でもする。",
-    "id": "q0678"
+    "id": "q0678",
+    "tips": [
+      "once：一度",
+      "do anything for：〜のためなら何でもする",
+      "except：〜を除いて"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Anybody can be good in the country. There are no temptations there.",
     "jp": "田舎では誰でも善人になれる。誘惑がないからだ。",
-    "id": "q0679"
+    "id": "q0679",
+    "tips": [
+      "in the country：田舎で",
+      "temptation：誘惑"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In America the young are always ready to give to those who are older than themselves the full benefits of their inexperience.",
     "jp": "アメリカでは若者は、年上の人に自分の未熟さを惜しみなく与える。",
-    "id": "q0680"
+    "id": "q0680",
+    "tips": [
+      "be ready to do：進んで〜する",
+      "benefit：恩恵",
+      "inexperience：経験不足（恩恵との組み合わせが皮肉）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "You will always be fond of me. I represent to you all the sins you have never had the courage to commit.",
     "jp": "あなたはきっと私を好きでい続ける。私はあなたが決して犯す勇気を持てなかったすべての罪を体現しているからだ。",
-    "id": "q0681"
+    "id": "q0681",
+    "tips": [
+      "be fond of：〜を好む",
+      "represent：象徴する",
+      "have the courage to commit：犯す勇気がある（commit a sin：罪を犯す）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Every portrait that is painted with feeling is a portrait of the artist, not of the sitter.",
     "jp": "感情を込めて描かれた肖像画は、座っている人物ではなく画家自身の肖像だ。",
-    "id": "q0682"
+    "id": "q0682",
+    "tips": [
+      "portrait：肖像画",
+      "with feeling：感情を込めて",
+      "sitter：肖像画のモデル"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There are only two kinds of people who are really fascinating - people who know absolutely everything, and people who know absolutely nothing.",
     "jp": "本当に魅力的な人間は二種類しかいない。すべてを知っている人と、何も知らない人だ。",
-    "id": "q0683"
+    "id": "q0683",
+    "tips": [
+      "fascinating：魅力的な",
+      "absolutely：完全に",
+      "everything と nothing：すべてと無の対比"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Sometimes the poor are praised for being thrifty. But to recommend thrift to the poor is both grotesque and insulting. It is like advising a man who is starving to eat less.",
     "jp": "貧しい人が倹約を称賛されることはあるが、貧しい人に倹約を勧めるのは滑稽で侮辱的だ。飢えた人に「もっと食べるな」と言うようなものだ。",
-    "id": "q0684"
+    "id": "q0684",
+    "tips": [
+      "thrifty：倹約する",
+      "thrift：倹約",
+      "grotesque：異様な、ばかげた"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Our ambition should be to rule ourselves, the true kingdom for each one of us; and true progress is to know more, and be more, and to do more.",
     "jp": "私たちの野心は自分を治めることにあるべきだ。それが真の王国であり、本当の進歩とは、もっと知り、もっとなり、もっと行うことだ。",
-    "id": "q0685"
+    "id": "q0685",
+    "tips": [
+      "ambition：大志",
+      "rule oneself：自分自身を律する",
+      "progress：進歩"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Nothing is so aggravating than calmness.",
     "jp": "これほど腹立たしいものは落ち着き以外にない。",
-    "id": "q0686"
+    "id": "q0686",
+    "tips": [
+      "aggravating：いらだたしい",
+      "calmness：冷静さ",
+      "原文の so ... than は通常 as ... as または more ... than とする比較表現"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Perhaps, after all, America never has been discovered. I myself would say that it had merely been detected.",
     "jp": "もしかすると、アメリカは発見されたことがない。ただ見つかっただけだと私は思う。",
-    "id": "q0687"
+    "id": "q0687",
+    "tips": [
+      "after all：結局のところ",
+      "merely：単に",
+      "detect：見つけ出す、検知する（discover との対比）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Only the shallow know themselves.",
     "jp": "自分を知っているのは、浅はかな者だけだ。",
-    "id": "q0688"
+    "id": "q0688",
+    "tips": [
+      "the shallow：浅薄な人々",
+      "know oneself：自分自身を知る"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There is nothing in the world like the devotion of a married woman. It is a thing no married man knows anything about.",
     "jp": "既婚女性の献身に勝るものはない。それは既婚男性が全く知らないものだ。",
-    "id": "q0689"
+    "id": "q0689",
+    "tips": [
+      "devotion：献身",
+      "nothing like：〜に匹敵するものはない",
+      "know anything about：〜について何かを知っている"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In married life three is company and two none.",
     "jp": "結婚生活では、三人いれば仲良くでき、二人きりだと成り立たない。",
-    "id": "q0690"
+    "id": "q0690",
+    "tips": [
+      "married life：結婚生活",
+      "company：連れ、仲間",
+      "Three is company and two none：Two's company, three's a crowd ということわざを逆転させた表現"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I find it harder and harder every day to live up to my blue china.",
     "jp": "毎日、自分の高価な青磁に見合う生き方をするのがますます難しくなっている。",
-    "id": "q0691"
+    "id": "q0691",
+    "tips": [
+      "find it harder and harder to do：〜するのがますます難しいと感じる",
+      "live up to：〜にふさわしく生きる",
+      "china：磁器（ここでは青い磁器）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "When good Americans die they go to Paris.",
     "jp": "善良なアメリカ人は、死ぬとパリへ行く。",
-    "id": "q0692"
+    "id": "q0692",
+    "tips": [
+      "good Americans：善良なアメリカ人",
+      "go to Paris：パリへ行く（go to heaven を連想させる冗談）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Art should never try to be popular. The public should try to make itself artistic.",
     "jp": "芸術が大衆受けを狙うべきではない。大衆が芸術的になろうとすべきだ。",
-    "id": "q0693"
+    "id": "q0693",
+    "tips": [
+      "try to do：〜しようと努める",
+      "the public：一般大衆",
+      "make oneself artistic：自らを芸術的にする"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "One should always play fairly when one has the winning cards.",
     "jp": "勝てるカードを持っているときこそ、公正にプレーすべきだ。",
-    "id": "q0694"
+    "id": "q0694",
+    "tips": [
+      "play fairly：公正にプレーする",
+      "winning cards：勝てる手札（有利な立場の比喩）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There should be a law that no ordinary newspaper should be allowed to write about art. The harm they do by their foolish and random writing it would be impossible to overestimate - not to the artist, but to the public, blinding them to all but harming the artist not at all.",
     "jp": "普通の新聞が芸術について書くことを禁止する法律が必要だ。無知でいい加減な記事は、芸術家ではなく読者に害を与え、視野を狭める。",
-    "id": "q0695"
+    "id": "q0695",
+    "tips": [
+      "be allowed to do：〜することを許される",
+      "overestimate：過大評価する",
+      "blind A to B：AにBを見えなくさせる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "One's past is what one is. It is the only way by which people should be judged.",
     "jp": "過去こそがその人であり、それだけで人を判断すべきだ。",
-    "id": "q0696"
+    "id": "q0696",
+    "tips": [
+      "one's past：自分の過去",
+      "by which：それによって（前置詞＋関係代名詞）",
+      "be judged：評価される"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Arguments are extremely vulgar, for everyone in good society holds exactly the same opinion.",
     "jp": "議論は極めて下品だ。上流社会では全員がまったく同じ意見を持っているからだ。",
-    "id": "q0697"
+    "id": "q0697",
+    "tips": [
+      "vulgar：品のない",
+      "for：というのも（理由を示す接続詞）",
+      "hold an opinion：意見を持つ"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is better to have a permanent income than to be fascinating.",
     "jp": "魅力的であるより、安定収入がある方がいい。",
-    "id": "q0698"
+    "id": "q0698",
+    "tips": [
+      "permanent：恒久的な、継続的な",
+      "income：収入",
+      "fascinating：人を魅了する"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The basis of optimism is sheer terror.",
     "jp": "楽観主義の根底には純粋な恐怖がある。",
-    "id": "q0699"
+    "id": "q0699",
+    "tips": [
+      "basis：基盤、根拠",
+      "optimism：楽観主義",
+      "sheer terror：純然たる恐怖"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "If there was less sympathy in the world, there would be less trouble in the world.",
     "jp": "この世に同情が少なければ、問題も減るだろう。",
-    "id": "q0700"
+    "id": "q0700",
+    "tips": [
+      "sympathy：同情、共感",
+      "less：より少ない（不可算名詞に使う）",
+      "If there was ... there would be：もし〜なら…だろう（仮定法。were も用いられる）"
+    ]
   },
   {
     "author": "Oscar Wilde",
