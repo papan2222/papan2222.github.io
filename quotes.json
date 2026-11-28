@@ -13121,181 +13121,327 @@
     "author": "Thoreau",
     "en": "Civilization has built palaces but not noblemen.",
     "jp": "文明は宮殿を作ったが、貴族を作ることはできなかった。",
-    "id": "q1211"
+    "id": "q1211",
+    "tips": [
+      "civilization：文明",
+      "nobleman：貴族（ここでは精神的な高貴さも示唆する）",
+      "palaces but not noblemen：豪華な建物と人間の品格を対比している"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "To be admitted to Nature's hearth costs nothing.",
     "jp": "自然の炉辺に招かれるのに費用はかからない。拒むのは自分自身だけだ。",
-    "id": "q1212"
+    "id": "q1212",
+    "tips": [
+      "be admitted to：〜への立ち入りを許される",
+      "hearth：炉辺、暖炉のそば（自然の温かな迎え入れを表す比喩）",
+      "cost nothing：費用がまったくかからない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is too late to be studying Hebrew; it is more important to understand even the slang of today.",
     "jp": "いまさらヘブライ語を学ぶよりも、今日のスラングを理解するほうが大事だ。",
-    "id": "q1213"
+    "id": "q1213",
+    "tips": [
+      "too late to be doing：〜しているには遅すぎる",
+      "Hebrew：ヘブライ語",
+      "slang：俗語、くだけた言葉"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Every generation laughs at the old fashions, but follows religiously the new.",
     "jp": "どの世代も古い流行を笑い、新しい流行には忠実に従う。",
-    "id": "q1214"
+    "id": "q1214",
+    "tips": [
+      "generation：世代",
+      "laugh at：〜を笑う、あざ笑う",
+      "religiously：信仰のように忠実に、熱心に"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If you would convince a man that he does wrong, do right. Men will believe what they see.",
     "jp": "誰かに誤りを悟らせたければ、正しいことをせよ。人は見たものを信じる。",
-    "id": "q1215"
+    "id": "q1215",
+    "tips": [
+      "convince A that：Aに〜だと納得させる",
+      "do wrong / do right：悪い行いをする／正しい行いをする",
+      "would：ここでは意志や願望を表す"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is usually the imagination that is wounded first, rather than the heart.",
     "jp": "最初に傷つくのは心ではなく、想像力であることが多い。",
-    "id": "q1216"
+    "id": "q1216",
+    "tips": [
+      "It is ... that：〜こそが…だ（強調構文）",
+      "wound：傷つける",
+      "rather than：〜ではなく、むしろ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "How could youths better learn to live than by at once trying the experiment of living?",
     "jp": "若者が人生を学ぶ最良の方法は、実際に生きてみることだ。",
-    "id": "q1217"
+    "id": "q1217",
+    "tips": [
+      "youths：若者たち",
+      "at once：すぐに",
+      "experiment of living：実際に生きるという試み"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Being is the great explainer.",
     "jp": "存在そのものが最大の説明者である。",
-    "id": "q1218"
+    "id": "q1218",
+    "tips": [
+      "being：存在すること、実際のあり方",
+      "explainer：説明するもの（存在そのものが説明になるという表現）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "To have done anything just for money is to have been truly idle.",
     "jp": "お金のためだけにしたことは、真の怠惰である。",
-    "id": "q1219"
+    "id": "q1219",
+    "tips": [
+      "to have done：〜したこと（完了不定詞）",
+      "just for money：ただお金のためだけに",
+      "idle：怠惰な、実質的に何もしていない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The universe is wider than our views of it.",
     "jp": "宇宙は、私たちの見方よりもはるかに広い。",
-    "id": "q1220"
+    "id": "q1220",
+    "tips": [
+      "universe：宇宙、世界全体",
+      "wider than：〜より広い",
+      "views of it：それについての私たちの見方"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It is best to avoid the beginnings of evil.",
     "jp": "悪は始まりのうちに避けるのが最善だ。",
-    "id": "q1221"
+    "id": "q1221",
+    "tips": [
+      "It is best to do：〜するのが最善だ",
+      "avoid：避ける",
+      "the beginnings of evil：悪の芽生え、始まり"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Books are to be distinguished by the grandeur of their topics more than their style.",
     "jp": "本は書き方よりも、扱う主題の壮大さによって評価されるべきだ。",
-    "id": "q1222"
+    "id": "q1222",
+    "tips": [
+      "be distinguished by：〜によって特徴づけられる、評価される",
+      "grandeur：壮大さ、偉大さ",
+      "topic / style：題材／文体"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is danger that we lose sight of what our friend is absolutely, while considering what she is to us alone.",
     "jp": "友が「自分にとってどうか」ばかりを考えると、その人本来の姿を見失う危険がある。",
-    "id": "q1223"
+    "id": "q1223",
+    "tips": [
+      "lose sight of：〜を見失う",
+      "absolutely：ここでは他者との関係に左右されず、それ自体として",
+      "to us alone：私たちにとってだけ"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "There is always a present and extant life, better or worse, which all uphold.",
     "jp": "良かれ悪しかれ、常に存在し、支えられている現在の人生がある。",
-    "id": "q1224"
+    "id": "q1224",
+    "tips": [
+      "extant：現存する",
+      "better or worse：良くも悪くも、良いものであれ悪いものであれ",
+      "uphold：支える、維持する"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Do what nobody else can do for you. Omit to do anything else.",
     "jp": "他人にできないことをせよ。他のことはしなくていい。",
-    "id": "q1225"
+    "id": "q1225",
+    "tips": [
+      "nobody else：ほかの誰も〜ない",
+      "omit to do：〜することを省く、控える",
+      "anything else：それ以外のこと"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Nay, be a Columbus to whole new continents within you, opening new channels of thought.",
     "jp": "自分の中の新しい大陸を発見するコロンブスとなれ。思考の新しい水路を開け。",
-    "id": "q1226"
+    "id": "q1226",
+    "tips": [
+      "Nay：いや、それどころか（古風な語）",
+      "a Columbus：コロンブスのような探検者",
+      "channels of thought：思考の新たな経路（内面の探求を航海にたとえている）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Old deeds for old people, and new deeds for new.",
     "jp": "老いた人には古い行いを、新しい人には新しい行いを。",
-    "id": "q1227"
+    "id": "q1227",
+    "tips": [
+      "deed：行為、行い",
+      "new：末尾では new people の people が省略されている"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "God reigns when we take a liberal view.",
     "jp": "広い視野を持つとき、神は支配する。",
-    "id": "q1228"
+    "id": "q1228",
+    "tips": [
+      "reign：君臨する、支配する",
+      "take a liberal view：寛容で広い見方をする"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "In the meanest are all the materials of manhood, only not rightly disposed.",
     "jp": "卑しい者の中にも人間らしさの材料はあるが、それが正しく整えられていないだけだ。",
-    "id": "q1229"
+    "id": "q1229",
+    "tips": [
+      "the meanest：最も卑しい者、最も地位の低い者",
+      "manhood：ここでは人間としての資質",
+      "rightly disposed：適切に配置された、整えられた"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Nature puts no question and answers none which we mortals ask.",
     "jp": "自然は問いも答えもしない。すでに決意しているのだ。",
-    "id": "q1230"
+    "id": "q1230",
+    "tips": [
+      "put a question：質問をする",
+      "none：一つも〜ない（ここでは質問を指す）",
+      "mortal：死すべき存在、人間"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I have found that no exertion of the legs can bring two minds much nearer.",
     "jp": "脚をどれほど動かしても、心と心はあまり近づかないと気づいた。",
-    "id": "q1231"
+    "id": "q1231",
+    "tips": [
+      "exertion：努力、力を使うこと",
+      "bring A nearer：Aをより近づける",
+      "two minds：二人の心（身体的距離と精神的距離の対比）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I cannot read a single word of the Hindoos without being elevated.",
     "jp": "ヒンドゥーの文を読むと、一語でも心が高められる。",
-    "id": "q1232"
+    "id": "q1232",
+    "tips": [
+      "a single word：たった一言",
+      "Hindoos：Hindus の古い綴り",
+      "be elevated：精神的に高められる"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "I left the woods for as good a reason as I went there.",
     "jp": "森へ入ったのと同じ理由で森を去った。まだ生きるべき人生があったからだ。",
-    "id": "q1233"
+    "id": "q1233",
+    "tips": [
+      "leave the woods：森を去る",
+      "as good a reason as：〜と同じくらい正当な理由（as＋形容詞＋a＋名詞＋as）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If a man constantly aspires is he not elevated?",
     "jp": "絶えず志を抱く人は、それだけで高められているのではないか。",
-    "id": "q1234"
+    "id": "q1234",
+    "tips": [
+      "constantly：絶えず",
+      "aspire：高い理想を求める",
+      "is he not ...?：〜ではないだろうか（肯定を促す修辞疑問）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It appears to be a law that you cannot have a deep sympathy with both man and nature.",
     "jp": "人と自然の両方に深い共感を持つことはできないようだ。",
-    "id": "q1235"
+    "id": "q1235",
+    "tips": [
+      "appear to be：〜であるように思われる",
+      "sympathy with：〜への共感",
+      "both A and B：AとBの両方"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "We are more lonely abroad among men than in our chambers.",
     "jp": "外に出て人の中にいるときのほうが、部屋にいるときより孤独を感じることが多い。",
-    "id": "q1236"
+    "id": "q1236",
+    "tips": [
+      "abroad：ここでは家の外で、外出して",
+      "among men：人々の中で",
+      "chamber：部屋、私室"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Books are the treasured wealth of the world and the inheritance of nations.",
     "jp": "本は世界の宝であり、世代と国々への遺産だ。",
-    "id": "q1237"
+    "id": "q1237",
+    "tips": [
+      "treasured：大切にされている",
+      "wealth：富、財産",
+      "inheritance：受け継がれる遺産"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The fibers of all things are strained like strings of an instrument.",
     "jp": "万物の繊維は、楽器の弦のように張りつめている。",
-    "id": "q1238"
+    "id": "q1238",
+    "tips": [
+      "fiber：繊維、細い筋",
+      "be strained：張り詰めている",
+      "strings of an instrument：楽器の弦（万物の緊張やつながりを表す比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If I seem to boast, my excuse is that I brag for humanity, not myself.",
     "jp": "もし自慢しているように聞こえるなら、人類のためであって自分のためではない。",
-    "id": "q1239"
+    "id": "q1239",
+    "tips": [
+      "boast：自慢する",
+      "excuse：弁明、言い訳",
+      "brag for humanity：自分ではなく人類のために誇らしく語る"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The Artist is he who applies the law seen in works of Genius; the Artisan only applies rules.",
     "jp": "芸術家は天才の仕事から法則を見出して応用する人であり、職人は既存の規則を当てはめる人だ。",
-    "id": "q1240"
+    "id": "q1240",
+    "tips": [
+      "artist / artisan：芸術家／職人",
+      "apply：適用する",
+      "law / rules：ここでは創造の根本原理／個別の規則という対比"
+    ]
   },
   {
     "author": "Thoreau",
