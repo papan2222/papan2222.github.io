@@ -15074,181 +15074,328 @@
     "author": "Goethe",
     "en": "In art the best is good enough.",
     "jp": "芸術では最上のものが、十分に良いものだ。",
-    "id": "q1391"
+    "id": "q1391",
+    "tips": [
+      "good enough：十分によい",
+      "the best：最良のもの（芸術では最高の水準を求めるという含意）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "What is uttered from the heart alone will win the hearts of others.",
     "jp": "心から出た言葉だけが、人の心を動かす。",
-    "id": "q1392"
+    "id": "q1392",
+    "tips": [
+      "utter：口にする、発する",
+      "from the heart：心から",
+      "win the hearts of others：他の人々の心をつかむ"
+    ]
   },
   {
     "author": "Goethe",
     "en": "On all the peaks lies peace.",
     "jp": "すべての頂には平和が横たわっている。",
-    "id": "q1393"
+    "id": "q1393",
+    "tips": [
+      "peak：山頂、峰",
+      "On all the peaks lies peace.：場所を表す句を文頭に置いた倒置構文"
+    ]
   },
   {
     "author": "Goethe",
     "en": "No one would talk much in society if they knew how often they misunderstood others.",
     "jp": "他人をどれほど誤解しているかを知れば、誰も社会で多くを語らなくなるだろう。",
-    "id": "q1394"
+    "id": "q1394",
+    "tips": [
+      "in society：人との交わりの中で、社交の場で",
+      "if they knew：もし知っていたら（仮定法過去）",
+      "misunderstand：誤解する"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Science arose from poetry... when times change the two can meet again on a higher level as friends.",
     "jp": "科学は詩から生まれた…時代が変われば、両者はより高い次元で再び友として出会うだろう。",
-    "id": "q1395"
+    "id": "q1395",
+    "tips": [
+      "arise from：〜から生じる（arose は過去形）",
+      "on a higher level：より高い次元で",
+      "the two：科学と詩の両方"
+    ]
   },
   {
     "author": "Goethe",
     "en": "What by a straight path cannot be reached by crooked ways is never won.",
     "jp": "まっすぐな道で届かぬものは、曲がった道でも決して得られない。",
-    "id": "q1396"
+    "id": "q1396",
+    "tips": [
+      "straight path：まっすぐな道",
+      "crooked ways：曲がった道、不正な手段",
+      "be won：勝ち取られる（道を手段にたとえた表現）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The world remains ever the same.",
     "jp": "世界はいつも変わらない。",
-    "id": "q1397"
+    "id": "q1397",
+    "tips": [
+      "remain：〜のままでいる",
+      "ever the same：いつまでも変わらない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "I think that I am better than the people who are trying to reform me.",
     "jp": "私を改革しようとする人々より、私はましだと思う。",
-    "id": "q1398"
+    "id": "q1398",
+    "tips": [
+      "reform：改善する、改心させる",
+      "better than：〜よりも優れている",
+      "try to do：〜しようとする"
+    ]
   },
   {
     "author": "Goethe",
     "en": "He who enjoys doing and enjoys what he has done is happy.",
     "jp": "行うことを楽しみ、その成果も楽しめる人は幸福だ。",
-    "id": "q1399"
+    "id": "q1399",
+    "tips": [
+      "he who：〜する人（古風な表現）",
+      "enjoy doing：〜することを楽しむ",
+      "what he has done：自分が成し遂げたこと"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If you treat an individual as if he were what he ought to be, he will become it.",
     "jp": "人をあるべき姿として扱えば、その人はそうなっていく。",
-    "id": "q1400"
+    "id": "q1400",
+    "tips": [
+      "treat A as if ...：Aをまるで〜であるかのように扱う",
+      "ought to be：〜であるべきだ",
+      "become it：そのような存在になる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Whoever wishes to keep a secret must hide the fact that he possesses one.",
     "jp": "秘密を守りたい者は、それを持っているという事実さえ隠さねばならない。",
-    "id": "q1401"
+    "id": "q1401",
+    "tips": [
+      "whoever：〜する人は誰でも",
+      "keep a secret：秘密を守る",
+      "possess：所有する、持っている（one は secret の代わり）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Those who hope for no other life are dead even for this.",
     "jp": "他の人生を望まぬ者は、この人生においてすでに死んでいる。",
-    "id": "q1402"
+    "id": "q1402",
+    "tips": [
+      "hope for：〜を望む",
+      "no other life：ほかの生、ここでは来世を指すと読める",
+      "even for this：この世の生においてさえ"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Be generous with kindly words, especially about those who are absent.",
     "jp": "優しい言葉を惜しむな。特にその場にいない人について。",
-    "id": "q1403"
+    "id": "q1403",
+    "tips": [
+      "be generous with：〜を惜しみなく与える",
+      "kindly：親切な、思いやりのある（ここでは形容詞）",
+      "absent：その場にいない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Music is either sacred or secular… Secular music should be cheerful throughout.",
     "jp": "音楽は神聖か世俗のどちらかだ…世俗音楽は常に陽気であるべきだ。",
-    "id": "q1404"
+    "id": "q1404",
+    "tips": [
+      "either A or B：AかBのどちらか",
+      "sacred / secular：宗教的な／世俗的な",
+      "throughout：最初から最後まで"
+    ]
   },
   {
     "author": "Goethe",
     "en": "There is nothing in which people more betray their character than in what they laugh at.",
     "jp": "何を笑うかほど、人の性格を暴くものはない。",
-    "id": "q1405"
+    "id": "q1405",
+    "tips": [
+      "betray：ここでは隠れた性質を露呈する",
+      "character：人格",
+      "what they laugh at：彼らが何を笑うか"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Believe life; it teaches better than books or orators.",
     "jp": "人生を信じよ。それは本や雄弁家よりもよく教える。",
-    "id": "q1406"
+    "id": "q1406",
+    "tips": [
+      "believe life：人生そのものを信じる",
+      "orator：演説家、雄弁家",
+      "better than：〜よりも上手に、効果的に"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If you wish to know the mind of a man, listen to his words.",
     "jp": "人の心を知りたければ、その人の言葉を聞け。",
-    "id": "q1407"
+    "id": "q1407",
+    "tips": [
+      "wish to do：〜したいと願う",
+      "mind：心、考え方",
+      "listen to：〜に耳を傾ける"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Nothing is more fearful than imagination without taste.",
     "jp": "趣味を欠いた想像力ほど恐ろしいものはない。",
-    "id": "q1408"
+    "id": "q1408",
+    "tips": [
+      "fearful：恐ろしい",
+      "imagination：想像力",
+      "taste：ここでは美的感覚、趣味のよさ"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If a man writes a book, let him set down only what he knows.",
     "jp": "人が本を書くなら、自分が知っていることだけを書け。",
-    "id": "q1409"
+    "id": "q1409",
+    "tips": [
+      "let him do：彼に〜させよ、彼は〜すべきだ",
+      "set down：書き記す",
+      "what he knows：自分が知っていること"
+    ]
   },
   {
     "author": "Goethe",
     "en": "What life half gives a man, posterity gives entirely.",
     "jp": "人生が半分しか与えぬものを、後世はすべて与えてくれる。",
-    "id": "q1410"
+    "id": "q1410",
+    "tips": [
+      "posterity：後世の人々、子孫",
+      "half / entirely：半分だけ／完全に",
+      "what life half gives：人生が部分的にしか与えないもの"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Love can do much, but duty more.",
     "jp": "愛ができることは多いが、義務ができることはもっと多い。",
-    "id": "q1411"
+    "id": "q1411",
+    "tips": [
+      "duty：義務、責務",
+      "do much：多くのことを成し遂げる",
+      "but duty more：but duty can do more の省略"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Even in the greatest evils, the fear of worse continues to haunt man.",
     "jp": "最大の災厄の中にあっても、人はさらに悪いことへの恐怖に取り憑かれる。",
-    "id": "q1412"
+    "id": "q1412",
+    "tips": [
+      "evil：災い、悪",
+      "the fear of worse：さらに悪いことへの恐れ",
+      "haunt：つきまとう、心から離れない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Objects in pictures should be arranged to tell their own story.",
     "jp": "絵の中の対象は、その位置によって自ら物語るよう配置されるべきだ。",
-    "id": "q1413"
+    "id": "q1413",
+    "tips": [
+      "object：物体、描かれた対象",
+      "be arranged：配置される",
+      "tell their own story：それ自体で物語を伝える（擬人化）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Do not give in too much to feelings. An overly sensitive heart is an unhappy possession.",
     "jp": "感情に過度に屈するな。敏感すぎる心は不幸な持ち物だ。",
-    "id": "q1414"
+    "id": "q1414",
+    "tips": [
+      "give in to：〜に屈する、身を任せる",
+      "overly sensitive：過度に敏感な",
+      "possession：所有物、身に備わったもの"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Know thyself? If I knew myself I would run away.",
     "jp": "「汝自身を知れ」？ 自分を知ったら私は逃げ出すだろう。",
-    "id": "q1415"
+    "id": "q1415",
+    "tips": [
+      "thyself：yourself の古風な形",
+      "If I knew ..., I would ...：もし〜を知っていたら…するだろう（仮定法過去）",
+      "run away：逃げ出す"
+    ]
   },
   {
     "author": "Goethe",
     "en": "He who possesses art and science has religion.",
     "jp": "芸術と科学を持つ者は宗教を持っている。",
-    "id": "q1416"
+    "id": "q1416",
+    "tips": [
+      "he who：〜する人",
+      "possess：所有する、身につけている",
+      "religion：宗教、信仰"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A noble person attracts noble people, and knows how to hold on to them.",
     "jp": "高貴な人は高貴な人を引き寄せ、それを保つ術を知っている。",
-    "id": "q1417"
+    "id": "q1417",
+    "tips": [
+      "noble：高潔な、気高い",
+      "attract：引きつける",
+      "hold on to：〜を手放さない、関係を保つ"
+    ]
   },
   {
     "author": "Goethe",
     "en": "To witness two lovers is a spectacle for the gods.",
     "jp": "二人の恋人を見るのは、神々への見せ物だ。",
-    "id": "q1418"
+    "id": "q1418",
+    "tips": [
+      "witness：目撃する、目にする",
+      "spectacle：見もの、壮観",
+      "for the gods：神々にふさわしいほどの見ものという表現"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Nothing is to be rated higher than the value of the day.",
     "jp": "一日の価値以上に高く評価されるべきものはない。",
-    "id": "q1419"
+    "id": "q1419",
+    "tips": [
+      "be rated：評価される",
+      "higher than：〜より高く",
+      "the value of the day：今日という一日の価値"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Everything may be endured except continual prosperity.",
     "jp": "続く繁栄だけは、人は耐えられない。",
-    "id": "q1420"
+    "id": "q1420",
+    "tips": [
+      "endure：耐える、忍ぶ",
+      "except：〜を除いて",
+      "continual prosperity：絶え間なく続く繁栄（繁栄を耐え難いものとする逆説）"
+    ]
   },
   {
     "author": "Goethe",
