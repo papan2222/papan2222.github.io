@@ -16712,181 +16712,329 @@
     "author": "Nietzsche",
     "en": "Existence really is an imperfect tense that never becomes present.",
     "jp": "存在とは、現在になりきれない未完了形だ。",
-    "id": "q1541"
+    "id": "q1541",
+    "tips": [
+      "existence：存在、生存",
+      "imperfect tense：未完了過去時制",
+      "present：現在、現在時制（人生の時間を文法用語にたとえている）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The abdomen is why man does not readily think himself a god.",
     "jp": "人が自らを神と思えぬのは、腹の存在のせいだ。",
-    "id": "q1542"
+    "id": "q1542",
+    "tips": [
+      "abdomen：腹部",
+      "readily：容易に、すんなりと",
+      "think oneself a god：自分を神だと思う"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The lie is a condition of life.",
     "jp": "嘘は生の条件である。",
-    "id": "q1543"
+    "id": "q1543",
+    "tips": [
+      "lie：うそ、虚偽（名詞）",
+      "a condition of life：生きるための条件（哲学的な主張）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Our vanity is hardest to wound just after our pride has been wounded.",
     "jp": "プライドを傷つけられた直後、虚栄心は最も傷つきやすい。",
-    "id": "q1544"
+    "id": "q1544",
+    "tips": [
+      "vanity：虚栄心",
+      "wound：傷つける",
+      "has been wounded：傷つけられた（現在完了の受動態）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There is more wisdom in your body than in your deepest philosophy.",
     "jp": "あなたの身体には、最も深い哲学よりも多くの知恵がある。",
-    "id": "q1545"
+    "id": "q1545",
+    "tips": [
+      "wisdom：知恵",
+      "deepest：deep の最上級、最も深遠な",
+      "more ... than：〜よりも多くの…"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "A subject for a great poet would be God’s boredom after creation.",
     "jp": "偉大な詩人の題材は、天地創造後の神の退屈だろう。",
-    "id": "q1546"
+    "id": "q1546",
+    "tips": [
+      "subject：題材、主題",
+      "boredom：退屈",
+      "creation：創造（ここでは神による世界の創造）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Anyone who calls another an idiot is annoyed if it turns out he is not.",
     "jp": "他人を愚か者呼ばわりした人間は、それが誤りとわかると苛立つ。",
-    "id": "q1547"
+    "id": "q1547",
+    "tips": [
+      "call A B：AをBと呼ぶ",
+      "idiot：愚か者（侮辱的な語）",
+      "turn out：結局〜だと判明する"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Our treasure lies in the beehive of our knowledge.",
     "jp": "私たちの宝は、知識という蜂の巣の中にある。",
-    "id": "q1548"
+    "id": "q1548",
+    "tips": [
+      "treasure：宝、財宝",
+      "lie in：〜の中にある",
+      "beehive：ミツバチの巣（蓄積された知識の比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There is an innocence in admiration; it belongs to those who never imagined being admired.",
     "jp": "賞賛には無垢さがある。それは自分が賞賛されることを思いもしない人にある。",
-    "id": "q1549"
+    "id": "q1549",
+    "tips": [
+      "innocence：純真さ、無邪気さ",
+      "admiration：称賛、感嘆",
+      "imagine being admired：自分が称賛されることを想像する"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Morality is the herd-instinct in the individual.",
     "jp": "道徳とは、個人の中にある群れの本能だ。",
-    "id": "q1550"
+    "id": "q1550",
+    "tips": [
+      "morality：道徳",
+      "herd instinct：群れに従う本能、群集本能",
+      "individual：個人"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "No one lies so boldly as the man who is indignant.",
     "jp": "憤慨している人ほど、大胆に嘘をつく。",
-    "id": "q1551"
+    "id": "q1551",
+    "tips": [
+      "boldly：大胆に、臆することなく",
+      "indignant：憤慨した、憤りを感じた",
+      "No one ... so ... as：〜ほど…する人はいない"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "He who laughs best today will also laugh last.",
     "jp": "今日いちばん笑った者が、最後にも笑う。",
-    "id": "q1552"
+    "id": "q1552",
+    "tips": [
+      "he who：〜する人（古風な表現）",
+      "laugh last：最後に笑う、最終的に勝利する",
+      "best / last：笑い方と最終的な結果を結びつけた表現"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "For art to exist, intoxication is indispensable.",
     "jp": "芸術が存在するには、陶酔が欠かせない。",
-    "id": "q1553"
+    "id": "q1553",
+    "tips": [
+      "For art to exist：芸術が存在するためには（for＋名詞＋不定詞）",
+      "intoxication：陶酔、酩酊（ここでは創造的な高揚感も含意）",
+      "indispensable：不可欠な"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "War has always been the cure for a spirit grown too inward.",
     "jp": "戦争は、内にこもりすぎた精神の治療法だった。",
-    "id": "q1554"
+    "id": "q1554",
+    "tips": [
+      "cure for：〜に対する治療法、解決策",
+      "spirit grown too inward：過度に内向きになった精神（grown は spirit を修飾）",
+      "inward：内面的な、内向きの（原文は戦争を治療にたとえた主張）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "To be ashamed of immorality is a step toward being ashamed of morality.",
     "jp": "不道徳を恥じることは、やがて道徳をも恥じる段階へと進む。",
-    "id": "q1555"
+    "id": "q1555",
+    "tips": [
+      "be ashamed of：〜を恥じる",
+      "immorality / morality：不道徳／道徳",
+      "a step toward：〜へ向かう一歩"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "All credibility, good conscience, and truth come from the senses.",
     "jp": "信用も良心も真実も、すべて感覚から来る。",
-    "id": "q1556"
+    "id": "q1556",
+    "tips": [
+      "credibility：信頼性",
+      "good conscience：やましさのない良心",
+      "the senses：感覚、感覚器官"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There is a rollicking kindness that looks like malice.",
     "jp": "悪意に見える陽気な親切心もある。",
-    "id": "q1557"
+    "id": "q1557",
+    "tips": [
+      "rollicking：陽気で奔放な",
+      "kindness：親切心",
+      "malice：悪意（親切と悪意の対比）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Behind their vanity, women always have contempt for woman.",
     "jp": "女の虚栄心の裏には、女自身への軽蔑がある。",
-    "id": "q1558"
+    "id": "q1558",
+    "tips": [
+      "vanity：虚栄心",
+      "have contempt for：〜を軽蔑する",
+      "woman：ここでは女性一般を指す総称的用法（原文は性別についての否定的な一般化）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "It says nothing against a spirit’s ripeness that it has worms.",
     "jp": "精神が熟していても、虫がついていることはある。",
-    "id": "q1559"
+    "id": "q1559",
+    "tips": [
+      "say nothing against：〜の価値を損なう根拠にはならない",
+      "ripeness：成熟、熟していること",
+      "worm：虫（成熟した精神にも欠点があるという果実の比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The most sensual men must flee women and torment their bodies.",
     "jp": "最も官能的な男は、女を避け、己の身体を苦しめねばならない。",
-    "id": "q1560"
+    "id": "q1560",
+    "tips": [
+      "sensual：感覚的な快楽を求める、官能的な",
+      "flee：〜から逃れる、避ける",
+      "torment：苦しめる（原文は身体への苦痛に言及する哲学的主張であり、実践を勧めるものではない）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "He who cannot give anything away cannot feel anything either.",
     "jp": "何も与えられない者は、何も感じることもできない。",
-    "id": "q1561"
+    "id": "q1561",
+    "tips": [
+      "give away：無償で与える、手放す",
+      "he who：〜する人",
+      "cannot ... either：〜もまたできない"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Let us beware of saying death is the opposite of life.",
     "jp": "死が生の反対だと言うことには気をつけねばならない。",
-    "id": "q1562"
+    "id": "q1562",
+    "tips": [
+      "Let us：〜しよう",
+      "beware of doing：〜することに注意する、〜しないよう用心する",
+      "the opposite of：〜の反対"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The best author will be ashamed to become a writer.",
     "jp": "最良の作家は、作家になることを恥じるだろう。",
-    "id": "q1563"
+    "id": "q1563",
+    "tips": [
+      "be ashamed to do：〜することを恥じる",
+      "author / writer：著者／書き手（肩書や職業と創作のあり方を対比する表現）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "You seek followers? Seek zeros!",
     "jp": "信奉者を求めるのか？ ならばゼロを探せ！",
-    "id": "q1564"
+    "id": "q1564",
+    "tips": [
+      "seek：探し求める",
+      "follower：追随者、支持者",
+      "zero：ゼロ（支持者の数や価値を皮肉る比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "When a hundred men stand together, each loses his own mind.",
     "jp": "百人が集まると、それぞれ自分の心を失う。",
-    "id": "q1565"
+    "id": "q1565",
+    "tips": [
+      "stand together：団結する、一緒に立つ",
+      "each：一人ひとり",
+      "lose one's own mind：ここでは自分自身で考える力を失うこと"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There is not enough religion in the world to destroy religion.",
     "jp": "宗教を破壊するには、この世に宗教が足りない。",
-    "id": "q1566"
+    "id": "q1566",
+    "tips": [
+      "There is not enough A to do：〜するのに十分なAがない",
+      "destroy：破壊する、消滅させる",
+      "religion：宗教（同じ語を繰り返した逆説）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "One often contradicts an opinion because of its tone, not its content.",
     "jp": "意見の中身ではなく、その口調が気に入らず反論することが多い。",
-    "id": "q1567"
+    "id": "q1567",
+    "tips": [
+      "contradict：反論する、否定する",
+      "tone：口調、語調",
+      "content：内容（口調と内容を対比している）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "What raises indignation against suffering is its senselessness.",
     "jp": "苦しみに対する憤りを高めるのは、その無意味さである。",
-    "id": "q1568"
+    "id": "q1568",
+    "tips": [
+      "raise indignation：憤りを引き起こす",
+      "suffering：苦しみ",
+      "senselessness：無意味さ、理不尽さ"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Fear is the mother of morality.",
     "jp": "恐怖は道徳の母である。",
-    "id": "q1569"
+    "id": "q1569",
+    "tips": [
+      "fear：恐怖",
+      "the mother of：〜を生み出す源（母親にたとえた比喩）",
+      "morality：道徳"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In heaven, all the interesting people are missing.",
     "jp": "天国には面白い人が一人もいない。",
-    "id": "q1570"
+    "id": "q1570",
+    "tips": [
+      "in heaven：天国では",
+      "interesting：興味深い、魅力的な",
+      "be missing：いない、欠けている（天国についての皮肉）"
+    ]
   },
   {
     "author": "Nietzsche",
