@@ -14426,181 +14426,326 @@
     "author": "Goethe",
     "en": "There is nothing so terrible as activity without insight.",
     "jp": "洞察のない行動ほど恐ろしいものはない。",
-    "id": "q1331"
+    "id": "q1331",
+    "tips": [
+      "insight：洞察力、本質を見抜く力",
+      "activity without insight：深い理解を伴わない活動",
+      "nothing so ... as：〜ほど…なものはない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We will burn that bridge when we come to it.",
     "jp": "その橋に来たら燃やせばいい。",
-    "id": "q1332"
+    "id": "q1332",
+    "tips": [
+      "cross that bridge when we come to it：問題が起きたときに対処するという慣用句",
+      "burn that bridge：橋を焼く、後戻りできなくする（ここでは二つの慣用表現を混ぜた言葉遊び）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "One can be instructed in society, one is inspired only in solitude.",
     "jp": "社会の中で教えられることはできるが、ひらめきを得られるのは孤独の中だけだ。",
-    "id": "q1333"
+    "id": "q1333",
+    "tips": [
+      "be instructed：教えを受ける",
+      "be inspired：ひらめきや刺激を得る",
+      "solitude：一人で過ごすこと、孤独"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Character, in great and little things, means carrying through what you feel able to do.",
     "jp": "大事でも小事でも、人柄とは自分ができると思うことをやり遂げることだ。",
-    "id": "q1334"
+    "id": "q1334",
+    "tips": [
+      "carry through：最後までやり遂げる",
+      "in great and little things：大きなことにも小さなことにも",
+      "feel able to do：自分にできると感じる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "It is in self-limitation that a master first shows himself.",
     "jp": "自己制限の中にこそ、真の達人が現れる。",
-    "id": "q1335"
+    "id": "q1335",
+    "tips": [
+      "self-limitation：自ら制約を設けること",
+      "master：達人、熟練者",
+      "It is ... that：〜こそが…だ（強調構文）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The right man is the one who seizes the moment.",
     "jp": "機会をつかむ者こそ正しい人間だ。",
-    "id": "q1336"
+    "id": "q1336",
+    "tips": [
+      "the right man：適任者、ふさわしい人物",
+      "the one who：〜する人",
+      "seize the moment：その瞬間を逃さず生かす"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Only by joy and sorrow does a person know anything about themselves and their destiny.",
     "jp": "喜びと悲しみを通してこそ、人は自分と運命を知る。",
-    "id": "q1337"
+    "id": "q1337",
+    "tips": [
+      "Only by ... does ...：〜によって初めて…する（倒置構文）",
+      "sorrow：悲しみ",
+      "destiny：運命"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We always have time enough, if we will but use it aright.",
     "jp": "正しく使いさえすれば、時間はいつも十分にある。",
-    "id": "q1338"
+    "id": "q1338",
+    "tips": [
+      "time enough：十分な時間（enough が名詞の後ろに置かれている）",
+      "will but use：使おうとさえすれば（but は only の意味）",
+      "aright：正しく、適切に（古風な副詞）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A creation of importance can only be produced when its author isolates himself; it is a child of solitude.",
     "jp": "大切な創造は孤独からしか生まれない。孤独こそがその母だ。",
-    "id": "q1339"
+    "id": "q1339",
+    "tips": [
+      "of importance：重要な",
+      "isolate oneself：自らを人々から遠ざける",
+      "a child of solitude：孤独から生まれたもの（創作物の比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Mysteries are not necessarily miracles.",
     "jp": "神秘は必ずしも奇跡ではない。",
-    "id": "q1340"
+    "id": "q1340",
+    "tips": [
+      "mystery：神秘、説明のつかない事柄",
+      "miracle：奇跡",
+      "not necessarily：必ずしも〜ではない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "To the person with a firm purpose all men and things are servants.",
     "jp": "強い目的を持つ人にとって、人も物もすべてが手助けになる。",
-    "id": "q1341"
+    "id": "q1341",
+    "tips": [
+      "firm purpose：揺るぎない目的",
+      "servant：召使い、役に立つもの（ここでは人や物が目的達成を助けるという比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If you start to think of your physical and moral condition, you usually find that you are sick.",
     "jp": "身体や精神の状態ばかり考え始めると、たいてい自分は病んでいると感じる。",
-    "id": "q1342"
+    "id": "q1342",
+    "tips": [
+      "physical and moral condition：身体的・道徳的な状態",
+      "think of：〜について考える",
+      "find that：〜だと気づく"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A flippant, frivolous man may ridicule others, but one who respects himself renounces such meanness.",
     "jp": "軽薄な人は他人を嘲るが、自分を尊重する人は卑しさを捨てている。",
-    "id": "q1343"
+    "id": "q1343",
+    "tips": [
+      "flippant / frivolous：軽率な／軽薄な",
+      "ridicule：あざ笑う",
+      "renounce：放棄する、きっぱりとやめる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Hatred is active, and envy passive dislike; there is but one step from envy to hate.",
     "jp": "憎しみは能動的な嫌悪であり、嫉妬は受動的な嫌悪だ。嫉妬から憎しみへは一歩しかない。",
-    "id": "q1344"
+    "id": "q1344",
+    "tips": [
+      "hatred：憎悪",
+      "envy：嫉妬、ねたみ",
+      "but one step：ほんの一歩（but は only の意味）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Every step of life shows much caution is required.",
     "jp": "人生の一歩一歩が、多くの注意を要することを示している。",
-    "id": "q1345"
+    "id": "q1345",
+    "tips": [
+      "caution：用心、慎重さ",
+      "be required：必要とされる",
+      "shows much caution is required：shows の後の that が省略されている"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We don't get to know people when they come to us; we must go to them to find out what they are like.",
     "jp": "人は来てくれるときにはわからない。こちらから出向いてこそ、どんな人かがわかる。",
-    "id": "q1346"
+    "id": "q1346",
+    "tips": [
+      "get to know：次第に知る、親しくなる",
+      "find out：調べて知る、理解する",
+      "what they are like：彼らがどのような人なのか"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Hatred is strongest where culture is lowest.",
     "jp": "憎しみは、文化のもっとも低いところで最も強い。",
-    "id": "q1347"
+    "id": "q1347",
+    "tips": [
+      "hatred：憎悪",
+      "where：〜するところでは",
+      "culture：ここでは教養や文化的な成熟度"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Fresh activity is the only means of overcoming adversity.",
     "jp": "新しい行動こそが、逆境を克服する唯一の手段だ。",
-    "id": "q1348"
+    "id": "q1348",
+    "tips": [
+      "fresh activity：新たな活動",
+      "means of doing：〜するための手段",
+      "overcome adversity：逆境を乗り越える"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Everybody wants to be somebody; nobody wants to grow.",
     "jp": "誰もが「何者か」になりたがるが、成長したがる人はいない。",
-    "id": "q1349"
+    "id": "q1349",
+    "tips": [
+      "be somebody：一人前の人物になる、重要な人物になる",
+      "grow：成長する（地位を求めることと実質的な成長の対比）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.",
     "jp": "意見を言うなら、あなたの信じることを言ってほしい。疑いは自分で十分持っているから。",
-    "id": "q1350"
+    "id": "q1350",
+    "tips": [
+      "opinion：意見",
+      "believe in：〜を信じる、信念を持つ",
+      "plenty of doubts of my own：自分自身の疑問が十分すぎるほどある"
+    ]
   },
   {
     "author": "Goethe",
     "en": "For a man to achieve all that is demanded of him he must regard himself as greater than he is.",
     "jp": "求められることをすべて成し遂げるには、自分を実際以上に大きく見なければならない。",
-    "id": "q1351"
+    "id": "q1351",
+    "tips": [
+      "achieve：達成する",
+      "be demanded of：〜に要求される",
+      "regard A as B：AをBと見なす"
+    ]
   },
   {
     "author": "Goethe",
     "en": "One always has time enough, if one will apply it well.",
     "jp": "時間は、うまく使えば必ず足りる。",
-    "id": "q1352"
+    "id": "q1352",
+    "tips": [
+      "time enough：十分な時間",
+      "apply it well：それ（時間）をうまく活用する",
+      "one：一般の人を指す代名詞"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Every spoken word arouses our self-will.",
     "jp": "発せられる言葉はすべて、私たちの意志を呼び覚ます。",
-    "id": "q1353"
+    "id": "q1353",
+    "tips": [
+      "spoken word：口にされた言葉",
+      "arouse：呼び起こす、刺激する",
+      "self-will：我意、自分の意志を押し通そうとする気持ち"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Self-knowledge comes from knowing other men.",
     "jp": "自己認識は、他人を知ることから生まれる。",
-    "id": "q1354"
+    "id": "q1354",
+    "tips": [
+      "self-knowledge：自己理解",
+      "come from：〜に由来する",
+      "knowing other men：他の人々を知ること"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Wisdom is found only in truth.",
     "jp": "知恵は真実の中にしか見つからない。",
-    "id": "q1355"
+    "id": "q1355",
+    "tips": [
+      "wisdom：知恵、賢明さ",
+      "be found in：〜の中に見いだされる",
+      "only：〜に限って"
+    ]
   },
   {
     "author": "Goethe",
     "en": "It is not doing the thing we like to do, but liking the thing we have to do, that makes life blessed.",
     "jp": "好きなことをするのではなく、しなければならないことを好きになることが、人生を祝福されたものにする。",
-    "id": "q1356"
+    "id": "q1356",
+    "tips": [
+      "not A but B：AではなくB",
+      "It is ... that makes：〜こそが…にする（強調構文）",
+      "blessed：恵まれた、幸いな"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Life is the childhood of our immortality.",
     "jp": "人生は、不滅の存在にとっての幼年期である。",
-    "id": "q1357"
+    "id": "q1357",
+    "tips": [
+      "childhood：幼少期",
+      "immortality：不死、不滅（現世を永遠の生命の幼少期にたとえている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Character develops itself in the stream of life.",
     "jp": "人柄は人生の流れの中で育まれる。",
-    "id": "q1358"
+    "id": "q1358",
+    "tips": [
+      "develop itself：自ら発達する、形成される",
+      "the stream of life：人生の流れ（経験を川の流れにたとえる表現）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Wood burns because it has the proper stuff in it; and a man becomes famous because he has the proper stuff in him.",
     "jp": "木が燃えるのはその性質による。人が有名になるのも、その中に然るべきものがあるからだ。",
-    "id": "q1359"
+    "id": "q1359",
+    "tips": [
+      "proper stuff：適切な材料、必要な資質",
+      "become famous：有名になる",
+      "stuff：木の燃える性質と人間の資質を重ねた表現"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The most happy man is he who knows how to connect the end and beginning of his life.",
     "jp": "人生の終わりと始まりを結びつけられる人が最も幸福だ。",
-    "id": "q1360"
+    "id": "q1360",
+    "tips": [
+      "he who：〜する人（古風な表現）",
+      "connect A and B：AとBを結びつける",
+      "the most happy：最も幸せな（現代英語では happiest が一般的）"
+    ]
   },
   {
     "author": "Goethe",
