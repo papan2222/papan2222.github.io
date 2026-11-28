@@ -8623,181 +8623,317 @@
     "author": "Oscar Wilde",
     "en": "There is no such thing as a moral or an immoral book. Books are well written, or badly written.",
     "jp": "道徳的な本や不道徳な本など存在しない。本はよく書かれているか、下手に書かれているかのどちらかだ。",
-    "id": "q0791"
+    "id": "q0791",
+    "tips": [
+      "no such thing as：〜というものは存在しない",
+      "moral / immoral：道徳的な／不道徳な",
+      "well written：よく書かれた"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There's nothing in the world like the devotion of a married woman. It's a thing no married man knows anything about.",
     "jp": "既婚女性の献身に勝るものはない。それは既婚男性にはまったくわからないものだ。",
-    "id": "q0792"
+    "id": "q0792",
+    "tips": [
+      "nothing like：〜に匹敵するものはない",
+      "devotion：献身",
+      "know anything about：〜について何かを知っている"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Shallow men believe in luck. Strong men believe in cause and effect.",
     "jp": "浅はかな人は運を信じ、強い人は原因と結果を信じる。",
-    "id": "q0793"
+    "id": "q0793",
+    "tips": [
+      "shallow：浅薄な",
+      "believe in：〜を信じる",
+      "cause and effect：原因と結果"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The only way to have a friend is to be one.",
     "jp": "友を持つ唯一の方法は、自分が友になることだ。",
-    "id": "q0794"
+    "id": "q0794",
+    "tips": [
+      "the only way to do：〜する唯一の方法",
+      "be one：友人になる（one は a friend を指す）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Adopt the pace of nature: her secret is patience.",
     "jp": "自然の歩みに合わせよ。そこにある秘密は「忍耐」だ。",
-    "id": "q0795"
+    "id": "q0795",
+    "tips": [
+      "adopt：取り入れる",
+      "pace：歩調、ペース",
+      "patience：忍耐"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Our chief want is someone who will inspire us to be what we know we could be.",
     "jp": "私たちが最も求めているのは、自分がなれると信じる姿へ導いてくれる人だ。",
-    "id": "q0796"
+    "id": "q0796",
+    "tips": [
+      "chief want：最大の欲求",
+      "inspire A to do：Aを奮い立たせて〜させる",
+      "what we could be：私たちがなり得る姿"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Once you make a decision, the universe conspires to make it happen.",
     "jp": "ひとたび決意すれば、宇宙がそれを叶えるために動き出す。",
-    "id": "q0797"
+    "id": "q0797",
+    "tips": [
+      "once：ひとたび〜すると",
+      "conspire：共謀する（宇宙を擬人化した表現）",
+      "make it happen：それを実現させる"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "There is an optical illusion about every person we meet.",
     "jp": "誰にでも、他人には見え方の錯覚がある。",
-    "id": "q0798"
+    "id": "q0798",
+    "tips": [
+      "optical illusion：錯視、目の錯覚",
+      "every person we meet：出会うすべての人（関係代名詞の省略）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Fear defeats more people than any other one thing in the world.",
     "jp": "恐怖は、この世で何よりも多くの人を打ち負かす。",
-    "id": "q0799"
+    "id": "q0799",
+    "tips": [
+      "defeat：打ち負かす",
+      "more ... than any other：ほかのどれよりも多くの…"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Love of beauty is taste. The creation of beauty is art.",
     "jp": "美を愛する心は「趣味」であり、美を創り出すことは「芸術」だ。",
-    "id": "q0800"
+    "id": "q0800",
+    "tips": [
+      "taste：美的感覚、審美眼",
+      "creation：創造"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Life is a succession of lessons which must be lived to be understood. All is riddle, and the key to a riddle is another riddle.",
     "jp": "人生は、生きて初めて理解できる授業の連続だ。すべては謎であり、その鍵もまた別の謎である。",
-    "id": "q0801"
+    "id": "q0801",
+    "tips": [
+      "a succession of：一連の",
+      "riddle：謎",
+      "the key to：〜を解く鍵"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The reward of a thing well done is having done it.",
     "jp": "物事をうまくやったことの報酬は、それをやり遂げたという事実そのものだ。",
-    "id": "q0802"
+    "id": "q0802",
+    "tips": [
+      "reward：報い、報酬",
+      "a thing well done：立派に成し遂げられたこと",
+      "having done it：それを成し遂げたこと（完了形の動名詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The creation of a thousand forests is in one acorn.",
     "jp": "千の森も、一粒のドングリから生まれる。",
-    "id": "q0803"
+    "id": "q0803",
+    "tips": [
+      "acorn：ドングリ",
+      "creation：創造（小さな種に大きな可能性があるという比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Always do what you are afraid to do.",
     "jp": "怖いと思うことこそ、やってみなさい。",
-    "id": "q0804"
+    "id": "q0804",
+    "tips": [
+      "be afraid to do：怖くて〜できない、〜するのを恐れる",
+      "what：〜すること（先行詞を含む関係代名詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The invariable mark of wisdom is to see the miraculous in the common.",
     "jp": "賢さの確かな証は、日常の中に奇跡を見いだすことだ。",
-    "id": "q0805"
+    "id": "q0805",
+    "tips": [
+      "invariable：変わることのない",
+      "mark：しるし、特徴",
+      "the miraculous / the common：奇跡的なもの／ありふれたもの"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man is what he thinks about all day long.",
     "jp": "人は、一日中考えていることで形作られる。",
-    "id": "q0806"
+    "id": "q0806",
+    "tips": [
+      "all day long：一日中",
+      "what he thinks about：彼が考えていること"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We gain the strength of the temptation we resist.",
     "jp": "私たちは、誘惑に打ち勝つことでその強さを得る。",
-    "id": "q0807"
+    "id": "q0807",
+    "tips": [
+      "gain strength：力を得る",
+      "resist temptation：誘惑に抵抗する"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A great man is always willing to be little.",
     "jp": "偉大な人ほど、自分を小さく見せることを厭わない。",
-    "id": "q0808"
+    "id": "q0808",
+    "tips": [
+      "be willing to do：進んで〜する",
+      "little：ここでは小さな存在、謙虚な立場"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Doing well is the result of doing good. That's what capitalism is all about.",
     "jp": "うまくいくのは、善い行いをした結果だ。資本主義とは本来そういうものだ。",
-    "id": "q0809"
+    "id": "q0809",
+    "tips": [
+      "do well：成功する",
+      "do good：善い行いをする",
+      "be all about：〜を本質とする"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nobody can bring you peace but yourself.",
     "jp": "自分を平和にできるのは、自分だけだ。",
-    "id": "q0810"
+    "id": "q0810",
+    "tips": [
+      "nobody ... but：〜以外には誰も…ない",
+      "bring A B：AにBをもたらす"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "In skating over thin ice our safety is in our speed.",
     "jp": "薄氷を渡るとき、安全の鍵は速さにある。",
-    "id": "q0811"
+    "id": "q0811",
+    "tips": [
+      "skate over thin ice：薄い氷の上を滑る（危うい状況の比喩）",
+      "safety：安全"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "People do not seem to realize that their opinion of the world is also a confession of character.",
     "jp": "世界についての意見は、その人の人柄を告白しているということに、人は気づかない。",
-    "id": "q0812"
+    "id": "q0812",
+    "tips": [
+      "seem to do：〜するように見える",
+      "confession：告白",
+      "character：人格"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The end of the human race will be that it will eventually die of civilization.",
     "jp": "人類の終わりは、文明によって滅びることだろう。",
-    "id": "q0813"
+    "id": "q0813",
+    "tips": [
+      "human race：人類",
+      "eventually：最終的に",
+      "die of：〜が原因で死ぬ"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Flowers... are a proud assertion that a ray of beauty outvalues all the utilities of the world.",
     "jp": "花は、世界のあらゆる実用性よりも美のひとすじの光の方が価値があると誇らしく示す存在だ。",
-    "id": "q0814"
+    "id": "q0814",
+    "tips": [
+      "assertion：主張",
+      "a ray of：一筋の",
+      "outvalue：〜より価値がある"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "For every minute you remain angry, you give up sixty seconds of peace of mind.",
     "jp": "怒っている1分ごとに、心の平穏を60秒失っている。",
-    "id": "q0815"
+    "id": "q0815",
+    "tips": [
+      "remain angry：怒ったままでいる",
+      "give up：手放す",
+      "peace of mind：心の平穏"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nature always wears the colors of the spirit.",
     "jp": "自然は常に心の色をまとっている。",
-    "id": "q0816"
+    "id": "q0816",
+    "tips": [
+      "wear：身にまとう（自然の擬人化）",
+      "spirit：精神、心"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
     "jp": "生きるうえでの最大の栄光は、決して倒れないことではなく、倒れるたびに立ち上がることだ。",
-    "id": "q0817"
+    "id": "q0817",
+    "tips": [
+      "glory：栄光",
+      "lie in：〜にある",
+      "not in A but in B：AではなくBに"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "All mankind love a lover.",
     "jp": "人はみな、恋する者を好む。",
-    "id": "q0818"
+    "id": "q0818",
+    "tips": [
+      "mankind：人類",
+      "lover：恋をしている人、恋人"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every artist was first an amateur.",
     "jp": "すべての芸術家は、最初は素人だった。",
-    "id": "q0819"
+    "id": "q0819",
+    "tips": [
+      "amateur：アマチュア、非専門家",
+      "first：最初は"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Hitch your wagon to a star.",
     "jp": "自分の馬車を星につなぎなさい。",
-    "id": "q0820"
+    "id": "q0820",
+    "tips": [
+      "hitch A to B：AをBにつなぐ",
+      "wagon：荷馬車",
+      "星に荷馬車をつなぐという比喩で、高い志を持つことを表す"
+    ]
   },
   {
     "author": "R. W. Emerson",
