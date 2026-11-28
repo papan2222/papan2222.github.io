@@ -76,6 +76,8 @@ directory=f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta n
 (qroot/"index.html").write_text(directory,encoding="utf-8")
 urls.append(BASE+"/quotes/works/")
 
+for p in sorted((ROOT/"blog"/"works").glob("*/index.html")):
+    urls.append(BASE+"/"+p.parent.relative_to(ROOT).as_posix()+"/")
 urls=list(dict.fromkeys(urls))
 xml='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f"  <url><loc>{escape(u)}</loc></url>\n" for u in urls)+"</urlset>\n"
 (ROOT/"sitemap.xml").write_text(xml,encoding="utf-8")
