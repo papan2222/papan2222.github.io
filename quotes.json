@@ -8939,181 +8939,320 @@
     "author": "R. W. Emerson",
     "en": "The real and lasting victories are those of peace, and not of war.",
     "jp": "真に長く続く勝利は、戦争ではなく平和によるものだ。",
-    "id": "q0821"
+    "id": "q0821",
+    "tips": [
+      "lasting：長続きする",
+      "those of peace：平和による勝利（those は victories の代用）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "It is not length of life, but depth of life.",
     "jp": "大切なのは人生の長さではなく、その深さだ。",
-    "id": "q0822"
+    "id": "q0822",
+    "tips": [
+      "length / depth：長さ／深さ（人生の量と質の対比）",
+      "not A but B：AではなくB"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Our greatest glory is not in never failing, but in rising up every time we fail.",
     "jp": "私たちの最大の栄光は、失敗しないことではなく、失敗のたびに立ち上がることだ。",
-    "id": "q0823"
+    "id": "q0823",
+    "tips": [
+      "glory：栄光",
+      "rise up：立ち上がる",
+      "every time：〜するたびに"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Bad times have a scientific value. These are occasions a good learner would not miss.",
     "jp": "困難な時期には科学的な価値がある。良い学び手はそれを逃さない。",
-    "id": "q0824"
+    "id": "q0824",
+    "tips": [
+      "scientific value：科学的な価値（困難を学びの材料と見る表現）",
+      "occasion：機会",
+      "would not miss：逃さないだろう"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "All life is an experiment. The more experiments you make the better.",
     "jp": "人生はすべて実験だ。多く試みるほど良くなる。",
-    "id": "q0825"
+    "id": "q0825",
+    "tips": [
+      "experiment：実験、試み",
+      "the more ..., the better：〜すればするほどよい"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
     "jp": "他人が別の何かにしようとする世界で、自分であり続けることが最大の成果だ。",
-    "id": "q0826"
+    "id": "q0826",
+    "tips": [
+      "be yourself：自分らしくある",
+      "constantly：絶えず",
+      "accomplishment：成し遂げたこと、偉業"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A friend may well be reckoned the masterpiece of nature.",
     "jp": "友は自然が生んだ最高傑作と言えるだろう。",
-    "id": "q0827"
+    "id": "q0827",
+    "tips": [
+      "may well：〜と考えるのももっともだ",
+      "be reckoned：〜と見なされる",
+      "masterpiece：傑作"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "All I have seen teaches me to trust the creator for all I have not seen.",
     "jp": "見たすべてが、まだ見ぬものについて創造主を信じることを教えてくれる。",
-    "id": "q0828"
+    "id": "q0828",
+    "tips": [
+      "all I have seen：これまで見てきたすべてのもの",
+      "trust：信頼する",
+      "creator：創造主"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "An ounce of action is worth a ton of theory.",
     "jp": "わずかな行動は、山のような理論に勝る。",
-    "id": "q0829"
+    "id": "q0829",
+    "tips": [
+      "ounce / ton：オンス／トン（わずかな行動と大量の理論の対比）",
+      "be worth：〜の価値がある"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Men are what their mothers made them.",
     "jp": "人は母親によって形作られる。",
-    "id": "q0830"
+    "id": "q0830",
+    "tips": [
+      "what their mothers made them：母親が育て上げた姿",
+      "make A B：AをBにする"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nature is a mutable cloud which is always and never the same.",
     "jp": "自然は変わりゆく雲のようで、同じであり同じでない。",
-    "id": "q0831"
+    "id": "q0831",
+    "tips": [
+      "mutable：変化しやすい",
+      "always and never the same：常に同じでありながら決して同じではない（逆説）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Common sense is genius dressed in its working clothes.",
     "jp": "常識とは、作業着を着た天才だ。",
-    "id": "q0832"
+    "id": "q0832",
+    "tips": [
+      "common sense：常識",
+      "genius：天才、卓越した知性",
+      "dressed in：〜を身にまとった"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The health of the eye seems to demand a horizon. We are never tired, so long as we can see far enough.",
     "jp": "目の健康には地平線が必要らしい。遠くまで見える限り、私たちは疲れない。",
-    "id": "q0833"
+    "id": "q0833",
+    "tips": [
+      "demand：必要とする",
+      "horizon：地平線、水平線",
+      "so long as：〜する限り"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Fiction reveals truth that reality obscures.",
     "jp": "小説は、現実が覆い隠す真実を明らかにする。",
-    "id": "q0834"
+    "id": "q0834",
+    "tips": [
+      "fiction：創作、小説",
+      "reveal：明らかにする",
+      "obscure：覆い隠す（動詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Character is higher than intellect. A great soul will be strong to live as well as think.",
     "jp": "人格は知性よりも高く、偉大な魂は考えるだけでなく生きる力も持つ。",
-    "id": "q0835"
+    "id": "q0835",
+    "tips": [
+      "character：人格",
+      "intellect：知性",
+      "as well as：〜だけでなく"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The age of a woman doesn't mean a thing. The best tunes are played on the oldest fiddles.",
     "jp": "女性の年齢は意味を持たない。最高の音色は古いバイオリンで奏でられる。",
-    "id": "q0836"
+    "id": "q0836",
+    "tips": [
+      "not mean a thing：何の意味も持たない",
+      "tune：曲、旋律",
+      "fiddle：バイオリン（ここでは年齢と楽器の比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The first wealth is health.",
     "jp": "最初の富は健康だ。",
-    "id": "q0837"
+    "id": "q0837",
+    "tips": [
+      "wealth：富",
+      "first：ここでは最も重要なものという意味"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We aim above the mark to hit the mark.",
     "jp": "的を射るためには、その上を狙う。",
-    "id": "q0838"
+    "id": "q0838",
+    "tips": [
+      "aim above：〜より上を狙う",
+      "hit the mark：的に当てる、目標を達成する"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Make the most of yourself, for that is all there is of you.",
     "jp": "自分を最大限に活かせ。それがあなたのすべてだ。",
-    "id": "q0839"
+    "id": "q0839",
+    "tips": [
+      "make the most of：〜を最大限に生かす",
+      "for：というのも（理由を示す接続詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "You cannot do a kindness too soon, for you never know how soon it will be too late.",
     "jp": "親切は早すぎることはない。いつ遅すぎる日が来るかわからないからだ。",
-    "id": "q0840"
+    "id": "q0840",
+    "tips": [
+      "do a kindness：親切な行いをする",
+      "cannot ... too soon：いくら早く〜しても早すぎることはない",
+      "too late：手遅れで"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The sky is the daily bread of the eyes.",
     "jp": "空は、目にとっての毎日の糧だ。",
-    "id": "q0841"
+    "id": "q0841",
+    "tips": [
+      "daily bread：日々の糧",
+      "of the eyes：目にとっての（空を心身の糧にたとえる表現）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "It is one of the blessings of old friends that you can afford to be stupid with them.",
     "jp": "古くからの友となら、気を抜いてバカになれるのも幸せのひとつだ。",
-    "id": "q0842"
+    "id": "q0842",
+    "tips": [
+      "blessing：恵み、ありがたいこと",
+      "old friends：昔からの友人",
+      "can afford to：〜する余裕がある"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "He who is not everyday conquering some fear has not learned the secret of life.",
     "jp": "日々何かの恐れを克服していない者は、人生の秘密を学んでいない。",
-    "id": "q0843"
+    "id": "q0843",
+    "tips": [
+      "He who：〜する人",
+      "conquer：克服する",
+      "everyday：ここでは every day（毎日）の意味で使われている"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.",
     "jp": "あなたの背後や前方にあるものは、内にあるものに比べれば色あせる。",
-    "id": "q0844"
+    "id": "q0844",
+    "tips": [
+      "lie behind / in front of：背後にある／前方にある",
+      "pale in comparison to：〜と比べると見劣りする",
+      "inside of you：自分の内面に"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every man is a quotation from all his ancestors.",
     "jp": "人はすべての祖先からの引用である。",
-    "id": "q0845"
+    "id": "q0845",
+    "tips": [
+      "quotation：引用",
+      "ancestor：祖先（人間を祖先からの引用にたとえている）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Enthusiasm is the mother of effort, and without it nothing great was ever achieved.",
     "jp": "情熱は努力の母であり、それなくして偉業は成し遂げられない。",
-    "id": "q0846"
+    "id": "q0846",
+    "tips": [
+      "enthusiasm：熱意",
+      "effort：努力",
+      "without it：それ（熱意）なしには"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nothing great was ever achieved without enthusiasm.",
     "jp": "情熱なくして偉業は成し遂げられない。",
-    "id": "q0847"
+    "id": "q0847",
+    "tips": [
+      "nothing great：偉大なことは何も",
+      "was ever achieved：これまでに成し遂げられた（受動態）",
+      "without enthusiasm：熱意なしに"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A hero is no braver than an ordinary man, but he is brave five minutes longer.",
     "jp": "英雄は普通の人より勇敢なのではなく、5分長く勇敢でいるだけだ。",
-    "id": "q0848"
+    "id": "q0848",
+    "tips": [
+      "no braver than：〜より勇敢というわけではない",
+      "ordinary：普通の",
+      "five minutes longer：さらに5分長く"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Do the thing we fear, and death of fear is certain.",
     "jp": "恐れることを行えば、その恐れは必ず消える。",
-    "id": "q0849"
+    "id": "q0849",
+    "tips": [
+      "the thing we fear：私たちが恐れていること",
+      "death of fear：恐怖の消滅（比喩）",
+      "certain：確実な"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Though we travel the world over to find the beautiful, we must carry it with us or we find it not.",
     "jp": "世界中を旅して美を探しても、それを心に持っていなければ見つけられない。",
-    "id": "q0850"
+    "id": "q0850",
+    "tips": [
+      "though：〜だけれども",
+      "the world over：世界中を",
+      "the beautiful：美しいもの、美そのもの"
+    ]
   },
   {
     "author": "R. W. Emerson",
