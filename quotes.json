@@ -18025,181 +18025,327 @@
     "author": "Nietzsche",
     "en": "The word ‘Christianity’ is already a misunderstanding.",
     "jp": "「キリスト教」という言葉自体がすでに誤解である。",
-    "id": "q1661"
+    "id": "q1661",
+    "tips": [
+      "Christianity：キリスト教",
+      "misunderstanding：誤解、誤った理解",
+      "already：すでに（名称そのものへの哲学的批判を強調）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Genteel women assume that what polite company cannot discuss does not exist.",
     "jp": "上品な女性たちは、上流の席で話題にできないものは存在しないと思っている。",
-    "id": "q1662"
+    "id": "q1662",
+    "tips": [
+      "genteel：上品な、上流社会風の",
+      "polite company：礼儀を重んじる人々の集まり",
+      "assume that：〜だと思い込む（原文は女性についての一般化を含む）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Plato was a bore.",
     "jp": "プラトンは退屈だった。",
-    "id": "q1663"
+    "id": "q1663",
+    "tips": [
+      "a bore：退屈な人、話がつまらない人",
+      "bore は人を退屈させる動詞としても使える。ここでは可算名詞"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Art is the proper task of life.",
     "jp": "芸術は人生の正しい使命である。",
-    "id": "q1664"
+    "id": "q1664",
+    "tips": [
+      "proper：本来の、ふさわしい",
+      "task：課題、務め",
+      "of life：人生における"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "My ambition: to say in ten sentences what others say in a book.",
     "jp": "私の野心は、他人が一冊の本で語ることを十の文で言うことだ。",
-    "id": "q1665"
+    "id": "q1665",
+    "tips": [
+      "ambition：大志、強い願望",
+      "in ten sentences：十文で",
+      "what others say in a book：他の人が一冊の本で述べること（what は〜すること）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Art raises its head where creeds relax.",
     "jp": "教義が緩むところで芸術は頭をもたげる。",
-    "id": "q1666"
+    "id": "q1666",
+    "tips": [
+      "raise one's head：頭を上げる、姿を現す",
+      "creed：信条、教義",
+      "where creeds relax：教義の拘束が緩むところで（芸術の擬人化）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Not necessity, not desire—love of power is the demon of men.",
     "jp": "必然でも欲望でもなく、権力への愛こそが人間の悪魔だ。",
-    "id": "q1667"
+    "id": "q1667",
+    "tips": [
+      "necessity：必要性、必然性",
+      "love of power：権力への欲求",
+      "demon：悪魔（人を突き動かす欲望の比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Every man is a creative cause of what happens.",
     "jp": "すべての人は出来事を生み出す創造的原因である。",
-    "id": "q1668"
+    "id": "q1668",
+    "tips": [
+      "creative：創造的な、生み出す力のある",
+      "cause：原因、要因",
+      "what happens：起こること（what が名詞節を導く）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The bad gains respect by imitation, the good loses it—especially in art.",
     "jp": "悪は模倣によって尊敬を得、善はそれで尊敬を失う――特に芸術において。",
-    "id": "q1669"
+    "id": "q1669",
+    "tips": [
+      "the bad / the good：悪いもの／良いもの（形容詞の名詞的用法）",
+      "by imitation：模倣によって",
+      "loses it：それを失う（it は respect を指す）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Whoever provokes rage gains supporters too.",
     "jp": "怒りを買った者は同時に支持者も得る。",
-    "id": "q1670"
+    "id": "q1670",
+    "tips": [
+      "whoever：〜する人は誰でも",
+      "provoke rage：激しい怒りを引き起こす",
+      "gain supporters：支持者を獲得する"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "What can everyone do? Praise and blame.",
     "jp": "誰にでもできること――それは賞賛と非難だ。",
-    "id": "q1671"
+    "id": "q1671",
+    "tips": [
+      "praise：称賛する",
+      "blame：非難する",
+      "What can everyone do?：誰もができることは何か（自問自答による強調）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In praise there is more obtrusiveness than in blame.",
     "jp": "賞賛には非難よりも多くの押しつけがましさがある。",
-    "id": "q1672"
+    "id": "q1672",
+    "tips": [
+      "obtrusiveness：出しゃばり、押しつけがましさ",
+      "more A than B：Bよりも多くのA",
+      "praise / blame：称賛／非難（ここでは名詞）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In the last analysis, even the best man is evil; even the best woman is bad.",
     "jp": "最終的に見れば、最良の男も悪であり、最良の女も悪だ。",
-    "id": "q1673"
+    "id": "q1673",
+    "tips": [
+      "in the last analysis：結局のところ、突き詰めれば",
+      "even the best：最も優れた者でさえ",
+      "evil / bad：邪悪な／悪い（原文は男女に関する一般化を含む）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Do whatever you will, but first be one who can will.",
     "jp": "望むことをせよ。ただしまず、望むことのできる者になれ。",
-    "id": "q1674"
+    "id": "q1674",
+    "tips": [
+      "whatever you will：自分が望むことは何でも",
+      "one who：〜する人",
+      "will：ここでは意志する、望む（助動詞ではなく動詞）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Words are but symbols; they never touch absolute truth.",
     "jp": "言葉は記号にすぎず、絶対的真理には触れない。",
-    "id": "q1675"
+    "id": "q1675",
+    "tips": [
+      "but：ここでは only と同じく、単に〜にすぎない",
+      "symbol：象徴、記号",
+      "absolute truth：絶対的な真理"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Wit is the epitaph of an emotion.",
     "jp": "機知は感情の墓碑銘である。",
-    "id": "q1676"
+    "id": "q1676",
+    "tips": [
+      "wit：機知、才気",
+      "epitaph：墓碑銘",
+      "emotion：感情（機知を感情の終わりに刻む言葉にたとえている）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Using the same words does not ensure understanding; shared experience is required.",
     "jp": "同じ言葉を使っても理解は保証されない。共通の体験が必要だ。",
-    "id": "q1677"
+    "id": "q1677",
+    "tips": [
+      "ensure：確実にする、保証する",
+      "shared experience：共有された経験",
+      "be required：必要とされる（受動態）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Value judgments about life are only symptoms.",
     "jp": "人生に関する価値判断は単なる症状でしかない。",
-    "id": "q1678"
+    "id": "q1678",
+    "tips": [
+      "value judgment：価値判断",
+      "symptom：兆候、症状（判断をその背後の状態の表れとして捉える比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Suicide is the most estimable act: it nearly deserves to live.",
     "jp": "自殺は最も称賛すべき行為であり、それによって人はほぼ生きるに値する。",
-    "id": "q1679"
+    "id": "q1679",
+    "tips": [
+      "estimable：尊敬に値する、立派な",
+      "deserve to do：〜するに値する",
+      "原文は逆説的な哲学的表現であり、自殺を肯定・推奨するものとして扱わないこと"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "What is most humane? To spare someone shame.",
     "jp": "最も人間的なことは何か？ それは誰かを恥から救うことだ。",
-    "id": "q1680"
+    "id": "q1680",
+    "tips": [
+      "humane：人道的な、思いやりのある",
+      "spare someone shame：人に恥をかかせずに済ませる（spare＋人＋物）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Admiration for an art may deter us from striving to possess it.",
     "jp": "芸術への賛美が強すぎると、自らそれを持とうとしなくなる。",
-    "id": "q1681"
+    "id": "q1681",
+    "tips": [
+      "admiration for：〜に対する称賛、憧れ",
+      "deter A from doing：Aが〜するのを思いとどまらせる",
+      "strive to do：〜しようと努力する"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "When art wears worn-out clothes it is easiest to recognize.",
     "jp": "芸術が古びた衣をまとったとき、最も見分けやすい。",
-    "id": "q1682"
+    "id": "q1682",
+    "tips": [
+      "worn-out：すり切れた、使い古された",
+      "recognize：見分ける、認識する",
+      "art wears clothes：芸術が服を着るという擬人化"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In everything one thing is impossible: rationality.",
     "jp": "あらゆるものごとで不可能なものがひとつある――理性だ。",
-    "id": "q1683"
+    "id": "q1683",
+    "tips": [
+      "in everything：あらゆる物事において",
+      "rationality：合理性、理性的であること"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Almost all of our sorrows spring out of our relations with other people.",
     "jp": "ほとんどの悲しみは、人との関わりから生まれる。",
-    "id": "q1684"
+    "id": "q1684",
+    "tips": [
+      "sorrow：悲しみ、苦悩",
+      "spring out of：〜から生じる",
+      "relations with：〜との関係"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Talent hits a target no one else can hit; Genius hits a target no one else can see.",
     "jp": "才能は誰も当てられない的を射抜き、天才は誰も見えない的を射抜く。",
-    "id": "q1685"
+    "id": "q1685",
+    "tips": [
+      "hit a target：的に当てる、目標を達成する",
+      "no one else：ほかの誰も〜ない",
+      "talent / genius：才能／天才的な才覚（達成力と独創性を対比する比喩）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The doctor sees all the weakness of mankind; the lawyer all the wickedness, the theologian all the stupidity.",
     "jp": "医者は人間の弱さを見抜き、弁護士は悪を、神学者は愚かさを見抜く。",
-    "id": "q1686"
+    "id": "q1686",
+    "tips": [
+      "wickedness：邪悪さ、悪徳",
+      "theologian：神学者",
+      "the lawyer、the theologian の後では sees が省略されている"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "Treat a work of art like a prince. Let it speak to you first.",
     "jp": "芸術作品は王子のように扱え。まずは作品のほうから語りかけてくるのを待て。",
-    "id": "q1687"
+    "id": "q1687",
+    "tips": [
+      "treat A like B：AをBのように扱う",
+      "a work of art：芸術作品",
+      "let it speak to you：それがあなたに語りかけるままにする（let＋目的語＋動詞の原形）"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The greatest of follies is to sacrifice health for any other kind of happiness.",
     "jp": "最大の愚かさは、ほかの幸福のために健康を犠牲にすることだ。",
-    "id": "q1688"
+    "id": "q1688",
+    "tips": [
+      "folly：愚かさ、愚かな行為（follies は複数形）",
+      "sacrifice A for B：BのためにAを犠牲にする",
+      "any other kind of：ほかのどのような種類の〜でも"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The more unintelligent a man is, the less mysterious existence seems to him.",
     "jp": "人が愚かであればあるほど、存在は不思議に思えなくなる。",
-    "id": "q1689"
+    "id": "q1689",
+    "tips": [
+      "the more ... , the less ...：〜であればあるほど、ますます…でなくなる",
+      "mysterious：神秘的な、不可解な",
+      "existence：存在、生存"
+    ]
   },
   {
     "author": "Schopenhauer",
     "en": "The first forty years of life give us the text; the next thirty supply the commentary on it.",
     "jp": "人生の最初の40年は本文であり、その後の30年は注釈である。",
-    "id": "q1690"
+    "id": "q1690",
+    "tips": [
+      "supply：供給する、提供する",
+      "commentary on：〜についての解説",
+      "text / commentary：本文／解説（人生の前半と後半を読書にたとえている）"
+    ]
   },
   {
     "author": "Schopenhauer",
