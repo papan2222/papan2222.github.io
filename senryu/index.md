@@ -10,7 +10,7 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card" id="work-panda-reading-picture-book-rainy-japanese-bookshop">
-  <a class="image-link" href="/senryu/works/panda-reading-picture-book-rainy-japanese-bookshop/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-reading-picture-book-rainy-japanese-bookshop.jpg" alt="雨の昭和の古本屋で絵本を読むパンダと眠る猫, a panda reading a picture book in a rainy Japanese secondhand bookshop" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/panda-reading-picture-book-rainy-japanese-bookshop/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-reading-picture-book-rainy-japanese-bookshop.jpg" alt="雨の昭和の古本屋で絵本を読むパンダと眠る猫, a panda reading a picture book in a rainy Japanese secondhand bookshop" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/e669fec88b474e03efcd88b0-640.webp 640w, /assets/previews/e669fec88b474e03efcd88b0-1280.webp 1280w, /images/senryu/panda-reading-picture-book-rainy-japanese-bookshop.jpg 1448w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 雨上がり
 まだ帰らない
