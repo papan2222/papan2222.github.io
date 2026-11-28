@@ -16056,181 +16056,329 @@
     "author": "Nietzsche",
     "en": "All truly great thoughts are conceived by walking.",
     "jp": "偉大な思想はすべて歩くことで生まれる。",
-    "id": "q1481"
+    "id": "q1481",
+    "tips": [
+      "conceive：考えを思いつく、着想する",
+      "be conceived：生み出される（受動態）",
+      "by walking：歩くことによって"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Those who cannot put their thoughts on ice should not enter debate’s heat.",
     "jp": "思考を氷で冷やせない者は、議論の熱に入るべきではない。",
-    "id": "q1482"
+    "id": "q1482",
+    "tips": [
+      "put something on ice：物事を一時保留にする、冷静に保つ",
+      "debate：討論",
+      "heat：熱気（ice と heat の対比で冷静さと激論を表す）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "When you look into an abyss, the abyss also looks into you.",
     "jp": "深淵をのぞくとき、深淵もまたあなたをのぞいている。",
-    "id": "q1483"
+    "id": "q1483",
+    "tips": [
+      "look into：〜の中をのぞき込む",
+      "abyss：深淵、底知れぬ穴",
+      "the abyss also looks into you：深淵の擬人化によって、観察する側も影響を受けることを示唆する"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Perhaps man laughs because he suffers so deeply he had to invent laughter.",
     "jp": "人間が笑うのは、あまりに深く苦しむがゆえに、笑いを発明せねばならなかったからかもしれない。",
-    "id": "q1484"
+    "id": "q1484",
+    "tips": [
+      "perhaps：おそらく、もしかすると",
+      "suffer deeply：深く苦しむ",
+      "so deeply (that)：あまりに深く〜するので…（that が省略されている）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Character is shaped more by what one lacks than by what one has.",
     "jp": "人格は、持っている経験よりも、欠けている経験によって形づくられる。",
-    "id": "q1485"
+    "id": "q1485",
+    "tips": [
+      "be shaped by：〜によって形作られる",
+      "lack：〜を欠いている",
+      "more by A than by B：BよりもAによって強く"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "You have your way. I have my way. The only way does not exist.",
     "jp": "あなたにはあなたの道があり、私には私の道がある。唯一の道など存在しない。",
-    "id": "q1486"
+    "id": "q1486",
+    "tips": [
+      "one's way：自分なりの方法、生き方",
+      "the only way：唯一の方法",
+      "exist：存在する"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There cannot be a God because if there were, I could not believe I was not He.",
     "jp": "神が存在するはずがない。なぜならもし存在するなら、私が神でないとは信じられないからだ。",
-    "id": "q1487"
+    "id": "q1487",
+    "tips": [
+      "There cannot be ...：〜が存在するはずがない",
+      "if there were：もし存在するとしたら（仮定法過去）",
+      "He：ここでは神を指す大文字の代名詞"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "When one has not had a good father, one must create one.",
     "jp": "よき父を持たなかった者は、自らそれを作らねばならない。",
-    "id": "q1488"
+    "id": "q1488",
+    "tips": [
+      "one：一般の人を指す代名詞",
+      "has not had：これまで持ったことがない（現在完了）",
+      "create one：一人の父親を創り出す（理想の父親像を作るという含意）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Faith: not wanting to know what is true.",
     "jp": "信仰とは、真実を知りたくないということだ。",
-    "id": "q1489"
+    "id": "q1489",
+    "tips": [
+      "faith：信仰、信念",
+      "not wanting to know：知ろうとしないこと（動名詞の否定）",
+      "what is true：何が真実なのか"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "That which does not kill us makes us stronger.",
     "jp": "私たちを殺さないものは、私たちを強くする。",
-    "id": "q1490"
+    "id": "q1490",
+    "tips": [
+      "that which：〜するもの、〜すること",
+      "make A stronger：Aをより強くする（使役構文）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "He who has a why to live can bear almost any how.",
     "jp": "生きる理由を持つ者は、ほとんどどんな方法にも耐えられる。",
-    "id": "q1491"
+    "id": "q1491",
+    "tips": [
+      "he who：〜する人（古風な表現）",
+      "a why / any how：生きる理由／生き方や境遇（疑問詞を名詞的に使用）",
+      "bear：耐える、持ちこたえる"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "He who would learn to fly must first learn to walk, run, climb, and dance.",
     "jp": "飛ぶことを学びたい者は、まず歩き、走り、登り、踊ることを学ばねばならない。",
-    "id": "q1492"
+    "id": "q1492",
+    "tips": [
+      "would learn：学びたいと望む（would は意志を表す）",
+      "must first：まず〜しなければならない",
+      "learn to do：〜できるようになる、〜することを学ぶ"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The best weapon against an enemy is another enemy.",
     "jp": "敵に対する最良の武器は、別の敵だ。",
-    "id": "q1493"
+    "id": "q1493",
+    "tips": [
+      "weapon：武器、対抗手段",
+      "against：〜に対抗する",
+      "another enemy：もう一人の敵（敵対関係を利用するという逆説的表現）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Ah, women. They make the highs higher and the lows lower.",
     "jp": "ああ、女性よ。彼女たちは喜びをより高くし、落胆をより深くする。",
-    "id": "q1494"
+    "id": "q1494",
+    "tips": [
+      "the highs / the lows：良い時期や高揚／悪い時期や落ち込み",
+      "make A higher：Aをさらに高める",
+      "higher / lower：高低の比較級を対比した表現"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The essence of all great art is gratitude.",
     "jp": "偉大な芸術すべての本質は感謝である。",
-    "id": "q1495"
+    "id": "q1495",
+    "tips": [
+      "essence：本質、真髄",
+      "gratitude：感謝の気持ち"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Whenever I climb I am followed by a dog called ‘Ego’.",
     "jp": "私が登るとき、必ず「自我」という犬がついてくる。",
-    "id": "q1496"
+    "id": "q1496",
+    "tips": [
+      "whenever：〜するときはいつでも",
+      "be followed by：〜について来られる、追随される",
+      "ego：自我（自我をついてくる犬にたとえている）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The doer alone learneth.",
     "jp": "行う者だけが学ぶ。",
-    "id": "q1497"
+    "id": "q1497",
+    "tips": [
+      "doer：実際に行動する人",
+      "alone：〜だけが",
+      "learneth：learns に相当する古風な三人称単数形"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In every real man a child is hidden that wants to play.",
     "jp": "あらゆる真の男の中には、遊びたがる子どもが隠れている。",
-    "id": "q1498"
+    "id": "q1498",
+    "tips": [
+      "in every real man：あらゆる真の男の内に",
+      "be hidden：隠れている",
+      "that wants to play：遊びたがっている（a child を修飾する関係節）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The true man wants two things: danger and play.",
     "jp": "真の人間が欲するのは二つ、危険と遊びだ。",
-    "id": "q1499"
+    "id": "q1499",
+    "tips": [
+      "true man：真の男（原文における男性像）",
+      "danger：危険",
+      "play：遊び、遊戯（名詞）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There are no facts, only interpretations.",
     "jp": "事実など存在しない。あるのは解釈だけだ。",
-    "id": "q1500"
+    "id": "q1500",
+    "tips": [
+      "fact：事実",
+      "interpretation：解釈",
+      "only：ただ〜だけ（事実と解釈を対比した哲学的主張）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There is always some madness in love. But there is also reason in madness.",
     "jp": "愛には常に狂気がある。しかし狂気にもまた理由がある。",
-    "id": "q1501"
+    "id": "q1501",
+    "tips": [
+      "madness：狂気、理性を失った状態",
+      "reason：理性、合理性",
+      "some ... in：〜の中にいくらかの…がある"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Many are stubborn in pursuing their path, few in pursuing their goal.",
     "jp": "自分の道に固執する人は多いが、目標に固執する人は少ない。",
-    "id": "q1502"
+    "id": "q1502",
+    "tips": [
+      "stubborn：頑固な、意志を曲げない",
+      "pursue：追求する",
+      "few：少数の人々（後半では are stubborn が省略されている）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Whatever is done for love occurs beyond good and evil.",
     "jp": "愛のために行われることは、善悪を超えている。",
-    "id": "q1503"
+    "id": "q1503",
+    "tips": [
+      "whatever is done：行われることは何であれ",
+      "occur：起こる",
+      "beyond good and evil：善悪の区別を超えて"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Women are considered deep because no bottom can be found to them.",
     "jp": "女性が深いとされるのは、その底が決して見つからないからだ。",
-    "id": "q1504"
+    "id": "q1504",
+    "tips": [
+      "be considered deep：奥深いと見なされる",
+      "bottom：底（deep と対応する比喩）",
+      "no bottom can be found：底が見つからない（原文は女性一般についての比喩的な主張）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Is man one of God’s blunders? Or is God one of man’s blunders?",
     "jp": "人間は神の過ちか？ それとも神は人間の過ちか？",
-    "id": "q1505"
+    "id": "q1505",
+    "tips": [
+      "blunder：大きな誤り、失敗",
+      "one of：〜の一つ",
+      "God's / man's：神の／人間の（所有格を入れ替えた対称的な修辞疑問）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Whoever despises himself still respects himself as one who despises.",
     "jp": "自分を軽蔑する者も、軽蔑する者として自分を尊重している。",
-    "id": "q1506"
+    "id": "q1506",
+    "tips": [
+      "whoever：〜する人は誰でも",
+      "despise：軽蔑する",
+      "as one who：〜する者として（自己軽蔑と自己尊重を対比する逆説）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Madness is rare in individuals—but in groups it is the rule.",
     "jp": "個人に狂気はまれだが、集団には常である。",
-    "id": "q1507"
+    "id": "q1507",
+    "tips": [
+      "madness：狂気、非理性的な状態",
+      "rare：まれな",
+      "the rule：通常のこと、一般的な傾向（rare と対比）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Convictions are more dangerous foes of truth than lies.",
     "jp": "信念は嘘よりも真実の危険な敵だ。",
-    "id": "q1508"
+    "id": "q1508",
+    "tips": [
+      "conviction：確固たる信念",
+      "foe：敵（文学的な語）",
+      "foes of truth：真実に敵対するもの（信念が真実の探求を妨げ得るという主張）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "It is consoling to think of suicide; thus one gets through many a bad night.",
     "jp": "自殺を思うことは慰めになる。それで多くのつらい夜をやり過ごせる。",
-    "id": "q1509"
+    "id": "q1509",
+    "tips": [
+      "consoling：慰めとなる",
+      "thus：したがって、そのようにして",
+      "get through：困難な時期を切り抜ける（原文は自殺に言及する哲学的表現であり、対処法として推奨するものではない）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "We have art in order not to die of the truth.",
     "jp": "私たちに芸術があるのは、真実に殺されないためだ。",
-    "id": "q1510"
+    "id": "q1510",
+    "tips": [
+      "in order not to do：〜しないために",
+      "die of：〜が原因で死ぬ",
+      "art / truth：芸術／真実（真実の重さと芸術の役割を対比した比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
