@@ -2412,181 +2412,331 @@
     "author": "Mark Twain",
     "en": "It is by the goodness of God that in our country we have those three unspeakably precious things: freedom of speech, freedom of conscience, and the prudence never to practice either of them.",
     "jp": "神の恵みにより、この国には言論の自由、良心の自由、そしてそのどちらも実行しない慎みという三つのかけがえのないものがある。",
-    "id": "q0221"
+    "id": "q0221",
+    "tips": [
+      "freedom of speech：言論の自由",
+      "freedom of conscience：良心の自由",
+      "prudence：慎重さ、分別"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Climate is what we expect, weather is what we get.",
     "jp": "気候とは私たちが期待するもの、天気とは実際に得るものだ。",
-    "id": "q0222"
+    "id": "q0222",
+    "tips": [
+      "climate：気候（長期的な傾向）",
+      "weather：天気（短期的な状態）",
+      "what we expect：私たちが予想するもの"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I don't give a damn for a man that can only spell a word one way.",
     "jp": "一つの単語を一通りにしか綴れない男なんて気にしない。",
-    "id": "q0223"
+    "id": "q0223",
+    "tips": [
+      "not give a damn for：〜など気にも留めない（粗野な表現）",
+      "spell：つづる",
+      "one way：一つの方法で"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Clothes make the man. Naked people have little or no influence on society.",
     "jp": "服が人を作る。裸の人は社会にほとんど影響を与えない。",
-    "id": "q0224"
+    "id": "q0224",
+    "tips": [
+      "naked：裸の",
+      "little or no：ほとんどない、またはまったくない",
+      "influence on：〜への影響"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Facts are stubborn, but statistics are more pliable.",
     "jp": "事実は頑固だが、統計はもっと融通がきく。",
-    "id": "q0225"
+    "id": "q0225",
+    "tips": [
+      "stubborn：頑固な、容易に変わらない",
+      "statistics：統計",
+      "pliable：柔軟な、容易に変えられる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Many a small thing has been made large by the right kind of advertising.",
     "jp": "多くの小さなことが、適切な広告によって大きくなってきた。",
-    "id": "q0226"
+    "id": "q0226",
+    "tips": [
+      "many a + 単数名詞：多くの〜（動詞も単数扱い）",
+      "has been made：〜にされてきた（現在完了の受動態）",
+      "advertising：広告活動"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "If man could be crossed with the cat it would improve man, but deteriorate the cat.",
     "jp": "もし人間と猫を掛け合わせれば、人間は改善されるが猫は悪くなる。",
-    "id": "q0227"
+    "id": "q0227",
+    "tips": [
+      "cross A with B：AとBを交配させる",
+      "improve：改善する",
+      "deteriorate：悪化させる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Let us not be too particular; it is better to have old secondhand diamonds than none at all.",
     "jp": "あまり細かいことは気にするな。中古の古いダイヤでも、ないよりはましだ。",
-    "id": "q0228"
+    "id": "q0228",
+    "tips": [
+      "particular：好みや条件にうるさい",
+      "secondhand：中古の",
+      "none at all：まったくないこと"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "In the Spring, I have counted 136 different kinds of weather inside of 24 hours.",
     "jp": "春には、24時間の間に136種類もの天気を数えたことがある。",
-    "id": "q0229"
+    "id": "q0229",
+    "tips": [
+      "count：数える",
+      "different kinds of：さまざまな種類の",
+      "inside of：〜以内に"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "A man cannot be comfortable without his own approval.",
     "jp": "自分自身の承認なしに快適に生きることはできない。",
-    "id": "q0230"
+    "id": "q0230",
+    "tips": [
+      "comfortable：心地よい、気が楽な",
+      "approval：承認、肯定",
+      "one's own：自分自身の"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It is my belief that nearly any invented quotation, played with confidence, stands a good chance to deceive.",
     "jp": "自信を持って言えば、ほとんどの作り話の名言は人をだませると私は信じている。",
-    "id": "q0231"
+    "id": "q0231",
+    "tips": [
+      "invented quotation：作り出された引用句",
+      "with confidence：自信を持って",
+      "stand a good chance to do：〜する可能性が十分にある"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "My books are like water; those of the great geniuses are wine. (Fortunately) everybody drinks water.",
     "jp": "私の本は水のようなものだ。偉大な天才の本はワインのようなものだ。（幸いなことに）誰もが水は飲む。",
-    "id": "q0232"
+    "id": "q0232",
+    "tips": [
+      "those of：〜のもの（ここでは books の代用）",
+      "genius：天才",
+      "fortunately：幸いにも"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I didn't attend the funeral, but I sent a nice letter saying I approved of it.",
     "jp": "葬式には出なかったが、賛成だと書いた丁寧な手紙を送った。",
-    "id": "q0233"
+    "id": "q0233",
+    "tips": [
+      "attend：出席する",
+      "funeral：葬儀",
+      "approve of：〜をよいと認める"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Truth is the most valuable thing we have. Let us economize it.",
     "jp": "真実は私たちが持つ最も価値あるものだ。だから節約しよう。",
-    "id": "q0234"
+    "id": "q0234",
+    "tips": [
+      "valuable：価値のある",
+      "let us do：〜しよう",
+      "economize：節約する（ここでは真実を出し惜しみするという皮肉）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The human race is a race of cowards; and I am not only marching in that procession but carrying a banner.",
     "jp": "人類は臆病者の行進だ。そして私はその行進に参加するだけでなく、旗まで掲げている。",
-    "id": "q0235"
+    "id": "q0235",
+    "tips": [
+      "coward：臆病者",
+      "march：行進する",
+      "procession：行列"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Familiarity breeds contempt - and children.",
     "jp": "親しさは軽蔑を生み——子どもも生む。",
-    "id": "q0236"
+    "id": "q0236",
+    "tips": [
+      "familiarity：親しさ、慣れ",
+      "breed：生じさせる、繁殖させる",
+      "contempt：軽蔑（breed の二つの意味を利用した言葉遊び）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "There is no sadder sight than a young pessimist.",
     "jp": "若い悲観主義者ほど悲しい光景はない。",
-    "id": "q0237"
+    "id": "q0237",
+    "tips": [
+      "sight：光景",
+      "pessimist：悲観主義者",
+      "no sadder ... than：〜より悲しい…はない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "To be good is noble; but to show others how to be good is nobler and no trouble.",
     "jp": "善良であることは高貴だが、他人に善良である方法を示すことは、さらに高貴でしかも手間がかからない。",
-    "id": "q0238"
+    "id": "q0238",
+    "tips": [
+      "noble：高潔な",
+      "show A how to do：Aに〜の仕方を示す",
+      "no trouble：何の苦労もないこと"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The secret source of humor is not joy but sorrow; there is no humor in Heaven.",
     "jp": "ユーモアの秘められた源は喜びではなく悲しみだ。天国にはユーモアはない。",
-    "id": "q0239"
+    "id": "q0239",
+    "tips": [
+      "source of：〜の源",
+      "not A but B：AではなくB",
+      "sorrow：悲しみ"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Against the assault of laughter, nothing can stand.",
     "jp": "笑いの攻撃には、何も耐えられない。",
-    "id": "q0240"
+    "id": "q0240",
+    "tips": [
+      "assault：攻撃",
+      "stand against：〜に対抗する",
+      "laughter：笑い"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "To refuse awards is another way of accepting them with more noise than is normal.",
     "jp": "賞を拒否することは、普通以上の騒ぎを伴ってそれを受け取る方法の一つだ。",
-    "id": "q0241"
+    "id": "q0241",
+    "tips": [
+      "refuse：拒む",
+      "another way of -ing：〜する別の方法",
+      "more ... than is normal：通常より多くの〜"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I must have a prodigious quantity of mind; it takes me as much as a week sometimes to make it up.",
     "jp": "私は相当な量の頭脳を持っているに違いない。決断するのに時には1週間もかかるのだから。",
-    "id": "q0242"
+    "id": "q0242",
+    "tips": [
+      "prodigious：途方もない",
+      "as much as：〜もの（量の強調）",
+      "make up one's mind：決心する（mind の言葉遊び）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When angry, count to four; when very angry, swear.",
     "jp": "怒ったら4まで数えろ。とても怒ったら罵れ。",
-    "id": "q0243"
+    "id": "q0243",
+    "tips": [
+      "when angry：怒っているとき（when you are angry の省略）",
+      "count to four：4まで数える",
+      "swear：悪態をつく"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I was gratified to be able to answer promptly, and I did. I said I didn't know.",
     "jp": "即答できてうれしかった。答えは「知らない」だったが。",
-    "id": "q0244"
+    "id": "q0244",
+    "tips": [
+      "be gratified：満足する、喜ぶ",
+      "promptly：即座に",
+      "I did：前に出た answer promptly を受ける代動詞"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Drag your thoughts away from your troubles... by the ears, by the heels, or any other way you can manage it.",
     "jp": "悩みから思考を引き離せ——耳でも、かかとでも、できる方法で。",
-    "id": "q0245"
+    "id": "q0245",
+    "tips": [
+      "drag A away from B：AをBから引き離す",
+      "by the ears / heels：耳／かかとをつかんで",
+      "manage：何とかやり遂げる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Good breeding consists in concealing how much we think of ourselves and how little we think of the other person.",
     "jp": "礼儀とは、自分をどれだけ高く評価し、相手をどれだけ軽んじているかを隠すことだ。",
-    "id": "q0246"
+    "id": "q0246",
+    "tips": [
+      "good breeding：育ちのよさ、礼儀正しさ",
+      "consist in：〜に本質がある",
+      "think much of：〜を高く評価する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The difference between the almost right word and the right word is really a large matter - 'tis the difference between the lightning-bug and the lightning.",
     "jp": "ほぼ正しい言葉と正しい言葉の違いは大きい。それはホタルと稲妻の違いだ。",
-    "id": "q0247"
+    "id": "q0247",
+    "tips": [
+      "almost：ほとんど、もう少しで",
+      "'tis：it is の古風な短縮形",
+      "lightning-bug：ホタル／lightning：稲妻"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When I was younger I could remember anything, whether it happened or not.",
     "jp": "若い頃は、起きたことも起きなかったこともすべて覚えられた。",
-    "id": "q0248"
+    "id": "q0248",
+    "tips": [
+      "whether ... or not：〜であろうとなかろうと",
+      "happen：起こる",
+      "could remember：覚えていられた（過去の能力）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I have been complimented many times and they always embarrass me; I always feel that they have not said enough.",
     "jp": "何度も褒められたが、いつも気恥ずかしい。そして褒め言葉が足りないと感じる。",
-    "id": "q0249"
+    "id": "q0249",
+    "tips": [
+      "have been complimented：褒められてきた（現在完了の受動態）",
+      "embarrass：当惑させる",
+      "not enough：十分ではない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "She was not quite what you would call refined. She was not quite what you would call unrefined. She was the kind of person that keeps a parrot.",
     "jp": "彼女は上品とも下品とも言えなかった。オウムを飼っているような人だった。",
-    "id": "q0250"
+    "id": "q0250",
+    "tips": [
+      "not quite：完全に〜というわけではない",
+      "refined：洗練された",
+      "the kind of person that：〜するようなタイプの人"
+    ]
   },
   {
     "author": "Mark Twain",
