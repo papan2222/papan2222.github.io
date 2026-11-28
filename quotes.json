@@ -3070,181 +3070,329 @@
     "author": "Mark Twain",
     "en": "Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education.",
     "jp": "訓練がすべてだ。桃はかつて苦いアーモンドだったし、カリフラワーは大学教育を受けたキャベツにすぎない。",
-    "id": "q0281"
+    "id": "q0281",
+    "tips": [
+      "training：訓練、教育",
+      "bitter almond：苦味のあるアーモンド",
+      "nothing but：〜にすぎない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I was seldom able to see an opportunity until it had ceased to be one.",
     "jp": "私は機会が機会でなくなってからでないと、それに気づけないことが多かった。",
-    "id": "q0282"
+    "id": "q0282",
+    "tips": [
+      "seldom：めったに〜ない",
+      "cease to be：〜でなくなる",
+      "had ceased：すでに〜でなくなっていた（過去完了）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The educated Southerner has no use for an 'r', except at the beginning of a word.",
     "jp": "教養ある南部人は、「r」を単語の最初以外では使わない。",
-    "id": "q0283"
+    "id": "q0283",
+    "tips": [
+      "Southerner：ここでは米国南部の人",
+      "have no use for：〜を必要としない",
+      "except at：〜の場合を除いて"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Work is a necessary evil to be avoided.",
     "jp": "仕事は避けるべき必要悪だ。",
-    "id": "q0284"
+    "id": "q0284",
+    "tips": [
+      "necessary evil：必要悪",
+      "to be avoided：避けるべき（受動態の不定詞）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It put our energies to sleep and made visionaries of us - dreamers and indolent... It is good to begin life poor; it is good to begin life rich - these are wholesome; but to begin it prospectively rich! The man who has not experienced it cannot imagine the curse of it.",
     "jp": "それは我々のエネルギーを眠らせ、夢想家や怠け者にした……貧しく人生を始めるのは良いことだ。裕福に始めるのも良い。しかし将来裕福になるとわかって始めるのは！経験のない者には、その呪いは想像できない。",
-    "id": "q0285"
+    "id": "q0285",
+    "tips": [
+      "put A to sleep：Aを眠らせる",
+      "indolent：怠惰な",
+      "prospectively：将来の見込みとして"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Man will do many things to get himself loved, he will do all things to get himself envied.",
     "jp": "人は愛されるために多くのことをするが、羨ましがられるためにはあらゆることをする。",
-    "id": "q0286"
+    "id": "q0286",
+    "tips": [
+      "get oneself loved：自分が愛されるようにする",
+      "get oneself envied：自分がうらやましがられるようにする",
+      "envy：うらやむ"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Why shouldn't truth be stranger than fiction? Fiction, after all, has to make sense.",
     "jp": "なぜ真実が小説より奇であってはいけないのか？小説は筋が通っていなければならないのだから。",
-    "id": "q0287"
+    "id": "q0287",
+    "tips": [
+      "Why shouldn't ...?：なぜ〜であってはいけないのか",
+      "after all：結局のところ、何しろ",
+      "make sense：筋が通る"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It is just like man's vanity and impertinence to call an animal dumb because it is dumb to his dull perceptions.",
     "jp": "自分の鈍い感覚には無口に見えるからといって、動物を愚かだと呼ぶのは、人間の虚栄心と無礼そのものだ。",
-    "id": "q0288"
+    "id": "q0288",
+    "tips": [
+      "vanity：虚栄心",
+      "impertinence：無礼、厚かましさ",
+      "dumb：口がきけない（古い用法。人への使用には注意）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The more things are forbidden, the more popular they become.",
     "jp": "物事は禁じられるほど人気になる。",
-    "id": "q0289"
+    "id": "q0289",
+    "tips": [
+      "the more ..., the more ...：〜すればするほど…",
+      "be forbidden：禁じられる",
+      "become popular：人気が出る"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Classic.' A book which people praise and don't read.",
     "jp": "古典——人々が称賛し、読まない本。",
-    "id": "q0290"
+    "id": "q0290",
+    "tips": [
+      "classic：古典、名作（名詞）",
+      "praise：称賛する",
+      "which：先行詞 a book を修飾する関係代名詞"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Biographies are but the clothes and buttons of the man. The biography of the man himself cannot be written.",
     "jp": "伝記とは、その人の服とボタンにすぎない。その人自身の伝記は書けない。",
-    "id": "q0291"
+    "id": "q0291",
+    "tips": [
+      "biography：伝記",
+      "but：ここでは only（単に〜にすぎない）",
+      "himself：本人自身（強調）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Education consists mainly of what we have unlearned.",
     "jp": "教育とは、主に我々が忘れたことから成る。",
-    "id": "q0292"
+    "id": "q0292",
+    "tips": [
+      "consist of：〜から成る",
+      "mainly：主として",
+      "unlearn：身につけた知識や習慣を捨てる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Name the greatest of all inventors. Accident.",
     "jp": "史上最大の発明家を挙げろ？それは偶然だ。",
-    "id": "q0293"
+    "id": "q0293",
+    "tips": [
+      "inventor：発明家",
+      "accident：偶然、事故",
+      "name：名前を挙げる（動詞）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Lord save us all from old age and broken health and a hope tree that has lost the faculty of putting out blossoms.",
     "jp": "神よ、老齢と病気と、花を咲かせる力を失った希望の木から、我々すべてを救いたまえ。",
-    "id": "q0294"
+    "id": "q0294",
+    "tips": [
+      "save A from B：AをBから救う",
+      "faculty：能力",
+      "put out blossoms：花を咲かせる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The most interesting information comes from children, for they tell all they know and then stop.",
     "jp": "最も興味深い情報は子どもから得られる。彼らは知っていることをすべて話し、それでやめるからだ。",
-    "id": "q0295"
+    "id": "q0295",
+    "tips": [
+      "for：というのも（理由を示す接続詞）",
+      "all they know：彼らが知っていることすべて",
+      "come from：〜に由来する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "What is the difference between a taxidermist and a tax collector? The taxidermist takes only your skin.",
     "jp": "剥製師と税務官の違いは何か？ 剥製師はあなたの皮だけを取る。",
-    "id": "q0296"
+    "id": "q0296",
+    "tips": [
+      "taxidermist：剥製師",
+      "tax collector：徴税人",
+      "skin：皮膚、皮"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Let us make a special effort to stop communicating with each other, so we can have some conversation.",
     "jp": "会話をするために、お互いのコミュニケーションをやめる特別な努力をしよう。",
-    "id": "q0297"
+    "id": "q0297",
+    "tips": [
+      "make an effort to do：〜する努力をする",
+      "communicate with：〜と意思疎通する",
+      "so：〜できるように（目的）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It is better to take what does not belong to you than to let it lie around neglected.",
     "jp": "自分のものではない物を放置しておくより、取ってしまった方がましだ。",
-    "id": "q0298"
+    "id": "q0298",
+    "tips": [
+      "belong to：〜の所有物である",
+      "lie around：放置された状態でいる",
+      "neglected：顧みられない、放置された"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "George Washington, as a boy, was ignorant of the commonest accomplishments of youth. He could not even lie.",
     "jp": "少年時代のジョージ・ワシントンは、若者として最も一般的な能力すら知らなかった。嘘すらつけなかった。",
-    "id": "q0299"
+    "id": "q0299",
+    "tips": [
+      "be ignorant of：〜を知らない",
+      "accomplishment：身につけた技能、達成",
+      "lie：うそをつく"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The public is the only critic whose opinion is worth anything at all.",
     "jp": "世間こそが、価値のある唯一の批評家だ。",
-    "id": "q0300"
+    "id": "q0300",
+    "tips": [
+      "the public：一般の人々",
+      "critic：批評家",
+      "be worth anything at all：少しでも価値がある"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The finest clothing made is a person's own skin, but, of course, society demands something more than this.",
     "jp": "最上の服は人の皮膚だが、もちろん社会はそれ以上のものを求める。",
-    "id": "q0301"
+    "id": "q0301",
+    "tips": [
+      "finest：最も上質な",
+      "of course：もちろん",
+      "demand：要求する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "There are people who can do all fine and heroic things but one - keep from telling their happiness to the unhappy.",
     "jp": "高貴で英雄的なことは何でもできるが、ひとつだけできない人がいる。それは、不幸な人に自分の幸福を話さないことだ。",
-    "id": "q0302"
+    "id": "q0302",
+    "tips": [
+      "heroic：英雄的な",
+      "but one：一つを除いて",
+      "keep from -ing：〜するのを控える"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Prosperity is the best protector of principle.",
     "jp": "繁栄は原則を守る最良の盾である。",
-    "id": "q0303"
+    "id": "q0303",
+    "tips": [
+      "prosperity：繁栄、裕福さ",
+      "protector：守るもの",
+      "principle：信条、原則"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The first of April is the day we remember what we are the other 364 days of the year.",
     "jp": "4月1日は、残り364日も私たちが同じであることを思い出す日だ。",
-    "id": "q0304"
+    "id": "q0304",
+    "tips": [
+      "the first of April：4月1日（エイプリルフール）",
+      "what we are：私たちがどんな存在か",
+      "the other 364 days：残りの364日"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I make it a rule never to smoke while I'm sleeping.",
     "jp": "寝ている間は絶対に煙草を吸わないことにしている。",
-    "id": "q0305"
+    "id": "q0305",
+    "tips": [
+      "make it a rule to do：〜することを習慣にしている",
+      "while：〜している間に"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "In 'Huckleberry Finn,' I have drawn Tom Blankenship exactly as he was. He was ignorant, unwashed, insufficiently fed; but he had as good a heart as ever any boy had.",
     "jp": "『ハックルベリー・フィン』では、トム・ブランケンシップをありのままに描いた。彼は無知で、風呂にも入らず、食事も十分でなかったが、どんな少年にも負けない良い心を持っていた。",
-    "id": "q0306"
+    "id": "q0306",
+    "tips": [
+      "draw：ここでは人物を描写する",
+      "insufficiently fed：十分な食事を与えられていない",
+      "as good a heart as：〜と同じくらい善良な心"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Soap and education are not as sudden as a massacre, but they are more deadly in the long run.",
     "jp": "石鹸と教育は虐殺ほど即効性はないが、長期的にはもっと致命的だ。",
-    "id": "q0307"
+    "id": "q0307",
+    "tips": [
+      "massacre：虐殺",
+      "deadly：致命的な",
+      "in the long run：長い目で見れば"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When a person cannot deceive himself the chances are against his being able to deceive other people.",
     "jp": "自分を欺けない人は、他人を欺くこともできない可能性が高い。",
-    "id": "q0308"
+    "id": "q0308",
+    "tips": [
+      "deceive oneself：自分自身をだます",
+      "the chances are against：〜の可能性は低い",
+      "his being able to：彼が〜できること（動名詞の意味上の主語）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Repartee is something we think of twenty-four hours too late.",
     "jp": "機知ある返答とは、24時間遅れて思いつくものだ。",
-    "id": "q0309"
+    "id": "q0309",
+    "tips": [
+      "repartee：機知に富んだ切り返し",
+      "think of：思いつく",
+      "twenty-four hours too late：24時間も遅すぎて"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Martyrdom covers a multitude of sins.",
     "jp": "殉教は多くの罪を覆い隠す。",
-    "id": "q0310"
+    "id": "q0310",
+    "tips": [
+      "martyrdom：殉教",
+      "cover：覆い隠す",
+      "a multitude of：非常に多くの"
+    ]
   },
   {
     "author": "Mark Twain",
