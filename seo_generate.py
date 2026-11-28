@@ -53,6 +53,8 @@ groups={}
 for n,q in enumerate(quotes):
     ident=q["id"]; author=q["author"]; profile=authors.get(author,{})
     name=profile.get("ja",author)
+    author_slugs={"R. W. Emerson":"emerson","Thoreau":"thoreau","Oscar Wilde":"oscar-wilde","Mark Twain":"mark-twain","Nietzsche":"nietzsche","Goethe":"goethe","Ambrose Bierce":"ambrose-bierce","Eric Hoffer":"eric-hoffer","William James":"william-james","Schopenhauer":"schopenhauer"}
+    author_link=f'<a href="/quotes/authors/{author_slugs[author]}/">{h(name)}の名言一覧</a>' if author in author_slugs else ""
     groups.setdefault(author,[]).append(q)
     url=f"{BASE}/quotes/works/{ident}/"
     title=f"{q['en'][:90]}｜{name}の英語名言"
@@ -61,7 +63,7 @@ for n,q in enumerate(quotes):
     bio=h((profile.get("years","")+" "+profile.get("bio","")).strip())
     prev=f'<a href="/quotes/works/{ids[n-1]}/">← 前の名言</a>' if n else ""
     nxt=f'<a href="/quotes/works/{ids[n+1]}/">次の名言 →</a>' if n+1<len(ids) else ""
-    page=f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{h(title)}</title><meta name="description" content="{h(desc)}"><link rel="canonical" href="{url}"><meta property="og:type" content="article"><meta property="og:title" content="{h(title)}"><meta property="og:description" content="{h(desc)}"><meta property="og:url" content="{url}"><meta name="twitter:card" content="summary"><link rel="stylesheet" href="/quotes/works/style.css"></head><body><main><header><a href="/">ホーム</a> ／ <a href="/quotes/">パンダの英語名言</a> ／ <a href="/quotes/works/">全名言一覧</a></header><article><h1 id="en" lang="en">{h(q["en"])}</h1><p id="jp">{h(q["jp"])}</p><p id="author">{h(name)} ／ {h(author)}</p><section id="tips"><h2 style="font-size:13px;letter-spacing:.06em">ENGLISH TIP</h2><ul id="tip-list" style="padding-left:20px;line-height:1.8;font-size:15px">{notes}</ul></section><p id="profile" style="font-size:14px;color:#b9bdc5;line-height:1.7">{bio}</p></article><nav aria-label="名言の移動">{prev}<a href="/quotes/works/">一覧</a>{nxt}</nav><nav><button id="random-next" type="button">次の名言へ（ランダム） →</button></nav><small>原典・作者への帰属は未確認のものを含みます。日本語訳はAI支援を含みます。</small></main><script src="/quotes/works/random.js" defer></script></body></html>'''
+    page=f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{h(title)}</title><meta name="description" content="{h(desc)}"><link rel="canonical" href="{url}"><meta property="og:type" content="article"><meta property="og:title" content="{h(title)}"><meta property="og:description" content="{h(desc)}"><meta property="og:url" content="{url}"><meta name="twitter:card" content="summary"><link rel="stylesheet" href="/quotes/works/style.css"></head><body><main><header><a href="/">ホーム</a> ／ <a href="/quotes/">パンダの英語名言</a> ／ <a href="/quotes/works/">全名言一覧</a></header><article><h1 id="en" lang="en">{h(q["en"])}</h1><p id="jp">{h(q["jp"])}</p><p id="author">{h(name)} ／ {h(author)}</p><section id="tips"><h2 style="font-size:13px;letter-spacing:.06em">ENGLISH TIP</h2><ul id="tip-list" style="padding-left:20px;line-height:1.8;font-size:15px">{notes}</ul></section><p id="profile" style="font-size:14px;color:#b9bdc5;line-height:1.7">{bio}</p><p>{author_link}</p></article><nav aria-label="名言の移動">{prev}<a href="/quotes/works/">一覧</a>{nxt}</nav><nav><button id="random-next" type="button">次の名言へ（ランダム） →</button></nav><small>原典・作者への帰属は未確認のものを含みます。日本語訳はAI支援を含みます。</small></main><script src="/quotes/works/random.js" defer></script></body></html>'''
     out=qroot/ident/"index.html"
     out.parent.mkdir(parents=True,exist_ok=True)
     out.write_text(page,encoding="utf-8")
@@ -77,6 +79,9 @@ directory=f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta n
 urls.append(BASE+"/quotes/works/")
 
 for p in sorted((ROOT/"blog"/"works").glob("*/index.html")):
+    urls.append(BASE+"/"+p.parent.relative_to(ROOT).as_posix()+"/")
+# Keep author feature pages discoverable on sitemap regeneration.
+for p in sorted((ROOT/"quotes"/"authors").rglob("index.html")):
     urls.append(BASE+"/"+p.parent.relative_to(ROOT).as_posix()+"/")
 urls=list(dict.fromkeys(urls))
 xml='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f"  <url><loc>{escape(u)}</loc></url>\n" for u in urls)+"</urlset>\n"
