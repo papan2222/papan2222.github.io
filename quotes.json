@@ -1758,181 +1758,329 @@
     "author": "Mark Twain",
     "en": "Wrinkles should merely indicate where smiles have been.",
     "jp": "しわは、かつて笑顔があった場所を示す印だ。",
-    "id": "q0161"
+    "id": "q0161",
+    "tips": [
+      "wrinkle：しわ",
+      "merely：単に",
+      "indicate：示す"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It ain't those parts of the Bible that I can't understand that bother me, it is the parts that I do understand.",
     "jp": "聖書で気になるのは、理解できない部分ではなく、理解できてしまう部分だ。",
-    "id": "q0162"
+    "id": "q0162",
+    "tips": [
+      "ain't：ここでは isn't に相当するくだけた表現",
+      "bother：悩ませる",
+      "do understand：do による動詞の強調"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Golf is a good walk spoiled.",
     "jp": "ゴルフとは、素晴らしい散歩を台無しにするものだ。",
-    "id": "q0163"
+    "id": "q0163",
+    "tips": [
+      "spoil：台無しにする",
+      "a good walk spoiled：台無しにされた楽しい散歩（過去分詞による後置修飾）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Don't go around saying the world owes you a living. The world owes you nothing. It was here first.",
     "jp": "世界が自分に生活を保障すべきだなんて言うな。世界は何もあなたに借りていない。世界のほうが先にあったのだから。",
-    "id": "q0164"
+    "id": "q0164",
+    "tips": [
+      "go around -ing：あちこちで〜して回る",
+      "owe A B：AにBを借りている、AにBを与える義務がある",
+      "a living：生計"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Giving up smoking is the easiest thing in the world. I know because I've done it thousands of times.",
     "jp": "禁煙は世界一簡単なことだ。私は何千回もやってきたから知っている。",
-    "id": "q0165"
+    "id": "q0165",
+    "tips": [
+      "give up -ing：〜するのをやめる",
+      "thousands of times：何千回も",
+      "I've done it：現在完了の経験用法"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Let us endeavor so to live so that when we come to die even the undertaker will be sorry.",
     "jp": "死ぬときに葬儀屋でさえ悲しんでくれるような生き方をしよう。",
-    "id": "q0166"
+    "id": "q0166",
+    "tips": [
+      "let us do：〜しよう",
+      "endeavor：努力する",
+      "undertaker：葬儀業者"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The right word may be effective, but no word was ever as effective as a rightly timed pause.",
     "jp": "正しい言葉は効果的だが、適切なタイミングの沈黙ほど効果的な言葉はない。",
-    "id": "q0167"
+    "id": "q0167",
+    "tips": [
+      "effective：効果的な",
+      "as ... as：〜と同じくらい…",
+      "rightly timed：適切なタイミングの"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "All generalizations are false, including this one.",
     "jp": "すべての一般化は間違っている。この文も含めて。",
-    "id": "q0168"
+    "id": "q0168",
+    "tips": [
+      "generalization：一般化、一般論",
+      "including：〜を含めて",
+      "this one：ここではこの一般論自体"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "A man is never more truthful than when he acknowledges himself a liar.",
     "jp": "人は自分が嘘つきだと認めたとき、最も誠実である。",
-    "id": "q0169"
+    "id": "q0169",
+    "tips": [
+      "truthful：正直な",
+      "never more ... than when：〜するときほど…なことはない",
+      "acknowledge oneself a liar：自分がうそつきだと認める"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Denial ain't just a river in Egypt.",
     "jp": "否認は、ただのエジプトの川じゃない。",
-    "id": "q0170"
+    "id": "q0170",
+    "tips": [
+      "denial：否認、否定",
+      "ain't：ここでは isn't のくだけた形",
+      "Denial と the Nile（ナイル川）の音の類似を利用した言葉遊び"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When you fish for love, bait with your heart, not your brain.",
     "jp": "愛を釣るなら、餌は頭ではなく心で。",
-    "id": "q0171"
+    "id": "q0171",
+    "tips": [
+      "fish for：〜を釣ろうとする、〜を求める",
+      "bait：餌をつける（動詞）",
+      "not your brain：頭ではなく（心を使うという比喩）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.",
     "jp": "人間には基本的に二種類いる。何かを成し遂げる人と、成し遂げたと主張する人だ。前者は少ない。",
-    "id": "q0172"
+    "id": "q0172",
+    "tips": [
+      "accomplish：成し遂げる",
+      "claim to have done：〜したと主張する（完了不定詞）",
+      "less crowded：人が少ない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "My mother had a great deal of trouble with me, but I think she enjoyed it.",
     "jp": "母は私のことでずいぶん苦労したが、きっと楽しんでいたと思う。",
-    "id": "q0173"
+    "id": "q0173",
+    "tips": [
+      "a great deal of：大量の、多くの",
+      "have trouble with：〜に手を焼く",
+      "enjoy：楽しむ"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It usually takes me more than three weeks to prepare a good impromptu speech.",
     "jp": "良い即興スピーチを準備するには、たいてい3週間以上かかる。",
-    "id": "q0174"
+    "id": "q0174",
+    "tips": [
+      "It takes A 時間 to do：Aが〜するのに時間がかかる",
+      "impromptu：即興の",
+      "speech：演説、スピーチ"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts.",
     "jp": "旅は偏見や頑迷、狭量を死なせる。そして多くの人々がまさにそれを必要としている。",
-    "id": "q0175"
+    "id": "q0175",
+    "tips": [
+      "be fatal to：〜にとって致命的である",
+      "bigotry：偏狭な思想、不寛容",
+      "on these accounts：こうした理由から"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Don't part with your illusions. When they are gone, you may still exist, but you have ceased to live.",
     "jp": "幻想を捨ててはいけない。それを失えば、生きてはいても、もう生きてはいないのと同じだ。",
-    "id": "q0176"
+    "id": "q0176",
+    "tips": [
+      "part with：〜を手放す",
+      "illusion：幻想",
+      "cease to do：〜しなくなる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Wit is the sudden marriage of ideas which, before their union, were not perceived to have any relation.",
     "jp": "機知とは、それまで関係ないと思われていた考え同士が突然結びつくことだ。",
-    "id": "q0177"
+    "id": "q0177",
+    "tips": [
+      "wit：機知、才気",
+      "union：結合",
+      "be perceived to do：〜すると認識される"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Grief can take care if itself, but to get the full value of a joy you must have somebody to divide it with.",
     "jp": "悲しみは一人でも抱えられるが、喜びは誰かと分かち合ってこそ本当の価値がある。",
-    "id": "q0178"
+    "id": "q0178",
+    "tips": [
+      "grief：悲しみ",
+      "divide A with B：AをBと分かち合う",
+      "原文の take care if itself は take care of itself（自分で何とかなる）の誤記と考えられる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Patriot: the person who can holler the loudest without knowing what he is hollering about.",
     "jp": "愛国者とは、何について叫んでいるか知らずに最も大声で叫べる人だ。",
-    "id": "q0179"
+    "id": "q0179",
+    "tips": [
+      "patriot：愛国者",
+      "holler：大声で叫ぶ（くだけた表現）",
+      "without knowing：知らずに"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Work consists of whatever a body is obliged to do. Play consists of whatever a body is not obliged to do.",
     "jp": "仕事とは義務としてやらねばならないこと、遊びとは義務でないことだ。",
-    "id": "q0180"
+    "id": "q0180",
+    "tips": [
+      "consist of：〜から成る",
+      "a body：ここでは人、誰か（古風な用法）",
+      "be obliged to do：〜する義務がある"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Man was made at the end of the week's work, when God was tired.",
     "jp": "人間は、神が疲れ切った週の終わりに作られた。",
-    "id": "q0181"
+    "id": "q0181",
+    "tips": [
+      "at the end of：〜の終わりに",
+      "was made：作られた（受動態）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I can live for two months on a good compliment.",
     "jp": "私は良い褒め言葉一つで二か月は生きられる。",
-    "id": "q0182"
+    "id": "q0182",
+    "tips": [
+      "live on：〜で生きていく",
+      "compliment：褒め言葉",
+      "for two months：2か月間"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Only one thing is impossible for God: To find any sense in any copyright law on the planet.",
     "jp": "神にとって唯一不可能なのは、この地球上の著作権法に何らかの意味を見いだすことだ。",
-    "id": "q0183"
+    "id": "q0183",
+    "tips": [
+      "impossible for A：Aにとって不可能な",
+      "find any sense in：〜に何らかの道理を見いだす",
+      "copyright law：著作権法"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Laws control the lesser man... Right conduct controls the greater one.",
     "jp": "法律は小人物を律し、正しい行動は偉大な人物を律する。",
-    "id": "q0184"
+    "id": "q0184",
+    "tips": [
+      "lesser：より劣った",
+      "conduct：行い、振る舞い（名詞）",
+      "the greater one：より優れた人"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I never smoke to excess - that is, I smoke in moderation, only one cigar at a time.",
     "jp": "私は過度に喫煙しない——つまり一度に一本だけだ。",
-    "id": "q0185"
+    "id": "q0185",
+    "tips": [
+      "to excess：度を越して",
+      "in moderation：適度に",
+      "at a time：一度に"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Noise proves nothing. Often a hen who has merely laid an egg cackles as if she laid an asteroid.",
     "jp": "騒音は何も証明しない。卵を一つ産んだだけの鶏が、小惑星でも産んだかのように鳴くことがよくある。",
-    "id": "q0186"
+    "id": "q0186",
+    "tips": [
+      "merely：単に",
+      "lay an egg：卵を産む",
+      "cackle：めんどりが鳴く、けたたましく笑う"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "All right, then, I'll go to hell.",
     "jp": "よし、それなら地獄へ行こう。",
-    "id": "q0187"
+    "id": "q0187",
+    "tips": [
+      "all right：わかった、よし",
+      "then：それなら",
+      "go to hell：地獄へ行く"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Humor is mankind's greatest blessing.",
     "jp": "ユーモアは人類に与えられた最大の祝福だ。",
-    "id": "q0188"
+    "id": "q0188",
+    "tips": [
+      "humor：ユーモア",
+      "mankind：人類",
+      "blessing：恵み、ありがたいもの"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Nothing so needs reforming as other people's habits.",
     "jp": "改革が必要なのは、何よりも他人の習慣だ。",
-    "id": "q0189"
+    "id": "q0189",
+    "tips": [
+      "need -ing：〜される必要がある",
+      "reform：改める、改革する",
+      "other people's habits：他人の習慣"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Few things are harder to put up with than the annoyance of a good example.",
     "jp": "良い手本の迷惑さほど、耐え難いものは少ない。",
-    "id": "q0190"
+    "id": "q0190",
+    "tips": [
+      "few things：ほとんど〜するものはない",
+      "put up with：〜に耐える",
+      "annoyance：いら立ち、煩わしさ"
+    ]
   },
   {
     "author": "Mark Twain",
