@@ -14751,181 +14751,324 @@
     "author": "Goethe",
     "en": "In nature we never see anything isolated; everything is connected.",
     "jp": "自然の中に孤立したものはない。すべてはつながっている。",
-    "id": "q1361"
+    "id": "q1361",
+    "tips": [
+      "isolated：孤立した、切り離された",
+      "be connected：つながっている（自然界の相互関係を表す）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Age merely shows what children we remain.",
     "jp": "年齢は、私たちがどれほど子どものままであるかを示すにすぎない。",
-    "id": "q1362"
+    "id": "q1362",
+    "tips": [
+      "merely：単に、ただ",
+      "remain：〜のままでいる",
+      "what children we remain：私たちがいかに子どものままであるか"
+    ]
   },
   {
     "author": "Goethe",
     "en": "First and last, what is demanded of genius is love of truth.",
     "jp": "天才に求められるのは、最初から最後まで真実への愛だ。",
-    "id": "q1363"
+    "id": "q1363",
+    "tips": [
+      "first and last：何よりも、始めから終わりまで",
+      "be demanded of：〜に求められる",
+      "love of truth：真実を愛する心"
+    ]
   },
   {
     "author": "Goethe",
     "en": "He only earns his freedom and his life who takes them every day by storm.",
     "jp": "自由と人生を得るのは、それを毎日力強く奪い取る人だ。",
-    "id": "q1364"
+    "id": "q1364",
+    "tips": [
+      "He only ... who：〜する人だけが…する",
+      "earn：努力して獲得する",
+      "take by storm：猛然と攻め取る（自由や人生を日々勝ち取る比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The artist alone sees spirits. But after he has told of them, everybody sees them.",
     "jp": "芸術家だけが精霊を見る。しかし一度語れば、誰もがそれを見るようになる。",
-    "id": "q1365"
+    "id": "q1365",
+    "tips": [
+      "alone：〜だけが（限定を表す）",
+      "spirits：霊的な存在、目に見えない存在",
+      "tell of：〜について語る"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Superstition is the poetry of life.",
     "jp": "迷信は人生の詩だ。",
-    "id": "q1366"
+    "id": "q1366",
+    "tips": [
+      "superstition：迷信",
+      "poetry of life：人生の詩情（迷信が日常に想像力をもたらすという比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Personality is everything in art and poetry.",
     "jp": "芸術と詩においては、人格こそがすべてだ。",
-    "id": "q1367"
+    "id": "q1367",
+    "tips": [
+      "personality：個性、人格",
+      "be everything：何よりも重要である",
+      "art and poetry：芸術と詩"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Mastery passes often for egotism.",
     "jp": "熟達はしばしば利己主義と見なされる。",
-    "id": "q1368"
+    "id": "q1368",
+    "tips": [
+      "mastery：熟達、卓越した能力",
+      "pass for：〜と見なされる",
+      "egotism：自己中心的な態度、うぬぼれ"
+    ]
   },
   {
     "author": "Goethe",
     "en": "It is after all the greatest art to limit and isolate oneself.",
     "jp": "自分を制限し、孤立させることこそ最大の芸術だ。",
-    "id": "q1369"
+    "id": "q1369",
+    "tips": [
+      "after all：結局のところ",
+      "limit oneself：自分自身に制約を設ける",
+      "isolate oneself：自らを周囲から隔てる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Girls we love for what they are; young men for what they promise to be.",
     "jp": "女の子はその存在のままで愛し、若者はその将来性で愛する。",
-    "id": "q1370"
+    "id": "q1370",
+    "tips": [
+      "for what they are：ありのままの姿ゆえに",
+      "promise to be：将来〜になる見込みがある",
+      "後半では we love が省略され、現在の姿と将来性を対比している"
+    ]
   },
   {
     "author": "Goethe",
     "en": "When ideas fail, words come in very handy.",
     "jp": "考えが尽きたとき、言葉は実に便利だ。",
-    "id": "q1371"
+    "id": "q1371",
+    "tips": [
+      "ideas fail：考えが浮かばない、考えが行き詰まる",
+      "come in handy：役に立つ、重宝する（内容の不足を言葉で補うことへの皮肉）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The best government is that which teaches us to govern ourselves.",
     "jp": "最良の政府は、私たちに自分自身を治めることを教える政府だ。",
-    "id": "q1372"
+    "id": "q1372",
+    "tips": [
+      "govern：統治する、制御する",
+      "that which：〜するもの（ここでは government を指す）",
+      "govern ourselves：自分自身を律する"
+    ]
   },
   {
     "author": "Goethe",
     "en": "It is better to be deceived by one's friends than to deceive them.",
     "jp": "友に騙されるほうが、友を騙すよりも良い。",
-    "id": "q1373"
+    "id": "q1373",
+    "tips": [
+      "be deceived by：〜にだまされる",
+      "deceive：だます",
+      "It is better to ... than to ...：…するより〜するほうがよい"
+    ]
   },
   {
     "author": "Goethe",
     "en": "No one has ever learned fully to know themselves.",
     "jp": "自分を完全に知った人などいない。",
-    "id": "q1374"
+    "id": "q1374",
+    "tips": [
+      "No one has ever：これまで誰も〜したことがない",
+      "fully：完全に",
+      "themselves：no one を受ける性別を限定しない再帰代名詞"
+    ]
   },
   {
     "author": "Goethe",
     "en": "There is nothing insignificant in the world; it all depends on the point of view.",
     "jp": "世界に取るに足らぬものはない。すべては見方次第だ。",
-    "id": "q1375"
+    "id": "q1375",
+    "tips": [
+      "insignificant：取るに足らない、重要でない",
+      "depend on：〜次第である",
+      "point of view：視点、物の見方"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We know accurately only when we know little; with knowledge doubt increases.",
     "jp": "知識が少ないときにだけ確信を持てる。知識が増すと疑いも増える。",
-    "id": "q1376"
+    "id": "q1376",
+    "tips": [
+      "accurately：正確に",
+      "with knowledge：知識が増すにつれて",
+      "doubt increases：疑問が増える（知識と確信の関係を述べた逆説）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Many people take no care of their money till it is nearly gone, and others do the same with their time.",
     "jp": "多くの人はお金が尽きるまで気にせず、時間についても同じことをする。",
-    "id": "q1377"
+    "id": "q1377",
+    "tips": [
+      "take care of：〜を大切に扱う、管理する",
+      "till：〜するまで",
+      "do the same with：〜についても同じことをする"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If I love you, what business is it of yours?",
     "jp": "私があなたを愛しているとして、それがあなたに何の関わりがあるだろう。",
-    "id": "q1378"
+    "id": "q1378",
+    "tips": [
+      "What business is it of yours?：あなたに何の関係があるのか",
+      "business：ここでは仕事ではなく関心事、関係のある事柄"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Men show their character in nothing more clearly than what they think laughable.",
     "jp": "何をおかしいと感じるかほど、その人の性格を明らかにするものはない。",
-    "id": "q1379"
+    "id": "q1379",
+    "tips": [
+      "show one's character：人格を表す",
+      "nothing more clearly than：〜ほど明確に示すものはない",
+      "laughable：笑いを誘う、ばかげた"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Deeply earnest and thoughtful people stand on shaky footing with the public.",
     "jp": "誠実で思慮深い人々は、大衆の中では不安定な立場に立つ。",
-    "id": "q1380"
+    "id": "q1380",
+    "tips": [
+      "earnest：真剣な、誠実な",
+      "stand on shaky footing：不安定な立場にある（足元の不安定さを使った比喩）",
+      "the public：世間、一般の人々"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A clever man commits no minor blunders.",
     "jp": "賢い人は小さな失敗はしない。",
-    "id": "q1381"
+    "id": "q1381",
+    "tips": [
+      "commit a blunder：大きな過ちを犯す",
+      "minor：小さな、重大でない（blunder との組み合わせが皮肉を生む）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A useless life is an early death.",
     "jp": "無駄な人生は早すぎる死だ。",
-    "id": "q1382"
+    "id": "q1382",
+    "tips": [
+      "useless：役に立たない、意義のない",
+      "an early death：早すぎる死（生きていても生を十分に生かしていないという比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Sowing is not as difficult as reaping.",
     "jp": "種をまくのは、刈り取るより難しくない。",
-    "id": "q1383"
+    "id": "q1383",
+    "tips": [
+      "sow：種をまく",
+      "reap：収穫する、刈り取る",
+      "not as ... as：〜ほど…ではない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We are never deceived; we deceive ourselves.",
     "jp": "私たちは決して騙されない。自分を騙すのだ。",
-    "id": "q1384"
+    "id": "q1384",
+    "tips": [
+      "be deceived：だまされる（受動態）",
+      "deceive ourselves：自分自身を欺く（受動態と再帰表現の対比）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The most sensible person is the one who finds advantage in all that happens.",
     "jp": "もっとも賢明な人は、すべての出来事の中に自分の利益を見いだす人だ。",
-    "id": "q1385"
+    "id": "q1385",
+    "tips": [
+      "sensible：分別のある、賢明な",
+      "find advantage in：〜の中に利点を見いだす",
+      "all that happens：起こるすべてのこと"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Nature knows no pause in progress and development, and curses all inaction.",
     "jp": "自然は進歩や発展に休止を知らず、無為には呪いを与える。",
-    "id": "q1386"
+    "id": "q1386",
+    "tips": [
+      "know no pause：休むことを知らない",
+      "progress and development：進歩と発展",
+      "curse：のろう、強く非難する（自然の擬人化）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Doubt grows with knowledge.",
     "jp": "知識が増すと、疑いも増す。",
-    "id": "q1387"
+    "id": "q1387",
+    "tips": [
+      "doubt：疑い、疑問",
+      "grow with：〜とともに増える",
+      "knowledge：知識（知るほど疑問も増えるという逆説）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "I call architecture frozen music.",
     "jp": "建築は凍った音楽だ。",
-    "id": "q1388"
+    "id": "q1388",
+    "tips": [
+      "architecture：建築",
+      "call A B：AをBと呼ぶ",
+      "frozen music：凍った音楽（建築の調和やリズムを音楽にたとえている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Be above it! Make the world serve your purpose, but do not serve it.",
     "jp": "世界に流されるな。世界を自分の目的に従わせよ。",
-    "id": "q1389"
+    "id": "q1389",
+    "tips": [
+      "be above it：それに超然としている、振り回されない",
+      "make A serve B：AにBの役に立たせる（使役構文）",
+      "purpose：目的"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Character is formed in the stormy billows of the world.",
     "jp": "人格は世の荒波の中で形成される。",
-    "id": "q1390"
+    "id": "q1390",
+    "tips": [
+      "be formed：形成される",
+      "stormy：嵐のような、荒れた",
+      "billow：大波（世の中の困難を荒波にたとえている）"
+    ]
   },
   {
     "author": "Goethe",
