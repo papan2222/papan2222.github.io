@@ -2086,181 +2086,327 @@
     "author": "Mark Twain",
     "en": "It's good sportsmanship to not pick up lost golf balls while they are still rolling.",
     "jp": "まだ転がっている失くしたゴルフボールは拾わないのが良いマナーだ。",
-    "id": "q0191"
+    "id": "q0191",
+    "tips": [
+      "sportsmanship：スポーツマン精神",
+      "pick up：拾い上げる",
+      "while：〜している間に"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The more you explain it, the more I don't understand it.",
     "jp": "説明すればするほど、私にはわからなくなる。",
-    "id": "q0192"
+    "id": "q0192",
+    "tips": [
+      "the more ..., the more ...：〜すればするほど…",
+      "explain：説明する",
+      "understand：理解する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "If you hold a cat by the tail you learn things you cannot learn any other way.",
     "jp": "猫のしっぽをつかめば、他では学べないことを学べる。",
-    "id": "q0193"
+    "id": "q0193",
+    "tips": [
+      "hold A by B：AのBの部分をつかむ",
+      "any other way：ほかのどんな方法でも（否定文）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The trouble ain't that there is too many fools, but that the lightning ain't distributed right.",
     "jp": "問題は愚か者が多すぎることではなく、稲妻の当たり方が間違っていることだ。",
-    "id": "q0194"
+    "id": "q0194",
+    "tips": [
+      "ain't：ここでは isn't のくだけた形",
+      "not A but B：AではなくB",
+      "distribute：分配する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Only kings, presidents, editors, and people with tapeworms have the right to use the editorial 'we.'",
     "jp": "王や大統領、編集者、サナダムシを飼っている人だけが、社説の「我々」を使う権利がある。",
-    "id": "q0195"
+    "id": "q0195",
+    "tips": [
+      "tapeworm：サナダムシ",
+      "have the right to do：〜する権利がある",
+      "editorial we：社説などで筆者が用いる we"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It's no wonder that truth is stranger than fiction. Fiction has to make sense.",
     "jp": "真実が小説より奇なのは当然だ。小説は筋が通っていなければならないからだ。",
-    "id": "q0196"
+    "id": "q0196",
+    "tips": [
+      "It's no wonder that：〜も不思議ではない",
+      "fiction：創作、虚構",
+      "make sense：筋が通る"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Everything has its limit - iron ore cannot be educated into gold.",
     "jp": "すべてには限界がある——鉄鉱石を教育しても金にはならない。",
-    "id": "q0197"
+    "id": "q0197",
+    "tips": [
+      "limit：限界",
+      "iron ore：鉄鉱石",
+      "educate A into B：教育によってAをBにする（ここでは比喩）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The very ink with which history is written is merely fluid prejudice.",
     "jp": "歴史が書かれるそのインクは、流動する偏見にすぎない。",
-    "id": "q0198"
+    "id": "q0198",
+    "tips": [
+      "the very：まさにその",
+      "with which：〜を用いて（前置詞＋関係代名詞）",
+      "fluid prejudice：液体状の偏見（インクにたとえた表現）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The reports of my death have been greatly exaggerated.",
     "jp": "私の死の報告は大いに誇張されている。",
-    "id": "q0199"
+    "id": "q0199",
+    "tips": [
+      "report：報告、報道",
+      "greatly：大いに",
+      "have been exaggerated：誇張されている（現在完了の受動態）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Under certain circumstances, urgent circumstances, desperate circumstances, profanity provides a relief denied even to prayer.",
     "jp": "ある状況、切迫した状況、絶望的な状況では、祈りでも得られない安堵を罵りがもたらす。",
-    "id": "q0200"
+    "id": "q0200",
+    "tips": [
+      "under certain circumstances：ある状況下では",
+      "profanity：罵り言葉、不敬な言葉",
+      "relief：安堵、苦痛の軽減"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It is curious that physical courage should be so common in the world and moral courage so rare.",
     "jp": "肉体的な勇気が世の中にあふれ、道徳的な勇気がこれほど稀なのは不思議だ。",
-    "id": "q0201"
+    "id": "q0201",
+    "tips": [
+      "It is curious that：〜とは不思議だ",
+      "physical courage：身体的な危険に立ち向かう勇気",
+      "moral courage：道徳的な勇気"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "There is a charm about the forbidden that makes it unspeakably desirable.",
     "jp": "禁じられたものには、言葉にできないほどの魅力がある。",
-    "id": "q0202"
+    "id": "q0202",
+    "tips": [
+      "charm：魅力",
+      "the forbidden：禁じられたもの",
+      "unspeakably：言葉にできないほど"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Loyalty to the Nation all the time, loyalty to the Government when it deserves it.",
     "jp": "国には常に忠誠を、政府にはふさわしいときにだけ忠誠を。",
-    "id": "q0203"
+    "id": "q0203",
+    "tips": [
+      "loyalty to：〜への忠誠",
+      "all the time：いつも",
+      "deserve：〜に値する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "A person with a new idea is a crank until the idea succeeds.",
     "jp": "新しいアイデアを持つ人は、それが成功するまでは変人だ。",
-    "id": "q0204"
+    "id": "q0204",
+    "tips": [
+      "crank：変わり者、奇人",
+      "until：〜するまで",
+      "succeed：成功する"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When your friends begin to flatter you on how young you look, it's a sure sign you're getting old.",
     "jp": "友達が若く見えるとお世辞を言い始めたら、それは年を取った証拠だ。",
-    "id": "q0205"
+    "id": "q0205",
+    "tips": [
+      "flatter A on B：BについてAをおだてる",
+      "a sure sign：確かな兆候",
+      "get old：年を取る"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Necessity is the mother of taking chances.",
     "jp": "必要は危険を冒す母である。",
-    "id": "q0206"
+    "id": "q0206",
+    "tips": [
+      "necessity：必要性",
+      "the mother of：〜を生み出すもの",
+      "take chances：危険を承知でやってみる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Be careful about reading health books. You may die of a misprint.",
     "jp": "健康本を読むときは気をつけろ。誤植で死ぬかもしれない。",
-    "id": "q0207"
+    "id": "q0207",
+    "tips": [
+      "be careful about -ing：〜することに注意する",
+      "die of：〜が原因で死ぬ",
+      "misprint：誤植"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Better a broken promise than none at all.",
     "jp": "約束を破るほうが、最初から約束しないよりましだ。",
-    "id": "q0208"
+    "id": "q0208",
+    "tips": [
+      "broken promise：守られなかった約束",
+      "none at all：まったくないこと",
+      "Better A than B：BよりAの方がましだ"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The man who does not read good books has no advantage over the man who cannot read them.",
     "jp": "良い本を読まない人は、それを読めない人と比べて何の利点もない。",
-    "id": "q0209"
+    "id": "q0209",
+    "tips": [
+      "have no advantage over：〜に対する優位性がない",
+      "does not read：読まない",
+      "cannot read：読むことができない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Be careless in your dress if you must, but keep a tidy soul.",
     "jp": "服装はだらしなくてもいいが、心はきれいに保て。",
-    "id": "q0210"
+    "id": "q0210",
+    "tips": [
+      "careless：無頓着な、不注意な",
+      "dress：服装（名詞）",
+      "tidy：きちんとした"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It were not best that we should all think alike; it is difference of opinion that makes horse races.",
     "jp": "皆が同じ考えを持つのは良くない。意見の違いが競馬を成り立たせるのだ。",
-    "id": "q0211"
+    "id": "q0211",
+    "tips": [
+      "It were not best：It would not be best に近い古風な仮定表現",
+      "think alike：同じように考える",
+      "difference of opinion：意見の相違"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It is better to deserve honors and not have them than to have them and not deserve them.",
     "jp": "名誉に値していても得られないほうが、値しないのに得るよりましだ。",
-    "id": "q0212"
+    "id": "q0212",
+    "tips": [
+      "deserve honors：栄誉に値する",
+      "It is better to A than to B：BするよりAする方がよい"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "I have never taken any exercise, except sleeping and resting, and I never intend to take any.",
     "jp": "私は睡眠と休養以外の運動はしたことがないし、これからもするつもりはない。",
-    "id": "q0213"
+    "id": "q0213",
+    "tips": [
+      "take exercise：運動する",
+      "except：〜を除いて",
+      "intend to do：〜するつもりである"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The lack of money is the root of all evil.",
     "jp": "お金の欠乏はあらゆる悪の根源だ。",
-    "id": "q0214"
+    "id": "q0214",
+    "tips": [
+      "lack of：〜の不足",
+      "the root of：〜の根源",
+      "evil：悪"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "If the world comes to an end, I want to be in Cincinnati. Everything comes there ten years later.",
     "jp": "世界が終わるなら、シンシナティにいたい。あそこは何事も10年遅れてやってくるからだ。",
-    "id": "q0215"
+    "id": "q0215",
+    "tips": [
+      "come to an end：終わる",
+      "ten years later：10年後",
+      "Cincinnati：米国オハイオ州の都市"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The main difference between a cat and a lie is that a cat only has nine lives.",
     "jp": "猫と嘘の主な違いは、猫は命が九つしかないが、嘘はそうではないことだ。",
-    "id": "q0216"
+    "id": "q0216",
+    "tips": [
+      "difference between A and B：AとBの違い",
+      "lie：うそ（名詞）",
+      "nine lives：猫には九つの命があるという英語圏の言い伝え"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Don't let schooling interfere with your education.",
     "jp": "学校教育があなたの学びを妨げないようにしろ。",
-    "id": "q0217"
+    "id": "q0217",
+    "tips": [
+      "schooling：学校教育",
+      "interfere with：〜を妨げる",
+      "let A do：Aに〜させる"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Apparently there is nothing that cannot happen today.",
     "jp": "どうやら今日は何が起きてもおかしくない。",
-    "id": "q0218"
+    "id": "q0218",
+    "tips": [
+      "apparently：どうやら",
+      "nothing that cannot happen：起こり得ないことは何もない（二重否定）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "But who prays for Satan? Who, in eighteen centuries, has had the common humanity to pray for the one sinner that needed it most?",
     "jp": "だが、誰がサタンのために祈るのか？18世紀の間に、最も祈りを必要とする罪人のために祈った人間がいたか？",
-    "id": "q0219"
+    "id": "q0219",
+    "tips": [
+      "pray for：〜のために祈る",
+      "humanity：ここでは人間らしい思いやり",
+      "sinner：罪人"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "It was wonderful to find America, but it would have been more wonderful to miss it.",
     "jp": "アメリカを発見できたのは素晴らしいが、発見し損ねていたほうがもっと素晴らしかったかもしれない。",
-    "id": "q0220"
+    "id": "q0220",
+    "tips": [
+      "It would have been ... to do：〜していたら…だっただろう（過去の仮定）",
+      "miss：ここでは見つけ損なう、行き過ぎる"
+    ]
   },
   {
     "author": "Mark Twain",
