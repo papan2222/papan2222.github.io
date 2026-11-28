@@ -17040,181 +17040,328 @@
     "author": "Nietzsche",
     "en": "Love matches have illusion for a father and need for a mother.",
     "jp": "恋愛結婚の父は幻想であり、母は必要である。",
-    "id": "q1571"
+    "id": "q1571",
+    "tips": [
+      "love match：恋愛結婚",
+      "illusion：幻想、思い込み",
+      "have A for B：AをBとして持つ（結婚の成り立ちを親子関係にたとえている）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Sleeping is no mean art: for its sake one must stay awake all day.",
     "jp": "眠ることは立派な技術だ。そのためには一日中起きていなければならない。",
-    "id": "q1572"
+    "id": "q1572",
+    "tips": [
+      "no mean art：並大抵ではない技術",
+      "for its sake：そのために",
+      "stay awake：眠らずにいる"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "When marrying, ask: can I converse with this person into old age?",
     "jp": "結婚するときは、この人と老年まで会話できるかを問え。",
-    "id": "q1573"
+    "id": "q1573",
+    "tips": [
+      "when marrying：結婚するとき（when you are marrying の省略）",
+      "converse with：〜と会話する",
+      "into old age：老年期に至るまで"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "What is great in man is that he is a bridge and not a goal.",
     "jp": "人間の偉大さは、彼が目標ではなく橋であることだ。",
-    "id": "q1574"
+    "id": "q1574",
+    "tips": [
+      "what is great in man：人間の偉大な点",
+      "bridge：橋（次の段階への過程を表す比喩）",
+      "goal：目標、到達点"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The man of knowledge must love enemies but also hate friends.",
     "jp": "知者は敵を愛するだけでなく、友を憎むこともできねばならない。",
-    "id": "q1575"
+    "id": "q1575",
+    "tips": [
+      "man of knowledge：知を探求する人",
+      "must ... but also ...：〜しなければならないが、…も必要だ",
+      "love / hate：愛する／憎む（通常の価値観を逆転させた表現）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Once spirit was God, then man, and now mob.",
     "jp": "精神はかつて神であり、次に人であり、今や群衆である。",
-    "id": "q1576"
+    "id": "q1576",
+    "tips": [
+      "once：かつて",
+      "spirit：精神",
+      "mob：無秩序な群衆"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "We hear only those questions we can answer.",
     "jp": "人は答えられる問いしか聞こえない。",
-    "id": "q1577"
+    "id": "q1577",
+    "tips": [
+      "those questions：それらの疑問",
+      "we can answer：私たちが答えられる（目的格の関係代名詞の省略）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There are no eternal facts, no absolute truths.",
     "jp": "永遠の事実も、絶対の真実もない。",
-    "id": "q1578"
+    "id": "q1578",
+    "tips": [
+      "eternal：永遠の、不変の",
+      "absolute：絶対的な",
+      "truth：真理"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Shared joys make a friend, not shared sufferings.",
     "jp": "友を作るのは共にした喜びであって、苦しみではない。",
-    "id": "q1579"
+    "id": "q1579",
+    "tips": [
+      "shared：分かち合った",
+      "suffering：苦しみ",
+      "make a friend：友人をつくる、友情を成立させる"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "It is my ambition to say in ten sentences what others say in a book.",
     "jp": "他人が本一冊で言うことを、十の文で言うのが私の野心だ。",
-    "id": "q1580"
+    "id": "q1580",
+    "tips": [
+      "ambition：大志、強い願望",
+      "in ten sentences：十文で",
+      "what others say：他の人々が述べること"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Confidence given does not confer a right to receive it back.",
     "jp": "信頼を与えたからといって、それを返してもらう権利はない。",
-    "id": "q1581"
+    "id": "q1581",
+    "tips": [
+      "confidence：ここでは信頼",
+      "confer a right：権利を与える",
+      "receive it back：それを返してもらう"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "I assess a will’s power by how much pain it can endure.",
     "jp": "意志の力は、どれだけの苦痛に耐えられるかで測れる。",
-    "id": "q1582"
+    "id": "q1582",
+    "tips": [
+      "assess：評価する、見極める",
+      "will：意志（名詞）",
+      "endure：耐える"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Every church is a stone on the grave of a god-man.",
     "jp": "教会はすべて、神人の墓の石だ。",
-    "id": "q1583"
+    "id": "q1583",
+    "tips": [
+      "grave：墓",
+      "god-man：神であり人でもある存在",
+      "a stone on the grave：墓の上の石（宗教施設についての比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Mystical explanations seem deep but are not even shallow.",
     "jp": "神秘的な説明は深そうに見えるが、浅さすらない。",
-    "id": "q1584"
+    "id": "q1584",
+    "tips": [
+      "mystical：神秘的な",
+      "seem deep：深遠に見える",
+      "not even shallow：浅いとさえ言えない（皮肉）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "One has to die several times while alive to pay for immortality.",
     "jp": "不死を得るには、生きている間に何度も死なねばならない。",
-    "id": "q1585"
+    "id": "q1585",
+    "tips": [
+      "while alive：生きている間に（while one is alive の省略）",
+      "pay for：〜の代償を払う",
+      "immortality：不死、不滅（死を自己の変容として読むこともできる比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "At times one stays faithful to a cause only because its opponents are dull.",
     "jp": "大義に忠実でいられるのは、敵が退屈だからということもある。",
-    "id": "q1586"
+    "id": "q1586",
+    "tips": [
+      "at times：時には",
+      "stay faithful to a cause：ある大義に忠実であり続ける",
+      "opponent：反対者、敵対者"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Love is blind; friendship closes its eyes.",
     "jp": "愛は盲目、友情は目を閉じる。",
-    "id": "q1587"
+    "id": "q1587",
+    "tips": [
+      "Love is blind：恋は盲目である",
+      "close one's eyes：目を閉じる（欠点をあえて見過ごすことの比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Go up close to your friend, but do not go over to him! We should also respect the enemy in our friend.",
     "jp": "友に近づけ、だが踏み越えるな。友の中にある敵もまた尊重すべきだ。",
-    "id": "q1588"
+    "id": "q1588",
+    "tips": [
+      "go up close to：〜のすぐ近くまで行く",
+      "go over to：〜の側につく、同調する",
+      "respect：尊重する"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Regarding life, the wisest men of all ages have judged alike: it is worthless.",
     "jp": "人生については、あらゆる時代の賢者が同じ判断をしている。無価値だと。",
-    "id": "q1589"
+    "id": "q1589",
+    "tips": [
+      "regarding：〜に関して",
+      "of all ages：あらゆる時代の",
+      "judge alike：同じ判断を下す"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "For the woman, the man is a means: the end is always the child.",
     "jp": "女にとって男は手段であり、目的は常に子どもである。",
-    "id": "q1590"
+    "id": "q1590",
+    "tips": [
+      "a means：手段（単数でも末尾に s が付く）",
+      "the end：目的",
+      "means / end：手段／目的（原文は男女についての固定的な見方を含む）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Does wisdom perhaps appear on the earth as a raven inspired by carrion’s smell?",
     "jp": "知恵は地上に、腐肉の匂いに惹かれたカラスのように現れるのだろうか。",
-    "id": "q1591"
+    "id": "q1591",
+    "tips": [
+      "raven：ワタリガラス",
+      "carrion：動物の死肉",
+      "inspired by：〜に触発されて、ここではにおいに引き寄せられて"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Many a man fails as an original thinker simply because his memory is too good.",
     "jp": "多くの人が独創的思想家になれぬのは、記憶力が良すぎるからだ。",
-    "id": "q1592"
+    "id": "q1592",
+    "tips": [
+      "many a＋単数名詞：多くの〜（動詞も単数扱い）",
+      "original thinker：独創的な思想家",
+      "simply because：ただ〜という理由で"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "I love those who do not know how to live for today.",
     "jp": "今日のために生き方を知らぬ者を、私は愛する。",
-    "id": "q1593"
+    "id": "q1593",
+    "tips": [
+      "those who：〜する人々",
+      "know how to live：どう生きるかを知る",
+      "live for today：今日のために生きる"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "An artist has no home in Europe except in Paris.",
     "jp": "芸術家にヨーロッパで故郷があるとすれば、それはパリだけだ。",
-    "id": "q1594"
+    "id": "q1594",
+    "tips": [
+      "except in：〜においてを除いて",
+      "have no home：居場所がない（ここでは芸術家にふさわしい環境のこと）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "After meeting a religious man I always feel I must wash my hands.",
     "jp": "宗教家と会った後は、必ず手を洗いたくなる。",
-    "id": "q1595"
+    "id": "q1595",
+    "tips": [
+      "after meeting：〜に会った後で",
+      "religious：信仰心のある",
+      "wash one's hands：手を洗う（原文では宗教的人物への反感を示す表現）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "This is the hardest: to close the open hand out of love, and remain modest as a giver.",
     "jp": "最も難しいのは、愛ゆえに開いた手を閉じ、与える者として謙虚であることだ。",
-    "id": "q1596"
+    "id": "q1596",
+    "tips": [
+      "out of love：愛情から、愛ゆえに",
+      "remain modest：謙虚なままでいる",
+      "giver：与える人"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Great indebtedness makes men vengeful, not grateful.",
     "jp": "大きな借りは人を感謝よりも復讐心に駆り立てる。",
-    "id": "q1597"
+    "id": "q1597",
+    "tips": [
+      "indebtedness：恩義、負い目",
+      "vengeful：復讐心を抱いた",
+      "grateful：感謝している"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Sing me a new song; the world is transfigured; all the heavens rejoice.",
     "jp": "新しい歌を歌え。世界は変容し、天は喜びに満ちる。",
-    "id": "q1598"
+    "id": "q1598",
+    "tips": [
+      "Sing me a new song：私に新しい歌を歌ってほしい（第四文型）",
+      "be transfigured：輝かしい姿に変わる",
+      "rejoice：歓喜する"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "I do not know what a philosopher’s spirit could more wish to be than a good dancer.",
     "jp": "哲学者の精神が願うものは、良き踊り手であること以外にない。",
-    "id": "q1599"
+    "id": "q1599",
+    "tips": [
+      "philosopher：哲学者",
+      "wish to be：〜でありたいと願う",
+      "more ... than：〜以上に（踊り手への憧れを表す）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In large states public education will always be mediocre.",
     "jp": "大国では、公教育は常に凡庸である。",
-    "id": "q1600"
+    "id": "q1600",
+    "tips": [
+      "public education：公教育",
+      "mediocre：平凡な、並以下の",
+      "large states：大きな国家"
+    ]
   },
   {
     "author": "Nietzsche",
