@@ -3398,181 +3398,331 @@
     "author": "Mark Twain",
     "en": "By trying we can easily learn to endure adversity. Another man's, I mean.",
     "jp": "努力すれば逆境に耐えることを容易に学べる。…他人の逆境のことだが。",
-    "id": "q0311"
+    "id": "q0311",
+    "tips": [
+      "by trying：努力することによって",
+      "endure：耐える",
+      "adversity：逆境"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The Christian's Bible is a drug store. Its contents remain the same, but the medical practice changes.",
     "jp": "キリスト教徒の聖書は薬局のようなものだ。中身は同じだが、処方は変わる。",
-    "id": "q0312"
+    "id": "q0312",
+    "tips": [
+      "drug store：薬局",
+      "contents：内容物",
+      "medical practice：医療行為、診療"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Man is the only animal that blushes - or needs to.",
     "jp": "人間は唯一、赤面する動物だ――または赤面する必要のある動物だ。",
-    "id": "q0313"
+    "id": "q0313",
+    "tips": [
+      "blush：赤面する",
+      "the only animal that：〜する唯一の動物",
+      "needs to：後続の blush が省略されている"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Words are only painted fire; a look is the fire itself.",
     "jp": "言葉は塗られた火にすぎない。視線こそが本当の火だ。",
-    "id": "q0314"
+    "id": "q0314",
+    "tips": [
+      "painted：描かれた",
+      "a look：視線、表情",
+      "itself：それ自体（強調）"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The wit knows that his place is at the tail of a procession.",
     "jp": "機知ある者は、自分の位置が行列の最後尾だと知っている。",
-    "id": "q0315"
+    "id": "q0315",
+    "tips": [
+      "wit：機知に富む人",
+      "at the tail of：〜の最後尾に",
+      "procession：行列"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Humor must not professedly teach and it must not professedly preach, but it must do both if it would live forever.",
     "jp": "ユーモアは公然と教えても説教してもいけない。しかし永遠に生き残るには、その両方をしなければならない。",
-    "id": "q0316"
+    "id": "q0316",
+    "tips": [
+      "professedly：公然と、明言して",
+      "preach：説教する",
+      "if it would live forever：永く生き続けようとするなら"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Optimist: day dreamer more elegantly spelled.",
     "jp": "楽観主義者とは、「白昼夢を見る人」をもっと上品に書いたものだ。",
-    "id": "q0317"
+    "id": "q0317",
+    "tips": [
+      "optimist：楽観主義者",
+      "day dreamer：空想家（通常 daydreamer とも表記）",
+      "elegantly：優雅に、洗練された形で"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "God made the Idiot for practice, and then He made the School Board.",
     "jp": "神は練習のために間抜けを作り、その後に教育委員会を作った。",
-    "id": "q0318"
+    "id": "q0318",
+    "tips": [
+      "for practice：練習のために",
+      "idiot：愚か者（侮蔑的な語）",
+      "school board：教育委員会"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "When red-haired people are above a certain social grade their hair is auburn.",
     "jp": "赤毛の人が一定の社会階級以上になると、その髪は「オーバーン色」と呼ばれる。",
-    "id": "q0319"
+    "id": "q0319",
+    "tips": [
+      "red-haired：赤毛の",
+      "social grade：社会的階層",
+      "auburn：赤褐色の"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "What, sir, would the people of the earth be without woman? They would be scarce, sir, almighty scarce.",
     "jp": "もし女性がいなければ、この世の人間はどうなるか？ 極端に少なくなるだろう、極端に。",
-    "id": "q0320"
+    "id": "q0320",
+    "tips": [
+      "scarce：乏しい、数が少ない",
+      "almighty：ここでは非常に（くだけた強調）",
+      "would ... be without：〜なしでは…となるだろうか"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Ideally a book would have no order to it, and the reader would have to discover his own.",
     "jp": "理想的には、本に順序はなく、読者が自分で順序を見つけなければならない。",
-    "id": "q0321"
+    "id": "q0321",
+    "tips": [
+      "ideally：理想的には",
+      "order：順序、構成",
+      "would have to do：〜しなければならないだろう"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "Fiction is obliged to stick to possibilities. Truth isn't.",
     "jp": "小説は可能性に従わなければならない。真実はそうではない。",
-    "id": "q0322"
+    "id": "q0322",
+    "tips": [
+      "fiction：創作、虚構",
+      "be obliged to do：〜せざるを得ない",
+      "stick to：〜を守る、〜から離れない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The rule is perfect: in all matters of opinion our adversaries are insane.",
     "jp": "この規則は完璧だ。意見に関するあらゆる事柄で、我々の敵は狂っている。",
-    "id": "q0323"
+    "id": "q0323",
+    "tips": [
+      "in all matters of opinion：意見に関するあらゆる事柄で",
+      "adversary：敵対者",
+      "insane：正気でない"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "The Public is merely a multiplied 'me.'",
     "jp": "公衆とは、ただ増幅された「私」にすぎない。",
-    "id": "q0324"
+    "id": "q0324",
+    "tips": [
+      "the public：一般の人々",
+      "merely：単に",
+      "multiplied：数を増やされた"
+    ]
   },
   {
     "author": "Mark Twain",
     "en": "We Americans... bear the ark of liberties of the world.",
     "jp": "我々アメリカ人は…世界の自由の箱舟を担っている。",
-    "id": "q0325"
+    "id": "q0325",
+    "tips": [
+      "bear：担う、運ぶ",
+      "ark：箱舟、聖なる箱",
+      "liberty：自由"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Doubt is the father of invention.",
     "jp": "疑いは発明の父である。",
-    "id": "q0326"
+    "id": "q0326",
+    "tips": [
+      "doubt：疑い",
+      "invention：発明",
+      "the father of：〜を生み出すもの（比喩）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Politics: A strife of interests masquerading as a contest of principles. The conduct of public affairs for private advantage.",
     "jp": "政治とは、原則を装った利害の争いであり、公務を私利のために行うことだ。",
-    "id": "q0327"
+    "id": "q0327",
+    "tips": [
+      "strife：争い",
+      "masquerade as：〜を装う",
+      "public affairs：公共の事柄、政務"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "War is God's way of teaching Americans geography.",
     "jp": "戦争は、神がアメリカ人に地理を教える方法だ。",
-    "id": "q0328"
+    "id": "q0328",
+    "tips": [
+      "God's way of -ing：神が〜する方法",
+      "geography：地理",
+      "teach A B：AにBを教える"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Marriage, n: the state or condition of a community consisting of a master, a mistress, and two slaves, making in all, two.",
     "jp": "結婚とは、主人と女主人、そして2人の奴隷（合計2人）から成る共同体の状態である。",
-    "id": "q0329"
+    "id": "q0329",
+    "tips": [
+      "consist of：〜から成る",
+      "mistress：ここでは女主人",
+      "in all：合計で"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "History is an account, mostly false, of events, mostly unimportant, which are brought about by rulers, mostly knaves, and soldiers, mostly fools.",
     "jp": "歴史とは、主に悪党の支配者と愚かな兵士によってもたらされる、主に重要でない出来事についての、主に虚偽の記録である。",
-    "id": "q0330"
+    "id": "q0330",
+    "tips": [
+      "account：記述、説明",
+      "bring about：引き起こす",
+      "knave：悪党、不正直な人（古風な語）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Love: A temporary insanity curable by marriage.",
     "jp": "恋愛とは、結婚によって治る一時的な狂気である。",
-    "id": "q0331"
+    "id": "q0331",
+    "tips": [
+      "temporary：一時的な",
+      "insanity：正気を失った状態",
+      "curable by：〜によって治せる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Painting, n.: The art of protecting flat surfaces from the weather, and exposing them to the critic.",
     "jp": "絵画とは、平面を天候から守り、批評家にはさらす技術である。",
-    "id": "q0332"
+    "id": "q0332",
+    "tips": [
+      "protect A from B：AをBから守る",
+      "flat surface：平らな面",
+      "expose A to B：AをBにさらす"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Patience, n. A minor form of dispair, disguised as a virtue.",
     "jp": "忍耐とは、美徳を装った小さな絶望の一形態である。",
-    "id": "q0333"
+    "id": "q0333",
+    "tips": [
+      "minor：小さな、軽度の",
+      "disguise A as B：AをBに見せかける",
+      "dispair は通常 despair（絶望）とつづる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "All are lunatics, but he who can analyze his delusions is called a philosopher.",
     "jp": "人は皆狂人だが、自分の妄想を分析できる者は哲学者と呼ばれる。",
-    "id": "q0334"
+    "id": "q0334",
+    "tips": [
+      "lunatic：正気でない人（侮蔑的・古風な語）",
+      "delusion：妄想、思い込み",
+      "be called：〜と呼ばれる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Anoint, v.: To grease a king or other great functionary already sufficiently slippery.",
     "jp": "すでに十分滑りやすい王や高官に油を塗ること。",
-    "id": "q0335"
+    "id": "q0335",
+    "tips": [
+      "anoint：油を塗る、聖油を注ぐ",
+      "functionary：役人、高官",
+      "slippery：滑りやすい、信用できない"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Who never doubted, never half believed. Where doubt is, there truth is - it is her shadow.",
     "jp": "疑ったことのない者は、半分も信じたことがない。疑いのあるところに真実がある——それは真実の影なのだ。",
-    "id": "q0336"
+    "id": "q0336",
+    "tips": [
+      "doubt：疑う",
+      "half：半分、ここでは十分とはいえない程度に",
+      "Where ... there ...：〜があるところには…がある"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Death is not the end. There remains the litigation over the estate.",
     "jp": "死は終わりではない。遺産を巡る訴訟が残っている。",
-    "id": "q0337"
+    "id": "q0337",
+    "tips": [
+      "there remains：〜が残っている",
+      "litigation：訴訟",
+      "estate：ここでは遺産"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "There are four kinds of Homicide: felonious, excusable, justifiable, and praiseworthy.",
     "jp": "殺人には4種類ある。重罪、許されるもの、正当なもの、そして称賛に値するものだ。",
-    "id": "q0338"
+    "id": "q0338",
+    "tips": [
+      "homicide：人を殺すこと、殺人",
+      "felonious：重罪に当たる",
+      "justifiable：正当化できる"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Meekness: Uncommon patience in planning a revenge that is worth while.",
     "jp": "柔和とは、価値ある復讐を計画する際の並外れた忍耐である。",
-    "id": "q0339"
+    "id": "q0339",
+    "tips": [
+      "meekness：温厚さ、従順さ",
+      "revenge：復讐",
+      "worth while：時間や労力をかける価値がある（現在は worthwhile とも表記）"
+    ]
   },
   {
     "author": "Ambrose Bierce",
     "en": "Happiness: an agreeable sensation arising from contemplating the misery of another.",
     "jp": "幸福とは、他人の不幸を眺めて湧き上がる心地よい感情である。",
-    "id": "q0340"
+    "id": "q0340",
+    "tips": [
+      "agreeable：心地よい",
+      "arise from：〜から生じる",
+      "contemplate：じっくり考える、眺める"
+    ]
   },
   {
     "author": "Ambrose Bierce",
