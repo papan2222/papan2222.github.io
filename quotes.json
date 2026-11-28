@@ -15728,181 +15728,329 @@
     "author": "Goethe",
     "en": "Certain defects are necessary for individuality.",
     "jp": "個性には欠点が不可欠だ。",
-    "id": "q1451"
+    "id": "q1451",
+    "tips": [
+      "certain：ある種の、特定の",
+      "defect：欠点、不完全なところ",
+      "individuality：個性、独自性"
+    ]
   },
   {
     "author": "Goethe",
     "en": "It never occurs to fools that merit and fortune are united.",
     "jp": "愚者は、才能と幸運が結びついていることに気づかない。",
-    "id": "q1452"
+    "id": "q1452",
+    "tips": [
+      "It occurs to A that ...：Aの頭に〜という考えが浮かぶ",
+      "merit：功績、実力",
+      "fortune：幸運（実力と幸運の結びつきを述べている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Letters are among the most significant memorial a person can leave behind them.",
     "jp": "手紙は、人が残せるもっとも重要な記念のひとつだ。",
-    "id": "q1453"
+    "id": "q1453",
+    "tips": [
+      "memorial：人の記憶を後世に残すもの",
+      "leave behind：後に残す",
+      "among the most significant：最も重要なものの一つである（原文の memorial は通常この構文では複数形）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "He who has a task to perform must know how to take sides, or he is quite unworthy of it.",
     "jp": "任務を負う者は立場を取ることを知らねばならない。さもなくば、その任務に値しない。",
-    "id": "q1454"
+    "id": "q1454",
+    "tips": [
+      "a task to perform：果たすべき任務",
+      "take sides：どちらかの立場を選ぶ",
+      "be unworthy of：〜に値しない、ふさわしくない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "What is my life if I am no longer useful to others.",
     "jp": "他人に役立たぬなら、私の人生に何の意味があるだろう。",
-    "id": "q1455"
+    "id": "q1455",
+    "tips": [
+      "What is my life if ...：もし〜なら私の人生にどんな意味があるのか（修辞疑問）",
+      "no longer：もはや〜ない",
+      "be useful to：〜の役に立つ"
+    ]
   },
   {
     "author": "Goethe",
     "en": "A person places themselves on a level with the ones they praise.",
     "jp": "人は、称賛する相手と同じ高さに自らを置く。",
-    "id": "q1456"
+    "id": "q1456",
+    "tips": [
+      "place oneself on a level with：自分を〜と同じ水準に置く",
+      "the ones they praise：その人が称賛する人々",
+      "praise：称賛する"
+    ]
   },
   {
     "author": "Goethe",
     "en": "An unused life is an early death.",
     "jp": "使われぬ人生は、早すぎる死である。",
-    "id": "q1457"
+    "id": "q1457",
+    "tips": [
+      "unused：使われていない、活用されていない",
+      "an early death：早すぎる死（人生を十分に生かさないことの比喩）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The man who occupies the first place seldom plays the principal part.",
     "jp": "第一位にいる人間が、主役を演じることはまれだ。",
-    "id": "q1458"
+    "id": "q1458",
+    "tips": [
+      "occupy the first place：第一の地位を占める",
+      "seldom：めったに〜しない",
+      "play the principal part：主要な役割を果たす"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Which government is the best? The one that teaches us to govern ourselves.",
     "jp": "どの政府が最良か？ 私たちに自らを治めることを教える政府だ。",
-    "id": "q1459"
+    "id": "q1459",
+    "tips": [
+      "government：政府、統治",
+      "the one that：〜するもの（one は government の代わり）",
+      "govern ourselves：自分自身を律する"
+    ]
   },
   {
     "author": "Goethe",
     "en": "I never knew a more presumptuous person than myself. The fact that I say that shows that what I say is true.",
     "jp": "自分以上に思い上がった人間を知らない。そう言えること自体が、その真実を示している。",
-    "id": "q1460"
+    "id": "q1460",
+    "tips": [
+      "presumptuous：思い上がった、出過ぎた",
+      "The fact that ...：〜という事実",
+      "what I say is true：私の言うことが真実である（自己評価自体がその証拠になるという皮肉）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Passions are vices or virtues to their highest powers.",
     "jp": "情熱は、最大限に高められた悪徳であり美徳である。",
-    "id": "q1461"
+    "id": "q1461",
+    "tips": [
+      "passion：強い感情、情熱",
+      "vice / virtue：悪徳／美徳",
+      "to their highest powers：極限まで高められた状態で"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The human mind will not be confined to any limits.",
     "jp": "人間の心は、いかなる限界にも閉じ込められない。",
-    "id": "q1462"
+    "id": "q1462",
+    "tips": [
+      "be confined to：〜に制限される",
+      "limit：限界、制約",
+      "will not：ここでは制約に収まらないという性質を表す"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Upon the creatures we have made, we are, ourselves, at last, dependent.",
     "jp": "私たちが作り出したものに、結局は私たち自身が依存している。",
-    "id": "q1463"
+    "id": "q1463",
+    "tips": [
+      "creature：生き物、ここでは自ら作り出したもの",
+      "be dependent upon：〜に依存する（原文では upon 以下を文頭に置く）",
+      "at last：結局は、ついには"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We are never further from what we wish than when we believe that we have what we wished for.",
     "jp": "望んでいたものを手に入れたと信じるときほど、実際にはそれから遠ざかっていることはない。",
-    "id": "q1464"
+    "id": "q1464",
+    "tips": [
+      "further from：〜からより遠く離れて",
+      "what we wish：私たちが望むもの",
+      "never further ... than when：〜するときほど遠く離れていることはない"
+    ]
   },
   {
     "author": "Goethe",
     "en": "There is a courtesy of the heart; it is allied to love.",
     "jp": "心からの礼儀がある。それは愛と結びついている。",
-    "id": "q1465"
+    "id": "q1465",
+    "tips": [
+      "courtesy：礼儀、思いやり",
+      "of the heart：心からの",
+      "be allied to：〜と密接に結びついている"
+    ]
   },
   {
     "author": "Goethe",
     "en": "We usually lose today, because there has been a yesterday, and tomorrow is coming.",
     "jp": "今日を失うのは、昨日があり、明日が来るからだ。",
-    "id": "q1466"
+    "id": "q1466",
+    "tips": [
+      "lose today：今日という時間を失う、無駄にする",
+      "there has been：〜があった（現在完了）",
+      "tomorrow is coming：明日が近づいている（過去と未来に気を取られることへの戒め）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Piety is not a goal but a means to attain the highest culture.",
     "jp": "信心は目的ではなく、最高の教養に至るための手段だ。",
-    "id": "q1467"
+    "id": "q1467",
+    "tips": [
+      "piety：信仰心、敬虔さ",
+      "a means to：〜するための手段",
+      "attain：達成する、到達する"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The little man is still a man.",
     "jp": "小さな人も、やはり人間である。",
-    "id": "q1468"
+    "id": "q1468",
+    "tips": [
+      "the little man：小さな存在、社会的に目立たない人とも読める",
+      "still：それでもなお（人間としての価値を強調）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "If a man or woman is born ten years sooner or later, their whole aspect and performance shall be different.",
     "jp": "人は10年早く生まれるか遅く生まれるかで、全く違う姿と生き方になる。",
-    "id": "q1469"
+    "id": "q1469",
+    "tips": [
+      "sooner or later：ここでは基準より早く、または遅く",
+      "aspect：外見、あり方",
+      "performance：行動、成し遂げること"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Every person above the ordinary has a certain mission that they are called to fulfill.",
     "jp": "平凡を超える人には、それぞれ果たすべき使命がある。",
-    "id": "q1470"
+    "id": "q1470",
+    "tips": [
+      "above the ordinary：並外れた、普通の水準を超えた",
+      "mission：使命",
+      "be called to fulfill：果たすよう求められる"
+    ]
   },
   {
     "author": "Goethe",
     "en": "The credit of advancing science has always been due to individuals and never to the age.",
     "jp": "科学を進歩させてきたのは、時代ではなく常に個人の功績だ。",
-    "id": "q1471"
+    "id": "q1471",
+    "tips": [
+      "the credit of：〜の功績",
+      "be due to：〜に帰する、〜のおかげである",
+      "the age：その時代"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Daring ideas are like chessmen moved forward; they may be beaten, but they may start a winning game.",
     "jp": "大胆な考えは前進するチェスの駒のようなもの。敗れるかもしれないが、勝利のきっかけにもなる。",
-    "id": "q1472"
+    "id": "q1472",
+    "tips": [
+      "daring：大胆な",
+      "chessmen：チェスの駒",
+      "winning game：勝利につながる勝負（大胆な発想をチェスの一手にたとえている）"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Go to foreign countries and you will get to know the good things one possesses at home.",
     "jp": "外国へ行けば、故郷にある良いものを知ることになる。",
-    "id": "q1473"
+    "id": "q1473",
+    "tips": [
+      "foreign countries：外国、異国",
+      "get to know：次第に知る、理解するようになる",
+      "at home：自国で、故郷で"
+    ]
   },
   {
     "author": "Goethe",
     "en": "Error is acceptable as long as we are young; but one must not drag it along into old age.",
     "jp": "若いうちの誤りは許される。しかしそれを老年まで引きずってはならない。",
-    "id": "q1474"
+    "id": "q1474",
+    "tips": [
+      "as long as：〜する限り",
+      "acceptable：許容できる",
+      "drag ... along into：〜を…まで引きずっていく"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "To live is to suffer, to survive is to find some meaning in the suffering.",
     "jp": "生きることは苦しむこと、生き延びるとはその苦しみに意味を見つけることだ。",
-    "id": "q1475"
+    "id": "q1475",
+    "tips": [
+      "to live / to survive：生きること／生き延びること",
+      "suffer：苦しむ",
+      "find meaning in：〜の中に意味を見いだす"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Without music, life would be a mistake.",
     "jp": "音楽がなければ、人生は誤りだったろう。",
-    "id": "q1476"
+    "id": "q1476",
+    "tips": [
+      "Without ...：〜がなければ（仮定を表す）",
+      "would be：〜であろう（仮定の帰結）",
+      "mistake：誤り、間違い"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "It is impossible to suffer without making someone pay for it; every complaint already contains revenge.",
     "jp": "苦しむとき、人は必ず誰かに代償を求める。あらゆる不満はすでに復讐を含んでいる。",
-    "id": "q1477"
+    "id": "q1477",
+    "tips": [
+      "It is impossible to ... without doing：…せずに〜することは不可能だ",
+      "make someone pay for it：人にその代償を払わせる",
+      "revenge：復讐、仕返し"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "One must still have chaos in oneself to be able to give birth to a dancing star.",
     "jp": "踊る星を生むには、内に混沌を抱えていなければならない。",
-    "id": "q1478"
+    "id": "q1478",
+    "tips": [
+      "chaos：混沌、無秩序",
+      "give birth to：〜を生み出す",
+      "dancing star：踊る星（内面の混沌から生まれる創造性の比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "All things are subject to interpretation; whichever prevails is a function of power, not truth.",
     "jp": "すべてのものは解釈に左右される。どの解釈が支配するかは力の問題であって、真実の問題ではない。",
-    "id": "q1479"
+    "id": "q1479",
+    "tips": [
+      "be subject to：〜の対象となる、〜に左右される",
+      "whichever prevails：どの解釈が優勢になろうとも、その優勢になる解釈",
+      "a function of：〜によって決まるもの"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "We love life, not because we are used to living but because we are used to loving.",
     "jp": "私たちが人生を愛するのは、生きることに慣れたからではなく、愛することに慣れているからだ。",
-    "id": "q1480"
+    "id": "q1480",
+    "tips": [
+      "not because A but because B：AだからではなくBだから",
+      "be used to doing：〜することに慣れている",
+      "living / loving：生きること／愛すること（似た響きの語を対比している）"
+    ]
   },
   {
     "author": "Nietzsche",
