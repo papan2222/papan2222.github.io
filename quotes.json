@@ -7967,181 +7967,329 @@
     "author": "Oscar Wilde",
     "en": "The spirit of an age may be best expressed in the abstract ideal arts, for the spirit itself is abstract and ideal.",
     "jp": "時代の精神は、抽象的で理想的な芸術に最もよく表れる。精神自体が抽象的で理想的だからだ。",
-    "id": "q0731"
+    "id": "q0731",
+    "tips": [
+      "the spirit of an age：時代精神",
+      "abstract：抽象的な",
+      "for：というのも（理由を示す接続詞）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There is only one class in the community that thinks more about money than the rich, and that is the poor. The poor can think of nothing else.",
     "jp": "金持ち以上に金のことを考えている階級が一つだけある。それは貧しい人々だ。",
-    "id": "q0732"
+    "id": "q0732",
+    "tips": [
+      "the rich / the poor：富裕層／貧困層",
+      "think more about A than B：BよりもAについて多く考える（ここでは比較対象は富裕層）",
+      "nothing else：ほかの何ものもない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Ambition is the germ from which all growth of nobleness proceeds.",
     "jp": "野心は、あらゆる高貴な成長の芽だ。",
-    "id": "q0733"
+    "id": "q0733",
+    "tips": [
+      "germ：芽、萌芽",
+      "nobleness：高潔さ",
+      "proceed from：〜から生じる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "All art is quite useless.",
     "jp": "すべての芸術はまったく役に立たない。",
-    "id": "q0734"
+    "id": "q0734",
+    "tips": [
+      "quite：まったく",
+      "useless：役に立たない"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "A critic should be taught to criticise a work of art without making any reference to the personality of the author.",
     "jp": "批評家は、作者の人格に触れずに作品を批評する方法を学ぶべきだ。",
-    "id": "q0735"
+    "id": "q0735",
+    "tips": [
+      "criticise：批評する（英国式綴り）",
+      "make reference to：〜に言及する",
+      "personality：人柄、個性"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "No object is so beautiful that, under certain conditions, it will not look ugly.",
     "jp": "どんなに美しい物でも、条件によっては醜く見える。",
-    "id": "q0736"
+    "id": "q0736",
+    "tips": [
+      "under certain conditions：ある条件下で",
+      "so ... that：非常に〜なので…",
+      "look ugly：醜く見える"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Woman begins by resisting a man's advances and ends by blocking his retreat.",
     "jp": "女性は最初は男性の求愛を拒み、最後にはその退路を断つ。",
-    "id": "q0737"
+    "id": "q0737",
+    "tips": [
+      "resist one's advances：人の求愛を拒む",
+      "block：妨げる",
+      "retreat：撤退、退却"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Now that the House of Commons is trying to become useful, it does a great deal of harm.",
     "jp": "庶民院が役に立とうとすると、大きな害を及ぼす。",
-    "id": "q0738"
+    "id": "q0738",
+    "tips": [
+      "now that：今や〜なので",
+      "House of Commons：英国下院",
+      "do a great deal of harm：大きな害を及ぼす"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The Lady's World' should be made the recognized organ for the expression of women's opinions on all subjects of literature, art and modern life, and yet it should be a magazine that men could read with pleasure.",
     "jp": "『レディース・ワールド』は、文学・芸術・現代生活のあらゆるテーマに関する女性の意見を発表する場として認められるべきだが、男性も楽しめる雑誌であるべきだ。",
-    "id": "q0739"
+    "id": "q0739",
+    "tips": [
+      "recognized organ：公認された発表媒体",
+      "expression of opinions：意見の表明",
+      "with pleasure：喜んで"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In judging of a beautiful statue, the aesthetic faculty is absolutely and completely gratified by the splendid curves of those marble lips that are dumb to our complaint, the noble modelling of those limbs that are powerless to help us.",
     "jp": "美しい彫像を評価する際、我々の訴えに沈黙する大理石の唇の見事な曲線や、我々を助けられない四肢の高貴な造形に、美的感覚は完全に満たされる。",
-    "id": "q0740"
+    "id": "q0740",
+    "tips": [
+      "aesthetic faculty：美を感じ取る能力",
+      "gratify：満足させる",
+      "dumb to：〜に対して沈黙している"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There is no necessity to separate the monarch from the mob; all authority is equally bad.",
     "jp": "君主と民衆を分ける必要はない。あらゆる権威は同じくらい悪い。",
-    "id": "q0741"
+    "id": "q0741",
+    "tips": [
+      "necessity：必要性",
+      "monarch：君主",
+      "mob：群衆、暴徒"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "There is nothing so difficult to marry as a large nose.",
     "jp": "大きな鼻ほど結婚の障害になるものはない。",
-    "id": "q0742"
+    "id": "q0742",
+    "tips": [
+      "nothing so ... as：〜ほど…なものはない",
+      "marry：〜と結婚する",
+      "a large nose：大きな鼻（人物を身体的特徴で表す皮肉）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I want my food dead. Not sick, not dying, dead.",
     "jp": "私は食べ物は死んでいてほしい。病気でも瀕死でもなく、完全に死んでいること。",
-    "id": "q0743"
+    "id": "q0743",
+    "tips": [
+      "want A＋形容詞：Aが〜の状態であることを望む",
+      "dying：死にかけている",
+      "dead：死んでいる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Literature must rest always on a principle, and temporal considerations are no principle at all. For, to the poet, all times and places are one; the stuff he deals with is eternal and eternally the same: no theme is inept, no past or present preferable.",
     "jp": "文学は常に原則の上に成り立たねばならず、時代的な事情は原則ではない。詩人にとっては、すべての時と場所が一つであり、扱う題材は永遠に同じで、どの時代もテーマも劣らない。",
-    "id": "q0744"
+    "id": "q0744",
+    "tips": [
+      "rest on：〜に基づく",
+      "temporal：時代に関わる、一時的な",
+      "inept：不適切な"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Women love us for our defects. If we have enough of them, they will forgive us everything, even our gigantic intellects.",
     "jp": "女性は欠点があるからこそ愛してくれる。欠点が十分にあれば、すべてを許してくれる。たとえ巨大な知性でさえも。",
-    "id": "q0745"
+    "id": "q0745",
+    "tips": [
+      "defect：欠点",
+      "forgive A B：AのBを許す",
+      "gigantic intellect：巨大な知性"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The advantage of the emotions is that they lead us astray.",
     "jp": "感情の利点は、人を道から外させることだ。",
-    "id": "q0746"
+    "id": "q0746",
+    "tips": [
+      "advantage：利点",
+      "lead someone astray：人を迷わせる、誤った方向へ導く"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I think it is perfectly natural for any artist to admire intensely and love a young man. It is an incident in the life of almost every artist.",
     "jp": "どの芸術家も若い男性を強く敬愛し、愛することはごく自然なことだ。それはほぼすべての芸術家の人生に起こる出来事だ。",
-    "id": "q0747"
+    "id": "q0747",
+    "tips": [
+      "admire intensely：強く敬愛する",
+      "incident：出来事",
+      "almost every：ほとんどすべての"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Art never harms itself by keeping aloof from the social problems of the day: rather, by so doing, it more completely realises for us that which we desire.",
     "jp": "芸術は、その時代の社会問題から距離を置いても自らを損なわない。むしろそのことで、私たちが求めるものをより完全に実現してくれる。",
-    "id": "q0748"
+    "id": "q0748",
+    "tips": [
+      "keep aloof from：〜から距離を置く",
+      "rather：むしろ",
+      "by so doing：そうすることによって"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Romance should never begin with sentiment. It should begin with science and end with a settlement.",
     "jp": "恋愛は感傷から始めるべきではない。科学から始め、最終的には合意で終えるべきだ。",
-    "id": "q0749"
+    "id": "q0749",
+    "tips": [
+      "sentiment：感情、情緒",
+      "settlement：取り決め、決着",
+      "begin with / end with：〜で始まる／〜で終わる"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The imagination imitates. It is the critical spirit that creates.",
     "jp": "想像力は模倣する。創造するのは批評精神だ。",
-    "id": "q0750"
+    "id": "q0750",
+    "tips": [
+      "imagination：想像力",
+      "critical spirit：批評精神",
+      "It is ... that：〜するのは…だ（強調構文）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "In designing the scenery and costumes for any of Shakespeare's plays, the first thing the artist has to settle is the best date for the drama. This should be determined by the general spirit of the play more than by any actual historical references which may occur in it.",
     "jp": "シェイクスピア劇の舞台や衣装をデザインする際、まず決めるべきは最適な時代設定だ。それは歴史的事実よりも、作品全体の雰囲気で決めるべきだ。",
-    "id": "q0751"
+    "id": "q0751",
+    "tips": [
+      "scenery：舞台装置、背景",
+      "settle：決定する",
+      "historical reference：歴史的な事柄への言及"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Mr. Henry James writes fiction as if it were a painful duty.",
     "jp": "ヘンリー・ジェイムズは、小説を書くことを苦痛な義務のようにこなしている。",
-    "id": "q0752"
+    "id": "q0752",
+    "tips": [
+      "fiction：小説、創作",
+      "as if it were：まるで〜であるかのように（仮定法過去）",
+      "painful duty：苦痛を伴う義務"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "It is always the unreadable that occurs.",
     "jp": "世の中で起こることは、いつも読むに耐えないものだ。",
-    "id": "q0753"
+    "id": "q0753",
+    "tips": [
+      "the unreadable：読みにくいもの、読めないもの",
+      "occur：起こる",
+      "It is ... that：〜なのは…だ（強調構文）"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I have never given adoration to any body except myself.",
     "jp": "私は自分以外、誰にも崇拝を捧げたことがない。",
-    "id": "q0754"
+    "id": "q0754",
+    "tips": [
+      "adoration：崇拝、深い愛情",
+      "except：〜を除いて",
+      "any body：ここでは anybody（誰か）の意味"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I have a dining room done in different shades of white, with white cushions embroidered in yellow silk: the effect is absolutely delightful and the room beautiful.",
     "jp": "私の食堂は白の濃淡で統一し、黄色の刺繍を施した白いクッションを置いている。その効果は非常に心地よく、美しい部屋だ。",
-    "id": "q0755"
+    "id": "q0755",
+    "tips": [
+      "shade：色合い",
+      "embroidered in：〜で刺繍された",
+      "delightful：とても心地よい"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The moment you think you understand a great work of art, it's dead for you.",
     "jp": "偉大な芸術作品を理解したと思った瞬間、それはあなたにとって死んだも同然だ。",
-    "id": "q0756"
+    "id": "q0756",
+    "tips": [
+      "the moment：〜した瞬間に（接続詞的用法）",
+      "work of art：芸術作品",
+      "dead for you：自分にとって生命力を失った状態"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault.",
     "jp": "美しいものに醜い意味を見出す者は、魅力もないまま腐敗している。それは欠点だ。",
-    "id": "q0757"
+    "id": "q0757",
+    "tips": [
+      "corrupt：堕落した",
+      "without being：〜であることなく",
+      "fault：欠点"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "Men marry because they are tired; women, because they are curious; both are disappointed.",
     "jp": "男は疲れて結婚し、女は好奇心で結婚する。そしてどちらも失望する。",
-    "id": "q0758"
+    "id": "q0758",
+    "tips": [
+      "curious：好奇心の強い",
+      "disappointed：失望した",
+      "women, because ...：women marry の marry が省略されている"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "I suppose society is wonderfully delightful. To be in it is merely a bore. But to be out of it is simply a tragedy.",
     "jp": "社交界はきっと素晴らしいのだろう。だが中にいるのは退屈で、外にいるのは悲劇だ。",
-    "id": "q0759"
+    "id": "q0759",
+    "tips": [
+      "suppose：〜だと思う",
+      "a bore：退屈なもの、うんざりすること",
+      "merely：単に"
+    ]
   },
   {
     "author": "Oscar Wilde",
     "en": "The typewriting machine, when played with expression, is no more annoying than the piano when played by a sister or near relation.",
     "jp": "タイプライターを感情豊かに叩くのは、身内が弾くピアノと同じくらい迷惑だ。",
-    "id": "q0760"
+    "id": "q0760",
+    "tips": [
+      "typewriting machine：タイプライター",
+      "with expression：感情を込めて",
+      "no more annoying than：〜より不快というわけではない"
+    ]
   },
   {
     "author": "Oscar Wilde",
