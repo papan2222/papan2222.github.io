@@ -17367,181 +17367,329 @@
     "author": "Nietzsche",
     "en": "Of all that is written, I love only what has been written with blood.",
     "jp": "書かれたもののうち、私が愛するのは血で書かれたものだけだ。",
-    "id": "q1601"
+    "id": "q1601",
+    "tips": [
+      "Of all that is written：書かれたものすべての中で",
+      "what has been written：書かれてきたもの（現在完了の受動態）",
+      "with blood：血をもって（深い体験や真剣さを表す比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Before the effect one believes in other causes than after the effect.",
     "jp": "結果の前には別の原因を信じ、結果の後には違う原因を信じる。",
-    "id": "q1602"
+    "id": "q1602",
+    "tips": [
+      "effect：結果、作用",
+      "cause：原因",
+      "before ... than after ...：結果が出る前と後で原因についての考えが異なることを示す比較"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In music the passions enjoy themselves.",
     "jp": "音楽の中で情熱は自らを楽しむ。",
-    "id": "q1603"
+    "id": "q1603",
+    "tips": [
+      "passion：強い感情、情熱",
+      "enjoy oneself：楽しむ（ここでは感情そのものを擬人化している）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Nothing is beautiful, only man; nothing is ugly but degenerate man.",
     "jp": "美しいのは人間だけ。醜いのは堕落した人間だけだ。",
-    "id": "q1604"
+    "id": "q1604",
+    "tips": [
+      "nothing ... but：〜以外には何もない",
+      "degenerate：退廃した、衰えた",
+      "beautiful / ugly：美しい／醜い（原文は人間についての美的価値判断）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Is life not a thousand times too short for us to bore ourselves?",
     "jp": "退屈して過ごすには、人生は千倍も短すぎはしないか。",
-    "id": "q1605"
+    "id": "q1605",
+    "tips": [
+      "a thousand times too short：あまりにも短すぎる（誇張表現）",
+      "bore oneself：自分自身を退屈させる",
+      "Is life not ...?：同意を促す否定疑問文"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Idleness is the parent of psychology.",
     "jp": "怠惰こそが心理学の親だ。",
-    "id": "q1606"
+    "id": "q1606",
+    "tips": [
+      "idleness：何もせずにいること、無為",
+      "the parent of：〜を生み出す源（親にたとえた比喩）",
+      "psychology：心理学、心理の探究"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Arrogance of the meritorious is worse than arrogance of the unworthy.",
     "jp": "功績ある者の傲慢は、無能者の傲慢よりも不快だ。",
-    "id": "q1607"
+    "id": "q1607",
+    "tips": [
+      "arrogance：傲慢さ",
+      "the meritorious：功績のある人々",
+      "the unworthy：その評価に値しない人々（形容詞を名詞的に使う）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Is Wagner even a human being? He has made music sick.",
     "jp": "ワーグナーは人間なのか？ 彼は音楽を病ませた。",
-    "id": "q1608"
+    "id": "q1608",
+    "tips": [
+      "even：そもそも、〜でさえ",
+      "make A sick：Aを病気にする（音楽への悪影響を病気にたとえている）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In history men come to see that iron necessity is neither iron nor necessary.",
     "jp": "歴史の中で人は悟る。鉄の必然は、鉄でもなければ必然でもないと。",
-    "id": "q1609"
+    "id": "q1609",
+    "tips": [
+      "come to see that：次第に〜だと理解する",
+      "iron necessity：鉄のように強固な必然性",
+      "neither A nor B：AでもBでもない"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Talking much about oneself can also be a means to conceal oneself.",
     "jp": "自分のことを多く語るのは、自分を隠す手段にもなる。",
-    "id": "q1610"
+    "id": "q1610",
+    "tips": [
+      "talk about oneself：自分自身について話す",
+      "a means to do：〜するための手段（means は単数でも s が付く）",
+      "conceal：隠す"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "All truth is simple… is that not doubly a lie?",
     "jp": "すべての真理は単純だ…それは二重の嘘ではないか？",
-    "id": "q1611"
+    "id": "q1611",
+    "tips": [
+      "doubly：二重に、倍も",
+      "lie：うそ、虚偽（名詞）",
+      "is that not ...?：それは〜ではないか（修辞疑問）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "If everything can be pardoned, everything can also be condemned.",
     "jp": "すべてが許されるなら、すべてが非難され得る。",
-    "id": "q1612"
+    "id": "q1612",
+    "tips": [
+      "pardon：許す、罪を赦す",
+      "condemn：非難する、断罪する",
+      "can be＋過去分詞：〜され得る（助動詞を伴う受動態）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "You say the good cause hallows war? I say the good war hallows any cause.",
     "jp": "汝は良き大義が戦争を聖なるものにすると言う。私は良き戦争が大義を聖なるものにすると言う。",
-    "id": "q1613"
+    "id": "q1613",
+    "tips": [
+      "cause：大義、理念",
+      "hallow：神聖なものとする（文学的な語）",
+      "cause と war の位置を入れ替えた対句。原文は戦争についての挑発的な主張"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "I still live, I still think: I must still live, for I must still think.",
     "jp": "私はいまだ生き、いまだ考える。考えるために、生きねばならぬ。",
-    "id": "q1614"
+    "id": "q1614",
+    "tips": [
+      "still：依然として、まだ",
+      "for：というのも〜だから（理由を示す接続詞）",
+      "live と think の反復によって生と思想の結びつきを強調している"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Today I love myself as I love my god: who could charge me with sin?",
     "jp": "今日の私は自らを神のように愛する。誰が私を罪に問えようか。",
-    "id": "q1615"
+    "id": "q1615",
+    "tips": [
+      "as I love my god：自分の神を愛するように",
+      "charge A with B：AをBのかどで告発する",
+      "sin：罪（宗教的・道徳的な意味）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Egoism is the essence of a noble soul.",
     "jp": "利己主義は高貴な魂の本質だ。",
-    "id": "q1616"
+    "id": "q1616",
+    "tips": [
+      "egoism：利己主義、自我を重視する考え方",
+      "essence：本質、真髄",
+      "noble soul：気高い精神"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The world itself is will to power—and nothing else.",
     "jp": "世界そのものが権力への意志であり、それ以外のものではない。",
-    "id": "q1617"
+    "id": "q1617",
+    "tips": [
+      "itself：それ自体（強調用法）",
+      "will to power：力への意志（ニーチェ哲学の用語）",
+      "nothing else：それ以外の何ものでもない"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Glance into the world as though time were gone: all crooked becomes straight.",
     "jp": "時が消えたかのように世界を見よ。歪んだものも真っ直ぐに見えるだろう。",
-    "id": "q1618"
+    "id": "q1618",
+    "tips": [
+      "glance into：〜をのぞき見る",
+      "as though time were gone：まるで時間が消え去ったかのように（仮定法）",
+      "crooked / straight：曲がった／まっすぐな"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Some souls strangle themselves with the rope of gratitude.",
     "jp": "感謝の縄で自らを絞め殺す奴隷の魂もある。",
-    "id": "q1619"
+    "id": "q1619",
+    "tips": [
+      "strangle：締め付ける、絞め殺す",
+      "gratitude：感謝、恩義",
+      "the rope of gratitude：感謝の縄（恩義が重荷になることを表す比喩）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "A friend should guess and keep still; you must not want to see everything.",
     "jp": "友は察して黙るべきだ。すべてを見たがってはならない。",
-    "id": "q1620"
+    "id": "q1620",
+    "tips": [
+      "guess：推察する、察する",
+      "keep still：じっとしている、ここでは黙っている",
+      "must not：〜してはならない（禁止）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "In Christianity neither morality nor religion touch reality.",
     "jp": "キリスト教では道徳も宗教も、現実に触れることはない。",
-    "id": "q1621"
+    "id": "q1621",
+    "tips": [
+      "Christianity：キリスト教",
+      "neither A nor B：AもBも〜ない",
+      "touch reality：現実に触れる、現実と関わる（原文は宗教への哲学的批判）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Undeserved praise troubles conscience more than undeserved blame.",
     "jp": "不当な賞賛は、不当な非難よりも良心を痛める。",
-    "id": "q1622"
+    "id": "q1622",
+    "tips": [
+      "undeserved：受けるに値しない、不相応な",
+      "trouble one's conscience：良心を悩ませる",
+      "praise / blame：称賛／非難"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Antiquity’s value lies in that we still read it exactly.",
     "jp": "古代の価値は、現代人がいまも正確に読むことにある。",
-    "id": "q1623"
+    "id": "q1623",
+    "tips": [
+      "antiquity：古代、古典古代の文化",
+      "lie in：〜にある",
+      "exactly：正確に、忠実に"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Extreme positions are not succeeded by moderate ones, but by contrary extremes.",
     "jp": "極端を継ぐのは中庸ではなく、反対の極端である。",
-    "id": "q1624"
+    "id": "q1624",
+    "tips": [
+      "extreme positions：極端な立場",
+      "be succeeded by：〜に取って代わられる",
+      "moderate / contrary：穏健な／正反対の"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "The press, machine, railway, telegraph… none has reached its conclusion.",
     "jp": "新聞、機械、鉄道、電信…いずれも未だ結論に達していない。",
-    "id": "q1625"
+    "id": "q1625",
+    "tips": [
+      "the press：新聞・出版などの報道媒体",
+      "telegraph：電信",
+      "reach its conclusion：終着点に達する、発展を終える"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Whoever does not have a good father should procure one.",
     "jp": "良き父を持たぬ者は、自ら作らねばならぬ。",
-    "id": "q1626"
+    "id": "q1626",
+    "tips": [
+      "whoever：〜する人は誰でも",
+      "procure：手に入れる、確保する（やや改まった語）",
+      "one：a good father の繰り返しを避ける代名詞"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "There is not enough love in the world to give it away to imaginary beings.",
     "jp": "この世には、架空の存在に与えるほどの愛はない。",
-    "id": "q1627"
+    "id": "q1627",
+    "tips": [
+      "enough A to do：〜するのに十分なA",
+      "give away：無償で与える",
+      "imaginary beings：想像上の存在"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Great epochs are when we rebaptize our evils as our best traits.",
     "jp": "偉大な時代とは、自らの悪徳を美徳に洗礼し直す時だ。",
-    "id": "q1628"
+    "id": "q1628",
+    "tips": [
+      "epoch：時代、画期的な時期",
+      "rebaptize A as B：AにBという新たな名を与える（洗礼の比喩）",
+      "trait：特徴、性質"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "Nothing has been purchased more dearly than reason and freedom.",
     "jp": "理性と自由ほど高く支払われたものはない。",
-    "id": "q1629"
+    "id": "q1629",
+    "tips": [
+      "dearly：高い代償を払って",
+      "has been purchased：買い求められてきた（現在完了の受動態）",
+      "reason：理性（ここでは自由とともに獲得に代償を要する価値）"
+    ]
   },
   {
     "author": "Nietzsche",
     "en": "When one finishes a house one realizes what one truly needed to know before.",
     "jp": "家を建て終えて初めて、建て始める前に知るべきだったことを学ぶ。",
-    "id": "q1630"
+    "id": "q1630",
+    "tips": [
+      "one：一般の人を指す代名詞",
+      "realize：気づく、悟る",
+      "what one truly needed to know before：以前に本当に知っておく必要があったこと"
+    ]
   },
   {
     "author": "Nietzsche",
