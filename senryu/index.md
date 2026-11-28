@@ -9,8 +9,8 @@ title: パンダの英語川柳
 
 <div class="cards">
 
-<div class="card">
-  <img class="card-img" src="/images/2026-1118-0.jpg" alt="パンダ, 大相撲, grand sumo">
+<div class="card" id="work-2026-1118-0">
+  <a class="image-link" href="/senryu/?id=2026-1118-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-1118-0.jpg" alt="パンダ, 大相撲, grand sumo" loading="lazy" decoding="async"></a>
   <p class="poem">
 大相撲
 見つめるパンダ
@@ -19,10 +19,12 @@ Grand sumo on TV,
 The panda watches closely,
 Patting his round belly.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>watch closely：じっと見つめる。closely は注意深く、の意味。</li><li>pat one's belly：お腹を軽くたたく、なでる。Patting は同時進行の動作を表す。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-1118-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0425-0.png" alt="ナマケモノとパンダ, 話しかけるパンダ, a panda and a sloth talking">
+<div class="card" id="work-2026-0425-0">
+  <a class="image-link" href="/senryu/?id=2026-0425-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0425-0.png" alt="ナマケモノとパンダ, 話しかけるパンダ, a panda and a sloth talking" loading="lazy" decoding="async"></a>
   <p class="poem">
 森深く
 急がぬ者の
@@ -31,10 +33,12 @@ Deep in the forest,
 those who do not hurry
 feel most in tune. 
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>deep in the forest：森の奥深くで。</li><li>those who ...：〜する人々。in tune は調和している、という意味。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0425-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0314-2.png" alt="夕日とパンダ, 駆け出すパンダ, a panda and a boy running down the beach, a panda and a boy chasing the sunset">
+<div class="card" id="work-2026-0314-2">
+  <a class="image-link" href="/senryu/?id=2026-0314-2" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0314-2.png" alt="夕日とパンダ, 駆け出すパンダ, a panda and a boy running down the beach, a panda and a boy chasing the sunset" loading="lazy" decoding="async"></a>
   <p class="poem">
 夕日追う
 パンダと子ども
@@ -43,10 +47,12 @@ Chasing the sunset—
 panda and child
 running down the beach
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>chase the sunset：夕日を追いかける。</li><li>run down the beach：浜辺に沿って走る。詩では主語の冠詞や動詞の一部を省くことがある。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0314-2" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0227-0.png" alt="渋谷パンダ, バイクに乗るパンダ, Tokyo night and a panda riding a motorbike">
+<div class="card" id="work-2026-0227-0">
+  <a class="image-link" href="/senryu/?id=2026-0227-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0227-0.png" alt="渋谷パンダ, バイクに乗るパンダ, Tokyo night and a panda riding a motorbike" loading="lazy" decoding="async"></a>
   <p class="poem">
 渋谷夜
 ネオンの波に
@@ -55,10 +61,12 @@ Tokyo night—
 in neon waves
 fur sways
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>neon waves：ネオンの波（街の光を波にたとえた表現）。</li><li>fur：動物の毛。sway はゆらゆら揺れる。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0227-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0225-1.png" alt="パンダの友だち, a panda walking">
+<div class="card" id="work-2026-0225-1">
+  <a class="image-link" href="/senryu/?id=2026-0225-1" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0225-1.png" alt="パンダの友だち, a panda walking" loading="lazy" decoding="async"></a>
   <p class="poem">
 森しんと
 友を思ひて
@@ -67,10 +75,12 @@ Forest stillness.
 Thinking of my friend,
 my steps feel light.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>stillness：静けさ。still から派生した名詞。</li><li>think of：〜を思う。my steps feel light は足取りが軽いという表現。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0225-1" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0225-0.png" alt="パンダとサーティワン, the world turns sweet, panda">
+<div class="card" id="work-2026-0225-0">
+  <a class="image-link" href="/senryu/?id=2026-0225-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0225-0.png" alt="パンダとサーティワン, the world turns sweet, panda" loading="lazy" decoding="async"></a>
   <p class="poem">
 ケース越し
 世界は甘く
@@ -79,10 +89,12 @@ Through the glass,
 the world turns sweet
 and goes quiet.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>through the glass：ガラス越しに。</li><li>turn sweet / go quiet：甘くなる／静かになる。turn と go は状態の変化を示す。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0225-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0219-0.png" alt="パンダと猫, shoulder to shoulder with a cat, panda">
+<div class="card" id="work-2026-0219-0">
+  <a class="image-link" href="/senryu/?id=2026-0219-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0219-0.png" alt="パンダと猫, shoulder to shoulder with a cat, panda" loading="lazy" decoding="async"></a>
   <p class="poem">
 吹雪見つ
 猫と肩寄せ
@@ -91,10 +103,12 @@ Snow blowing hard
 shoulder to shoulder with a cat—
 the panda blushes
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>blow hard：激しく吹く。</li><li>shoulder to shoulder：肩を並べて。blush は照れて赤面する。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0219-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0218-0.png" alt="パンダとキャラ弁, character bento with a panda">
+<div class="card" id="work-2026-0218-0">
+  <a class="image-link" href="/senryu/?id=2026-0218-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0218-0.png" alt="パンダとキャラ弁, character bento with a panda" loading="lazy" decoding="async"></a>
   <p class="poem">
 見てるだけ
 食べる前から
@@ -103,10 +117,12 @@ Just looking—
 already happy
 before eating.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>just looking：見ているだけ。</li><li>already：すでに。before eating は食べる前に、という意味。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0218-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0216-0.png" alt="パンダと犬, パンダの帰り道, small backs, a dog and a panda walking together">
+<div class="card" id="work-2026-0216-0">
+  <a class="image-link" href="/senryu/?id=2026-0216-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0216-0.png" alt="パンダと犬, パンダの帰り道, small backs, a dog and a panda walking together" loading="lazy" decoding="async"></a>
   <p class="poem">
 暮れ空に
 話し足りない
@@ -115,10 +131,12 @@ Dusk overhead,
 words not quite enough,
 only their backs.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>dusk：夕暮れ。overhead は頭上に。</li><li>not quite enough：十分とは言えない。backs は後ろ姿を表す。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0216-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0210-1.png" alt="お寺のパンダ, 仏教とパンダ, small backs, a boy and a panda sitting in silence">
+<div class="card" id="work-2026-0210-1">
+  <a class="image-link" href="/senryu/?id=2026-0210-1" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0210-1.png" alt="お寺のパンダ, 仏教とパンダ, small backs, a boy and a panda sitting in silence" loading="lazy" decoding="async"></a>
   <p class="poem">
 灯る堂
 黙して座る
@@ -127,10 +145,12 @@ A lit hall—
 sitting in silence,
 small backs.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>lit：light（照らす）の過去分詞。a lit hall は明かりのともった堂。</li><li>in silence：黙って、静かに。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0210-1" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0206-1.png" alt="老婆とパンダ, boat, playtime, an old woman and a panda">
+<div class="card" id="work-2026-0206-1">
+  <a class="image-link" href="/senryu/?id=2026-0206-1" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0206-1.png" alt="老婆とパンダ, boat, playtime, an old woman and a panda" loading="lazy" decoding="async"></a>
   <p class="poem">
 夕焼けの
  水を割りゆく
@@ -139,10 +159,12 @@ small backs.
  cutting through the water—
  an old woman and a panda.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>at sunset：日没時に。</li><li>cut through the water：水を切って進む。cutting は進行中の動きを描く。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0206-1" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0206-0.png" alt="砂場, 砂遊び, playtime, evening with a panda">
+<div class="card" id="work-2026-0206-0">
+  <a class="image-link" href="/senryu/?id=2026-0206-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0206-0.png" alt="砂場, 砂遊び, playtime, evening with a panda" loading="lazy" decoding="async"></a>
   <p class="poem">
 遊び終え
 言葉のいらぬ
@@ -151,10 +173,12 @@ Playtime finished,
 silence says enough —
 evening’s thin edge.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>Playtime finished：遊びが終わって（詩的な省略表現）。</li><li>silence says enough：沈黙が十分に語る（擬人法）。thin edge は夕暮れのかすかな境目の比喩。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0206-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0202-1.png" alt="ネギ, 猫, kindred souls, green onions">
+<div class="card" id="work-2026-0202-1">
+  <a class="image-link" href="/senryu/?id=2026-0202-1" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0202-1.png" alt="ネギ, 猫, kindred souls, green onions" loading="lazy" decoding="async"></a>
   <p class="poem">
 葱抱え
 似た者同士が
@@ -163,10 +187,12 @@ Holding green onions,
 kindred souls —
 words drift lightly.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>green onions：青ネギ、長ネギなど。</li><li>kindred souls：気の合う者同士。drift lightly は軽やかに漂う。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0202-1" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0130-3.png" alt="パンダ漕ぐ, 猫の観察, cats watching closely, A panda pedaling">
+<div class="card" id="work-2026-0130-3">
+  <a class="image-link" href="/senryu/?id=2026-0130-3" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-3.png" alt="パンダ漕ぐ, 猫の観察, cats watching closely, A panda pedaling" loading="lazy" decoding="async"></a>
   <p class="poem">
 漕げぬ熊
 教えるは五歳
@@ -175,10 +201,12 @@ A panda won’t pedal,
 taught by a five-year-old —
 cats watching closely.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>pedal：ペダルをこぐ。won’t はここではこごうとしない、という含みもある。</li><li>a five-year-old：5歳児。taught by は〜に教えられて、の意味。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0130-3" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0130-1.png" alt="たけのこ, パンダ, たけのこカレー, Bamboo shoot, panda, japanese-curry">
+<div class="card" id="work-2026-0130-1">
+  <a class="image-link" href="/senryu/?id=2026-0130-1" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-1.png" alt="たけのこ, パンダ, たけのこカレー, Bamboo shoot, panda, japanese-curry" loading="lazy" decoding="async"></a>
   <p class="poem">
 たけのこは
 ちゃんと入れたの
@@ -187,10 +215,12 @@ Did you remember
 to add the bamboo shoots?
 the panda asks.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>remember to do：忘れずに〜する（remember doing は〜したことを覚えている）。</li><li>bamboo shoots：タケノコ。add は料理などに加える。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0130-1" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0130-0.png" alt="たけのこ, パンダ, Bamboo shoot, panda, in my palm">
+<div class="card" id="work-2026-0130-0">
+  <a class="image-link" href="/senryu/?id=2026-0130-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0130-0.png" alt="たけのこ, パンダ, Bamboo shoot, panda, in my palm" loading="lazy" decoding="async"></a>
   <p class="poem">
 たけのこや
 土のぬくもり
@@ -199,10 +229,12 @@ Bamboo shoot —
 the warmth of the soil
 rests in my palm
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>warmth：ぬくもり。warm の名詞形。</li><li>soil：土壌。rest in my palm は手のひらに静かに収まる、という表現。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0130-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0128-0.png" alt="怪獣,ゴジラ,大決戦, a final showdown, tatami-floor,snow">
+<div class="card" id="work-2026-0128-0">
+  <a class="image-link" href="/senryu/?id=2026-0128-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0128-0.png" alt="怪獣,ゴジラ,大決戦, a final showdown, tatami-floor,snow" loading="lazy" decoding="async"></a>
   <p class="poem">
 雪深し
 畳の上の
@@ -211,10 +243,12 @@ Deep in winter snow,
 the tatami floor becomes
 a final showdown.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>deep in winter snow：冬の深い雪の中で。</li><li>showdown：決着をつける対決。becomes a final showdown は床を対決そのものに見立てた詩的表現。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0128-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0127-0.png" alt="竹の子のお菓子, bamboo shoot-flavored snacks">
+<div class="card" id="work-2026-0127-0">
+  <a class="image-link" href="/senryu/?id=2026-0127-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0127-0.png" alt="竹の子のお菓子, bamboo shoot-flavored snacks" loading="lazy" decoding="async"></a>
   <p class="poem">
 竹の子の
 お菓子はないのと
@@ -223,10 +257,12 @@ Bamboo shoots at the counter —
 asking for snacks like these,
 a panda in tow
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>at the counter：カウンターで。</li><li>in tow：連れ立って、後ろに従えて。a panda in tow はパンダを連れて、の意味。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0127-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/senryu/2026-0124-0.png" alt="雪だるま, snowman, panda making snowman">
+<div class="card" id="work-2026-0124-0">
+  <a class="image-link" href="/senryu/?id=2026-0124-0" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0124-0.png" alt="雪だるま, snowman, panda making snowman" loading="lazy" decoding="async"></a>
   <p class="poem">
 雪だるま
 俺の弟
@@ -235,10 +271,12 @@ A snowman,
 my little brother,
 the panda thinks.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>snowman：雪だるま（複数形 snowmen）。</li><li>little brother：弟。the panda thinks はパンダはそう思う、という語りの表現。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0124-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/2026-0123-0.png" alt="弁当, lunch time, bento">
+<div class="card" id="work-2026-0123-0">
+  <a class="image-link" href="/senryu/?id=2026-0123-0" aria-label="作品を個別表示"><img class="card-img" src="/images/2026-0123-0.png" alt="弁当, lunch time, bento" loading="lazy" decoding="async"></a>
   <p class="poem">
 頂上より
 弁当たべるの
@@ -247,11 +285,13 @@ Before the summit,
 I open my lunchbox.
 Serious mode: on.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>summit：山頂、頂上。</li><li>lunchbox：弁当箱。Serious mode: on. は本気モード起動、という遊び心のある省略表現。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0123-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
 
-<div class="card">
-  <img class="card-img" src="/images/senryu/2026-0122-2.png" alt="肉まん">
+<div class="card" id="work-2026-0122-2">
+  <a class="image-link" href="/senryu/?id=2026-0122-2" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0122-2.png" alt="肉まん" loading="lazy" decoding="async"></a>
   <p class="poem">
 帰り道 
 買うのは肉まん
@@ -260,10 +300,12 @@ Heading home,
 the thought of steamed buns,
 and warmth.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>head home：家に向かう。</li><li>steamed buns：蒸しパンや中華まん。肉まんを明示するなら steamed meat buns とも言える。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0122-2" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/senryu/2026-0122-0.png" alt="背中">
+<div class="card" id="work-2026-0122-0">
+  <a class="image-link" href="/senryu/?id=2026-0122-0" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0122-0.png" alt="背中" loading="lazy" decoding="async"></a>
   <p class="poem">
 待つ背中
 竹の子の香り
@@ -272,10 +314,12 @@ Waiting back,
 the scent of bamboo shoots
 arrives first.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>scent：香り、におい。</li><li>arrive first：先に到着する。Waiting back は待つ後ろ姿を描く詩的断片で、日常英語なら a waiting figure などが自然。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0122-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/senryu/2026-0121-1.png" alt="雪しんしん">
+<div class="card" id="work-2026-0121-1">
+  <a class="image-link" href="/senryu/?id=2026-0121-1" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0121-1.png" alt="雪しんしん" loading="lazy" decoding="async"></a>
   <p class="poem">
 雪しんしん
 パンダペンギン
@@ -284,10 +328,12 @@ Soft, steady snow.
 Panda and penguin,
 full of joy.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>steady：途切れない、一定の。</li><li>full of joy：喜びでいっぱいの。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0121-1" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/senryu/2026-0120-0.png" alt="炬燵">
+<div class="card" id="work-2026-0120-0">
+  <a class="image-link" href="/senryu/?id=2026-0120-0" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0120-0.png" alt="炬燵" loading="lazy" decoding="async"></a>
   <p class="poem">
 背ふたつ
 話さぬことで
@@ -296,10 +342,12 @@ Two backs together,
 saying nothing,
 growing closer.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>say nothing：何も言わない。</li><li>grow closer：親しくなる、距離が縮まる。growing は徐々に変化する様子を表す。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0120-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/senryu/rain.jpg" alt="雨の日">
+<div class="card" id="work-rain">
+  <a class="image-link" href="/senryu/?id=rain" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/rain.jpg" alt="雨の日" loading="lazy" decoding="async"></a>
   <p class="poem">
 来ぬ友を
 待ち続けている
@@ -308,10 +356,12 @@ Waiting still
 for friends who never come.
 Such quiet ache.
 </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>wait for：〜を待つ。still はここでは今もなお。</li><li>quiet ache：静かな心の痛み。ache は身体的な痛みだけでなく心の痛みにも使う。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=rain" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/senryu/forecast.jpg" alt="雨予報">
+<div class="card" id="work-forecast">
+  <a class="image-link" href="/senryu/?id=forecast" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/forecast.jpg" alt="雨予報" loading="lazy" decoding="async"></a>
   <p class="poem">
 雨予報
 パンをかじって
@@ -320,10 +370,12 @@ Rain in the forecast.
 A bite of bread
 and a quiet sigh.
   </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>in the forecast：予報に出ている。</li><li>a bite of bread：パンのひと口。sigh はため息（名詞・動詞）。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=forecast" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
-<div class="card">
-  <img class="card-img" src="/images/senryu/2026-0114-0.jpg" alt="愛情">
+<div class="card" id="work-2026-0114-0">
+  <a class="image-link" href="/senryu/?id=2026-0114-0" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/2026-0114-0.jpg" alt="愛情" loading="lazy" decoding="async"></a>
   <p class="poem">
 テディベア
 あの子の愛情
@@ -332,6 +384,8 @@ Teddy bear,
 you carried away
 the love meant for me.
 </p>
+  <details class="english-tip"><summary>ENGLISH TIP</summary><ul><li>carry away：持ち去る。</li><li>meant for me：私に向けられた、私のための（meant は過去分詞）。</li></ul></details>
+  <div class="detail-link"><a href="/senryu/?id=2026-0114-0" aria-label="作品を個別表示" title="個別ページ">↗</a></div>
 </div>
 
 </div>
