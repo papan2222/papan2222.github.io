@@ -11174,181 +11174,324 @@
     "author": "R. W. Emerson",
     "en": "The smoothest curled courtier in the boudoirs of a palace has an animal nature, rude and aboriginal as a white bear.",
     "jp": "宮殿の奥の間で最も優雅な廷臣でさえ、白熊のように粗野で原始的な本性を持っている。",
-    "id": "q1031"
+    "id": "q1031",
+    "tips": [
+      "courtier：宮廷に仕える人",
+      "boudoir：私室、婦人の居間",
+      "aboriginal：原初の、原始的な"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The secret of ugliness consists not in irregularity, but in being uninteresting.",
     "jp": "醜さの本質は不規則さではなく、つまらなさにある。",
-    "id": "q1032"
+    "id": "q1032",
+    "tips": [
+      "consist not in A but in B：本質はAではなくBにある",
+      "irregularity：不規則さ、不均整",
+      "uninteresting：興味を引かない"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Preaching is the expression of the moral sentiment in application to the duties of life.",
     "jp": "説教とは、道徳的感情を人生の務めに適用する表現だ。",
-    "id": "q1033"
+    "id": "q1033",
+    "tips": [
+      "preaching：説教",
+      "moral sentiment：道徳的感情",
+      "in application to：〜に適用する際の"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "O Day of days when we can read! The reader and the book, either without the other is naught.",
     "jp": "本を読める日は特別だ。読者と本は、どちらが欠けても成り立たない。",
-    "id": "q1034"
+    "id": "q1034",
+    "tips": [
+      "Day of days：この上なく特別な日",
+      "either without the other：どちらも相手がいなければ",
+      "naught：無、何ものでもない（古風な語）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The search after the great men is the dream of youth, and the most serious occupation of manhood.",
     "jp": "偉人を求めることは、若者の夢であり、大人の真剣な仕事だ。",
-    "id": "q1035"
+    "id": "q1035",
+    "tips": [
+      "search after：〜を探し求めること",
+      "occupation：取り組む活動、仕事",
+      "manhood：成人期"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A more secret, sweet, and overpowering beauty appears to man when his heart and mind open to the sentiment of virtue.",
     "jp": "心と精神が徳の感情に開かれるとき、秘められた甘美で圧倒的な美が現れる。",
-    "id": "q1036"
+    "id": "q1036",
+    "tips": [
+      "overpowering：圧倒的な",
+      "open to：〜に心を開く",
+      "virtue：徳、美徳"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "People disparage knowing and the intellectual life, and urge doing. I am content with knowing, if only I could know.",
     "jp": "知ることや知的生活を軽んじ、行動を促す人がいる。私は知ることができるなら、それで満足だ。",
-    "id": "q1037"
+    "id": "q1037",
+    "tips": [
+      "disparage：軽視する、けなす",
+      "urge doing：行動することを強く勧める",
+      "if only I could know：本当に知ることができさえすれば"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every sentence spoken by Napoleon, and every line of his writing, deserves reading, as it is the sense of France.",
     "jp": "ナポレオンの言葉も文章もすべて読む価値がある。それはフランスの精神だからだ。",
-    "id": "q1038"
+    "id": "q1038",
+    "tips": [
+      "deserve reading：読む価値がある（reading は受動的な意味）",
+      "as：ここでは理由を表す",
+      "the sense of France：フランスの精神や感覚"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The greatest delight which the fields and woods minister is the suggestion of an occult relation.",
     "jp": "野や森が与える最大の喜びは、隠されたつながりを感じさせることだ。",
-    "id": "q1039"
+    "id": "q1039",
+    "tips": [
+      "minister：ここでは与える、もたらす（動詞）",
+      "suggestion：暗示、ほのめかし",
+      "occult relation：隠された神秘的なつながり"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We do not yet possess ourselves, and we know at the same time that we are much more.",
     "jp": "私たちはまだ自分を完全に所有していないが、それ以上の存在であることを知っている。",
-    "id": "q1040"
+    "id": "q1040",
+    "tips": [
+      "possess ourselves：自分自身を掌握する",
+      "at the same time：同時に",
+      "much more：はるかに大きな存在、さらに多くの可能性"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Character is always known. Thefts never enrich; alms never impoverish; murder will speak out of stone walls.",
     "jp": "人柄は必ず現れる。盗みは決して富をもたらさず、施しは決して貧しくせず、殺人は石壁からさえ声を上げる。",
-    "id": "q1041"
+    "id": "q1041",
+    "tips": [
+      "theft：窃盗",
+      "alms：施し、喜捨",
+      "impoverish：貧しくする"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "As we are, so we associate. The good, by affinity, seek the good; the vile, by affinity, the vile. Thus of their own volition, souls proceed into Heaven, into Hell.",
     "jp": "人は自分に似た者とつながる。善は善と、悪は悪と。こうして魂は自らの意思で天国にも地獄にも進む。",
-    "id": "q1042"
+    "id": "q1042",
+    "tips": [
+      "by affinity：親和性によって、似た性質に引かれて",
+      "vile：卑劣な",
+      "of one's own volition：自らの意志で"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "I think we must get rid of slavery, or we must get rid of freedom.",
     "jp": "奴隷制度をなくすか、自由をなくすか、どちらかだ。",
-    "id": "q1043"
+    "id": "q1043",
+    "tips": [
+      "get rid of：〜を取り除く、なくす",
+      "slavery：奴隷制",
+      "or：さもなければ（自由と奴隷制の両立を否定する表現）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Who hears me, who understands me, becomes mine, a possession for all time.",
     "jp": "私の声を聞き、理解する者は、永遠に私のものとなる。",
-    "id": "q1044"
+    "id": "q1044",
+    "tips": [
+      "Who hears me：私の言葉に耳を傾ける者（whoever に近い古風な用法）",
+      "possession：所有物、ここでは精神的な結びつきの比喩",
+      "for all time：永遠に"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Wherever the invitation of men or your own occasions lead you, speak the very truth, as your life and conscience teach it, and cheer the waiting, fainting hearts of men with new hope and new revelation.",
     "jp": "人の招きや自分の機会がどこへ導こうと、命と良心が教える真実を語り、待ちくたびれた心に新たな希望と啓示を与えよ。",
-    "id": "q1045"
+    "id": "q1045",
+    "tips": [
+      "wherever：どこへ〜しようとも",
+      "conscience：良心",
+      "fainting hearts：くじけそうな心"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Heaven is under our feet as well as over our heads.",
     "jp": "天国は私たちの足元にも、頭上にもある。",
-    "id": "q1046"
+    "id": "q1046",
+    "tips": [
+      "under our feet：私たちの足元に",
+      "as well as：〜だけでなく",
+      "over our heads：私たちの頭上に"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Success usually comes to those who are too busy to be looking for it.",
     "jp": "成功は、成功を探す暇もないほど夢中で働いている人に訪れる。",
-    "id": "q1047"
+    "id": "q1047",
+    "tips": [
+      "come to those who：〜する人々のもとに訪れる",
+      "too busy to do：忙しすぎて〜できない"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Live your beliefs and you can turn the world around.",
     "jp": "自分の信念を生きれば、世界を変えることができる。",
-    "id": "q1048"
+    "id": "q1048",
+    "tips": [
+      "live your beliefs：信念を実践して生きる",
+      "turn the world around：世界を一変させる"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Rather than love, than money, than fame, give me truth.",
     "jp": "愛やお金や名声よりも、私は真実を求める。",
-    "id": "q1049"
+    "id": "q1049",
+    "tips": [
+      "rather than：〜よりも、〜ではなく",
+      "give me truth：私に真実を与えてほしい（命令形で願いを表す）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "An early-morning walk is a blessing for the whole day.",
     "jp": "朝の散歩は、一日をまるごと祝福してくれる。",
-    "id": "q1050"
+    "id": "q1050",
+    "tips": [
+      "early-morning：早朝の（名詞を修飾する複合形容詞）",
+      "blessing：恵み、ありがたいもの",
+      "the whole day：一日全体"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The language of friendship is not words but meanings.",
     "jp": "友情の言葉とは、言葉ではなく心の意味にある。",
-    "id": "q1051"
+    "id": "q1051",
+    "tips": [
+      "the language of friendship：友情を伝える手段",
+      "not A but B：AではなくB"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "To affect the quality of the day, that is the highest of arts.",
     "jp": "一日を良いものにすること、それこそ最高の芸術だ。",
-    "id": "q1052"
+    "id": "q1052",
+    "tips": [
+      "affect：〜に影響を与える",
+      "the quality of the day：一日の質",
+      "the highest of arts：数ある技芸の中で最高のもの"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.",
     "jp": "空中に城を築いたなら、それでいい。あとは基礎を作ればいいのだ。",
-    "id": "q1053"
+    "id": "q1053",
+    "tips": [
+      "build castles in the air：空想にふける、夢のような計画を立てる",
+      "need not be lost：無駄になる必要はない",
+      "foundation：土台、基礎（夢を実現するための行動の比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Be not simply good - be good for something.",
     "jp": "ただ善良であるだけでなく、何かのために善良であれ。",
-    "id": "q1054"
+    "id": "q1054",
+    "tips": [
+      "Be not：〜であってはならない（古風な否定命令）",
+      "be good for something：何かの役に立つ",
+      "good：善良さと有用性を掛け合わせた表現"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Live the life you've dreamed.",
     "jp": "思い描いた人生を生きよ。",
-    "id": "q1055"
+    "id": "q1055",
+    "tips": [
+      "live the life：そのような人生を生きる",
+      "you've dreamed：あなたが夢見てきた（life を修飾する節）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Nature will bear the closest inspection. She invites us to lay our eye level with her smallest leaf, and take an insect view of its plain.",
     "jp": "自然はどんなに近くから見ても耐える。小さな葉に目を近づけ、虫の視点で眺めてごらん。",
-    "id": "q1056"
+    "id": "q1056",
+    "tips": [
+      "bear：耐える、持ちこたえる",
+      "inspection：精密な観察",
+      "an insect view：昆虫の目線からの眺め"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "This world is but a canvas to our imagination.",
     "jp": "この世界は、私たちの想像力のキャンバスにすぎない。",
-    "id": "q1057"
+    "id": "q1057",
+    "tips": [
+      "but：ここでは only、ただ〜にすぎない",
+      "canvas：絵を描くための画布（想像力で世界を描く比喩）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "The price of anything is the amount of life you exchange for it.",
     "jp": "物の価値とは、それに費やした人生の時間で決まる。",
-    "id": "q1058"
+    "id": "q1058",
+    "tips": [
+      "the amount of：〜の量",
+      "exchange A for B：AをBと引き換えにする（ここでは人生の時間や労力を代価とする）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "It's not what you look at that matters, it's what you see.",
     "jp": "大事なのは見ているものではなく、そこから何を感じ取るかだ。",
-    "id": "q1059"
+    "id": "q1059",
+    "tips": [
+      "look at：〜に視線を向ける",
+      "see：見る、ここでは物事の意味を見いだす",
+      "It is ... that matters：重要なのは〜だ（強調構文）"
+    ]
   },
   {
     "author": "Thoreau",
     "en": "Time is but the stream I go a-fishing in.",
     "jp": "時間とは、私が釣りをする小川のようなものだ。",
-    "id": "q1060"
+    "id": "q1060",
+    "tips": [
+      "but：ただ〜にすぎない",
+      "stream：小川（時間の流れの比喩）",
+      "go a-fishing：釣りに行く（古風な表現）"
+    ]
   },
   {
     "author": "Thoreau",
