@@ -5366,181 +5366,325 @@
     "author": "William James",
     "en": "Compared to what we ought to be, we are half awake.",
     "jp": "あるべき姿に比べれば、我々は半分眠っている。",
-    "id": "q0491"
+    "id": "q0491",
+    "tips": [
+      "compared to：〜と比較すると",
+      "ought to be：あるべき姿である",
+      "half awake：半分しか目覚めていない"
+    ]
   },
   {
     "author": "William James",
     "en": "We have to live today by what truth we can get today and be ready tomorrow to call it falsehood.",
     "jp": "今日は今日手に入る真実で生き、明日にはそれを虚偽と呼ぶ覚悟を持たねばならない。",
-    "id": "q0492"
+    "id": "q0492",
+    "tips": [
+      "live by：〜に従って生きる",
+      "be ready to do：〜する覚悟がある",
+      "falsehood：虚偽、誤り"
+    ]
   },
   {
     "author": "William James",
     "en": "Let everything you do be done as if it makes a difference.",
     "jp": "自分の行動が違いを生むと思って行え。",
-    "id": "q0493"
+    "id": "q0493",
+    "tips": [
+      "let A be done：Aが行われるようにする",
+      "as if：まるで〜であるかのように",
+      "make a difference：変化をもたらす"
+    ]
   },
   {
     "author": "William James",
     "en": "Could the young but realize how soon they will become mere walking bundles of habits, they would give more heed to their conduct while in the plastic state.",
     "jp": "若いうちに自分がすぐ習慣の塊になると気づけば、柔軟な時期の行動にもっと注意を払うだろう。",
-    "id": "q0494"
+    "id": "q0494",
+    "tips": [
+      "Could the young but realize：若者がもし気づきさえすれば（仮定法の倒置）",
+      "give heed to：〜に注意を払う",
+      "plastic state：柔軟で変化しやすい状態"
+    ]
   },
   {
     "author": "William James",
     "en": "We are all ready to be savage in some cause. The difference between a good man and a bad one is the choice of the cause.",
     "jp": "私たちは誰しも何かのために野蛮になれる。善人と悪人の違いは、その「何か」の選び方だ。",
-    "id": "q0495"
+    "id": "q0495",
+    "tips": [
+      "savage：残忍な",
+      "cause：大義、主義",
+      "the difference between A and B：AとBの違い"
+    ]
   },
   {
     "author": "William James",
     "en": "Great emergencies and crises show us how much greater our vital resources are than we had supposed.",
     "jp": "大きな非常事態や危機は、私たちの生命力が思っていたよりはるかに大きいことを示してくれる。",
-    "id": "q0496"
+    "id": "q0496",
+    "tips": [
+      "emergency：緊急事態",
+      "vital resources：生命力や活力の源",
+      "had supposed：それまで思っていた（過去完了）"
+    ]
   },
   {
     "author": "William James",
     "en": "Action may not bring happiness but there is no happiness without action.",
     "jp": "行動が幸福をもたらすとは限らないが、行動なしに幸福はない。",
-    "id": "q0497"
+    "id": "q0497",
+    "tips": [
+      "bring happiness：幸福をもたらす",
+      "may not：〜しないかもしれない",
+      "without action：行動なしには"
+    ]
   },
   {
     "author": "William James",
     "en": "If merely 'feeling good' could decide, drunkenness would be the supremely valid human experience.",
     "jp": "「気持ちいい」だけで決まるなら、酔うことが究極の人間体験だろう。",
-    "id": "q0498"
+    "id": "q0498",
+    "tips": [
+      "merely：単に",
+      "drunkenness：酩酊、酒に酔うこと",
+      "supremely valid：この上なく妥当な"
+    ]
   },
   {
     "author": "William James",
     "en": "Man can alter his life by altering his thinking.",
     "jp": "人は考え方を変えることで人生を変えられる。",
-    "id": "q0499"
+    "id": "q0499",
+    "tips": [
+      "alter：変える",
+      "by -ing：〜することによって"
+    ]
   },
   {
     "author": "William James",
     "en": "It is wrong always, everywhere, and for everyone, to believe anything upon insufficient evidence.",
     "jp": "十分な証拠なく何かを信じることは、いつでも、どこでも、誰にとっても間違いである。",
-    "id": "q0500"
+    "id": "q0500",
+    "tips": [
+      "insufficient：不十分な",
+      "upon evidence：証拠に基づいて",
+      "everywhere：あらゆる場所で"
+    ]
   },
   {
     "author": "William James",
     "en": "Act as if what you do makes a difference. It does.",
     "jp": "自分の行動が違いを生むと思って行動せよ。本当にそうなる。",
-    "id": "q0501"
+    "id": "q0501",
+    "tips": [
+      "act as if：まるで〜であるかのように行動する",
+      "make a difference：意味のある変化をもたらす",
+      "It does：実際にそうなのだ（動詞句の省略）"
+    ]
   },
   {
     "author": "William James",
     "en": "Believe that life is worth living and your belief will help create the fact.",
     "jp": "人生には生きる価値があると信じよ。その信念が事実をつくる。",
-    "id": "q0502"
+    "id": "q0502",
+    "tips": [
+      "be worth -ing：〜する価値がある",
+      "belief：信念",
+      "help create：生み出す助けとなる"
+    ]
   },
   {
     "author": "William James",
     "en": "The greatest use of a life is to spend it on something that will outlast it.",
     "jp": "人生の最大の使い道は、自分の命より長く続くものに費やすことだ。",
-    "id": "q0503"
+    "id": "q0503",
+    "tips": [
+      "spend A on B：AをBに費やす",
+      "outlast：〜より長く存続する"
+    ]
   },
   {
     "author": "William James",
     "en": "I don't sing because I'm happy; I'm happy because I sing.",
     "jp": "幸せだから歌うのではない。歌うから幸せなのだ。",
-    "id": "q0504"
+    "id": "q0504",
+    "tips": [
+      "because：〜だから",
+      "原因と結果を逆転させた対比表現"
+    ]
   },
   {
     "author": "William James",
     "en": "The deepest principle in human nature is the craving to be appreciated.",
     "jp": "人間の本性における最も深い原理は、感謝されたいという欲求である。",
-    "id": "q0505"
+    "id": "q0505",
+    "tips": [
+      "human nature：人間の本性",
+      "craving：強い欲求",
+      "be appreciated：認められる、評価される"
+    ]
   },
   {
     "author": "William James",
     "en": "If you want a quality, act as if you already had it.",
     "jp": "その資質が欲しいなら、すでに持っているかのように振る舞え。",
-    "id": "q0506"
+    "id": "q0506",
+    "tips": [
+      "quality：ここでは資質",
+      "as if you already had it：すでにそれを備えているかのように（仮定法過去）"
+    ]
   },
   {
     "author": "William James",
     "en": "There is but one cause of human failure. And that is man's lack of faith in his true Self.",
     "jp": "人間の失敗の原因はただひとつ。本当の自分を信じないことだ。",
-    "id": "q0507"
+    "id": "q0507",
+    "tips": [
+      "but one：ただ一つの",
+      "lack of：〜の欠如",
+      "faith in：〜への信頼"
+    ]
   },
   {
     "author": "William James",
     "en": "Why should we think upon things that are lovely? Because thinking determines life.",
     "jp": "なぜ美しいものを考えるべきか。それは、考えが人生を決めるからだ。",
-    "id": "q0508"
+    "id": "q0508",
+    "tips": [
+      "think upon：〜について考える（やや古風な表現）",
+      "lovely：美しい、すてきな",
+      "determine：決定する"
+    ]
   },
   {
     "author": "William James",
     "en": "Belief creates the actual fact.",
     "jp": "信念が事実をつくる。",
-    "id": "q0509"
+    "id": "q0509",
+    "tips": [
+      "belief：信念",
+      "actual：現実の、実際の"
+    ]
   },
   {
     "author": "William James",
     "en": "The world we see that seems so insane is the result of a belief system that is not working.",
     "jp": "私たちが狂っているように見える世界は、機能していない信念体系の結果である。",
-    "id": "q0510"
+    "id": "q0510",
+    "tips": [
+      "insane：正気でない、常軌を逸した",
+      "the result of：〜の結果",
+      "belief system：信念体系"
+    ]
   },
   {
     "author": "William James",
     "en": "There is no more miserable human being than one in whom nothing is habitual but indecision.",
     "jp": "習慣が優柔不断しかない人間ほど惨めな存在はない。",
-    "id": "q0511"
+    "id": "q0511",
+    "tips": [
+      "miserable：みじめな",
+      "in whom：その人の中に（前置詞＋関係代名詞）",
+      "nothing ... but：〜以外には何もない"
+    ]
   },
   {
     "author": "William James",
     "en": "Success or failure depends more upon attitude than upon capacity.",
     "jp": "成功や失敗は能力より態度に左右される。",
-    "id": "q0512"
+    "id": "q0512",
+    "tips": [
+      "depend upon：〜に左右される",
+      "attitude：態度、心構え",
+      "capacity：能力"
+    ]
   },
   {
     "author": "William James",
     "en": "Human beings can alter their lives by altering their attitudes of mind.",
     "jp": "人間は心の態度を変えることで人生を変えられる。",
-    "id": "q0513"
+    "id": "q0513",
+    "tips": [
+      "human being：人間",
+      "alter：変える",
+      "attitude of mind：心の持ち方"
+    ]
   },
   {
     "author": "William James",
     "en": "A chain is no stronger than its weakest link, and life is after all a chain.",
     "jp": "鎖は最も弱い輪以上には強くなれず、人生もまた鎖である。",
-    "id": "q0514"
+    "id": "q0514",
+    "tips": [
+      "no stronger than：〜より強くはない",
+      "weakest link：最も弱い輪、弱点",
+      "after all：結局のところ"
+    ]
   },
   {
     "author": "William James",
     "en": "Truth is what works.",
     "jp": "真実とは、うまく機能するものだ。",
-    "id": "q0515"
+    "id": "q0515",
+    "tips": [
+      "truth：真理",
+      "what works：うまく機能するもの"
+    ]
   },
   {
     "author": "William James",
     "en": "Is life worth living? It all depends on the liver.",
     "jp": "人生は生きる価値があるか？すべては「肝心」（liver＝肝臓）次第だ。",
-    "id": "q0516"
+    "id": "q0516",
+    "tips": [
+      "be worth living：生きる価値がある",
+      "depend on：〜次第である",
+      "liver：生きる人（ここでは肝臓ではない）"
+    ]
   },
   {
     "author": "William James",
     "en": "Do something everyday for no other reason than you would rather not do it.",
     "jp": "やりたくないことを毎日ひとつやれ。",
-    "id": "q0517"
+    "id": "q0517",
+    "tips": [
+      "for no other reason than：〜という理由だけで",
+      "would rather not do：できれば〜したくない",
+      "everyday は通常形容詞。ここでは副詞句 every day（毎日）の意味"
+    ]
   },
   {
     "author": "William James",
     "en": "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
     "jp": "私の世代の最大の発見は、人間は態度を変えることで人生を変えられるということだ。",
-    "id": "q0518"
+    "id": "q0518",
+    "tips": [
+      "discovery：発見",
+      "generation：世代",
+      "by altering：変えることによって"
+    ]
   },
   {
     "author": "William James",
     "en": "It is our attitude at the beginning of a difficult task which will affect its successful outcome.",
     "jp": "難しい仕事の始まりにおける態度が、成功するかどうかを決める。",
-    "id": "q0519"
+    "id": "q0519",
+    "tips": [
+      "It is A which ...：〜するのはAだ（強調構文）",
+      "affect：影響を与える",
+      "outcome：結果"
+    ]
   },
   {
     "author": "William James",
     "en": "We don't laugh because we're happy - we're happy because we laugh.",
     "jp": "幸せだから笑うのではない。笑うから幸せなのだ。",
-    "id": "q0520"
+    "id": "q0520",
+    "tips": [
+      "because：〜だから",
+      "laugh：笑う",
+      "原因と結果を逆転させた対比表現"
+    ]
   },
   {
     "author": "William James",
