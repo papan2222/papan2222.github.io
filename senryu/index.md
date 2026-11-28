@@ -10,7 +10,7 @@ title: パンダの英語川柳
 <div class="cards">
 
 <div class="card" id="work-panda-children-soap-bubbles-sunset-garden">
-  <a class="image-link" href="/senryu/works/panda-children-soap-bubbles-sunset-garden/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-children-soap-bubbles-sunset-garden.jpg" alt="夕暮れの庭でシャボン玉を追うパンダと子どもたち, a panda and children playing with soap bubbles in a sunset garden" loading="lazy" decoding="async"></a>
+  <a class="image-link" href="/senryu/works/panda-children-soap-bubbles-sunset-garden/" aria-label="作品を個別表示"><img class="card-img" src="/images/senryu/panda-children-soap-bubbles-sunset-garden.jpg" alt="夕暮れの庭でシャボン玉を追うパンダと子どもたち, a panda and children playing with soap bubbles in a sunset garden" loading="lazy" decoding="async" data-preview-auto="1" srcset="/assets/previews/30a07bd6252e0ede12e87137-640.webp 640w, /assets/previews/30a07bd6252e0ede12e87137-1280.webp 1280w, /images/senryu/panda-children-soap-bubbles-sunset-garden.jpg 1448w" sizes="(max-width: 800px) 100vw, 800px"></a>
   <p class="poem">
 シャボン玉
 戻れぬ日々が
