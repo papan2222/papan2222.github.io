@@ -10851,181 +10851,324 @@
     "author": "R. W. Emerson",
     "en": "When we quarrel, how we wish we had been blameless.",
     "jp": "口論するとき、あの時非がなければと思うものだ。",
-    "id": "q1001"
+    "id": "q1001",
+    "tips": [
+      "quarrel：口論する",
+      "wish we had been：〜であったらよかったのに（過去への後悔）",
+      "blameless：非のない"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every burned book enlightens the world.",
     "jp": "焼かれた本は、世界を照らす。",
-    "id": "q1002"
+    "id": "q1002",
+    "tips": [
+      "burned book：焼かれた本",
+      "enlighten：啓蒙する、知識を与える（本の焼却と啓蒙を対比した逆説）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "If you would lift me up you must be on higher ground.",
     "jp": "私を引き上げたいなら、自分がより高い場所に立たねばならない。",
-    "id": "q1003"
+    "id": "q1003",
+    "tips": [
+      "lift someone up：人を引き上げる、励ます",
+      "would：ここでは意志を表す",
+      "higher ground：より高い場所（精神的な高みの比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every man supposes himself not to be fully understood or appreciated.",
     "jp": "人はみな、自分は十分に理解も評価もされていないと思っている。",
-    "id": "q1004"
+    "id": "q1004",
+    "tips": [
+      "suppose oneself to be：自分が〜であると思う",
+      "fully：十分に",
+      "appreciated：価値を認められた"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man's growth is seen in the successive choirs of his friends.",
     "jp": "人の成長は、友人の移り変わりの中に見える。",
-    "id": "q1005"
+    "id": "q1005",
+    "tips": [
+      "successive：次々と続く",
+      "choir：合唱団（ここでは友人たちの集まりの比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Mysticism is the mistake of an accidental and individual symbol for an universal one.",
     "jp": "神秘主義とは、偶然かつ個人的な象徴を普遍的なものと誤解することだ。",
-    "id": "q1006"
+    "id": "q1006",
+    "tips": [
+      "mysticism：神秘主義",
+      "mistake of A for B：AをBと取り違えること",
+      "an universal：現代の標準的な語法では a universal"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every actual State is corrupt. Good men must not obey laws too well.",
     "jp": "すべての現実の国家は腐敗している。善き人は法律を盲目的に守ってはならない。",
-    "id": "q1007"
+    "id": "q1007",
+    "tips": [
+      "actual State：現実に存在する国家",
+      "corrupt：腐敗した",
+      "obey laws too well：法律に従いすぎる（盲従への戒め）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "As we grow old, the beauty steals inward.",
     "jp": "歳を重ねるごとに、美は内面に宿るようになる。",
-    "id": "q1008"
+    "id": "q1008",
+    "tips": [
+      "grow old：年を取る",
+      "steal inward：ひそかに内面へ移っていく（steal は忍び寄るという意味）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every fact is related on one side to sensation, and, on the other, to morals. The game of thought is, on the appearance of one of these two sides, to find the other: given the upper, to find the under side.",
     "jp": "あらゆる事実は、一方で感覚に、もう一方で道徳に関わっている。思考の遊びとは、その片面が見えたときにもう一方を探すことだ。",
-    "id": "q1009"
+    "id": "q1009",
+    "tips": [
+      "sensation：感覚",
+      "morals：道徳",
+      "given the upper：上側が与えられたなら（given は条件を表す）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "There is a blessed necessity by which the interest of men is always driving them to the right; and, again, making all crime mean and ugly.",
     "jp": "人間の利益は必ず正しい方向へと導く必要性を持つが、同時にあらゆる罪を卑しく醜くする。",
-    "id": "q1010"
+    "id": "q1010",
+    "tips": [
+      "blessed necessity：幸いな必然性",
+      "drive someone to：人を〜へと駆り立てる",
+      "mean：ここでは卑劣な"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The best effort of a fine person is felt after we have left their presence.",
     "jp": "立派な人の本当の影響力は、その場を離れてからこそ感じられる。",
-    "id": "q1011"
+    "id": "q1011",
+    "tips": [
+      "fine person：立派な人物",
+      "be felt：感じ取られる",
+      "leave someone's presence：その人のそばを離れる"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Everything in Nature contains all the powers of Nature. Everything is made of one hidden stuff.",
     "jp": "自然のあらゆるものは、自然の全ての力を内包しており、一つの隠された物質からできている。",
-    "id": "q1012"
+    "id": "q1012",
+    "tips": [
+      "contain：内に含む",
+      "be made of：〜からできている",
+      "stuff：物質、素材"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Every man has his own courage, and is betrayed because he seeks in himself the courage of other persons.",
     "jp": "誰もが自分なりの勇気を持つが、他人の勇気を求めて自らを裏切ることがある。",
-    "id": "q1013"
+    "id": "q1013",
+    "tips": [
+      "one's own courage：その人自身の勇気",
+      "be betrayed：裏切られる、ここでは期待を裏切られること",
+      "seek in oneself：自分の内に探し求める"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "A man is the whole encyclopedia of facts.",
     "jp": "人は事実の全百科事典である。",
-    "id": "q1014"
+    "id": "q1014",
+    "tips": [
+      "encyclopedia：百科事典",
+      "the whole encyclopedia of facts：あらゆる事実を内包するものという人間の比喩"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Pictures must not be too picturesque.",
     "jp": "絵はあまりにも絵画的すぎてはいけない。",
-    "id": "q1015"
+    "id": "q1015",
+    "tips": [
+      "picturesque：絵になる、美しい",
+      "too：過度に（絵が絵になることを追求しすぎるという逆説）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "For every benefit you receive a tax is levied.",
     "jp": "受ける恩恵には、必ず代償が課される。",
-    "id": "q1016"
+    "id": "q1016",
+    "tips": [
+      "benefit：恩恵、利益",
+      "levy a tax：税を課す",
+      "for every：〜の一つ一つに対して（恩恵に伴う代償の比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "People that seem so glorious are all show; underneath they are like everyone else.",
     "jp": "華やかに見える人も、中身は誰と変わらない。",
-    "id": "q1017"
+    "id": "q1017",
+    "tips": [
+      "glorious：輝かしい、華々しい",
+      "be all show：見せかけにすぎない",
+      "underneath：表面の下では、内実は"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Wisdom has its root in goodness, not goodness its root in wisdom.",
     "jp": "知恵は善良さに根ざしており、その逆ではない。",
-    "id": "q1018"
+    "id": "q1018",
+    "tips": [
+      "have one's root in：〜に根ざしている",
+      "goodness：善良さ",
+      "not goodness its root in wisdom：goodness has its root in wisdom の has が省略された対比"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "I have no hostility to nature, but a child's love to it. I expand and live in the warm day like corn and melons.",
     "jp": "自然を敵視するのではなく、子どものように愛している。穀物やメロンのように、温かな日差しの中で広がり生きている。",
-    "id": "q1019"
+    "id": "q1019",
+    "tips": [
+      "hostility to：〜への敵意",
+      "expand：広がる、のびのびと成長する",
+      "corn：穀物、米国英語では主にトウモロコシ"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Nature is the incarnation of thought. The world is the mind precipitated.",
     "jp": "自然は思考の具現化であり、世界は心が凝縮されたものだ。",
-    "id": "q1020"
+    "id": "q1020",
+    "tips": [
+      "incarnation：具現化、化身",
+      "precipitated：析出した、具体的な形となった（心が物質世界として現れるという比喩）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Friendship, like the immortality of the soul, is too good to be believed.",
     "jp": "友情は、魂の不滅と同じく、信じがたいほど尊い。",
-    "id": "q1021"
+    "id": "q1021",
+    "tips": [
+      "immortality：不死、不滅",
+      "too ... to be believed：あまりに〜なので信じられない（受動態の不定詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The reason why men do not obey us, is because they see the mud at the bottom of our eye.",
     "jp": "人が私たちに従わないのは、私たちの目の奥に泥を見てしまうからだ。",
-    "id": "q1022"
+    "id": "q1022",
+    "tips": [
+      "obey：従う",
+      "mud：泥、濁り（ここでは内面的な不純さを示唆する比喩）",
+      "at the bottom of：〜の底に"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "It is the quality of the moment, not the number of days, or events, or of actors, that imports.",
     "jp": "大切なのは日数や出来事の数ではなく、その瞬間の質だ。",
-    "id": "q1023"
+    "id": "q1023",
+    "tips": [
+      "It is ... that：〜こそが…だ（強調構文）",
+      "quality：質",
+      "import：ここでは重要である、意味を持つ（動詞）"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Only as far as the masters of the world have called in nature to their aid, can they reach the height of magnificence. This is the meaning of their hanging-gardens, villas, garden-houses, islands, parks, and preserves.",
     "jp": "世界の支配者が自然の力を借りることでのみ、壮麗さの頂点に達することができる。空中庭園や別荘、公園などはその象徴だ。",
-    "id": "q1024"
+    "id": "q1024",
+    "tips": [
+      "only as far as：〜する範囲でのみ",
+      "call in ... to one's aid：〜を助けとして呼び入れる",
+      "magnificence：壮麗さ、豪華さ"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "I have thought a sufficient measure of civilization is the influence of good women.",
     "jp": "文明の十分な尺度は、善き女性の影響力だと私は考える。",
-    "id": "q1025"
+    "id": "q1025",
+    "tips": [
+      "sufficient：十分な",
+      "measure of：〜を測る尺度",
+      "influence：影響力"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "The wave of evil washes all our institutions alike.",
     "jp": "悪の波は、あらゆる制度を等しく洗い流す。",
-    "id": "q1026"
+    "id": "q1026",
+    "tips": [
+      "wave of evil：悪の波（悪が広がる様子の比喩）",
+      "institution：制度、組織",
+      "alike：同様に、等しく"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "People seem not to see that their opinion of the world is also a confession of character.",
     "jp": "自分の世界観は、自らの人間性の告白でもあることに、人は気づかない。",
-    "id": "q1027"
+    "id": "q1027",
+    "tips": [
+      "seem not to see：気づいていないようだ",
+      "opinion of：〜についての見解",
+      "confession of character：自らの人格を明かすこと"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "Happy is the hearing man; unhappy the speaking man.",
     "jp": "聞く人は幸せで、話す人は不幸せだ。",
-    "id": "q1028"
+    "id": "q1028",
+    "tips": [
+      "hearing man：耳を傾ける人",
+      "speaking man：話す人",
+      "Happy is ...：形容詞を文頭に置いた倒置表現"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "We see God face to face every hour, and know the savor of Nature.",
     "jp": "私たちは常に神と向き合い、自然の味わいを知っている。",
-    "id": "q1029"
+    "id": "q1029",
+    "tips": [
+      "face to face：直接、面と向かって",
+      "every hour：絶えず、毎時",
+      "savor：味わい、趣"
+    ]
   },
   {
     "author": "R. W. Emerson",
     "en": "It is my desire, in the office of a Christian minister, to do nothing which I cannot do with my whole heart. Having said this, I have said all.",
     "jp": "私は牧師として、心からできないことは何一つしたくない。これが全てだ。",
-    "id": "q1030"
+    "id": "q1030",
+    "tips": [
+      "in the office of：〜の職務において",
+      "minister：ここではキリスト教の聖職者",
+      "with one's whole heart：心から、全身全霊で"
+    ]
   },
   {
     "author": "R. W. Emerson",
